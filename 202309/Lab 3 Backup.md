@@ -112,5 +112,6 @@ The Self-Propagating XSS worm uses DOM's API to access the malicious code on the
 # Task 5
 ## Results and Screenshots
 ## Results and Screenshots
-![[Pasted image 20231120155203.png]]
-![[Pasted image 20231120155241.png]]
+![[Pasted image 20231120155203.png|650]]
+![[Pasted image 20231120155241.png|650]]
+![[Pasted image 20231120155305.png|650]]
