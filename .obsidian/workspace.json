@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "5ab1203687901f1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ac9e868c03563e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb41e64516e4262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS917_A2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7027bfd36aec18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS917_A2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e70c067a64e37de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS917_A2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9202ced4ce947cd1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-16 15.09.03.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a54bc46fe80d7141",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-16 15.09.03.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d72213922dc9a995",
+    "type": "split",
+    "children": [
+      {
+        "id": "c616382cc61ba64a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf8aadadb8b82695",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68a856cf4ab25806",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7c2b64d2e94a0d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42106831849cd0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2736f91dc5b45535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf67f32e1edffef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS917_A2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efe7e8c4fb9a751c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS917_A2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58ffe04d541d4aa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32424d181eb4e7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS917_A2.md"
+              }
+            }
+          },
+          {
+            "id": "837a2a8c79ad7518",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "7e70c067a64e37de",
+  "lastOpenFiles": [
+    "Lab 3.md",
+    "Lab 1.md",
+    "Lab 4.md",
+    "Yiqun_Yiming_CS412_A1.md",
+    "Pasted image 20231116102320.png",
+    "CS917_A2.md",
+    "Excalidraw/Drawing 2023-11-20 15.57.56.excalidraw.md",
+    "Pasted image 20231120155305.png",
+    "Pasted image 20231120155241.png",
+    "Pasted image 20231120155203.png",
+    "Pasted image 20231120154514.png",
+    "Pasted image 20231120154426.png",
+    "Pasted image 20231120154213.png",
+    "Pasted image 20231120154139.png",
+    "Pasted image 20231120135306.png",
+    "Pasted image 20231120135203.png",
+    "().md",
+    "Excalidraw/Drawing 2023-11-19 21.07.46.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-16 15.09.03.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-16 15.30.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-16 15.08.20.excalidraw.md",
+    "Excalidraw",
+    "未命名.canvas",
+    "Yiqun_Yiming_CS412_A1 (1).md"
+  ]
+}
