@@ -116,4 +116,4 @@ The Self-Propagating XSS worm uses DOM's API to access the malicious code on the
 ![[Pasted image 20231120155305.png|650]]
 ## Questions
 4. All the areas in the 32a website show OK, and it does not apply any CSP features. 
-    The 32b website only allows the website to load from the same source and the 
+    The areasThe 32b website only allows the website to load from the same source and the 
