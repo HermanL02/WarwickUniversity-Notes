@@ -9,4 +9,4 @@
 ## Results and Screenshots
 ![[Pasted image 20231120123001.png|650]]
 ## Explanation
-For the website input, it has a "Edit HTML" button which allows the users to input the HTML tags directly without sanitizing them. Therefore, if we pu`<script>alert('xss')</script>` 
+For the website input, it has a "Edit HTML" button which allows the users to input the HTML tags directly without sanitizing them. Therefore, if we put script tags inside the input box, the website will put everything into the database as the script tag, a`<script>alert('xss')</script>` 
