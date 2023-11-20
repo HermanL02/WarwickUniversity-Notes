@@ -35,4 +35,4 @@ Alice's account automatically sent the request: (When refresh, the button automa
 1. Question 1: Explain the purpose of (1) and (2), why are they needed? 
 Answer: The website contains countermeasures regarding the CSRF attack. The token and the timestamp are used as a verification of user's status. Therefore, the two lines are used to directly extract the CSRF token and timestamp to the variable to use them easily. 
 2.  If the Elgg application only provides the Rich Text Editor mode for the "About Me" field, i.e., you cannot switch to the Text mode (“Edit HTML”), can you still launch a successful attack?
-Answer: Yes. Usually, the Rich Text Editor contains we can still launch an attack by directly modifying the HTML tags. 
+Answer: Yes. Usually, the Rich Text Editor contains safety measures to clear the malicious input. They usually intend to delete HTML tags inside the user input. However, we we can still launch an attack by directly modifying the HTML tags. 
