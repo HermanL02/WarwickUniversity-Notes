@@ -67,5 +67,5 @@ Ajax.send(content);
 }
 </script>
 ```
-When accessing Samy's web page, we can see the request is automatically sent.
-![[Pasted image 20231120132828.png|650]]Alice's profile is changed automatically.
+When Alice is accessing Samy's web page, we can see the request is automatically sent.![[Pasted image 20231120132828.png|650]]Alice's profile is changed automatically.
+![[Pasted image 20231120132859.png]]
