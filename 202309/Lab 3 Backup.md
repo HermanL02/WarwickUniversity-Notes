@@ -71,3 +71,5 @@ Ajax.send(content);
 When Alice is accessing Samy's web page, we can see the request is automatically sent.![[Pasted image 20231120132828.png|650]]Alice's profile after visit Samy's Profile: 
 ![[Pasted image 20231120132859.png|650]]
 ## Questions
+3. Why do we need Line (1)? If we do not add this check, can the attack be successful? How come we do not have such a check in the add-friend attack (add_friend.js)? 
+Answer: The 
