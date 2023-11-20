@@ -14,6 +14,7 @@ Output:
 ## Explanation
 For the website input, it has a "Edit HTML" button which allows the users to input the HTML tags directly without sanitizing them. Therefore, if we put script tags inside the input box, the website would run the code between the script tags. When we click the save button, it will also put everything into the database as the script tag, which means every user who access this page will automatically run the not sanitized code. 
 # Task 2
+## Results and Screenshots
 Captured: 
 `http://www.seed-server.com/action/friends/add? friend=59&__elgg_ts=1700483477&__elgg_token=Blz_SXdDF3os1joxJsVvyw&_ _elgg_ts=1700483477&__elgg_token=Blz_SXdDF3os1joxJsVvyw`
 Script: 
