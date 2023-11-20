@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +170,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "32424d181eb4e7f6",
+  "active": "d9460a9309a3e42a",
   "lastOpenFiles": [
     "202309/Lab 3.md",
     "202309/Lab 4.md",
