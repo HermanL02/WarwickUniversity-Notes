@@ -107,8 +107,10 @@ Boby Profile (Before visit Alice's Profile):
 Boby Profile (After visit Alice's Profile):
 ![[Pasted image 20231120154514.png]]
 ## Explanation
-The Self-Propagating XSS worm uses DOM's API to access the malicious code on the tree, which is basically itself. In this case, the code use headerTag variable references the script header, jsCode references the code itself, and the tailTag variable to reconstruct the same content. Then, it extends the previous task's content to replicate itself to a new 
+The Self-Propagating XSS worm uses DOM's API to access the malicious code on the tree, which is basically itself. In this case, the code use headerTag variable references the script header, jsCode references the code itself, and the tailTag variable to reconstruct the same content. Then, it extends the previous task's content to replicate itself to anyone who visits this profile. 
 
 # Task 5
 ## Results and Screenshots
-## 
+## Results and Screenshots
+![[Pasted image 20231120155203.png]]
+![[Pasted image 20231120155241.png]]
