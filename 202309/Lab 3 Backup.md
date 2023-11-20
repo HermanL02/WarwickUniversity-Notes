@@ -107,7 +107,8 @@ Boby Profile (Before visit Alice's Profile):
 Boby Profile (After visit Alice's Profile):
 ![[Pasted image 20231120154514.png]]
 ## Explanation
-The headerTag variable references the script header. The  jsCode references the code it se
+The Self-Propagating XSS worm uses DOM to organize the 
+The headerTag variable references the script header. The jsCode references the code itself. 
 
 # Task 5
 ## Results and Screenshots
