@@ -37,8 +37,8 @@ Answer: The website contains countermeasures regarding the CSRF attack. The toke
 2.  If the Elgg application only provides the Rich Text Editor mode for the "About Me" field, i.e., you cannot switch to the Text mode (“Edit HTML”), can you still launch a successful attack?
 Answer: Yes. Usually, the Rich Text Editor contains safety measures to clear the malicious input. They usually intend to delete HTML tags inside the user input. However, we can directly modify the content in the input tag to avoid the additional verification. 
 # Task 3
-##
-
+## Results and Screenshots
+Input: 
 ```
 <script type="text/javascript">
 window.onload = function(){
@@ -67,3 +67,5 @@ Ajax.send(content);
 }
 </script>
 ```
+When accessing Samy's web page, we can see the request is automatically sent.
+![[Pasted image 20231120132828.png|650]]Alice's profile is changed automatically.
