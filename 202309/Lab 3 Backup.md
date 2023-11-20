@@ -72,4 +72,4 @@ When Alice is accessing Samy's web page, we can see the request is automatically
 ![[Pasted image 20231120132859.png|650]]
 ## Questions
 3. Why do we need Line (1)? If we do not add this check, can the attack be successful? How come we do not have such a check in the add-friend attack (add_friend.js)? 
-Answer: The 
+Answer: If we do not add this check, when Samy is checking his own page, the malicious code may copy the text "Samy is my hero" to his own profile, which will overwrite the malicious code. 
