@@ -23,11 +23,9 @@
             "id": "d9460a9309a3e42a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "202309/Lab 3 Backup.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20231120123001.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309/Lab 3 Backup.md",
+                "file": "Pasted image 20231120123001.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309/Lab 3 Backup.md",
+                "file": "Pasted image 20231120123001.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309/Lab 3 Backup.md"
+                "file": "Pasted image 20231120123001.png"
               }
             }
           },
@@ -170,11 +168,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d9460a9309a3e42a",
+  "active": "cf8aadadb8b82695",
   "lastOpenFiles": [
-    "202309/Lab 3.md",
-    "Pasted image 20231120123001.png",
     "202309/Lab 3 Backup.md",
+    "202309/Lab 3.md",
+    "Pasted image 20231120155305.png",
+    "Pasted image 20231120123001.png",
     "202309/Lab 1.md",
     "202309/Lab 4.md",
     "202309/CS917_A2.md",
@@ -185,7 +184,6 @@
     "202309",
     "Pasted image 20231116102320.png",
     "Excalidraw/Drawing 2023-11-20 15.57.56.excalidraw.md",
-    "Pasted image 20231120155305.png",
     "Pasted image 20231120155241.png",
     "Pasted image 20231120155203.png",
     "Pasted image 20231120154514.png",
