@@ -97,12 +97,16 @@ Ajax.send(content); }
 }
 ```
 Samy's Profile: (After put the worm)
-![[]]
+![[Pasted image 20231120154213.png]]
 Alice Profile (Before put the worm):
-![[306]]
+![[Pasted image 20231120135306.png]]
 Alice Profile (After visit Samy's Profile):
+![[Pasted image 20231120154139.png]]
 Boby Profile (Before visit Alice's Profile):
+![[Pasted image 20231120154426.png]]
 Boby Profile (After visit Alice's Profile):
+![[Pasted image 20231120154514.png]]
+## Questions
 
 # Task 5
 ## Results and Screenshots
