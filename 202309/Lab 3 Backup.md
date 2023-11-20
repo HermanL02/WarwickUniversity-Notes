@@ -97,6 +97,13 @@ Ajax.send(content); }
 }
 ```
 Samy's Profile: (After put the worm)
+![[]]
 Alice Profile (Before put the worm):
+![[306]]
 Alice Profile (After visit Samy's Profile):
 Boby Profile (Before visit Alice's Profile):
+Boby Profile (After visit Alice's Profile):
+
+# Task 5
+## Results and Screenshots
+## 
