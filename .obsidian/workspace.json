@@ -23,9 +23,11 @@
             "id": "d9460a9309a3e42a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20231120123001.png"
+                "file": "202309/Lab 3 Backup.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231120123001.png",
+                "file": "202309/Lab 3 Backup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231120123001.png",
+                "file": "202309/Lab 3 Backup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231120123001.png"
+                "file": "202309/Lab 3 Backup.md"
               }
             }
           },
@@ -168,12 +170,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cf8aadadb8b82695",
+  "active": "d9460a9309a3e42a",
   "lastOpenFiles": [
+    "Pasted image 20231120123001.png",
     "202309/Lab 3 Backup.md",
     "202309/Lab 3.md",
     "Pasted image 20231120155305.png",
-    "Pasted image 20231120123001.png",
     "202309/Lab 1.md",
     "202309/Lab 4.md",
     "202309/CS917_A2.md",
