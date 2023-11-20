@@ -117,4 +117,4 @@ The Self-Propagating XSS worm uses DOM's API to access the malicious code on the
 ## Questions
 4. All the areas in the 32a website show OK, and it does not apply any CSP features. 
     The area 4 and 6 in the 32b website works, and it only allows the website to load from the same source and the example70.com source. 
-    The area 1, 4 and 6 in the 32c website show OK, and i
+    The area 1, 4 and 6 in the 32c website show OK, and it only allows the website to load from the strategy listed in phpindex.php. In this PHP file, it shows that this website only allows self, 111-1
