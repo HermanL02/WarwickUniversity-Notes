@@ -107,8 +107,7 @@ Boby Profile (Before visit Alice's Profile):
 Boby Profile (After visit Alice's Profile):
 ![[Pasted image 20231120154514.png]]
 ## Explanation
-The Self-Propagating XSS worm uses DOM to organize the 
-The headerTag variable references the script header. The jsCode references the code itself. 
+The Self-Propagating XSS worm uses DOM's API to access the malicious code on the tree, which is basically itself. In this case, the code use headerTag variable references the script header. The jsCode references the code itself. 
 
 # Task 5
 ## Results and Screenshots
