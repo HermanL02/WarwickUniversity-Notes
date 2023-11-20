@@ -7,6 +7,11 @@
 3. Content Security Policy: This is a method to control the script usage of the files. For example, we can only allow the website use the same source script. We can also restrict the inline script with nonces to prevent users from using unknown source scripts. 
 # Task 1
 ## Results and Screenshots
+Input: 
+`<script>alert('xss')</script>` 
+Output: 
 ![[Pasted image 20231120123001.png|650]]
 ## Explanation
-For the website input, it has a "Edit HTML" button which allows the users to input the HTML tags directly without sanitizing them. Therefore, if we put script tags inside the input box, the website would run the code between the script tags. When we click the save button, it will put everything into the database as the script tag. 
+For the website input, it has a "Edit HTML" button which allows the users to input the HTML tags directly without sanitizing them. Therefore, if we put script tags inside the input box, the website would run the code between the script tags. When we click the save button, it will also put everything into the database as the script tag, which means every user who access this page will automatically run the not sanitized code. 
+# Task 2
+Captured 
