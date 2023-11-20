@@ -33,4 +33,5 @@ Alice's account automatically sent the request: (When refresh, the button automa
 ![[Pasted image 20231120125238.png|650]]
 ## Questions
 1. Question 1: Explain the purpose of (1) and (2), why are they needed? 
-Answer: The website contains countermeasures regarding the CSRF attack. The token and the timestamp are used
+Answer: The website contains countermeasures regarding the CSRF attack. The token and the timestamp are used as a verification of user's status. Therefore, the two lines are used to directly extract the CSRF token and timestamp to the variable to use them easily. 
+2. 
