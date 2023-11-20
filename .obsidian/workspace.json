@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309/Lab 3.md",
+                "file": "202309/Lab 1.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9460a9309a3e42a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202309/Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309/Lab 3.md",
+                "file": "202309/Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309/Lab 3.md",
+                "file": "202309/Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309/Lab 3.md"
+                "file": "202309/Lab.md"
               }
             }
           },
@@ -157,9 +170,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e2a97ea2a25a51d0",
+  "active": "d9460a9309a3e42a",
   "lastOpenFiles": [
     "202309/Lab 1.md",
+    "202309/Lab.md",
     "202309/Lab 3.md",
     "202309/Lab 4.md",
     "202309/CS917_A2.md",
