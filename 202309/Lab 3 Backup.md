@@ -30,3 +30,4 @@ Ajax.send();
 </script>
 ```
 Alice's account automatically sent the request: (When refresh, the button automatically changed from "Add Friend" to "Remove Friend")
+![[523]]
