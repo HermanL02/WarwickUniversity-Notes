@@ -32,4 +32,5 @@ Ajax.send();
 Alice's account automatically sent the request: (When refresh, the button automatically changed from "Add Friend" to "Remove Friend")
 ![[Pasted image 20231120125238.png|650]]
 ## Questions
-1. Question 1: Explain the purpose of (1) and (2), why are they needed? T
+1. Question 1: Explain the purpose of (1) and (2), why are they needed? 
+Answer: The website contains countermeasures regarding the CSRF attack. The token and the timestamp are used
