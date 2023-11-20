@@ -1,4 +1,3 @@
-
 # Authors
 - Yiming Kao (yiming.kao@warwick.ac.uk)
 - Herman Liang 5526872 (yiqun.liang@warwick.ac.uk)

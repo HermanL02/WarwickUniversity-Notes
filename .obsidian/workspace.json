@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "29ac9e868c03563e",
+        "id": "d84f3b209dc01c91",
         "type": "tabs",
         "children": [
           {
-            "id": "efb41e64516e4262",
+            "id": "e2a97ea2a25a51d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS917_A2.md",
+                "file": "202309/Lab 3.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b7027bfd36aec18d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS917_A2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e70c067a64e37de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS917_A2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9202ced4ce947cd1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-16 15.09.03.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a54bc46fe80d7141",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-16 15.09.03.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS917_A2.md",
+                "file": "202309/Lab 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS917_A2.md",
+                "file": "202309/Lab 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS917_A2.md"
+                "file": "202309/Lab 3.md"
               }
             }
           },
@@ -202,24 +157,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7e70c067a64e37de",
+  "active": "e2a97ea2a25a51d0",
   "lastOpenFiles": [
-    "Lab 3.md",
-    "Lab 1.md",
-    "Lab 4.md",
-    "Yiqun_Yiming_CS412_A1.md",
+    "202309/Lab 1.md",
+    "202309/Lab 3.md",
+    "202309/Lab 4.md",
+    "202309/CS917_A2.md",
+    "Pasted image 20231120123001.png",
+    "Pasted image 20231119210931.png",
+    "Pasted image 20231120125238.png",
+    "Pasted Image 20231119210750_066.png",
+    "202309/Yiqun_Yiming_CS412_A1.md",
+    "202309",
     "Pasted image 20231116102320.png",
-    "CS917_A2.md",
     "Excalidraw/Drawing 2023-11-20 15.57.56.excalidraw.md",
     "Pasted image 20231120155305.png",
     "Pasted image 20231120155241.png",
     "Pasted image 20231120155203.png",
     "Pasted image 20231120154514.png",
     "Pasted image 20231120154426.png",
-    "Pasted image 20231120154213.png",
-    "Pasted image 20231120154139.png",
-    "Pasted image 20231120135306.png",
-    "Pasted image 20231120135203.png",
     "().md",
     "Excalidraw/Drawing 2023-11-19 21.07.46.excalidraw.md",
     "Excalidraw/Drawing 2023-11-16 15.09.03.excalidraw.md",
