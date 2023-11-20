@@ -119,3 +119,4 @@ The Self-Propagating XSS worm uses DOM's API to access the malicious code on the
     The area 4 and 6 in the 32b website works, and it only allows the website to load from the same source and the example70.com source. 
     The area 1, 4 and 6 in the 32c website show OK, and it only allows the website to load from the strategy listed in phpindex.php. In this PHP file, it shows that this website can only load resources from self, 111-111-111 nonce and example70.com.
 5. ```# Purpose: Setting CSP policies in Apache configuration <VirtualHost *:80> DocumentRoot /var/www/csp ServerName www.example32b.com DirectoryIndex index.html Header set Content-Security-Policy " \ default-src 'self'; \ script-src 'self' *.example70.com *.example60.com\ " </VirtualHost>```
+   To allow area 5, which is the example60.com, be loaded, we need to modify the security policy to 
