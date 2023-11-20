@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42106831849cd0f0",
@@ -173,6 +172,7 @@
   },
   "active": "d9460a9309a3e42a",
   "lastOpenFiles": [
+    "Pasted image 20231120222736.png",
     "202309/Lab 3.md",
     "202309/Lab 3 Backup.md",
     "202309/Lab 4.md",
