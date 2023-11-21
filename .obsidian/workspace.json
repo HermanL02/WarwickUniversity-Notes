@@ -37,7 +37,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw 1 1.md"
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw 1 1.md",
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw 1 1.md",
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw 1 1.md"
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md"
               }
             }
           },
@@ -181,11 +181,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cf8aadadb8b82695",
+  "active": "c153265abf86a98d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw 1.md",
-    "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw 1 1.md",
+    "Excalidraw/Drawing 2023-11-20 15.57.56.excalidraw.md",
     "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw 1 1 1.md",
+    "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw 1 1.md",
+    "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw 1.md",
     "202309/CS917_A2.md",
     "Pasted image 20231121142816.png",
     "Pasted image 20231121142757.png",
@@ -203,7 +205,6 @@
     "202309/Lab 3.md",
     "Excalidraw/Drawing 2023-11-19 21.07.46.excalidraw.md",
     "Excalidraw/Drawing 2023-11-16 15.30.36.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-20 15.57.56.excalidraw.md",
     "Pasted image 20231120222736.png",
     "202309",
     "().md",
