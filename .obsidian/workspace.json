@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c153265abf86a98d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42106831849cd0f0",
@@ -99,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309/CS917_A2.md",
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309/CS917_A2.md",
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309/CS917_A2.md"
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md"
               }
             }
           },
@@ -171,14 +180,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d9460a9309a3e42a",
+  "active": "c153265abf86a98d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-19 21.07.46.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-16 15.30.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-16 15.09.03.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-20 15.57.56.excalidraw.md",
+    "202309/CS917_A2.md",
     "202309/Yiqun_Yiming_CS412_A1.md",
     "202309/Lab 4.md",
     "202309/Lab 3.md",
     "202309/Lab 3.md",
     "Pasted image 20231120222736.png",
-    "202309/CS917_A2.md",
     "Pasted image 20231120132828.png",
     "Pasted image 20231120125238.png",
     "Pasted image 20231120123001.png",
@@ -189,12 +203,8 @@
     "202309/Lab 1.md",
     "202309",
     "Pasted image 20231116102320.png",
-    "Excalidraw/Drawing 2023-11-20 15.57.56.excalidraw.md",
     "Pasted image 20231120155241.png",
     "().md",
-    "Excalidraw/Drawing 2023-11-19 21.07.46.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-16 15.09.03.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-16 15.30.36.excalidraw.md",
     "Excalidraw/Drawing 2023-11-16 15.08.20.excalidraw.md",
     "Excalidraw",
     "未命名.canvas",
