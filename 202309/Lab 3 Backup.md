@@ -122,3 +122,12 @@ The Self-Propagating XSS worm uses DOM's API to access the malicious code on the
    To allow area 5, which is the example60.com, be loaded, we need to modify the security policy to allow the example60.com be one of the sources. 
    ![[Pasted image 20231120222736.png|650]]
    6. 
+   ``` <?php
+  $cspheader = "Content-Security-Policy:".
+               "default-src 'self';".
+               "script-src 'self' 'unsafe-inline' *.example60.com *.example70.com;".
+               "";
+  header($cspheader);
+?>
+<?php include 'index.html'; ?>
+```
