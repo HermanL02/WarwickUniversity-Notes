@@ -35,9 +35,9 @@
             "id": "c153265abf86a98d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.png"
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.png",
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.png",
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.png"
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   "active": "c153265abf86a98d",
   "lastOpenFiles": [
     "202309/CS917_A2.md",
-    "202309/Yiqun_Yiming_CS412_A1.md",
     "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.png",
+    "202309/Yiqun_Yiming_CS412_A1.md",
     "Pasted image 20231116102320.png",
     "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
     "Pasted Image 20231121141309_336.png",
