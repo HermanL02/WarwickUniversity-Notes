@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42106831849cd0f0",
@@ -167,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,9 +184,10 @@
   },
   "active": "c153265abf86a98d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw 1.md",
+    "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
     "202309/CS917_A2.md",
     "Pasted image 20231121142816.png",
-    "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
     "Pasted image 20231121142757.png",
     "202309/Yiqun_Yiming_CS412_A1.md",
     "Pasted image 20231121142732.png",
