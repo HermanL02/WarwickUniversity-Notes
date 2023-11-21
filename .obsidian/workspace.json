@@ -47,9 +47,11 @@
             "id": "111b880832bd02e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw 1 1 1 1 1.md"
+                "file": "202309/CS917_A2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 438.5,
+    "collapsed": true
   },
   "right": {
     "id": "42106831849cd0f0",
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw 1 1 1 1 1.md",
+                "file": "202309/CS917_A2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw 1 1 1 1 1.md",
+                "file": "202309/CS917_A2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw 1 1 1 1 1.md"
+                "file": "202309/CS917_A2.md"
               }
             }
           },
@@ -195,8 +198,8 @@
   },
   "active": "111b880832bd02e1",
   "lastOpenFiles": [
-    "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw 1 1 1 1.md",
     "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw 1 1 1 1 1.md",
+    "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw 1 1 1 1.md",
     "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw 1 1 1.md",
     "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw 1 1.md",
     "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw 1.md",
