@@ -35,9 +35,9 @@
             "id": "c153265abf86a98d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.png"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.png"
               }
             }
           },
@@ -182,8 +182,10 @@
   },
   "active": "c153265abf86a98d",
   "lastOpenFiles": [
-    "202309/Yiqun_Yiming_CS412_A1.md",
     "202309/CS917_A2.md",
+    "202309/Yiqun_Yiming_CS412_A1.md",
+    "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.png",
+    "Pasted image 20231116102320.png",
     "Excalidraw/Drawing 2023-11-21 14.11.59.excalidraw.md",
     "Pasted Image 20231121141309_336.png",
     "202309/Lab 4.md",
@@ -200,9 +202,7 @@
     "Pasted image 20231120132859.png",
     "Pasted image 20231119210931.png",
     "Pasted Image 20231119210750_066.png",
-    "Pasted image 20231120155305.png",
     "202309",
-    "Pasted image 20231116102320.png",
     "().md",
     "Excalidraw/Drawing 2023-11-16 15.08.20.excalidraw.md",
     "Excalidraw",
