@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab 2.md",
+                "file": "202309/CS917_A2.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab 2.md",
+                "file": "202309/CS917_A2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab 2.md",
+                "file": "202309/CS917_A2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab 2.md"
+                "file": "202309/CS917_A2.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "f63f9c8de723d4bf",
   "lastOpenFiles": [
-    "202309/Lab 1.md",
     "Lab 2.md",
+    "202309/Lab 1.md",
     "202309/Lab 4.md",
     "202309/Lab 3.md",
     "202309/CS917_A2.md",
