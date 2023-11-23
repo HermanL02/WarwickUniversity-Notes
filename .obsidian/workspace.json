@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309/CS917_A2.md",
+                "file": "202309/Lab 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309/CS917_A2.md",
+                "file": "202309/Lab 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309/CS917_A2.md",
+                "file": "202309/Lab 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309/CS917_A2.md"
+                "file": "202309/Lab 2.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "5e7690455cf8bd24",
   "lastOpenFiles": [
+    "202309/CS917_A2.md",
     "202309/Lab 2.md",
     "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.md",
     "202309/Lab 3.md",
@@ -227,7 +228,6 @@
     "Excalidraw/Labs/Drawing 2023-11-20 15.57.56.excalidraw.md",
     "Excalidraw/Labs/Drawing 2023-11-16 15.30.36.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 21.07.46.excalidraw.md",
-    "202309/CS917_A2.md",
     "202309/Lab 4.md",
     "202309/Lab 1.md",
     "Pasted image 20231116102320.png",
