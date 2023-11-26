@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309/CS917_A2.md",
+                "file": "202309/Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "right": {
     "id": "42106831849cd0f0",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309/CS917_A2.md",
+                "file": "202309/Essay.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309/CS917_A2.md",
+                "file": "202309/Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309/CS917_A2.md"
+                "file": "202309/Essay.md"
               }
             }
           },
@@ -210,8 +209,9 @@
   },
   "active": "5e7690455cf8bd24",
   "lastOpenFiles": [
-    "Excalidraw/Labs/Drawing 2023-11-16 15.09.03.excalidraw.md",
     "202309/CS917_A2.md",
+    "202309/Essay.md",
+    "Excalidraw/Labs/Drawing 2023-11-16 15.09.03.excalidraw.md",
     "Excalidraw/Labs/Drawing 2023-11-16 15.30.36.excalidraw.md",
     "程柏淳/Visa.md",
     "程柏淳",
@@ -250,7 +250,6 @@
     "Pasted Image 20231121141309_336.png",
     "Pasted image 20231120222736.png",
     "202309",
-    "().md",
     "Excalidraw",
     "未命名.canvas"
   ]
