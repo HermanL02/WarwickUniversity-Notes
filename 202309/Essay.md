@@ -1,2 +1,3 @@
-Intro
-In the midst of the digital revolution, network security is becoming a crucial factor for data integrity, confidentiality and availability. As the network attacks grow in both frequency and complexity, the importance to enforce security protocol to protect the data transmission has become increasingly apparent. In this context, TLS, as the base of protecting network transmission, played an pivotal role. In this part, I will explain the background of why I selecting this topic, the reason why I choose the reference books, and the motivation of my future works. 
+## Intro
+In the midst of the digital revolution, network security is becoming a crucial factor for data integrity, confidentiality and availability. As the network attacks grow in both frequency and complexity, the importance to enforce security protocol to protect the data transmission has become increasingly apparent. In this context, TLS, as the base of protecting network transmission, played an pivotal role. 
+TLS 1.2 is a widely used standard in the produuuction standard, 
