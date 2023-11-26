@@ -9,4 +9,4 @@ This essay will deeply explore and analyse the design, security, performance and
 
 ## Source Choosing
 
-By reading "The Era of TLS 1.3: Measuring Deployment and Use with Active and Passive Methods". It uses the method of active scanning, passive monitoring
+By reading "The Era of TLS 1.3: Measuring Deployment and Use with Active and Passive Methods". It uses the method of active scanning and passive monitoring method to measure the use and deployment of TLS 1.3. 
