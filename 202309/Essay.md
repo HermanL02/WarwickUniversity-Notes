@@ -5,5 +5,8 @@ TLS 1.2 is a widely used standard in the production standard, its design reflect
 
 Despite the theoretical and practical superiority of TLS 1.3, it is still a challenge for websites to deploy it in production. The challenges including the combability with current system, the cost and complexity to upgrade, and the understanding of new features. Since these reasons, TLS 1.2 is still widely used, although we know the security drawbacks.  
 
-This essay will deeply explore and analyse the design, security, performance and the applications in the real world, and will do critical analysis to the current documents. 
+This essay will deeply explore and analyse the design, security, performance and the applications in the real world, and will do critical analysis to the leading documents. 
+
+
+
 
