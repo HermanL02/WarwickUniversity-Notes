@@ -56,16 +56,6 @@
             }
           },
           {
-            "id": "f63f9c8de723d4bf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Labs/Drawing 2023-11-16 15.09.03.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "5e7690455cf8bd24",
             "type": "leaf",
             "state": {
@@ -78,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,9 +210,9 @@
   },
   "active": "5e7690455cf8bd24",
   "lastOpenFiles": [
-    "Excalidraw/Labs/Drawing 2023-11-16 15.30.36.excalidraw.md",
     "Excalidraw/Labs/Drawing 2023-11-16 15.09.03.excalidraw.md",
     "202309/CS917_A2.md",
+    "Excalidraw/Labs/Drawing 2023-11-16 15.30.36.excalidraw.md",
     "程柏淳/Visa.md",
     "程柏淳",
     "202309/Lab 5.md",
