@@ -1,3 +1,3 @@
 ## Intro
 In the midst of the digital revolution, network security is becoming a crucial factor for data integrity, confidentiality and availability. As the network attacks grow in both frequency and complexity, the importance to enforce security protocol to protect the data transmission has become increasingly apparent. In this context, TLS, as the base of protecting network transmission, played an pivotal role. 
-TLS 1.2 is a widely used standard in the production standard, its design reflects the network security environment's requirement and challenge in the current stage. However, as the time passing by and the chang
+TLS 1.2 is a widely used standard in the production standard, its design reflects the network security environment's requirement and challenge in the current stage. However, as the time passing by and the changing of the threaten models, TLS 1.2 has explosed many security flaw and the 
