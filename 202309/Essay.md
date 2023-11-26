@@ -1,2 +1,2 @@
 Intro
-During the digital revolution, network security is becoming the key for data integrity, confidentiality and availability. As the frequency and complexity of network attacks increasing significantly, it is gradually becoming important to 
+During the digital revolution, network security is becoming the key for data integrity, confidentiality and availability. As the frequency and complexity of network attacks increasing significantly, it is gradually becoming important to enforce the security protocol to protect the data transmission. In this context, TLS as the base stone 
