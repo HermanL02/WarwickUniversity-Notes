@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309/Essay.md",
+                "file": "202309/CS917_A2.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309/Essay.md",
+                "file": "202309/CS917_A2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309/Essay.md",
+                "file": "202309/CS917_A2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309/Essay.md"
+                "file": "202309/CS917_A2.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "5e7690455cf8bd24",
   "lastOpenFiles": [
-    "202309/CS917_A2.md",
     "202309/Essay.md",
+    "202309/CS917_A2.md",
     "Excalidraw/Labs/Drawing 2023-11-16 15.09.03.excalidraw.md",
     "Excalidraw/Labs/Drawing 2023-11-16 15.30.36.excalidraw.md",
     "程柏淳/Visa.md",
