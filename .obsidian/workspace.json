@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309/Lab 5.md",
+                "file": "202309/Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309/Lab 5.md",
+                "file": "202309/Essay.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309/Lab 5.md",
+                "file": "202309/Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309/Lab 5.md"
+                "file": "202309/Essay.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "5e7690455cf8bd24",
   "lastOpenFiles": [
-    "202309/Lab 4.md",
     "202309/Lab 5.md",
+    "202309/Lab 4.md",
     "202309/Yiqun_Yiming_CS412_A1.md",
     "202309/CS917_A2.md",
     "202309/Essay.md",
