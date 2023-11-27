@@ -13,4 +13,4 @@ The thesis, "The Era of TLS 1.3: Measuring Deployment and Use with Active and Pa
 
 During their investigation, they found that TLS does use the functions we mentioned above. However, the deploy of TLS 1.3 is too concentrated, which means all the connections are stopped at some specific providers. It means that the servers are not widely spread. 
 
-It generally combines different data sources and methods to provide a broad view of TLS 1.3 environment. However, it also reveals that there are some limitations. Their research are regional limited. The 
+It generally combines different data sources and methods to provide a broad view of TLS 1.3 environment. However, it also reveals that there are some limitations. Their research are regional limited. The passive sniffing only concentrated in North America and Australia. It does not consider other regions as well as other language speakers. Besides, the data collection are facing some limitati
