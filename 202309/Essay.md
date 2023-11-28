@@ -28,4 +28,4 @@ In Tracking the deployment of TLS 1.3 on the Web: A story of experimentation and
 
 In Return of Version Downgrade Attack in the Era of TLS 1.3, it investigates the downgrade attacks, which is an attack that attacker force the conversation to use low, not secure TLS version. It checks five main operating systems and ten main web browsers to test the vulnerabilities during the TLS implementation. It finally induct to conclusion that there is vulnerabilities. 
 
-The article has a very detailed evidence based on all mainly used operating systems and web browsers, it increased the universality of the research. The article has original observations, it provides the first taxonomy of version downgrade, which is a meaningful step for 
+The article has a very detailed evidence based on all mainly used operating systems and web browsers, it increased the universality of the research. The article has original observations, it provides the first taxonomy of version downgrade, which is a meaningful step for real world protection mechanism. The author reported the related question to the influenced company and ta
