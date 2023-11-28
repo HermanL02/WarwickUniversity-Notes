@@ -1,8 +1,3 @@
-## Intro
-![GPT](https://files.oaiusercontent.com/file-i9IUxiJyRubSIOooY5XyfcmP?se=2123-10-13T01%3A11%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dgpt-4.jpg&sig=ZZP%2B7IWlgVpHrIdhD1C9wZqIvEPkTLfMIjx4PFezhfE%3D)
-
-ChatGPT Classic
-
 In the midst of the digital revolution, network security is becoming increasingly crucial for ensuring data integrity, confidentiality, and availability. As network attacks escalate in both frequency and complexity, the urgency of implementing robust security protocols to safeguard data transmission is becoming ever more evident. In this scenario, TLS (Transport Layer Security), as the backbone of network transmission protection, plays a vital role.
 
 TLS 1.2, a widely adopted standard in production environments, reflects the requirements and challenges of the current network security landscape. However, as time progresses, the evolution of threat models and the advancement of computational capabilities have revealed numerous security flaws and performance limitations in TLS 1.2. These challenges have spurred the development of TLS 1.3, which not only enhances security standards but also boosts efficiency and performance. A notable feature of TLS 1.3 is its simplified handshake process and the use of stronger cryptographic primitives, which together provide a heightened level of security and improved performance.
