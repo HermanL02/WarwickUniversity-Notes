@@ -38,6 +38,6 @@ However, there are areas that require further improvement. The article predomina
 
 In Tracking the deployment of TLS 1.3 on the Web: A story of experimentation and centralization, it testifies the TLS's usage through multiple observation points. It covers the safer features of TLS 1.3 and emphasizes the specific participator that leads the TLS 1.3 revolution including Cloudflare. 
 
-The advantage of this essay is that it covers multiple beginnings to investigate TLS 1.3, including the mobile and website data sets. It also gives a general view about how influential leading companies played a role in web protocol's development. 
+The advantage of this essay is that it covers multiple observation points to investigate TLS 1.3, including the mobile and website data sets. It also gives a general view about how influential leading companies played a role in web protocol's development. 
 
 However, it cannot  
