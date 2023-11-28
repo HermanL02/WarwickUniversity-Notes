@@ -1,11 +1,11 @@
 ## Intro
-In the midst of the digital revolution, network security is becoming a crucial factor for data integrity, confidentiality and availability. As the network attacks grow in both frequency and complexity, the importance to enforce security protocol to protect the data transmission has become increasingly apparent. In this context, TLS, as the base of protecting network transmission, played an pivotal role. 
+In the midst of the digital revolution, network security is becoming a critical element for ensuring data integrity, confidentiality, and availability. As network attacks increase in both frequency and complexity, the need to enforce security protocols to safeguard data transmission is becoming more evident. In this scenario, TLS, as the foundation of network transmission protection, has played a crucial role.
 
-TLS 1.2 is a widely used standard in the production standard, its design reflects the network security environment's requirement and challenge in the current stage. However, as the time passing by, the changing of the threaten models, and the growing of computing limit, TLS 1.2 has exposed many security flaw and the performance limitation. These challenges promotes the creation of TLS1.3. It not only strengthened security standard, but also improved efficiency and performance. One of the feature is that TLS 1.3 used simplified handshake process and stronger cryptographic primitives to provide enhanced security level and improved performance. 
+TLS 1.2 is a broadly adopted standard in production environments, reflecting the requirements and challenges of the contemporary network security landscape. However, over time, the evolution of threat models and the advancement of computational capabilities have revealed numerous vulnerabilities and performance limitations in TLS 1.2. These challenges led to the development of TLS 1.3. It not only bolstered the security standards but also enhanced efficiency and performance. A key feature of TLS 1.3 is its streamlined handshake process and the use of robust cryptographic primitives to offer higher security and improved performance.
 
-Despite the theoretical and practical superiority of TLS 1.3, it is still a challenge for websites to deploy it in production. The challenges including the combability with current system, the cost and complexity to upgrade, and the understanding of new features. Since these reasons, TLS 1.2 is still widely used, although we know the security drawbacks.  
+Despite the theoretical and practical advantages of TLS 1.3, its deployment in production remains challenging for many websites. These challenges include compatibility with existing systems, the cost and intricacy of upgrades, and the need for understanding new features. For these reasons, TLS 1.2 remains prevalent, despite its recognized security limitations.
 
-This essay will deeply explore and analyse the design, security, performance and the applications in the real world, and will do critical analysis to the leading documents. 
+This essay will select the most influential sources, critically review their k
 
 ### Source Choosing
 
