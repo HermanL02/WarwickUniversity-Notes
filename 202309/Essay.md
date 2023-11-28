@@ -1,15 +1,11 @@
 ## Intro
-![GPT](https://files.oaiusercontent.com/file-i9IUxiJyRubSIOooY5XyfcmP?se=2123-10-13T01%3A11%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dgpt-4.jpg&sig=ZZP%2B7IWlgVpHrIdhD1C9wZqIvEPkTLfMIjx4PFezhfE%3D)
+In the midst of the digital revolution, network security is becoming a crucial factor for data integrity, confidentiality and availability. As the network attacks grow in both frequency and complexity, the importance to enforce security protocol to protect the data transmission has become increasingly apparent. In this context, TLS, as the base of protecting network transmission, played an pivotal role. 
 
-ChatGPT Classic
+TLS 1.2 is a widely used standard in the production standard, its design reflects the network security environment's requirement and challenge in the current stage. However, as the time passing by, the changing of the threaten models, and the growing of computing limit, TLS 1.2 has exposed many security flaw and the performance limitation. These challenges promotes the creation of TLS1.3. It not only strengthened security standard, but also improved efficiency and performance. One of the feature is that TLS 1.3 used simplified handshake process and stronger cryptographic primitives to provide enhanced security level and improved performance. 
 
-In the midst of the digital revolution, network security is becoming increasingly crucial for ensuring data integrity, confidentiality, and availability. As network attacks escalate in both frequency and complexity, the urgency of implementing robust security protocols to safeguard data transmission is becoming ever more evident. In this scenario, TLS (Transport Layer Security), as the backbone of network transmission protection, plays a vital role.
+Despite the theoretical and practical superiority of TLS 1.3, it is still a challenge for websites to deploy it in production. The challenges including the combability with current system, the cost and complexity to upgrade, and the understanding of new features. Since these reasons, TLS 1.2 is still widely used, although we know the security drawbacks.  
 
-TLS 1.2, a widely adopted standard in production environments, reflects the requirements and challenges of the current network security landscape. However, as time progresses, the evolution of threat models and the advancement of computational capabilities have revealed numerous security flaws and performance limitations in TLS 1.2. These challenges have spurred the development of TLS 1.3, which not only enhances security standards but also boosts efficiency and performance. A notable feature of TLS 1.3 is its simplified handshake process and the use of stronger cryptographic primitives, which together provide a heightened level of security and improved performance.
-
-Despite the theoretical and practical superiority of TLS 1.3, its deployment in production environments remains challenging for many websites. These challenges include compatibility issues with existing systems, the cost and complexity of upgrading, and the need to understand and integrate new features. For these reasons, TLS 1.2 continues to be widely used, despite its known security shortcomings.
-
-This essay will delve into a thorough exploration and analysis of the design, security, performance, and real-world applications of TLS, conducting a critical review of leading documents and studies in the field.
+This essay will deeply explore and analyse the design, security, performance and the applications in the real world, and will do critical analysis to the leading documents. 
 
 ### Source Choosing
 
