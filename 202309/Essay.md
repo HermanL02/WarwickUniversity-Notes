@@ -4,7 +4,7 @@ TLS 1.2, a widely adopted standard in production environments, reflects the requ
 
 Despite the theoretical and practical superiority of TLS 1.3, its deployment in production environments remains challenging for many websites. These challenges include compatibility issues with existing systems, the cost and complexity of upgrading, and the need to understand and integrate new features. For these reasons, TLS 1.2 continues to be widely used, despite its known security shortcomings.
 
-This essay will delve into a thorough exploration and analysis of the design, security, performance, and real-world applications of TLS, conducting a critical review of leading documents and studies in the field.
+This essay will delve into a thorough exploration and analysis of the design, security, performance, and real-world applications of TLS, conducting a critical review of leading documents and studies in the field. 
 
 ### Source Choosing
 
