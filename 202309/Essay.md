@@ -11,6 +11,8 @@ This essay will deeply explore and analyse the design, security, performance and
 
 I would like to choose several sources. 
 
+During the analyze, I will especially concentrate on 
+
 
 ## Analysis
 
