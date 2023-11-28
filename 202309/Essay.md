@@ -9,6 +9,8 @@ This essay will deeply explore and analyse the design, security, performance and
 
 ## Source Choosing
 
+In the Introduction to the Special Issue on TLS 1.3, which is a Journal of Cryptology's intro. It summarizes TLS 1.3's development process, and security level's analysis and the challenges and chances to deploy it in the real production environment. It provides
+
 
 
 The thesis, "The Era of TLS 1.3: Measuring Deployment and Use with Active and Passive Methods", uses the method of active scanning and passive monitoring method to measure the use and deployment of TLS 1.3. The target is to measure TLS 1.3's application since IETF standard, and mainly discussed the influence of cloud providers and CDN  to TLS 1.3's fast deploy. 
@@ -21,5 +23,4 @@ In the thesis of "A Cryptographic Analysis of the TLS 1.3 Handshake Protocol", i
 
 However, there are some limitations in this research. It does not have a coverage of TLS 1.3 protocol, such as different cryptography algorithms, signatures schemes and Diffie-Hellman groups and authenticated encryption schemes. It cannot determine the security during the negotiation process and also does not consider the re-use of different algorithms combinations. 
 
-In the Introduction to the Special Issue on TLS 1.3, which is a Journal of Cryptology's intro. 
 
