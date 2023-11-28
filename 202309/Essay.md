@@ -33,3 +33,5 @@ In the article on the Privacy of the TLS 1.3 Protocol, the focus is on investiga
 The strength of this publication lies in its robust argumentation. It utilizes a game-based theoretical method, a widely recognized approach in cryptography research, to define and demonstrate the privacy protection of TLS 1.3. This methodology ensures that the investigation is both systematic and thorough. The article leverages mathematical and logical evidence, providing a strong theoretical foundation for evaluating TLS 1.3's features. Furthermore, it transparently acknowledges its limitations, specifically its narrow focus on selected scenarios, lending a balanced perspective to its conclusions.
 
 However, there are areas that require further improvement. The article predominantly concentrates on theoretical analysis and overlooks practical considerations regarding the deployment and widespread usage of TLS 1.3.
+
+
