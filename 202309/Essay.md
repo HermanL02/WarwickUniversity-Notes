@@ -40,4 +40,4 @@ In Tracking the deployment of TLS 1.3 on the Web: A story of experimentation and
 
 The advantage of this essay is that it covers multiple observation points to investigate TLS 1.3, including the mobile and website data sets. It also gives a general view about how influential leading companies played a role in web protocol's development. 
 
-However, it cannot  
+However, it only has the limited region check points, such as
