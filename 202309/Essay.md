@@ -20,7 +20,7 @@ In the Introduction to the Special Issue on TLS 1.3, part of the Journal of Cryp
 
 The paper, "The Era of TLS 1.3: Measuring Deployment and Use with Active and Passive Methods," employs active scanning and passive monitoring techniques to assess the deployment and usage of TLS 1.3 since its standardization by the IETF. It primarily focuses on the impact of cloud providers and CDNs on the rapid deployment of TLS 1.3.
 
-Their research confirms that TLS indeed utilizes the functions previously mentioned. However, the deployment of TLS 1.3 appears overly concentrated, indicating that most connections are channeled through certain specific providers, suggesting a lack of widespread server distribution.
+Their research confirms that TLS indeed utilizes the functions previously mentioned. However, the deployment of TLS 1.3 appears overly concentrated, indicating that most connections are channelled through certain specific providers, suggesting a lack of widespread server distribution.
 
 This study integrates various data sources and methodologies to offer a comprehensive view of the TLS 1.3 landscape. Nonetheless, it also uncovers certain limitations. The research is regionally confined, with passive monitoring focusing on North America and Australia, neglecting other regions and non-English speakers. Additionally, there are gaps in data collection, such as the exclusion of data from the latest IPV6 networks and a lack of consideration for recent TLS 1.3 extensions like certificate authority and client-side verifications. This means it might not fully assess the protocol's newest features and impacts.
 
