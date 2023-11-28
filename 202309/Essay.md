@@ -5,7 +5,7 @@ TLS 1.2 is a broadly adopted standard in production environments, reflecting the
 
 Despite the theoretical and practical advantages of TLS 1.3, its deployment in production remains challenging for many websites. These challenges include compatibility with existing systems, the cost and intricacy of upgrades, and the need for understanding new features. For these reasons, TLS 1.2 remains prevalent, despite its recognized security limitations.
 
-This essay will select the most influential sources, critically review their k
+This essay will select the most influential sources, critically review their key points and finally write a potential future dissertation topic. 
 
 ### Source Choosing
 
