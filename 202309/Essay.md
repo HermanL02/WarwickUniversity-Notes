@@ -9,7 +9,7 @@ This essay will deeply explore and analyse the design, security, performance and
 
 ## Source Choosing
 
-In the Introduction to the Special Issue on TLS 1.3, which is a Journal of Cryptology's intro. It summarizes TLS 1.3's development process, and security level's analysis and the challenges and chances to deploy it in the real production environment. It provides
+In the Introduction to the Special Issue on TLS 1.3, which is a Journal of Cryptology's intro. It summarizes TLS 1.3's development process, and security level's analysis and the challenges and chances to deploy it in the real production environment. It provides a general information about TLS 1.3, which cooperates with the academic part and use the formal model to provide high security level before publish. 
 
 
 
