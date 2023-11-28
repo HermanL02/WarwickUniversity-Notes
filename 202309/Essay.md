@@ -3,7 +3,7 @@ In the midst of the digital revolution, network security is becoming a critical 
 
 In recent years, TLS 1.2 is a broadly adopted standard in production environments, reflecting the requirements and challenges of the contemporary network security landscape. However, over time, the evolution of threat models and the advancement of computational capabilities have revealed numerous potential vulnerabilities and performance limitations in TLS 1.2. Although TLS 1.2 is still considered as a relatively safe model than any other previous models, these challenges led to the development of TLS 1.3. It not only set up new security standards but also enhanced efficiency and performance. A key feature of TLS 1.3 is its streamlined handshake process and the use of more complex cryptographic primitives to offer higher security and improved performance.
 
-Despite the theoretical and practical advantages of TLS 1.3, its deployment in production remains challenging for many websites. These challenges include compatibility with existing systems, the cost and intricacy of upgrades, and the need for understanding new features. For these reasons, TLS 1.2 remains prevalent, despite its recognized security limitations.
+Despite the theoretical and practical advantages of TLS 1.3, its deployment in production remains challenging for many companies and individuals. These challenges include compatibility with existing systems, the cost and intricacy of upgrades, and the need for understanding new features. For these reasons, TLS 1.2 remains prevalent, despite its recognized security limitations.
 
 This essay will select the most influential sources, critically review their key points and finally write a potential future dissertation topic. 
 
