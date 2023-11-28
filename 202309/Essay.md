@@ -7,11 +7,13 @@ Despite the theoretical and practical superiority of TLS 1.3, it is still a chal
 
 This essay will deeply explore and analyse the design, security, performance and the applications in the real world, and will do critical analysis to the leading documents. 
 
-## Source Choosing
+### Source Choosing
+
+
+
+## Analysis
 
 In the Introduction to the Special Issue on TLS 1.3, which is a Journal of Cryptology's intro. It summarizes TLS 1.3's development process, and security level's analysis and the challenges and chances to deploy it in the real production environment. It provides a general information about TLS 1.3, which cooperates with the academic part and use the formal model to provide high security level before publish. 
-
-
 
 The thesis, "The Era of TLS 1.3: Measuring Deployment and Use with Active and Passive Methods", uses the method of active scanning and passive monitoring method to measure the use and deployment of TLS 1.3. The target is to measure TLS 1.3's application since IETF standard, and mainly discussed the influence of cloud providers and CDN  to TLS 1.3's fast deploy. 
 
