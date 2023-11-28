@@ -21,3 +21,5 @@ In the thesis of "A Cryptographic Analysis of the TLS 1.3 Handshake Protocol", i
 
 However, there are some limitations in this research. It does not have a coverage of TLS 1.3 protocol, such as different cryptography algorithms, signatures schemes and Diffie-Hellman groups and authenticated encryption schemes. It cannot determine the security during the negotiation process and also does not consider the re-use of different algorithms combinations. 
 
+In the Introduction to the Special Issue on TLS 1.3, which is a Journal of Cryptology's intro. 
+
