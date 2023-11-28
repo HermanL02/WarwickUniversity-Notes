@@ -36,4 +36,4 @@ The strength of this publication lies in its robust argumentation. It utilizes a
 
 However, there are areas that require further improvement. The article predominantly concentrates on theoretical analysis and overlooks practical considerations regarding the deployment and widespread usage of TLS 1.3.
 
-In Tracking the deployment of TLS 1.3 on the Web: A story of experimentation and centralization, it testifies the TLS's usage through multiple observation points. It enph
+In Tracking the deployment of TLS 1.3 on the Web: A story of experimentation and centralization, it testifies the TLS's usage through multiple observation points. It covers the safer features of TLS 1.3 and emphasizes the specific industry 
