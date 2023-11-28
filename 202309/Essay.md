@@ -30,4 +30,4 @@ In Return of Version Downgrade Attack in the Era of TLS 1.3, it investigates the
 
 The article has a very detailed evidence based on all mainly used operating systems and web browsers, it increased the universality of the research. The article has original observations, it provides the first taxonomy of version downgrade, which is a meaningful step for real world protection mechanism. The author reported the related question to the influenced company and takes the responsibility as a report writer. 
 
-However, it does not fully consider TLS's variety. 
+However, it does not fully consider TLS's variety. It is lack of server side investigations. It also should mention the privacy issue during the process to report issues to the companies. 
