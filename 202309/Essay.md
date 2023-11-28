@@ -30,4 +30,4 @@ However, there are some limitations in this research. It does not have a coverag
 
 For the article of the Privacy of TLS 1.3 protocol. It investigates the privacy of TLS 1.3. It mainly discussed about TLS1.3 protocol's privacy during the whole handshake and conversation recovery process. It gives a high appreciation of TLS 1.3's design, including the update of algorithms and encrypt the messages earlier to enhance the security and privacy protection. The investigation method is to build a privacy model to analyse the privacy protection in different situations, such as AEAD and HKDF policies, especially for conversation recovery scheme. 
 
-However, there are still some parts they need to improve. The article only concentrate on theoretical analysis. 
+However, there are still some parts they need to improve. The article only concentrate on theoretical analysis, and only analysed a 
