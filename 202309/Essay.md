@@ -32,4 +32,4 @@ For the article of the Privacy of TLS 1.3 protocol. It investigates the privacy 
 
 The advantage of the above publication is that it gives a solid 论点. It used a game based method theory, which can define and prove TLS1.3's privacy protection. This method in the cryptography investigation is widely admitted, which shows that the author's investigation is systematically and deep. The article uses mathematical and logic evidence and prove a solid theoretical base to  evaluate the TLS 1.3 features. 
 
-However, there are still some parts they need to improve. The article only concentrate on theoretical analysis. It lacks the consideration of the situation when TLS 1.3 is deployed and used massively. It also actively mentioned that their improficient. 
+However, there are still some parts they need to improve. The article only concentrate on theoretical analysis. It lacks the consideration of the situation when TLS 1.3 is deployed and used massively. It also actively mentioned that their not proficient parts.  
