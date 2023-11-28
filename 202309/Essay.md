@@ -26,7 +26,7 @@ This study integrates various data sources and methodologies to offer a comprehe
 
 In the paper titled "A Cryptographic Analysis of the TLS 1.3 Handshake Protocol," provides a summary of multiple articles. Its mainly focus is on examining the handshake process through cryptographic analysis, especially concerning Full 1-RTT, PSK, 0-RTT, and PSK-(EC)DHE, including its optional 0-RTT variant. It demonstrates that the design of TLS 1.3 adheres to solid cryptographic principles, particularly highlighting the distinctiveness and separation of keys. The study also examines signatures and hashing in the security key allocation process and offers a precise account of the 0-RTT replay attack issue. 
 
-The advantage of the paper is that it facilitates both theories and practices in the 
+The advantage of the paper is that it facilitates both theories and practices in the argument, and continues to balance it in the evidence to provide security provident and 
 
 However, this research has its limitations. It lacks comprehensive coverage of the TLS 1.3 protocol, such as various cryptographic algorithms, signature schemes, Diffie-Hellman groups, and authenticated encryption schemes. It fails to ascertain security during the negotiation phase and does not account for the reuse of different algorithm combinations.
 
