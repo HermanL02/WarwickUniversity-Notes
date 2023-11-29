@@ -9,7 +9,7 @@ This essay will select the most influential sources, critically review their key
 
 ### Source Choosing
 
-When I am choosing the sources to do critical analysis, I mainly choose 
+When I am choosing the sources to do critical analysis, I 
 
 During the analyse, I will especially concentrate on 
 
