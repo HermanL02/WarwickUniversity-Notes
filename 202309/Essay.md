@@ -11,7 +11,7 @@ This essay will select the most influential sources, critically review their key
 
 I would like to choose several sources. 
 
-During the analyze, I will especially concentrate on 
+During the analyse, I will especially concentrate on 
 
 
 ## Analysis
