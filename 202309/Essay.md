@@ -8,7 +8,7 @@ Despite the theoretical and practical advantages of TLS 1.3, its deployment in p
 This essay will select the most influential sources, critically review their key points and finally write a potential future dissertation topic. 
 
 ### Source Choosing
-There are a few factors that may influence how I choose the sources, which are the relativity with my research interest, the authority and the reliability, and 
+There are a few factors that may influence how I choose the sources, which are the relativity with my research interest, the authority and the reliability, methodology, diversity and inclusion, time sensitivity, influenc
 
 During the analyse, I will especially concentrate on 
 
