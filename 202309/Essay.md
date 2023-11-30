@@ -35,3 +35,7 @@ In the article on the Privacy of the TLS 1.3 Protocol, the focus is on investiga
 
 In the Introduction to the Special Issue on TLS 1.3, part of the Journal of Cryptology, it outlines the development process of TLS 1.3, analyses its security levels, and examines the challenges and opportunities in deploying it in real-world production environments. Moreover, it provides another historical view. This introduction provides an overview of TLS 1.3, highlighting its collaboration with academia and the use of formal models to ensure a high security standard before publication. It provides a comprehensive, in-depth, and forward-looking, and a multi-perspective review of TLS1.3, covering security, efficiency, and real-world deployment. The in-depth feature here is to provide the insights on how to balance security and efficiency. The forward looking is that it shows that TLS standards will continue to evolve. However, it limits itself in TLS 1.3, which should have a broader view if this is a publication on a well known journal. The massive deployment may face other challenges and limitations, which are not fully discussed in the essay. 
 
+
+## Future Investigation
+
+
