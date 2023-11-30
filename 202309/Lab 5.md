@@ -23,6 +23,8 @@ By using the tcpdump, we can set the source as 10.9.0.5. Then, we can capture al
 ![[Pasted image 20231130203110.png]]
 
 # Question 2
+## Explanation
+
 ## Result
 ![[Pasted image 20231130205648.png]]
 
