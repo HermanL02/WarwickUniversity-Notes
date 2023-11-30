@@ -8,5 +8,5 @@
 
 ## 2.1 
 ![[Pasted image 20231130205648.png]]
-## 2.2 
+
 ![[Pasted image 20231130205751.png]]
