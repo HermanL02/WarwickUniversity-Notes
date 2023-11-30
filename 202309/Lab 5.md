@@ -16,7 +16,6 @@ It can capture the bridges information. Then, we we uses the container to ping t
 Through letting the wire shark monitoring the bridge of the container, it can access all the ICMP packets the container send and receive. 
 
 ### Results
-
 ![[Pasted image 20231130201327.png]]
 ## 1.3 Explanation
 
