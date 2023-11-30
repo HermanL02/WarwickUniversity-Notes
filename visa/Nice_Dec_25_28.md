@@ -1,8 +1,8 @@
 
-# 4-Day Travel Itinerary for Nice, France
+# Christmas Travel
 
-## Day 1: Arrival and Exploring the City
-- Arrive in Paris
+## Day 1: Arrival Paris
+- Arrive in Paris by Flix bus
 - Go shopping
 - Rent car to drive to Nice
 - Arrive Nice next day, then sleep
@@ -29,6 +29,6 @@
 
 ## Day 4: Last-Minute Exploration and Return to London
 - Morning: 
-  - Last-minute walk on the 
+  - Last-minute walk near the sea. 
 - Departure: 
   - Back to London
