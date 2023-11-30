@@ -9,9 +9,10 @@
 
 ## Day 2: Art and Culture
 - Morning: 
+   - Rest
+- Afternoon: 
   - Visit the Musée Matisse.
   - Explore the Cimiez neighborhood.
-- Afternoon: 
   - Lunch in Cimiez.
   - Visit the Marc Chagall National Museum.
 - Evening: 
@@ -28,6 +29,6 @@
 
 ## Day 4: Last-Minute Exploration and Return to London
 - Morning: 
-  - Last-minute shopping in Nice.
+  - Last-minute walk on the 
 - Departure: 
   - Back to London
