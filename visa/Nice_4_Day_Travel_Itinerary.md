@@ -2,14 +2,7 @@
 # 4-Day Travel Itinerary for Nice, France
 
 ## Day 1: Arrival and Exploring the City
-- Morning: Arrival in Nice, check into the hotel.
-- Afternoon: 
-  - Lunch at a local café.
-  - Visit the Promenade des Anglais.
-  - Explore the Old Town (Vieille Ville).
-- Evening: 
-  - Dinner at a traditional French restaurant.
-  - Leisurely walk along the beach.
+- 
 
 ## Day 2: Art and Culture
 - Morning: 
