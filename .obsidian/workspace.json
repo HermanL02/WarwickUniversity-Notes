@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309/Essay.md",
+                "file": "202309/Lab 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309/Essay.md",
+                "file": "202309/Lab 4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309/Essay.md",
+                "file": "202309/Lab 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309/Essay.md"
+                "file": "202309/Lab 4.md"
               }
             }
           },
@@ -209,6 +209,7 @@
   },
   "active": "5e7690455cf8bd24",
   "lastOpenFiles": [
+    "202309/Essay.md",
     "202309/CS917_A2.md",
     "202309/Yiqun_Yiming_CS412_A1.md",
     "202309/Lab 6.md",
@@ -217,7 +218,6 @@
     "202309/Lab 2.md",
     "202309/Lab 1.md",
     "202309/Lab 3.md",
-    "202309/Essay.md",
     "visa/Nice_4_Day_Travel_Itinerary.md",
     "Excalidraw/Labs/Drawing 2023-11-16 15.09.03.excalidraw.md",
     "visa",
