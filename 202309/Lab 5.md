@@ -18,10 +18,11 @@ Through letting the wire shark monitoring the bridge of the container, it can ac
 ### Results
 ![[Pasted image 20231130201327.png]]
 ## 1.3 Explanation
-
+By using the tcpdump, we can set the source as 10.9.0.5. Then, we can capture all the packets that container transfers. 
 ### 
 ![[Pasted image 20231130203110.png]]
 
+# Question 2
 ## 2.1 
 ![[Pasted image 20231130205648.png]]
 
