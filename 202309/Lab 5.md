@@ -35,5 +35,6 @@ Wireshark:
 ![[Pasted image 20231130205751.png]]
 # Question 3
 ## Explanation
-The give Python program imports the Scapy lib and manage every sniffed packet pkt, to check if it is ICMP echo request. If so, it 
+The give Python program imports the Scapy lib and manage every sniffed packet pkt, to check if it is ICMP echo request. If so, it sends a spoofed ICMP echo response by exchange  the source address and the destination address. 
+In this experient, I 
 ![[Pasted image 20231130211152.png]]
