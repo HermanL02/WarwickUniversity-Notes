@@ -21,8 +21,8 @@
 
 ## Day 3: Day Trip and Relaxation
 - Full Day: 
-  - Take a day trip to a nearby town (e.g., Eze or Monaco).
-  - Explore the local area and enjoy regional cuisine.
+  - Take a day trip to a Monaco
+  - Explore the local area and go local restaurants
 - Evening: 
   - Return to Nice.
   - Relaxing dinner at a seaside restaurant.
