@@ -1,5 +1,7 @@
-# 1
-## 1.1
+# Question 1 
+## Explanation
+I have created a python file containing the required files. 
+## Results
 ![[Pasted image 20231130201142.png]]
 ## 1.2 
 ![[Pasted image 20231130201327.png]]
