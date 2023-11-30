@@ -2,7 +2,10 @@
 # 4-Day Travel Itinerary for Nice, France
 
 ## Day 1: Arrival and Exploring the City
-- 
+- Arrive in Paris
+- Go shopping
+- Rent car to drive to Nice
+- Arrive Nice next day, then sleep
 
 ## Day 2: Art and Culture
 - Morning: 
