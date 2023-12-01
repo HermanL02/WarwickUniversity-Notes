@@ -45,3 +45,4 @@ Command line:
 # Question 4
 ## Question 4.1
 In the sniffing and then spoofing experiment in the lab, why can you get the echo reply from 1.2.3.4 which does not exist on the Internet? 
+ANS
