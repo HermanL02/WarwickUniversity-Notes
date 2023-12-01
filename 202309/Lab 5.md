@@ -51,3 +51,6 @@ In the above experiment, why can’t you get the echo reply from 10.9.0.99?
 Answer: For ARP, it is used when finding the data link level MAC address related to the network level IP address. When the host needs to connect another IP address that is within the current local network. It will send a ARP request, to find the corresponding MAC address related to the IP address. For 1.2.3.4, the packet will use the default gateway router. For 10.9.0.99, it will directly be sent to the MAC address, so that if the MAC address does not exist and does not reply to the ARP request, the program cannot capture this packet. 
 
 # Question 5
+Please conduct an investigation to explain why Wireshark is still able to sniff packets. 
+Answer: Wireshark usually requires Admin level 
+![[Pasted image 20231201003429.png]]![[Pasted image 20231201003447.png]]
