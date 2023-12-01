@@ -12,6 +12,7 @@ Even though cleared ip tcp_metrics
 ## 1.2 
 Attacker: 
 ![[Pasted image 20231201014120.png]]
-Victim:
+Victim: 
+![[Pasted image 20231201014128.png]]
 User/VM:
 ![[Pasted image 20231201014020.png]]
