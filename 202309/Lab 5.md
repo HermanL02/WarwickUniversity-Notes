@@ -20,9 +20,9 @@ Through letting the wire shark monitoring the bridge of the container, it can ac
 Wireshark: 
 ![[Pasted image 20231130201327.png]]
 ## 1.3 Explanation
-By using the tcpdump, we can set the source as 10.9.0.5. Then, we can capture all the packets that container transfers. 
+By using the `tcpdump`, we can set the source as 10.9.0.5. Then, we can capture all the packets that container transfers. 
 ### Result
-Command Line of running tcpdump: 
+Command Line of running `tcpdump`: 
 ![[Pasted image 20231130203110.png]]
 
 # Question 2
@@ -35,9 +35,9 @@ Wireshark:
 ![[Pasted image 20231130205751.png]]
 # Question 3
 ## Explanation
-The give Python program imports the Scapy lib and manage every sniffed packet pkt, to check if it is ICMP echo request. If so, it sends a spoofed ICMP echo response by exchange  the source address and the destination address. 
-In this experiment, I changed the iface to the designated bridge container. 
-When the container sending the icmp packets, it would be captured by the program. 
+The give Python program imports the `Scapy` lib and manage every sniffed packet `pkt`, to check if it is ICMP echo request. If so, it sends a spoofed ICMP echo response by exchange  the source address and the destination address. 
+In this experiment, I changed the `iface` to the designated bridge container. 
+When the container sending the `icmp` packets, it would be captured by the program. 
 ## Result
 Command line: 
 ![[Pasted image 20231130211152.png]]
@@ -52,8 +52,8 @@ Answer: For ARP, it is used when finding the data link level MAC address related
 
 # Question 5
 Please conduct an investigation to explain why Wireshark is still able to sniff packets. 
-Answer: Wireshark usually requires Admin level privilege to manage the packets on the network level. However, when we observe Wireshark's sub programs. We may observe there is a program called dumpcap. 
+Answer: Wireshark usually requires Admin level privilege to manage the packets on the network level. However, when we observe Wireshark's sub programs. We may observe there is a program called `dumpcap`. 
 ![[Pasted image 20231201003429.png]]
-When we do a further look at the dumpcap file, we may observe that it has two privileges.  These privileges are special security level in Linux, called capabilities. It is used to provide necessary privilege for some programs without providing full root access. For the first one, cap_net_raw can allow the program access raw sockets to achieve the low level network protocol. It can send the receive the packet from network level. The second one is cap_net_admin. It provides the privilege for network management, such as edit the network configuration, change routers map, edit the interfaces and ARPs. 
-The EIP after that means effective, inheritable and permitted. These are a part of the capabilities level we mentione
+When we do a further look at the `dumpcap` file, we may observe that it has two privileges.  These privileges are special security level in Linux, called capabilities. It is used to provide necessary privilege for some programs without providing full root access. For the first one, `cap_net_raw` can allow the program access raw sockets to achieve the low level network protocol. It can send the receive the packet from network level. The second one is `cap_net_admin`. It provides the privilege for network management, such as edit the network configuration, change routers map, edit the interfaces and ARPs. 
+The EIP after that means effective, inheritable and permitted. These are a part of the capabilities level we mentioned before. 
 ![[Pasted image 20231201003447.png]]
