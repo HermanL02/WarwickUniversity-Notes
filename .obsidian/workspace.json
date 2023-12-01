@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309/Lab 6.md",
+                "file": "202309/Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309/Lab 6.md",
+                "file": "202309/Essay.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309/Lab 6.md",
+                "file": "202309/Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309/Lab 6.md"
+                "file": "202309/Essay.md"
               }
             }
           },
@@ -209,6 +209,7 @@
   },
   "active": "5e7690455cf8bd24",
   "lastOpenFiles": [
+    "202309/Lab 6.md",
     "Pasted image 20231201014128.png",
     "Pasted image 20231201014125.png",
     "Pasted image 20231201014120.png",
@@ -217,7 +218,6 @@
     "Pasted image 20231201013252.png",
     "Pasted image 20231201013026.png",
     "202309/Lab 5.md",
-    "202309/Lab 6.md",
     "Pasted image 20231201012754.png",
     "202309/Yiqun_Yiming_CS412_A1.md",
     "Pasted image 20231201003447.png",
@@ -225,7 +225,6 @@
     "202309/Lab 3.md",
     "202309/Lab 2.md",
     "visa/Nice_Dec_25_28.md",
-    "Pasted image 20231130211152.png",
     "202309/Essay.md",
     "202309/CS917_A2.md",
     "202309/Lab 4.md",
