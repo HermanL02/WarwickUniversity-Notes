@@ -2,3 +2,5 @@
 
 Victim Machine: 
 ![[Pasted image 20231201012754.png]]
+Attacker Machine: 
+![[Pasted image 20231201013026.png]]
