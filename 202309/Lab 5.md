@@ -47,4 +47,5 @@ Command line:
 In the sniffing and then spoofing experiment in the lab, why can you get the echo reply from 1.2.3.4 which does not exist on the Internet? 
 Answer: When the container send the ICMP request, the network stack originally should send the packet to the designated IP address. However, during this process, the packet is captured by the Python script. Whatever the target IP address is, the program can send the spoofed response. 
 ## Question 4.2
-For ARP, it is used when finding the MAC address related to the IP address. 
+In the above experiment, why can’t you get the echo reply from 10.9.0.99?
+Answer: For ARP, it is used when finding the stack level MAC address related to the IP address. 
