@@ -37,4 +37,4 @@ In the Introduction to the Special Issue on TLS 1.3, part of the Journal of Cryp
 
 
 ## Future Investigation
-
+Through the critical analysis before, I have proposed three future work plans. 
