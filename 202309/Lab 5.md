@@ -53,4 +53,6 @@ Answer: For ARP, it is used when finding the data link level MAC address related
 # Question 5
 Please conduct an investigation to explain why Wireshark is still able to sniff packets. 
 Answer: Wireshark usually requires Admin level privilege to manage the packets on the network level. However, when we observe Wireshark's sub programs. We may observe there is a program called dumpcap. 
-![[Pasted image 20231201003429.png]]![[Pasted image 20231201003447.png]]
+![[Pasted image 20231201003429.png]]
+When we do a further look at the dumpcap file, we may observe that it has two privileges,
+![[Pasted image 20231201003447.png]]
