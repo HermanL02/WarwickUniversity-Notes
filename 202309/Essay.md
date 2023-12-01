@@ -39,4 +39,4 @@ In the Introduction to the Special Issue on TLS 1.3, part of the Journal of Cryp
 ## Future Investigation
 Through the critical analysis before, I have proposed three future work plans. 
 
-The first plan is to investigate the TLS 1.3's global deployment and the adaptive research. The target is to analyse and investigate the deployment in other areas besides Europe and North America mentioned before. By doing some external research, I found in China, Inde
+The first plan is to investigate the TLS 1.3's global deployment and the adaptive research. The target is to analyse and investigate the deployment in other areas besides Europe and North America mentioned before. By doing some external research, I found in China, India and many other fast developing countries, although many of them have achieved a high level of development in technology, due to some restrictions, they still cannot apply TLS 1.3 only. They are still required to k
