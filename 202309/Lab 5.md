@@ -38,7 +38,7 @@ Wireshark:
 The give Python program imports the Scapy lib and manage every sniffed packet pkt, to check if it is ICMP echo request. If so, it sends a spoofed ICMP echo response by exchange  the source address and the destination address. 
 In this experiment, I changed the iface to the designated bridge container. 
 
-When access the 
+When the con
 ## Result
 Command line: 
 ![[Pasted image 20231130211152.png]]
