@@ -9,3 +9,6 @@ Virtual Machine:
 ![[Pasted image 20231201013252.png]]
 Even though cleared ip tcp_metrics
 ![[Pasted image 20231201013855.png]]
+## 1.2 
+User/VM:
+![[Pasted image 20231201014020.png]]
