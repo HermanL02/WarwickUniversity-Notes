@@ -1,5 +1,5 @@
 ## Intro
-Today is a fast developing period with lots of innovations and te, network security is becoming a critical part of ensuring data integrity, confidentiality, and availability. As network attacks increase in both frequency and complexity, the need to enforce security protocols to protect data transmission is becoming more evident. In this scenario, TLS, as the foundation of network transmission protection, has played a crucial role.
+People nowadays are experiencing fast developing period with plenty of innovations and technologies, network security is becoming the most important part of ensuring data integrity, confidentiality, and availability, which are essential. As network attacks increase in both frequency and complexity, the need to enforce security protocols to protect data transmission is becoming more evident. In this scenario, TLS, as the foundation of network transmission protection, has played a crucial role.
 
 In recent years, TLS 1.2 has been a broadly adopted standard in production environments, reflecting the requirements and challenges of contemporary network security. However, over time, the evolution of threat models and the advancement of computational capabilities have revealed numerous potential vulnerabilities and performance limitations in TLS 1.2.
 
