@@ -38,3 +38,5 @@ Attacker Listening:
 ![[Pasted image 20231203151722.png]]
 Attacker Machine: 
 ![[Pasted image 20231203151808.png]]
+User Machine:
+![[Pasted image 20231203151850.png]]
