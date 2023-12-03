@@ -19,6 +19,7 @@ The TCP protocol requires three handshake process to build a connection. When th
 Both the C and Python script send plenty of SYN packets to the server, which cause the server reach the capacity soon, which is around 100 half open connections. When the server resource is exhausted, it cannot receive new connections even though they are regular requests. 
 # Question 2
 ## 2.1 Screenshots and Results
+`tcp = TCP(sport=40442, dport=23, seq=92018809, flags="R")`
 User Machine(Connection force stopped by Attacker):
 ![[Pasted image 20231203021519.png]]
 Attacker Machine(Running the Malicious code): 
