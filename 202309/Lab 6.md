@@ -18,7 +18,7 @@ User/VM:
 The TCP protocol requires three handshake process to build a connection. When the server requires a SYN request, it will send a SYN-ACK as a response. During this process, the server will cost computing resources while it is receiving the first SYN packet. It will cost 60 seconds to release this resource (which is why the lab notes told us to wait 1 minute). 
 Both the C and Python script send plenty of SYN packets to the server, which cause the server reach the capacity soon, which is around 100 half open connections. When the server resource is exhausted, it cannot receive new connections even though they are regular requests. 
 # Question 2
-## 2.1 
+## 2.1 Screenshots and Results
 User Machine:
 ![[Pasted image 20231203021519.png]]
 Virtual Machine
