@@ -19,3 +19,5 @@ User Machine:
 ![[Pasted image 20231203021519.png]]
 Virtual Machine
 ![[Pasted image 20231203021603.png]]
+Wireshark: 
+![[Pasted image 20231203021657.png]]
