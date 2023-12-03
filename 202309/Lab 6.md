@@ -21,3 +21,7 @@ Virtual Machine
 ![[Pasted image 20231203021603.png]]
 Wireshark: 
 ![[Pasted image 20231203021657.png]]
+2.2 
+
+User: 
+![[Pasted image 20231203024834.png]]
