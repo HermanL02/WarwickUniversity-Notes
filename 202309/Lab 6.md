@@ -15,7 +15,7 @@ Victim:
 User/VM:
 ![[Pasted image 20231201014020.png]]
 ## Explanation
-The TCP protocol requires three handshake process to build a connection. When the server requires a SYN request, it will send a SYN-ACK as a response. During this process, the server will cost computing resources while it is receiving the first SYN packet. 
+The TCP protocol requires three handshake process to build a connection. When the server requires a SYN request, it will send a SYN-ACK as a response. During this process, the server will cost computing resources while it is receiving the first SYN packet. It will cost 60 seconds to release this resource (which is why the lab notes told us to wait 1 minute). Both the C and Python script send plenty of SYN packets to the server, which 
 ## 2.1 
 User Machine:
 ![[Pasted image 20231203021519.png]]
