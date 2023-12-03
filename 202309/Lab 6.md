@@ -42,9 +42,9 @@ The attack can work is because that the script creates a packet by defining the 
 ### Inject command
 User Machine(Freeze when typing the 10th character): 
 ![[Pasted image 20231203150709.png]]
-Victim Machine(Injected a success ):
+Victim Machine(Injected a `success` file under `tmp`):
 ![[Pasted image 20231203150935.png]]
-Attacker Machine:
+Attacker Machine(Running the code):
 ![[Pasted image 20231203151021.png]]
 ### Create a reverse shell
 Attacker Listening: 
