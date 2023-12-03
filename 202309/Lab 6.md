@@ -14,6 +14,8 @@ Victim:
 ![[Pasted image 20231201014128.png]]
 User/VM:
 ![[Pasted image 20231201014020.png]]
+## Explanation
+The TCP proto
 ## 2.1 
 User Machine:
 ![[Pasted image 20231203021519.png]]
