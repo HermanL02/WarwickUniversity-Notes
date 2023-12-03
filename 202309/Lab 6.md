@@ -4,7 +4,7 @@ We may observe even though a roughly 100 SYN packet per second's SYN flood attac
 Victim Machine: 
 ![[Pasted image 20231201012754.png]]
 Virtual Machine: 
-![[Pasted image 20231201013026.png]]
+![[Pasted image 20231203020824.png]]
 Virtual Machine: 
 ![[Pasted image 20231203020736.png]]
 Even though cleared ip tcp_metrics
