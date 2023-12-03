@@ -39,14 +39,14 @@ Comparatively, the second attack is more straightforward, it sniffs the network 
 The attack can work is because that the script creates a packet by defining the source port, destination port, and sequence number. Then, it sets the flags as R, which means t his packet is a reset packet. It then sends this packet to stop the connection between the designated port and the target IP address. The server would think this RST packet is sent from the user machine, then it would think the user wants to stop the connection, then it stops the connection. 
 # Question 3
 ## 3.1 Results and Screenshots
-
+### Inject command
 User Machine: 
 ![[Pasted image 20231203150709.png]]
 Victim Machine:
 ![[Pasted image 20231203150935.png]]
 Attacker Machine:
 ![[Pasted image 20231203151021.png]]
-3.2 
+### Create a reverse shell
 Attacker Listening: 
 ![[Pasted image 20231203151722.png]]
 Attacker Machine: 
