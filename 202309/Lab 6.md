@@ -59,4 +59,4 @@ In the first part, it hijacks the user's session and store `success` file under 
 
 # Question 4
 By using the diagram, we may observe the attacker sends a data packet to the server, which has a sequence x and payload 8, which is within the predicted range, the server would think this packet is legit. 
-Then, since the attacker's packet is received, the server will send the ACK, which is not the same ACK with the user, and the user's session is waiting to send or confirm the current sequence
+Then, since the attacker's packet is received, the server will send the ACK, which is not the same user's ACK back to the attacker. DThe user's session is waiting to send or confirm the current sequence
