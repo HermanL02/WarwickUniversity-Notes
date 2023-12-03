@@ -1,14 +1,14 @@
 # Question 1
 ## 1.1 Results and Screenshots
 ### SYN Flooding using C
-Victim Machine: 
+Victim Machine (Almost full capacity): 
 ![[Pasted image 20231203020856.png]]
-Virtual Machine: 
+Attacker Machine(Running the SYN attack code): 
 ![[Pasted image 20231203020824.png]]
-Virtual Machine: 
+Virtual Machine(Cannot build a new connection): 
 ![[Pasted image 20231203020736.png]]
 ### SYN Flooding using Python 
-Attacker: 
+Attacker Machine(Running the SYN attack code): 
 ![[Pasted image 20231201014120.png]]
 Victim: 
 ![[Pasted image 20231201014128.png]]
