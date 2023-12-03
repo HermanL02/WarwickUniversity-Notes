@@ -47,9 +47,9 @@ Victim Machine(Injected a `success` file under `tmp`):
 Attacker Machine(Running the code):
 ![[Pasted image 20231203151021.png]]
 ### Create a reverse shell
-Attacker Listening: 
+Attacker Listening(Created a reverse shell): 
 ![[Pasted image 20231203151722.png]]
-Attacker Machine: 
+Attacker Machine(Running the code): 
 ![[Pasted image 20231203151808.png]]
-User Machine:
+User Machine(Window Freezed):
 ![[Pasted image 20231203151850.png]]
