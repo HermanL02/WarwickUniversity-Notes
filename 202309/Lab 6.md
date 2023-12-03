@@ -6,7 +6,7 @@ Victim Machine:
 Virtual Machine: 
 ![[Pasted image 20231201013026.png]]
 Virtual Machine: 
-![[Pasted image 20231201013252.png]]
+![[Pasted image 20231203020736.png]]
 Even though cleared ip tcp_metrics
 ![[Pasted image 20231201013855.png]]
 ## 1.2 
