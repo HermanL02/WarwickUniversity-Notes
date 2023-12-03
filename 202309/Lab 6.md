@@ -15,7 +15,7 @@ Victim:
 User/VM:
 ![[Pasted image 20231201014020.png]]
 ## Explanation
-The TCP proto
+The TCP protocol requires three handshake process to build a connection. When the server requires a SYN request, it will send a SYN-ACK as a response. During this process, the server w
 ## 2.1 
 User Machine:
 ![[Pasted image 20231203021519.png]]
