@@ -10,16 +10,16 @@ Virtual Machine(Cannot build a new connection):
 ### SYN Flooding using Python 
 Attacker Machine(Running the SYN attack code): 
 ![[Pasted image 20231201014120.png]]
-Victim: 
+Victim Machine (Ran tcp_metrics flush, and reach almost full capacity): 
 ![[Pasted image 20231201014128.png]]
-User/VM:
+User/VM(Cannot telnet to the victim server machine):
 ![[Pasted image 20231201014020.png]]
 ## Explanation
 The TCP protocol requires three handshake process to build a connection. When the server requires a SYN request, it will send a SYN-ACK as a response. During this process, the server will cost computing resources while it is receiving the first SYN packet. It will cost 60 seconds to release this resource (which is why the lab notes told us to wait 1 minute). 
 Both the C and Python script send plenty of SYN packets to the server, which cause the server reach the capacity soon, which is around 100 half open connections. When the server resource is exhausted, it cannot receive new connections even though they are regular requests. 
 # Question 2
 ## 2.1 Screenshots and Results
-User Machine:
+User Machine(Connection force stopped):
 ![[Pasted image 20231203021519.png]]
 Virtual Machine
 ![[Pasted image 20231203021603.png]]
