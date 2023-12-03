@@ -34,4 +34,7 @@ Victim Machine:
 Attacker Machine:
 ![[Pasted image 20231203151021.png]]
 3.2 
+Attacker Listening: 
 ![[Pasted image 20231203151722.png]]
+Attacker Machine: 
+![[Pasted image 20231203151808.png]]
