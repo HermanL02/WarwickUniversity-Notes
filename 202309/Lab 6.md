@@ -10,7 +10,7 @@ Virtual Machine(Cannot build a new connection):
 ### SYN Flooding using Python 
 Attacker Machine(Running the SYN attack code): 
 ![[Pasted image 20231201014120.png]]
-Victim Machine (Ran tcp_metrics flush, and reach almost full capacity): 
+Victim Machine (Ran TCP metrics flush, and reach almost full capacity): 
 ![[Pasted image 20231201014128.png]]
 User/VM(Cannot telnet to the victim server machine):
 ![[Pasted image 20231201014020.png]]
@@ -21,7 +21,7 @@ Both the C and Python script send plenty of SYN packets to the server, which cau
 ## 2.1 Screenshots and Results
 Modified Input: 
 `tcp = TCP(sport=40442, dport=23, seq=92018809, flags="R")`
-User Machine(Connection force stopped by Attacker):
+User Machine(Connection Stopped by Attacker):
 ![[Pasted image 20231203021519.png]]
 Attacker Machine(Running the Malicious code): 
 ![[Pasted image 20231203021603.png]]
