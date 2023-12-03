@@ -34,7 +34,8 @@ Attacker:
 User(Connection stopped by the attacker): 
 ![[Pasted image 20231203024834.png]]
 ## 2.2 Explanation
-In the first manual attack, we need to set the parameters through what we observed in the Wireshark. We can use filters to filter the target IP and retrieve the latest TCP connection from the monitoring window. are the TCP connection 
+In the first manual attack, we need to set the parameters through what we observed in the Wireshark. We can use filters to filter the target IP and retrieve the latest TCP connection from the capture window. Therefore, we can use the TCP connection's details to fill in the Python program. 
+The 
 3.1 
 User Machine: 
 ![[Pasted image 20231203150709.png]]
