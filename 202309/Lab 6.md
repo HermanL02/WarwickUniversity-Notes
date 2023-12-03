@@ -29,3 +29,7 @@ User:
 3.1 
 User Machine: 
 ![[Pasted image 20231203150709.png]]
+Victim Machine:
+![[Pasted image 20231203150935.png]]
+Attacker Machine:
+![[Pasted image 20231203151021.png]]
