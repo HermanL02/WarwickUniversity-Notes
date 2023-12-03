@@ -19,15 +19,16 @@ The TCP protocol requires three handshake process to build a connection. When th
 Both the C and Python script send plenty of SYN packets to the server, which cause the server reach the capacity soon, which is around 100 half open connections. When the server resource is exhausted, it cannot receive new connections even though they are regular requests. 
 # Question 2
 ## 2.1 Screenshots and Results
+### TCP RESET attack
 Modified Input: 
 `tcp = TCP(sport=40442, dport=23, seq=92018809, flags="R")`
-User Machine(Connection Stopped by Attacker):
+User Machine(Connection stopped by attacker):
 ![[Pasted image 20231203021519.png]]
-Attacker Machine(Running the Malicious code): 
+Attacker Machine(Running the malicious code): 
 ![[Pasted image 20231203021603.png]]
-Wireshark(Observed Parameters): 
+Wireshark(Observed parameters): 
 ![[Pasted image 20231203021657.png]]
-2.2 
+### Auto TCP RESET attack
 Attacker: 
 ![[Pasted image 20231203025559.png]]
 User: 
