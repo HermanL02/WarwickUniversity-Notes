@@ -34,7 +34,7 @@ Attacker:
 User(Connection stopped by the attacker): 
 ![[Pasted image 20231203024834.png]]
 ## 2.2 Explanation
-
+The parameters are the TCP connection 
 3.1 
 User Machine: 
 ![[Pasted image 20231203150709.png]]
