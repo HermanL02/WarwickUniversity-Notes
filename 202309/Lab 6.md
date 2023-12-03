@@ -7,7 +7,7 @@ Virtual Machine:
 ![[Pasted image 20231203020824.png]]
 Virtual Machine: 
 ![[Pasted image 20231203020736.png]]
-### SYN FL 
+### SYN Flooding using Python 
 Attacker: 
 ![[Pasted image 20231201014120.png]]
 Victim: 
