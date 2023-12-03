@@ -33,3 +33,5 @@ Victim Machine:
 ![[Pasted image 20231203150935.png]]
 Attacker Machine:
 ![[Pasted image 20231203151021.png]]
+3.2 
+![[Pasted image 20231203151722.png]]
