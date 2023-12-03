@@ -54,5 +54,5 @@ Attacker Machine(Running the code):
 User Machine(Window Freezed):
 ![[Pasted image 20231203151850.png]]
 ## 3.2 Explanation
-The script sniffs the information on the designated bridge. Then it use the received data packet to get the TCP and IP information, especially for the TCP sequence and acknowledge number, which can calculate the correct sequence and acknowledge number to make the server believe that these packets are sent from the legit user.  Then, it creates a new IP and TCP packet, which designates the source 
+The script sniffs the information on the designated bridge. Then it use the received data packet to get the TCP and IP information, especially for the TCP sequence and acknowledge number, which can calculate the correct sequence and acknowledge number to make the server believe that these packets are sent from the legit user.  Then, it creates a new IP and TCP packet, which designates the source IP, target IP, source port, destination port, and the flag, which is set to A, meaning ACK packet. 
 In the first part, it hijacks the user's session and store `success` file under the folder of `tmp`. The second one uses a reverse shell command to project the current session to a command line which is controlled by the attacker. 
