@@ -58,4 +58,4 @@ The script sniffs the information on the designated bridge. Then it use the rece
 In the first part, it hijacks the user's session and store `success` file under the folder of `tmp`. The second one uses a reverse shell command to project the current session to a command line which is controlled by the attacker. 
 
 # Question 4
-By using the diagram, we may observe the attacker sends a data packet to the server, which has a sequence x and payload 8, which is within the predicted 
+By using the diagram, we may observe the attacker sends a data packet to the server, which has a sequence x and payload 8, which is within the predicted range, the 
