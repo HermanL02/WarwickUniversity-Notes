@@ -15,3 +15,6 @@ Victim:
 User/VM:
 ![[Pasted image 20231201014020.png]]
 ## 2.1 
+User Machine:
+![[Pasted image 20231203021519.png]]
+![[Pasted image 20231203021550.png]]
