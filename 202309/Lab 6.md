@@ -36,7 +36,7 @@ User(Connection stopped by the attacker):
 ## 2.2 Explanation
 In the first manual attack, we need to set the parameters through what we observed in the Wireshark. We can use filters to filter the target IP and retrieve the latest TCP connection from the capture window. Therefore, we can use the TCP connection's details to fill in the Python program. 
 Comparatively, the second attack is more straightforward, it sniffs the network packets from the designated bridge, then  it can automatically retrieve the above information from the packet. 
-The attack can work is because that the script creates a 
+The attack can work is because that the script creates a packet by defining the source port, destination port, and sequence number. Then, it sets the flags as R, which means t his packet is a reset packet. 
 3.1 
 User Machine: 
 ![[Pasted image 20231203150709.png]]
