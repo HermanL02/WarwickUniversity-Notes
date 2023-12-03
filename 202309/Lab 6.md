@@ -1,13 +1,13 @@
 # Question 1
 ## 1.1 Results and Screenshots
-
+### SYN Flooding using C
 Victim Machine: 
 ![[Pasted image 20231203020856.png]]
 Virtual Machine: 
 ![[Pasted image 20231203020824.png]]
 Virtual Machine: 
 ![[Pasted image 20231203020736.png]]
-## 1.2 
+### SYN FL 
 Attacker: 
 ![[Pasted image 20231201014120.png]]
 Victim: 
