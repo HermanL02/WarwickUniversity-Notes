@@ -40,9 +40,9 @@ The attack can work is because that the script creates a packet by defining the 
 # Question 3
 ## 3.1 Results and Screenshots
 ### Inject command
-User Machine: 
+User Machine(Freeze when typing the 10th character): 
 ![[Pasted image 20231203150709.png]]
-Victim Machine:
+Victim Machine(Injected a success ):
 ![[Pasted image 20231203150935.png]]
 Attacker Machine:
 ![[Pasted image 20231203151021.png]]
