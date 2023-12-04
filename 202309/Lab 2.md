@@ -10,6 +10,5 @@ Question 1.1
 ![[Pasted image 20231204144745.png]]
 
 Question 2
-`ret = 0xffffd158 + 300 + 4 + 4
-S = 60`
+`ret = 0xffffd158 + 300 + 4 + 4; S = 60`
 ![[Pasted image 20231204192015.png]]
