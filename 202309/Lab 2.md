@@ -1,15 +1,15 @@
 # Question 1: Background
 ## Diagram
-![[Drawing 2023-11-22 21.38.46.excalidraw|650]]
+![[Drawing 2023-11-22 21.38.46.excalidraw|650|650]]
 ## Explanation
 Buffer overflow occurs when the program writes data to a buffer that exceeds its capacity, and when it overwrites the adjacent area, it will have a buffer overflow. This vulnerability can allow the attackers to inject malicious code to the area that usually does not allow code to run. The program's return address and the previous frame pointer can be overwritten, which may allow the attacker to execute the code redirect to the injected malicious code, which may allow the attacker to control and damage the computer system. 
 # Question 2
 ## Question 2.1 
 ### Screenshots
 #### Task 1.1
-![[Pasted image 20231202152652.png]]
+![[Pasted image 20231202152652.png|650]]
 #### Task 1.2
-![[Pasted image 20231204144745.png]]
+![[Pasted image 20231204144745.png|650]]
 ### Explanation
 The result of Task 1.1 shows that by using the badfile, we can inject the malicious shell code into the server. The result of Task 1.2 shows that a reverse shell is already connected to the 10.9.0.1 7070. 
 ## Question 2.2 Explanation
@@ -20,8 +20,8 @@ We need to know the offset to precisely return the address. Therefore, we may no
 ## Question 3.1 
 ### Screenshots
 `ret = 0xffffd158 + 300 + 4 + 4; S = 60`
-![[Pasted image 20231204192015.png]]
+![[Pasted image 20231204192015.png|650]]
 ### Explanation
 When testing the result, I found that if we set the spray value between 60 - 10 and 60 + 10, we can inject the malicious shell code into the server.  
 ## Explanation
-Assume we know that our buffer has a size of 300, and we know that when the buffer has a size of 100, we should add a small value due to the space that the compiler added. 
+Assume we know that our buffer has a size of 300, and we know that when the buffer has a size of 100, we should add a small value due to the space that the compiler added, which is around 20 in our lectures. Therefore, if we increase the size to 300, we should also triple the small values, which is therefore rised three 
