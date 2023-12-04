@@ -133,4 +133,4 @@ The Self-Propagating XSS worm uses DOM's API to access the malicious code on the
 
 <?php include 'index.html'; ?>
 ```
-In this question, the PHP file is part of the CSP header. In this script, the 111-111-111 and 222-222-222 is not specified, so we do not have any restriction to the nonces. We used "unsafe-inline" to prevent the insecure inline nonce. 
+In this question, the PHP file is part of the CSP header. In this script, the 111-111-111 and 222-222-222 is not specified, so we do not have any restriction to the nonces. We used `unsafe-inline` to prevent the insecure inline nonce. We also uses the 
