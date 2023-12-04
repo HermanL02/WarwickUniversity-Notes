@@ -22,9 +22,9 @@ Therefore, to make the SQL query return the information of the designated userna
 	- Another way is to make the password is TRUE, which means we can use the 'or' statement to make password always be TRUE. 
 By evaluating the efficiency of the code, I choose the first one. In the `Admin'#`,  `'` means to end the username input, and `#` means to make the rest part as comments. 
 ### Task 1.2
-The way to think is basically the same, but due to the curl command's limitation, we can use URL enco %27 and %23 to substitute the ' sign and # sign. 
+The way to think is basically the same, but due to the curl command's limitation, we can use URL encoding, substituting %27 and %23 to the ' sign and # sign. 
 ### Task 1.3
-By using the professor given value, we may notice that this website is using the prepared statements method to avoid the append of new statements. 
+By using the professor given value, we may notice that this website is using the prepared statements method to avoid the appending of malicious SQL code by separating user inputs from the query syntax. 
 # Question 2
 ## Results and Screenshots
 ### Task 2.1
