@@ -58,5 +58,6 @@ The script sniffs the information on the designated bridge. Then it use the rece
 In the first part, it hijacks the user's session and store `success` file under the folder of `tmp`. The second one uses a reverse shell command to project the current session to a command line which is controlled by the attacker. 
 
 # Question 4
+
 By using the diagram, we may observe the attacker sniffs the traffic and calculate the correct sequence number, then sends a data packet to the server, which has a sequence x and payload 8, which is within the predicted range, the server would think this packet is legit. The server will send the ACK, which is not the same user's ACK back to the attacker. 
 During this time, the user's session is still **waiting to confirm the current packet**. It will cause the users **TCP congestion control** enabled and assumes the current packet loss, which prevents the user sending new data packets to the server. The users session may try to restore the session through **keep sending the retransmission packets** and waiting the correct ACK, and exhausted the resources and causing a freeze. 
