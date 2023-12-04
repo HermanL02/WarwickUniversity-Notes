@@ -28,4 +28,5 @@ We need to know the offset to precisely return the address. Therefore, we may no
 ### Explanation
 This task's result is similar to the previous one. The script is also to create a `badfile`. When the `badfile` is used to attack the vulnerable programs, the program's execution is redirected to the shellcode at the end of buffer. 
 ## Explanation
-In our case, we have a maximum 300 bytes buffer area. By using our previous PowerPoint information, we understand that for a 100 bytes buffer area, the complier usually add 200 
+In our case, we have a maximum 300 bytes buffer area. By using our previous PowerPoint information, we understand that for a 100 bytes buffer area, the complier usually add 20 bytes extra space. The extra space might because of the complier alignment requirement and other reasons. 
+By following this pattern, we can examine that for a two times larger buffer area, the complier's' ar
