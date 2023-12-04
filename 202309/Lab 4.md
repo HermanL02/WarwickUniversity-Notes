@@ -15,7 +15,7 @@ Output:
 ![[Pasted image 20231116104012.png]]
 ## 1.2 Explanation
 ### Task 1.1
-The value I used is `Admin'#` as the value of 'username'. 
+The value I used is `Admin'#` as the value of 'username' input. 
 The reason is that as we know that the default command has two requirements in "WHERE" clause. One of them is "Username" and another is "Password". 
 Therefore, to make the SQL query return the information of the designated username. We have two ways. 
 	- One is to make the query ignore the password part, which we have to make the Password part as comments. 
