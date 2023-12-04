@@ -13,7 +13,7 @@ Buffer overflow occurs when the program writes data to a buffer that exceeds its
 ### Explanation
 The result of Task 1.1 shows that by using the badfile, we can inject the malicious shell code into the server. The result of Task 1.2 shows that a reverse shell is already connected to the 10.9.0.1 7070. 
 ## Explanation
-
+In the X86 system, when a function is called, the stack frame will do the following operation.. It will push the return addre
 
 # Question 3
 `ret = 0xffffd158 + 300 + 4 + 4; S = 60`
