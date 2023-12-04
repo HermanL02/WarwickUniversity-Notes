@@ -133,3 +133,4 @@ The Self-Propagating XSS worm uses DOM's API to access the malicious code on the
 
 <?php include 'index.html'; ?>
 ```
+In this question, the PHP file is part of the CSP header. In this script, 
