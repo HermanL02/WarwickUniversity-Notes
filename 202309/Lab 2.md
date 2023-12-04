@@ -10,4 +10,5 @@ Question 1.1
 ![[Pasted image 20231204144745.png]]
 
 Question 2
+
 ![[Pasted image 20231204192015.png]]
