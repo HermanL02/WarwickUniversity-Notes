@@ -11,7 +11,7 @@ Buffer overflow occurs when the program writes data to a buffer that exceeds its
 #### Task 1.2
 ![[Pasted image 20231204144745.png]]
 ### Explanation
-The result of Task 1.1 shows that the injected 
+The result of Task 1.1 shows that by using the badfile, we can inject the malicious shell code into the server. The result of Task 1.2 shows that a reverse shell is already connected to the 10.9.0.1 7070. 
 ## Explanation
 
 
