@@ -59,9 +59,9 @@
             "id": "5e7690455cf8bd24",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.md"
+                "file": "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.png"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.md",
+                "file": "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.md",
+                "file": "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.md"
+                "file": "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.png"
               }
             }
           },
@@ -205,8 +205,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5e7690455cf8bd24",
+  "active": "cf8aadadb8b82695",
   "lastOpenFiles": [
+    "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.md",
+    "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.png",
     "202309/Lab 2.md",
     "202309/Lab 1.md",
     "202309/Lab 6.md",
@@ -221,7 +223,6 @@
     "Pasted image 20231203025559.png",
     "Pasted image 20231203024834.png",
     "Pasted image 20231203021657.png",
-    "Pasted image 20231203021603.png",
     "202309/Essay.md",
     "202309/CS917_A2.md",
     "202309/Lab 3.md",
@@ -232,7 +233,6 @@
     "Excalidraw/Labs/Drawing 2023-11-16 15.30.36.excalidraw.md",
     "程柏淳/Visa.md",
     "程柏淳",
-    "Excalidraw/Labs/Drawing 2023-11-22 21.38.46.excalidraw.md",
     "Excalidraw/Labs",
     "Excalidraw/Labs/Drawing 2023-11-20 15.57.56.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 21.07.46.excalidraw.md",
