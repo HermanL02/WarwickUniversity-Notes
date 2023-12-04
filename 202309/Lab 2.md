@@ -24,4 +24,4 @@ We need to know the offset to precisely return the address. Therefore, we may no
 ### Explanation
 When testing the result, I found that if we set the spray value between 60 - 10 and 60 + 10, we can inject the malicious shell code into the server.  
 ## Explanation
-We may notice
+Assume we know that our buffer has a size of 300, and we know that when the buffer has a size of 100, we should add a small value due to the space that the compiler added. 
