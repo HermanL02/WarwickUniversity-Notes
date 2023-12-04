@@ -22,5 +22,6 @@ We need to know the offset to precisely return the address. Therefore, we may no
 `ret = 0xffffd158 + 300 + 4 + 4; S = 60`
 ![[Pasted image 20231204192015.png]]
 ### Explanation
-When testing the result, I found that if we set the spray value between 60 - 10 and 60 + 10, we can inject the malicious shell code into the shell. 
+When testing the result, I found that if we set the spray value between 60 - 10 and 60 + 10, we can inject the malicious shell code into the server.  
 ## Explanation
+We may notice
