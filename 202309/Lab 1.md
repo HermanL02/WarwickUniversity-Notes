@@ -7,9 +7,9 @@ The three mentioned cipher types was used to encrypt and decrypt. During the exp
 Below is the screenshot that shows the warning. 
 ![[Pasted image 20231116121812.png|650]]
 ## 1.2 Deprecated Key Derivation Warning
-`Deprecated key derivation used` is a warning is because no salting is used in the encrypting algorithm, which makes the encryption vulnerable to brute force attacks. 
+`Deprecated key derivation used` is a warning is due to no salting is used in the encrypting algorithm, which makes the encryption susceptible to brute-force attacks. 
 ## 1.3 -pbkdf2
-PBKDF 2 used HMAC and salting to repetitively adding random values to generate the derivation keys. The derivation keys are then used as the new encryption key, which **increases the cost of brute force attacks**. Most importantly, it can avoid the hackers to use the precomputed table to attack the password. 
+PBKDF2 enhances security by using HMAC and salting. It repetitively adding random values to generate the derivation keys. The derivation keys are then used as the new encryption key, which **increases the cost of brute force attacks**. Most importantly, it can avoid the hackers to use the precomputed table to attack the password. 
 
 # Task 2
 ## 2.1 Results and Screenshots
