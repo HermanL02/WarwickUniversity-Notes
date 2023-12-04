@@ -9,7 +9,7 @@ Below is the screenshot that shows the warning.
 ## 1.2 Deprecated Key Derivation Warning
 `Deprecated key derivation used` is a warning is due to no salting is used in the encrypting algorithm, which makes the encryption susceptible to brute-force attacks. 
 ## 1.3 -pbkdf2
-PBKDF2 enhances security by using HMAC and salting. It repetitively adding random values to generate the derivation keys. The derivation keys are then used as the new encryption key, which **increases the cost of brute force attacks**. Most importantly, it can avoid the hackers to use the precomputed table to attack the password. 
+PBKDF2 enhances security by using HMAC and salting. It repeatedly adds random values to generate the derivation keys, which are then used as the new encryption key, which **increases the cost and difficulty of brute force attacks**. Most importantly, this approach can avoid the hackers to use the precomputed table to attack the password. 
 
 # Task 2
 ## 2.1 Results and Screenshots
