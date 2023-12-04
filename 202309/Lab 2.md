@@ -6,3 +6,4 @@ Buffer overflow occurs when the program writes data to a buffer that exceeds its
 # Question 1
 
 ![[Pasted image 20231202152652.png]]
+![[Pasted image 20231204144745.png]]
