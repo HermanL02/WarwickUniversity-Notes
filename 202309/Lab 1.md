@@ -30,8 +30,8 @@ From the image we obtained from [[Lab 1#2.1 Results and Screenshots]].
 The image of `-AES-128-ECB` has a clear shape of the original image. On the contrary, the image of `-AES-128-CBC` has no shape clearly shown. 
 
 ## Difference 
-When encrypting the same colour (the same data in a more general case), the`-AES-128-ECB` mode generates the same encryption code, which means it cannot encrypt the patterns of data. It is not safe, because some features can still be seen even after the encryption. 
-When encrypting the same data with `-AES-128-CBC` mode instead, it connects each part with the previous block, which prevents the attacker to see the pattern. 
+When encrypting the same colour (the same data in a more general case), the`-AES-128-ECB` mode generates the same encryption code, which means it cannot encrypt the patterns of data, and some features can still be seen even after the encryption. 
+When encrypting the same data with `-AES-128-CBC` mode instead, it connects each part with the previous block, and every round, the encryption key is different, which prevents the attacker to see the pattern and enhance the security. 
 
 # Task 3
 ## 3.1 Results and Screenshots
