@@ -58,7 +58,7 @@ Alternative answer might work: `ID = 6` would also work, and the number in salar
 The other parts are similar to the previous question. 
 ### Task 2.3
 `', Password = sha1('0') WHERE Name = 'Admin';#`
-Password was reset to a new one based on the same encryption. 
+Password was reset to a new one, which is the SHA-1 hash of '0'. 
 # Question 3
 ## Results and Screenshots
 ### Admin'# Testing
