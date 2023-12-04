@@ -13,7 +13,8 @@ Buffer overflow occurs when the program writes data to a buffer that exceeds its
 ### Explanation
 The result of Task 1.1 shows that by using the badfile, we can inject the malicious shell code into the server. The result of Task 1.2 shows that a reverse shell is already connected to the 10.9.0.1 7070. 
 ## Explanation
-In the X86 system, when a function is called, the stack frame will do the following operation.. It will push the return address into the stack, and the caller's EBP will be pushed to the stack, and the new EBP value is on the top of the EBP. Therefore, the return address could be set as `EBP+8`, where the current function's EBP saves the last function
+In the X86 system, when a function is called, the stack frame will do the following operation.. It will push the return address into the stack, and the caller's EBP will be pushed to the stack, and the new EBP value is on the top of the EBP. Therefore, the return address could be set as `EBP+8`, where the current function's EBP saves the last function's frame address, and above the EBP, is the original EBP, which is 4 bytes, and above the original `ebp`, is the current return address we want. 
+We need to know the offset to precisely retu
 
 # Question 3
 `ret = 0xffffd158 + 300 + 4 + 4; S = 60`
