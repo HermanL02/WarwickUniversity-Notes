@@ -81,4 +81,4 @@ $stmt->close();
 $conn->close();
 ```
 Using the prepared statement can use the '?' sign as a placeholder to receive the user inputs, which means the real user inputs are separated from the query. The separation is essential for the security. 
-By using the **bind_param** function, we can make sure that the user input is bind to the placeholders, and **they are not considered as SQL query, but only as data.** 
+By using the **bind_param** function, we can make sure that the user input is bind to the placeholders, and **they are not considered as SQL query, but only as data.** Therefore, it can prevents the SQL injection. 
