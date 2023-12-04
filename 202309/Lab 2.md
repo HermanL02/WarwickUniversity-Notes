@@ -30,4 +30,4 @@ This task's result is similar to the previous one. The script is also to create 
 ## Explanation
 In our case, we have a maximum 300 bytes buffer area. By using our previous PowerPoint information, we understand that for a 100 bytes buffer area, the complier usually add 20 bytes extra space. The extra space might because of the complier alignment requirement and other reasons. 
 By following this pattern, we can examine that for a two times larger buffer area, the complier's' extra space will increase two times. Therefore, we set the extra space as `20*3 = 60` bytes. 
-In our testing period, I tested several cases, and I observed that if the spa
+In our testing period, I tested several cases, and I observed that if the spray value is between 60-10 and 60+10, the vulnerability will inject the shellcode into the server. 
