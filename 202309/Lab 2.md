@@ -26,7 +26,7 @@ We need to know the offset to precisely return the address. Therefore, we may no
 `ret = 0xffffd158 + 300 + 4 + 4; S = 60`
 ![[Pasted image 20231204192015.png|650]]
 ### Explanation
-This task's result is similar to the previous one. The script is also to create a `badfile` which uses NOP and uses shellcode to run
+This task's result is similar to the previous one. The script is also to create a `badfile` which uses NOP and uses shellcode to overwrite the return address and uses spray to find the address to write the payloads. 
 ## Explanation
 Assume we know that our buffer has a size of 300, and we know that when the buffer has a size of 100, we should add a small value due to the space that the compiler added, which is around 20 in our lectures. Therefore, if we increase the size to 300, we should also triple the small values, which is therefore is 20 * 3 = 60. 
 When testing the result, I found that if we set the spray value between 60 - 10 and 60 + 10, we can inject the malicious shell code into the server. 
