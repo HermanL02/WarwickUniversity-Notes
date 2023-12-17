@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309/Sry.md",
+                "file": "202309/CS917_A2.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309/Sry.md",
+                "file": "202309/Lab 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309/Sry.md",
+                "file": "202309/Lab 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309/Sry.md"
+                "file": "202309/Lab 1.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "cf8aadadb8b82695",
   "lastOpenFiles": [
-    "202309/CS917_A2.md",
     "202309/Sry.md",
+    "202309/CS917_A2.md",
     "202309/Yiqun_Yiming_CS412_A1.md",
     "visa/Nice_Dec_25_28.md",
     "202309/Lab 1.md",
