@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309/Lab 6.md",
+                "file": "202309/Yiqun_Yiming_CS412_A1.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309/Lab 1.md",
+                "file": "202309/Yiqun_Yiming_CS412_A1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309/Lab 1.md",
+                "file": "202309/Yiqun_Yiming_CS412_A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309/Lab 1.md"
+                "file": "202309/Yiqun_Yiming_CS412_A1.md"
               }
             }
           },
@@ -207,13 +207,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cf8aadadb8b82695",
+  "active": "5e7690455cf8bd24",
   "lastOpenFiles": [
+    "visa/Nice_Dec_25_28.md",
+    "202309/Lab 1.md",
     "202309/Lab 5.md",
     "202309/Lab 4.md",
     "202309/Lab 3.md",
     "202309/Lab 2.md",
-    "202309/Lab 1.md",
     "202309/Lab 6.md",
     "Pasted image 20231204192015.png",
     "Pasted image 20231204144745.png",
@@ -229,7 +230,6 @@
     "202309/Essay.md",
     "202309/CS917_A2.md",
     "202309/Yiqun_Yiming_CS412_A1.md",
-    "visa/Nice_Dec_25_28.md",
     "Excalidraw/Labs/Drawing 2023-11-16 15.09.03.excalidraw.md",
     "visa",
     "Excalidraw/Labs/Drawing 2023-11-16 15.30.36.excalidraw.md",
