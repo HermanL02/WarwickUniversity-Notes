@@ -4,8 +4,9 @@
 - Image
 - Text
 - Website in the image
-## Environment
-微信小程序 - 珊瑚安全API 后更名为 微信公众平台内容安全API
+## Where they use Censorship? 
+1. 微信小程序 - 珊瑚安全API 后更名为 微信公众平台内容安全API - All developers need to include this in the data
+2. 
 
 ##  
 # Technologies WeChat use
