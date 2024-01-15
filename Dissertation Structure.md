@@ -1,8 +1,12 @@
 # Background: Why Anti-censorship needed? 
 # How does WeChat censor data?  
-## Image
-## Text
-## Website in the image 
+## Types 
+- Image
+- Text
+- Website in the image
+## Environment
+腾讯
+##  
 # Technologies WeChat use
 1. 文本识别
 2. Hash
