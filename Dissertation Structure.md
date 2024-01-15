@@ -6,7 +6,8 @@
 - Website in the image
 ## Where they use Censorship? 
 1. 微信小程序 - 珊瑚安全API 后更名为 微信公众平台内容安全API - All developers need to include this in the data
-2. Private Chat - 
+2. Private Chat 
+3. 天御安全API，腾讯云API
 
 ##  
 # Technologies WeChat use
