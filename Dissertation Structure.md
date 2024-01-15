@@ -3,6 +3,7 @@
 ## Image
 ## Text
 ## Website in the image 
+## Technologies WeChat use
 文本识别/Hash/关键词
 3. Methods
 ①End to end encryption(不方便)
