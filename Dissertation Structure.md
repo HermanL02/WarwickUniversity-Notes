@@ -24,3 +24,5 @@
 
 # Question Today
 1. How to make it more academic
+
+输入法 process it  encrypt and decrypt enter the password  to see the message
