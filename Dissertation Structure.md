@@ -5,7 +5,8 @@
 - Text
 - Website in the image
 ## Environment
-腾讯
+微信小程序 - 珊瑚安全API 后更名为 微信公众平台内容安全API
+
 ##  
 # Technologies WeChat use
 1. 文本识别
