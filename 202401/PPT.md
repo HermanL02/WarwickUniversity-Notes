@@ -56,7 +56,9 @@
 ## False Positive
 - Parents share kids shower time photo be classified as CSAM
 ## Inequality between Person and Company
-- The customer would not know without E2EE
+- The customer would not know without E2EE, how the company gonna treat their data
+## Crimes already had before E2EE invented
+- The Government could use other technologies to
 
 # What's the Future? 
 - Current status of the proposal and debates.
