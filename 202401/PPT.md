@@ -58,7 +58,9 @@
 ## Inequality between Person and Company
 - The customer would not know without E2EE, how the company gonna treat their data
 ## Crimes already had before E2EE invented
-- The Government could use other technologies to
+- The Government could use other technologies to beat the crime
+- The Criminal gonna use VPN and other softwares, while the normal users lose their privacy. 
+- Darknet and so on still gonna be criminal's chating b
 
 # What's the Future? 
 - Current status of the proposal and debates.
