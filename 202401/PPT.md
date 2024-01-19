@@ -56,6 +56,7 @@
 - Personal reflection on the topic.
 
 ## Slide 10: References
--  
+- Map: https://www.gp-digital.org/world-map-of-encryption/#
+- 
 - Grammar Correction and Speech Practice: ChatGPT
 
