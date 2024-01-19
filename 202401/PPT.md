@@ -41,7 +41,7 @@
 ## China
 - Without cybersecurity, there is no national security - Jinping Xi
 - Cybersecurity Law: Keep at least six month users' online activity to aid law enforcement
-- 
+- 《互联网信息服务管理办法》第十四条的规定，互联网信息服务提供者和互联网接入服务提供者的记录备份应当保存60日，并在国家有关机关依法查询时，予以提供。
 # Why Not? 
 ## History: PRISM
 - Edward Snowden
