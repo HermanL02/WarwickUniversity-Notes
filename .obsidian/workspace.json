@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dissertation Structure.md",
+                "file": "202401/PPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dissertation Structure.md",
+                "file": "202401/PPT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dissertation Structure.md",
+                "file": "202401/PPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dissertation Structure.md"
+                "file": "202401/PPT.md"
               }
             }
           },
@@ -187,8 +187,10 @@
   },
   "active": "e2caffa9cec411ff",
   "lastOpenFiles": [
-    "202309/Lab 6.md",
     "Dissertation Structure.md",
+    "202401/PPT.md",
+    "202401",
+    "202309/Lab 6.md",
     "202309/Sry.md",
     "202309/Lab 1.md",
     "202309/Essay.md",
@@ -225,7 +227,6 @@
     "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw 1.md",
     "Excalidraw/CS917_A2_Q6/Drawing 2023-11-21 14.49.43.excalidraw.md",
     "Excalidraw/CS917_A2_Q5/Drawing 2023-11-21 14.11.59.excalidraw.md",
-    "Excalidraw/CS917_A2_Q5/Drawing 2023-11-21 14.11.59.excalidraw 1.md",
     "Excalidraw/CS917_A2_Q6",
     "Excalidraw/CS917_A2_Q5",
     "202309",
