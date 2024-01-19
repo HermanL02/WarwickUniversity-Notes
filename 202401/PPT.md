@@ -9,6 +9,8 @@
 ## Introduction and Motivation
 - Supporters: Five Eye Nations & many EU Countries & China
 - Refusers: Some citizens and some companies
+- Expected changes and new bills coming out in the close future
+- 
 ## More Precise
 - Should Government Have Access to Personal Chat Records For Security Reason?
 ## Table of Contents
