@@ -2,29 +2,30 @@
 
 ## Title
 - **Title:** The Deliberation on End-to-End Encryption: Balancing: Privacy or Security
-- **Subtitle:** Warwick University Research Methods
+- **Subtitle:** Warwick University CS908
 - Herman Liang 5526872
 - Jan.19, 2024
 
 ## Introduction and Motivation
 - Supporters: Five Eye Nations & many EU Countries & China
 - Refusers: Some citizens and some companies
-- Argue now
+- Great Argue now
 - Expected decisions and new bills coming out in the close future
 ## More Precise
 - Should Government Have Access to Personal Chat Records For Security Reason?
 ## Table of Contents
 - Part1: E2EE and its importance in digital communication.
-- Part2: Government considerations on E2EE(Five eye countries, EU, China)
+- Part2: Government views on E2EE(Five eye countries, EU, China)
 - Part3: Citizens and Companies view
 - Part4: My opinion
 - Part5: Question
-## Part 1: E2EE
+# Part 1: E2EE
 ## What is E2EE? 
 
-# 
+# Part 2: Government View
 
-## EU's Proposal on Child Sex Abuse Regulation (CSAR)
+## EU
+### Proposal on Child Sex Abuse Regulation (CSAR)
 - Purpose and key aspects of the CSAR.
 - Controversy surrounding its impact on E2EE and private communications.
 - Source: Center for Internet and Society at Stanford University
