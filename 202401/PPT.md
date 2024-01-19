@@ -15,7 +15,7 @@
 - Should Government Have Access to Personal Chat Records For Security Reason?
 ## Table of Contents
 - E2EE and its importance in digital communication.
-- Government considerations on E2EE. 
+- Government considerations on E2EE(EU, China)
 - Citizens and Companies view
 - Sources:
   - Center for Internet and Society at Stanford University
