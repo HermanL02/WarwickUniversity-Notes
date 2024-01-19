@@ -9,7 +9,7 @@
 ## Introduction and Motivation
 - E2EE and its importance in digital communication.
 - Government considerations on E2EE. 
-- Citizens and Companies 
+- Citizens and Companies view
 - Sources:
   - Center for Internet and Society at Stanford University
   - European Parliament's Think Tank
