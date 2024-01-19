@@ -41,6 +41,7 @@
 - Source: European Parliament's Parliamentary question documentation
 ## China
 - Without cybersecurity, there is no national security - Jinping Xi
+- Cybersecurity Law: Keep at least six month users' online activity to aid law enforcement
 - 
 # Why Not? 
 ## History: PRISM
