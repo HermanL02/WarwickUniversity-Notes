@@ -1,7 +1,7 @@
-# The EU's Deliberation on End-to-End Encryption: Balancing Privacy and Security
+# The Deliberation on End-to-End Encryption: Privacy or Security
 
 ## Slide 1: Title Slide
-- **Title:** The EU's Deliberation on End-to-End Encryption: Balancing Privacy and Security
+- **Title:** The Deliberation on End-to-End Encryption: Balancing Privacy and Security
 - **Subtitle:** An Insight into the Ongoing Debate
 - **Presenter's Name**
 - **Date**
