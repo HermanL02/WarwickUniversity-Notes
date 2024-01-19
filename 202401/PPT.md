@@ -31,12 +31,10 @@
 - Source: Center for Internet and Society at Stanford University
 ### Spain
 
-## Slide 5: Technical Challenges of E2EE
-- Security benefits of E2EE.
-- Challenges for law enforcement in investigating online crimes.
-- Source: European Parliament's Think Tank
+## US
 
-## Slide 6: Ethical and Legal Considerations
+
+## UUK
 - Importance of privacy rights.
 - Need to protect vulnerable individuals.
 - International human rights law considerations.
