@@ -44,7 +44,7 @@
 - 
 # Why Not? 
 ## History: Edward Snowden 
-- XKeyscore: United States
+- XKeyscore: Led by United States (Germany, Sweden, Denmark, Japan participated)
 - Tempora: United Kingdom GCHQ
 - ECHELON: Five Eye Nations
 ## History: China News Blocking
