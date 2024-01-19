@@ -7,7 +7,8 @@
 - Jan.19, 2024
 
 ## Introduction and Motivation
-- Supporters: Five Eye Nations & many EU Countries
+- Supporters: Five Eye Nations & many EU Countries & China
+- Refusers: Some citizens and some companies
 ## More Precise
 - Should Government Have Access to Personal Chat Records For Security Reason?
 ## Table of Contents
