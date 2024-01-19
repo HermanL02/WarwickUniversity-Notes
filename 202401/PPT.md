@@ -45,8 +45,10 @@
 - XKeyscore: United States
 - Tempora: United Kingdom
 - ECHELON: Five Eye Nations
-## History: Accusion of Gaoli Zhang
-
+## History: Accusing of Gaoli Zhang
+- Sextual Assault
+- Messages cut
+- 
 
 ## Slide 8: Future Prospects
 - Current status of the proposal and debates.
