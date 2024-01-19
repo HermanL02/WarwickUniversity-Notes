@@ -56,7 +56,7 @@
 ## False Positive
 - Parents share kids shower time photo be classified as CSAM
 - 
-## Slide 8: Future Prospects
+# Where is the Future?
 - Current status of the proposal and debates.
 - Potential outcomes of the proposal.
 - Source: European Parliament's Think Tank
