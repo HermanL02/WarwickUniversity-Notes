@@ -1,19 +1,19 @@
 # The Deliberation on End-to-End Encryption: Privacy or Security
 
-## Title
+# Title
 - **Title:** The Deliberation on End-to-End Encryption: Balancing: Privacy or Security
 - **Subtitle:** Warwick University CS908
 - Herman Liang 5526872
 - Jan.19, 2024
 
-## Introduction and Motivation
+# Introduction and Motivation
 - Supporters: Five Eye Nations & many EU Countries & China
 - Refusers: Some governments, citizens and some companies
 - Great Argue now
 - Expected decisions and new bills coming out in the close future
-## More Precise
+# More Precise
 - Should Government Have Access to Personal Chat Records For Security Reason?
-## Table of Contents
+# Table of Contents
 - Part1: E2EE and its importance in digital communication.
 - Part2: Government views on E2EE(Five eye countries, EU, China)
 - Part3: Citizens and Companies view
@@ -34,18 +34,15 @@
 ## US
 
 
-## UUK
+## UK
 - Importance of privacy rights.
 - Need to protect vulnerable individuals.
 - International human rights law considerations.
 - Source: European Parliament's Parliamentary question documentation
+## China
+# Why Not? 
+## History: Edward Snowden 
 
-## Slide 7: Global Perspectives and Implications
-- Comparison with other countries' approaches.
-- Global impact of the EU's decision.
-- Sources:
-  - Center for Internet and Society at Stanford University
-  - Tailored-access.com
 
 ## Slide 8: Future Prospects
 - Current status of the proposal and debates.
