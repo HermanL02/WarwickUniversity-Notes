@@ -12,7 +12,7 @@
 - Great Argue now
 - Expected decisions and new bills coming out in the close future
 # More Precise
-- Should Government Have Access to Personal Chat Records For Security Reason?
+- Should Government Have Access to Personal Chat Records For Security Reason? 
 # Table of Contents
 - Part1: E2EE and its importance in digital communication.
 - Part2: Government views on E2EE(Five eye countries, EU, China)
