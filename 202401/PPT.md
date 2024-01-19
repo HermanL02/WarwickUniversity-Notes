@@ -1,11 +1,15 @@
 # The Deliberation on End-to-End Encryption: Privacy or Security
 
-## Slide 1: Title Slide
+## Title
 - **Title:** The Deliberation on End-to-End Encryption: Balancing: Privacy or Security
 - **Subtitle:** Warwick University Research Methods
 - Herman Liang 5526872
 - Jan.19, 2024
-
+## More Precise
+- **Title:** The Deliberation on End-to-End Encryption: Balancing: Privacy or Security
+- **Subtitle:** Warwick University Research Methods
+- Herman Liang 5526872
+- Jan.19, 2024
 ## Slide 2: Introduction and Motivation
 - Overview of E2EE and its importance in digital communication.
 - Context of the EU's considerations on E2EE.
