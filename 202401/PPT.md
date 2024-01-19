@@ -63,6 +63,8 @@
 ## Slide 10: References
 - Map: https://www.gp-digital.org/world-map-of-encryption/#
 - UK: https://www.technologyreview.com/2023/10/16/1081694/the-fight-over-the-future-of-encryption-explained/
-- China, 
+- China, Iran and Russia: https://www.csis.org/analysis/crypto-wars-are-over
+- US: https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption
+- 
 - Grammar Correction and Speech Practice: ChatGPT
 
