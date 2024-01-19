@@ -40,10 +40,12 @@
 - International human rights law considerations.
 - Source: European Parliament's Parliamentary question documentation
 ## China
+- Laws
+- 
 # Why Not? 
 ## History: Edward Snowden 
 - XKeyscore: United States
-- Tempora: United Kingdom
+- Tempora: United Kingdom GCHQ
 - ECHELON: Five Eye Nations
 ## History: Accusing of Gaoli Zhang
 - Sextual Assault
