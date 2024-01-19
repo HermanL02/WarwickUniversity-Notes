@@ -17,6 +17,11 @@
 - E2EE and its importance in digital communication.
 - Government considerations on E2EE(Five eye countries, EU, China)
 - Citizens and Companies view
+- My opinion
+- Question
+## Part 1: E2EE
+## What is E2EE? 
+
 ## EU's Proposal on Child Sex Abuse Regulation (CSAR)
 - Purpose and key aspects of the CSAR.
 - Controversy surrounding its impact on E2EE and private communications.
