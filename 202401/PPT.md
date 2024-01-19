@@ -37,7 +37,7 @@
 - the Kids Online Safety Act (KOSA)
 ## UK
 - the Online Safety Bill
-- Article End-to-End Encryption and Child Safety
+- Article: End-to-End Encryption and Child Safety
 ## China
 - Without cybersecurity, there is no national security - Jinping Xi
 - Cybersecurity Law: Keep at least six month users' online activity to aid law enforcement
