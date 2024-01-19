@@ -55,7 +55,8 @@
 - Messages Block
 ## False Positive
 - Parents share kids shower time photo be classified as CSAM
-- 
+## Inequality between Person and Company
+- The customer would not know without E2EE
 
 # What's the Future? 
 - Current status of the proposal and debates.
