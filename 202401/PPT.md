@@ -41,7 +41,7 @@
 ## China
 - Without cybersecurity, there is no national security - Jinping Xi
 - Cybersecurity Law: Keep at least six month users' online activity to aid law enforcement
-- WeC
+- 
 # Why Not? 
 ## History: PRISM
 - Edward Snowden
