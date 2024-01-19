@@ -32,6 +32,9 @@
 ### Spain
 - Desirable to legislatively prevent EU-based service providers from implementing end-to-end encryption
 ## US
+- the EARN IT Act
+- STOP CSAM Act
+- the Kids Online Safety Act (KOSA)
 - 
 
 
