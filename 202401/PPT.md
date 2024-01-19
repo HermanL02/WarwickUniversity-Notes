@@ -52,5 +52,6 @@
 - Personal reflection on the topic.
 
 ## Slide 10: References
-- List all sources used in APA or MLA format.
+-  
+- Grammar Correction and Speech Practice: ChatGPT
 
