@@ -40,7 +40,7 @@
 - International human rights law considerations.
 - Source: European Parliament's Parliamentary question documentation
 ## China
-- without cybersecurity, there is no national security - 
+- Without cybersecurity, there is no national security - Jinping Xi
 - 
 # Why Not? 
 ## History: PRISM
