@@ -30,6 +30,7 @@
 - Controversy surrounding its impact on E2EE and private communications.
 - Source: Center for Internet and Society at Stanford University
 ### Spain
+- 
 
 ## US
 
