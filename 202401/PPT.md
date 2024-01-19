@@ -60,12 +60,12 @@
 ## Crimes already had before E2EE invented
 - The Government could use other technologies to beat the crime
 - The Criminal gonna use VPN and other softwares, while the normal users lose their privacy. 
-- Darknet and so on still gonna be criminal's chating b
+- Darknet and so on still gonna be criminal's chat box
 
 # What's the Future? 
-- Current status of the proposal and debates.
-- Potential outcomes of the proposal.
-- Source: European Parliament's Think Tank
+- E2EE should still be applied
+- E2EE should be an option
+- 
 
 # Questions
 ## What about other types of 
