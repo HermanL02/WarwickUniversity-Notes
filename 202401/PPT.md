@@ -47,7 +47,7 @@
 - ECHELON: Five Eye Nations
 ## History: Accusing of Gaoli Zhang
 - Sextual Assault
-- Messages cut
+- Messages Ban
 - 
 
 ## Slide 8: Future Prospects
