@@ -7,14 +7,17 @@
 - Jan.19, 2024
 
 ## Introduction and Motivation
+- 
+## More Precise
+- **Title:** Should Government Have Access to Personal Chat Records?
+## Table of Contents
 - E2EE and its importance in digital communication.
 - Government considerations on E2EE. 
 - Citizens and Companies view
 - Sources:
   - Center for Internet and Society at Stanford University
   - European Parliament's Think Tank
-## More Precise
-- **Title:** Should Government Have Access to Personal Chat Records?
+
 ## Slide 3: EU's Proposal on Child Sex Abuse Regulation (CSAR)
 - Purpose and key aspects of the CSAR.
 - Controversy surrounding its impact on E2EE and private communications.
