@@ -8,7 +8,7 @@
 
 ## Introduction and Motivation
 - Supporters: Five Eye Nations & many EU Countries & China
-- Refusers: Some citizens and some companies
+- Refusers: Some governments, citizens and some companies
 - Great Argue now
 - Expected decisions and new bills coming out in the close future
 ## More Precise
@@ -29,12 +29,7 @@
 - Purpose and key aspects of the CSAR.
 - Controversy surrounding its impact on E2EE and private communications.
 - Source: Center for Internet and Society at Stanford University
-
-## Slide 4: The Debate Among EU Member States
-- Different stances:
-  - Countries supporting the ban on E2EE (e.g., Spain).
-  - Countries advocating for privacy and E2EE (e.g., Germany, Finland, Netherlands).
-- Source: Tailored-access.com
+### Spain
 
 ## Slide 5: Technical Challenges of E2EE
 - Security benefits of E2EE.
