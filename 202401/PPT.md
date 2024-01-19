@@ -37,6 +37,7 @@
 - the Kids Online Safety Act (KOSA)
 ## UK
 - the Online Safety Bill
+-  Investigatory Powers Act 2016 
 - Article: End-to-End Encryption and Child Safety
 ## China
 - Without cybersecurity, there is no national security - Jinping Xi
