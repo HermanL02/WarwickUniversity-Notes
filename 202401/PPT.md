@@ -49,9 +49,9 @@
 - Tempora: United Kingdom GCHQ
 - ECHELON: Five Eye Nations
 ## History: China News Blocking
-- Sextual Assault
+- Block of Gaoli Zhang Sextual Assault
+- Block of COVID Policies
 - Messages Block
-- 
 
 ## Slide 8: Future Prospects
 - Current status of the proposal and debates.
