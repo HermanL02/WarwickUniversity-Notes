@@ -15,13 +15,9 @@
 - Should Government Have Access to Personal Chat Records For Security Reason?
 ## Table of Contents
 - E2EE and its importance in digital communication.
-- Government considerations on E2EE(EU, China)
+- Government considerations on E2EE(Five eye countries, EU, China)
 - Citizens and Companies view
-- Sources:
-  - Center for Internet and Society at Stanford University
-  - European Parliament's Think Tank
-
-## Slide 3: EU's Proposal on Child Sex Abuse Regulation (CSAR)
+## EU's Proposal on Child Sex Abuse Regulation (CSAR)
 - Purpose and key aspects of the CSAR.
 - Controversy surrounding its impact on E2EE and private communications.
 - Source: Center for Internet and Society at Stanford University
