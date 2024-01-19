@@ -9,7 +9,7 @@
 ## Introduction and Motivation
 - Supporters: Five Eye Nations & many EU Countries
 ## More Precise
-- **Title:** Should Government Have Access to Personal Chat Records?
+- Should Government Have Access to Personal Chat Records For Security Reason?
 ## Table of Contents
 - E2EE and its importance in digital communication.
 - Government considerations on E2EE. 
