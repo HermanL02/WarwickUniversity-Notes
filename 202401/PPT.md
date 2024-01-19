@@ -35,14 +35,9 @@
 - the EARN IT Act
 - STOP CSAM Act
 - the Kids Online Safety Act (KOSA)
-- 
-
-
 ## UK
-- Importance of privacy rights.
-- Need to protect vulnerable individuals.
-- International human rights law considerations.
-- Source: European Parliament's Parliamentary question documentation
+- the Online Safety Bill
+- 
 ## China
 - Without cybersecurity, there is no national security - Jinping Xi
 - Cybersecurity Law: Keep at least six month users' online activity to aid law enforcement
