@@ -2,13 +2,14 @@
 # The Deliberation on End-to-End Encryption: Privacy or Security
 
 # Title
-大家好，我是梁逸群，今天我们的主题是关于E2EE的
+大家好，我是梁逸群，今天我们的主题是关于E2EE的隐私和安全问题
 - **Title:** End-to-End Encryption: Privacy vs. Security
 - **Subtitle:** Warwick University, CS908
 - Herman Liang, 5526872
 - January 19, 2024
 
 # Introduction and Motivation
+
 - Topic: Ban E2EE or monitor E2EE
 - Supporters: Five Eyes Nations, many EU countries, China
 - **Opponents:** Certain governments, citizens, and companies
