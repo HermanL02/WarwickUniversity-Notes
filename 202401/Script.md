@@ -51,13 +51,14 @@
 - Xi Jinping's Stance: 'No Cybersecurity, No National Security
 - Cybersecurity Law: User Data Retention for Six Months
 - Internet Information Services Management: Record-keeping and Law Enforcement Access
-我们不难看出，这些立法的目的的
+我们不难看出，这些立法的目的的原因都是为了组织犯罪，保护公民的安全，看起来我们在right track上，但是为什么还是有那么多人反对呢? 
 # Why Not? Arguments Against Restricting E2EE
 ## History: PRISM - Surveillance Programs
 - Edward Snowden
 - XKeyscore: Led by United States (Germany, Sweden, Denmark, Japan participated)
 - Tempora: United Kingdom GCHQ
 - ECHELON: Five Eye Nations
+这个很久之前的事件揭露了每个guo'j
 ## History: Censorship and Privacy in China
 - Blocking News: Gaoli Zhang Sexual Assault Case
 - Censorship of COVID-19 Policies
