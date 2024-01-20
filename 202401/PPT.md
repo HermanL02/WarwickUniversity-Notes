@@ -71,7 +71,7 @@
 ## What about the other types of data access government requires? Why don't you mention them today?  
 - Due to time constraints, today's focus is specifically on E2EE. However, the broader context of governmental data access is an important and complex topic worthy of separate discussion.
 ## 目前是否存在技术手段，既能保证信息的端到端加密，同时又能在必要时让政府机构合法地访问加密数据？
-## 你认为是否需要
+## 你认为我们是否应该zhiding
 
 ## References
 - Map: https://www.gp-digital.org/world-map-of-encryption/#
