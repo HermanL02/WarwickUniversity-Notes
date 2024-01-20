@@ -86,6 +86,7 @@
 - US: https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption
 - EARN IT: https://www.eff.org/deeplinks/2023/05/dangerous-earn-it-bill-advances-out-committee-several-senators-offer-objections
 - EARN IT: https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it
+- Tempora: https://www.theguardian.com/uk/2013/jun/21/gchq-cables-secret-world-communications-nsa
 - Ireland False Positive: https://www.iccl.ie/news/an-garda-siochana-unlawfully-retains-files-on-innocent-people-who-it-has-already-cleared-of-producing-or-sharing-of-child-sex-abuse-material/
 - Spain: https://dig.watch/updates/spain-pushes-for-encryption-restrictions-in-eu-raising-concerns-for-privacy-and-child-safety
 - Crime and E2EE: https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-023-00185-4
