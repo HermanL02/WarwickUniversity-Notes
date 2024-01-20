@@ -10,7 +10,6 @@
 
 # Introduction and Motivation
 
-- Topic: Ban E2EE or monitor E2EE
 - Supporters: Five Eyes Nations, many EU countries, China
 - **Opponents:** Certain governments, citizens, and companies
 - Significant debate underway
