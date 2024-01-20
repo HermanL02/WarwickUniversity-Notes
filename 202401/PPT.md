@@ -65,8 +65,8 @@
 - Darknet: A Persistent Criminal Communication Channel
 
 # What's the Future? 
-- E2EE should still be applied
-- E2EE should be an option
+- Maintaining E2EE: Essential for Privacy and Security
+- Offering E2EE as an Option: Balancing Accessibility and Confidentiality
 
 # Questions
 ## What about the other types of data access government requires? Why don't you mention them today?  
