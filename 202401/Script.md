@@ -31,7 +31,7 @@
 - the Online Safety Bill (Gov declared that it doesn't restrict E2EE)
 - Investigatory Powers Act 2016 
 - Article: End-to-End Encryption and Child Safety
-政府方面最近写了一篇文章，关于为什么他们要
+政府方面最近写了一篇文章，关于为什么他们要对公民的聊天记录感兴趣。他举了大量的例子，我也非常的同意。例如他认为英国有多达83万人，可能在网上或者当面对儿童进行性威胁。英国对儿童性虐待的调查已经识别出了2,700万张图像。
 ## China
 2017年6月1日起施行的《中华人民共和国网络安全法》第二十一条规定，“采取监测、记录网络运行状态、网络安全事件的技术措施，并按照规定留存相关的网络日志不少于六个月。”依据此条款，**包含个人信息的相关网络日志至少需要保存六个月**。
 - Xi Jinping's Stance: 'No Cybersecurity, No National Security
