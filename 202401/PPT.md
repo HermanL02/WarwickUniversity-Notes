@@ -58,10 +58,11 @@
 - Data Handling Disparities: Consumer Ignorance vs. Corporate Practices
 ## Inequality between Person and Company
 - The customer would not know without E2EE, how the company gonna treat their data
-## Crimes already had before E2EE invented
-- The Government could use other technologies to beat the crime
-- The Criminal gonna use VPN and other softwares, while the normal users lose their privacy. 
-- Darknet and so on still gonna be criminal's chat box
+## Pre-E2EE Crime and Alternative Solutions
+- Historical Crime and Non-E2EE Solutions
+- Criminals' Adaptation: VPNs and Other Technologies
+- Persisting Privacy Loss for Law-Abiding Citizens
+- Darknet: A Persistent Criminal Communication Channel
 
 # What's the Future? 
 - E2EE should still be applied
