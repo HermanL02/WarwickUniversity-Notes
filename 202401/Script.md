@@ -69,7 +69,7 @@
 - Only 20% is confirmed as CSAM content, more than 10% are confirmed as misclassified photos in Ireland
 - Case of Misclassified CSAM: Innocuous Family Photos
 - Data Handling Disparities: Consumer Ignorance vs. Corporate Practices
-同时我们也要注意这个东西有一些误报率，因为在一次实验中表示爱尔兰的警察机构收到了来自美国的儿童色情机构的有关报告，
+同时我们也要注意这个东西有一些误报率，因为在一次实验中表示爱尔兰的警察机构收到了来自美国的儿童色情机构的有关报告，其中美国相关发布了4000多张照片，爱尔兰当局发现其中的417张都是家庭合照，或者是一些在沙滩上的照片。这导致了这些照片在当事人不知情的情况下被无辜的泄露，这也侵犯了当事人的权利。
 ## Inequality between Person and Company
 - The customer would not know without E2EE, how the company gonna treat their data
 ## Pre-E2EE Crime and Alternative Solutions
