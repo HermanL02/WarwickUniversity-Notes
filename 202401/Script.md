@@ -59,7 +59,7 @@
 - Censorship of COVID-19 Policies
 - Control over Messaging Platforms
 ## The Risks of False Positive
-- 
+- 471/4192 are misclassified photos
 - Case of Misclassified CSAM: Innocuous Family Photos
 - Data Handling Disparities: Consumer Ignorance vs. Corporate Practices
 ## Inequality between Person and Company
