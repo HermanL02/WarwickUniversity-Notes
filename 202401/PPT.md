@@ -53,8 +53,9 @@
 - Blocking News: Gaoli Zhang Sexual Assault Case
 - Censorship of COVID-19 Policies
 - Control over Messaging Platforms
-## False Positive
-- Parents share kids shower time photo be classified as CSAM
+## The Risks of False Positive
+- Case of Misclassified CSAM: Innocuous Family Photos
+- Data Handling Disparities: Consumer Ignorance vs. Corporate Practices
 ## Inequality between Person and Company
 - The customer would not know without E2EE, how the company gonna treat their data
 ## Crimes already had before E2EE invented
