@@ -78,7 +78,7 @@
 - Criminals' Adaptation: VPNs and Other Technologies
 - Persisting Privacy Loss for Law-Abiding Citizens
 - Darknet: A Persistent Criminal Communication Channel
-另外一个理由是还有人指出儿童色情犯罪以及其他类型的恐怖主义犯罪，在端到端加密出现之前就出现了。这些犯罪的犯罪率在端到端加密出现之后并没有明显变
+另外一个理由是还有人指出儿童色情犯罪以及其他类型的恐怖主义犯罪，在端到端加密出现之前就出现了。这些犯罪的犯罪率在端到端加密出现之后并没有明显变化。
 # What's the Future? 
 - Maintaining E2EE: Essential for Privacy and Security
 - Offering E2EE as an Option: Balancing Accessibility and Confidentiality
@@ -98,6 +98,7 @@
 - EARN IT: https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it
 - Ireland False Positive: https://www.iccl.ie/news/an-garda-siochana-unlawfully-retains-files-on-innocent-people-who-it-has-already-cleared-of-producing-or-sharing-of-child-sex-abuse-material/
 - Spain: https://dig.watch/updates/spain-pushes-for-encryption-restrictions-in-eu-raising-concerns-for-privacy-and-child-safety
+- Crime and E2EE: https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-023-00185-4
 - Grammar Correction and Speech Practice tool applied: Chat GPT
 
 
