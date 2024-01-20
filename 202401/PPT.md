@@ -43,7 +43,7 @@
 - Xi Jinping's Stance: 'No Cybersecurity, No National Security
 - Cybersecurity Law: User Data Retention for Six Months
 - Internet Information Services Management: Record-keeping and Law Enforcement Access
-# Why Not? 
+# Why Not? Arguments Against Restricting E2EE
 ## History: PRISM
 - Edward Snowden
 - XKeyscore: Led by United States (Germany, Sweden, Denmark, Japan participated)
