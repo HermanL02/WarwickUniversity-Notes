@@ -15,9 +15,9 @@
 # More Precise
 - Should Government Have Access to Personal Chat Records For Security Reason? 
 # Table of Contents
-- Part1: E2EE and its importance in digital communication.
-- Part2: Government views on E2EE(Five eye countries, EU, China)
-- Part3: Citizens and Companies view
+- Introduction: The Encryption Debate
+- Part2: Government Perspectives on E2EE: Five Eyes, EU, China
+- Part3: "Views of Citizens and Companies"
 - Part4: My opinion
 - Part5: Question
 # Part 1: E2EE
