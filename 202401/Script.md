@@ -51,7 +51,7 @@
 - Xi Jinping's Stance: 'No Cybersecurity, No National Security
 - Cybersecurity Law: User Data Retention for Six Months
 - Internet Information Services Management: Record-keeping and Law Enforcement Access
-我们不难看出，这些立法的目的的原因都是为了组织犯罪，保护公民的安全，看起来我们在right track上，但是为什么还是有那么多人反对呢? 
+我们不难看出，这些立法的目的的原因都是为了组织犯罪，保护公民的安全，看起来我们在right track上，但是是不是有什么地方我们错过了? 
 # Why Not? Arguments Against Restricting E2EE
 ## History: PRISM - Surveillance Programs
 - Edward Snowden
@@ -97,7 +97,7 @@
 - Grammar Correction and Speech Practice tool applied: Chat GPT
 
 
-But is there some where went wrong? 
+
 
 
 ## UK Bills
