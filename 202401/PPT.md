@@ -44,15 +44,15 @@
 - Cybersecurity Law: User Data Retention for Six Months
 - Internet Information Services Management: Record-keeping and Law Enforcement Access
 # Why Not? Arguments Against Restricting E2EE
-## History: PRISM
+## History: PRISM - Surveillance Programs
 - Edward Snowden
 - XKeyscore: Led by United States (Germany, Sweden, Denmark, Japan participated)
 - Tempora: United Kingdom GCHQ
 - ECHELON: Five Eye Nations
-## History: China News Blocking
-- Block of Gaoli Zhang Sextual Assault
-- Block of COVID Policies
-- Messages Block
+## History: Censorship and Privacy in China
+- Blocking News: Gaoli Zhang Sexual Assault Case
+- Censorship of COVID-19 Policies
+- Control over Messaging Platforms
 ## False Positive
 - Parents share kids shower time photo be classified as CSAM
 ## Inequality between Person and Company
