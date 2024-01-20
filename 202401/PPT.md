@@ -16,12 +16,13 @@
 - Should Government Have Access to Personal Chat Records For Security Reason? 
 # Table of Contents
 - Introduction: The Encryption Debate
+- Part1: Brief Background
 - Part2: Government Perspectives on E2EE: Five Eyes, EU, China
 - Part3: Views of Citizens and Companies
 - Part4: Personal Analysis: My Perspective
 - Part5: Interactive Session: Questions and Discussions
 # Part 1: E2EE
-## What is E2EE? 
+## Brief: What is E2EE? 
 
 # Part 2: Government View
 
