@@ -64,6 +64,7 @@
 - Blocking News: Gaoli Zhang Sexual Assault Case
 - Censorship of COVID-19 Policies
 - Control over Messaging Platforms
+中国经常性的监控微信上的消息，包括图片和文字消息，尤其是在特殊时期。例如之前在彭帅指控国家。
 ## The Risks of False Positive
 - Only 20% is confirmed as CSAM content, more than 10% are confirmed as misclassified photos in Ireland
 - Case of Misclassified CSAM: Innocuous Family Photos
