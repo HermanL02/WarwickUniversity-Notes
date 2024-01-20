@@ -38,9 +38,8 @@
 - Legislative efforts to limit E2EE among EU service providers
 西班牙正在欧盟的内部带头限制数百万人的加密理由是需要防止儿童性虐待内容，然而这可能会危及到端到端加密。同时丹麦和爱尔兰在支持扫描的同时来保护加密，但专家认为这在技术上是不可能的。
 ## US
-- EARN IT Act
+- EARN IT Act and STOP CSAM Act
 第 230(e)(1) 条，联邦检察官已经可以要求提供商对其服务中的 CSAM 负责（即使州检察官和民事原告不能这样做）。如果颁布它将会对大大小小的互联网公司施加巨大的法律压力，要求其停止使用真正的端到端加密，从而扫描所有用户信息照片和文件。
-- STOP CSAM Act
 - Kids Online Safety Act (KOSA)
 ## UK
 - the Online Safety Bill (Gov declared that it doesn't restrict E2EE)
