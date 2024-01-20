@@ -67,18 +67,6 @@
 我认为这是一个全球性的话题，它并不只局限于某一个国家，我们很明显地看到，无论是发达国家发展中国家都在探讨有关于隐私保护的话题。这需要有关的国际组织，包括联合国在内共同制定一个新的标准，在隐私和安全之间取得一个均衡，来避免特殊国家对言论自由施加额外的限制。
 
 
-## References
-- Map: https://www.gp-digital.org/world-map-of-encryption/#
-- UK: https://www.technologyreview.com/2023/10/16/1081694/the-fight-over-the-future-of-encryption-explained/
-- China, Iran and Russia: https://www.csis.org/analysis/crypto-wars-are-over
-- US: https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption
-- EARN IT: https://www.eff.org/deeplinks/2023/05/dangerous-earn-it-bill-advances-out-committee-several-senators-offer-objections
-- EARN IT: https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it
-- Tempora: https://www.theguardian.com/uk/2013/jun/21/gchq-cables-secret-world-communications-nsa
-- Ireland False Positive: https://www.iccl.ie/news/an-garda-siochana-unlawfully-retains-files-on-innocent-people-who-it-has-already-cleared-of-producing-or-sharing-of-child-sex-abuse-material/
-- Spain: https://dig.watch/updates/spain-pushes-for-encryption-restrictions-in-eu-raising-concerns-for-privacy-and-child-safety
-- Crime and E2EE: https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-023-00185-4
-- Grammar Correction and Speech Practice tool applied: Chat GPT
 
 
 
