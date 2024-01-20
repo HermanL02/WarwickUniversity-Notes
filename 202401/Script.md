@@ -86,6 +86,7 @@
 - China, Iran and Russia: https://www.csis.org/analysis/crypto-wars-are-over
 - US: https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption
 - Ireland False Positive: https://www.iccl.ie/news/an-garda-siochana-unlawfully-retains-files-on-innocent-people-who-it-has-already-cleared-of-producing-or-sharing-of-child-sex-abuse-material/
+- Spain: 
 - Grammar Correction and Speech Practice tool applied: Chat GPT
 
 
