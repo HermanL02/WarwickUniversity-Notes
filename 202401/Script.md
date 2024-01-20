@@ -82,8 +82,9 @@
 # What's the Future? 
 - Maintaining E2EE: Essential for Privacy and Security
 - Offering E2EE as an Option: Balancing Accessibility and Confidentiality
-首先第1个可能性是欧盟目前正在推行电子身份证，所以我们可以要求一些平台对身份进行绑定，对于家长同意的情况，监控儿童是否会频繁与陌生的成人聊天。我知道，这意味着仍有可能会产生其他有关于隐私和安全的问题。
+首先第一个可能性是欧盟目前正在推行电子身份证，所以我们可以要求一些平台对身份进行绑定，对于家长同意的情况，监控儿童是否会频繁与陌生的成人聊天。我知道，这意味着仍有可能会产生其他有关于隐私和安全的问题。
 其次，我认为也许可以开源服务器端的代码。这意味着公众需要有权利知道目前什么代码正在被服务器所执行。这种方法可能会增加服务器权限管控的难度，因为涉及到企业内部的隐私，所以说我认为可能更好的由公益组织或者是其他政府部门进行。
+再次我认为政府应该在其他方面做出投入，例如中国采用了大量的公共区域监控摄像头来确保社会的稳定。如果有任何的犯罪线索，他们可以快速的确定发生的位置，固定证据。这很明显是一个相比禁止端到端加密更为有效且侵犯隐私更少的方法。
 我认为仍有其他方式来阻止犯罪，但不应该是以完全禁止E2EE的方式。
 # Questions
 ## What about the other types of data access government requires? Why don't you mention them today?  
