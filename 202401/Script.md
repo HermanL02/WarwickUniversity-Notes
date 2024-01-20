@@ -33,7 +33,7 @@
 
 ## EU
 ### Proposal on Child Sex Abuse Regulation (CSAR)
-支持这项法案的人，认为在线服务提供商啊，为监测在线儿童性虐待而采取的自愿行动是不够的，所以说他认为政府需要参与到
+支持这项法案的人，认为在线服务提供商啊，为监测在线儿童性虐待而采取的自愿行动是不够的，所以说他认为政府需要参与到其中。
 ### Spain's Approach to E2EE
 - Legislative efforts to limit E2EE among EU service providers
 ## US
@@ -59,6 +59,7 @@
 - Censorship of COVID-19 Policies
 - Control over Messaging Platforms
 ## The Risks of False Positive
+- 
 - Case of Misclassified CSAM: Innocuous Family Photos
 - Data Handling Disparities: Consumer Ignorance vs. Corporate Practices
 ## Inequality between Person and Company
