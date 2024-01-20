@@ -42,7 +42,6 @@
 斯诺登揭露的这些软件，来自各个国家且大量存在，这导致我们产生了一种对政府天然的不信任。很显然他们并没有遵守承诺来把这些信息只用于安全用途。
 ## History: Censorship and Privacy in China
 - Blocking News: Gaoli Zhang Sexual Assault Case
-- Censorship of COVID-19 Policies
 - Control over Messaging Platforms
 中国经常性的监控微信上的消息，包括图片和文字消息，尤其是在特殊时期。例如之前在彭帅指控上一任中国七位最有权力的人之一，国务院常委张高丽性侵犯的时候，在仅仅半个小时之内在微博上被封杀，然后在微信等聊天工具上没有办法发出相对应的消息，甚至是在一对一的私人聊天当中。所以说在这些事件上，无端到端加密的通信被用作了一种工具，不仅仅是一个制止犯罪的工具，而是一种限制言论自由的工具。这之后中国官方媒体并没有进行任何的辟谣，所以说我们有理由相信这一切是真实发生的，但是却是无法被广泛传播的。
 ## The Risks of False Positive

@@ -50,7 +50,6 @@
 - ECHELON: Five Eye Nations
 ## History: Censorship and Privacy in China
 - Blocking News: Gaoli Zhang Sexual Assault Case
-- Censorship of COVID-19 Policies
 - Control over Messaging Platforms
 ## The Risks of False Positive
 - Case of Misclassified CSAM: Innocuous Family Photos
