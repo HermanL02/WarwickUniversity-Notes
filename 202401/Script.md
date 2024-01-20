@@ -79,6 +79,7 @@
 - Persisting Privacy Loss for Law-Abiding Citizens
 - Darknet: A Persistent Criminal Communication Channel
 另外一个理由是还有人指出儿童色情犯罪以及其他类型的恐怖主义犯罪，在端到端加密出现之前就出现了。这些犯罪的犯罪率在端到端加密出现之后并没有明显变化。有来自荷兰的引述，表明在荷兰法院的定罪中，对依赖端到端加密的罪犯定罪方面似乎与不依赖端到端加密的罪犯一样成功。这意味着在具有合法搜捕令的情况下，司法部门可以通过调取嫌疑人的手机记录来进行一些证据的收集。在所有的判案过程中,我相信获取用户的聊天记录是一个可选项，他对案件的进展可能会有所推进，但它不是必需的。
+同时我认为对于真正的犯罪者来说，他们会采取很多种方式来规避目前已有的政府监控。目前采取的这些措施，可能只会影响到正常的账用户。
 # What's the Future? 
 - Maintaining E2EE: Essential for Privacy and Security
 - Offering E2EE as an Option: Balancing Accessibility and Confidentiality
