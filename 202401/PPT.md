@@ -32,9 +32,9 @@
 ### Spain's Approach to E2EE
 - Legislative efforts to limit E2EE among EU service providers
 ## US
-- the EARN IT Act
+- EARN IT Act
 - STOP CSAM Act
-- the Kids Online Safety Act (KOSA)
+- Kids Online Safety Act (KOSA)
 ## UK
 - the Online Safety Bill
 -  Investigatory Powers Act 2016 
