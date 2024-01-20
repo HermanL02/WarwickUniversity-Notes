@@ -82,8 +82,8 @@
 # What's the Future? 
 - Maintaining E2EE: Essential for Privacy and Security
 - Offering E2EE as an Option: Balancing Accessibility and Confidentiality
-我认为仍有其他方式来阻止犯罪，但不应该是以完全禁止E2EE的方式。首先第1个可能性是欧盟目前正在推行电子身份证，所以我们可以要求一些平台对身份进行绑定，
-
+首先第1个可能性是欧盟目前正在推行电子身份证，所以我们可以要求一些平台对身份进行绑定，我知道，这意味着仍有可能会产生其他有关于隐私和安全的问题。
+我认为仍有其他方式来阻止犯罪，但不应该是以完全禁止E2EE的方式。
 # Questions
 ## What about the other types of data access government requires? Why don't you mention them today?  
 - Due to time constraints, today's focus is specifically on E2EE. However, the broader context of governmental data access is an important and complex topic worthy of separate discussion.
