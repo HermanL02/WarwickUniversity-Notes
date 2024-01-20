@@ -72,7 +72,7 @@
 同时我们也要注意这个东西有一些误报率，因为在一次实验中表示爱尔兰的警察机构收到了来自美国的儿童色情机构的有关报告，其中美国相关发布了4000多张照片，爱尔兰当局发现其中的417张都是家庭合照，或者是一些在沙滩上的照片。这导致了这些照片在当事人不知情的情况下被无辜的泄露，这也侵犯了当事人的权利。同时那篇新闻也指出了这些照片被违规的保存了几年之久，这也意味着，如果我们放弃了，端到端加密如何对这谁有权力访问我们的照片，对有关部门的监管是一个非常严肃的问题。
 ## Inequality between Person and Company
 - The customer would not know without E2EE, how the company gonna treat their data
-
+同时我认为如果我们放弃了更多端加密，我们和公司之间的关系就会变得开始不平等。例如现在你不知道whatsapp在它的服务器上对你的数据做了些什么？但是我们至少知道，现在我们依然有端到端加密。如果之后我们失去了端到端加密，
 ## Pre-E2EE Crime and Alternative Solutions
 - Historical Crime and Non-E2EE Solutions
 - Criminals' Adaptation: VPNs and Other Technologies
