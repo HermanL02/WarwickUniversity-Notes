@@ -4,11 +4,12 @@
 - **Title:** The Deliberation on End-to-End Encryption: Privacy vs. Security
 - **Subtitle:** Warwick University, CS908
 - Herman Liang, 5526872
-- Jan.19, 2024
+- January 19, 2024
 
 # Introduction and Motivation
-- Supporters: Five Eye Nations & many EU Countries & China
-- Refusers: Some governments, citizens and some companies
+- Topic: Ban E2EE or monitor E2EE
+- Supporters: Five Eyes Nations, many EU countries, China
+- Refusers: Certain governments, citizens, and companies
 - Great Argue now
 - Expected decisions and new bills coming out in the close future
 # More Precise
