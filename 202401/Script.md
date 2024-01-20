@@ -10,11 +10,6 @@
 所以说综上所述，我认为这个问题其实只是另外一个更大的问题的缩影。其实是否政府允许阻止端到端加密，更像是另外一个问题就是我们应该给政府访问我们个人聊天记录的权力吗? 这里的访问既包括是扫描，同样也包括是直接查看。
 # Table of Contents
 所以今天我们将要讨论以下几个部分，第1个部分就是介绍什么是E2ee。第2个部分我将采取来自政府的意见，为什么他们如此坚持实施反对E2ee的法案，以及他们都已经采取了什么样的行动？第3个部分我将介绍，为什么我们应该继续坚持E2ee，一些来自公民以及公司的意见。第4部分我将发表个人的观点。以及第五部分接受来自观众的提问。
-- Part1: Brief Background
-- Part2: Government Perspectives on E2EE: Five Eyes, EU, China
-- Part3: Views of Citizens and Companies
-- Part4: Personal Analysis: My Perspective
-- Part5: Interactive Session: Questions and Discussions
 # Part 1: E2EE
 ## Brief: What is E2EE? 
 简单来说，端到端加密是一个只有发送者和接收者，可以查看消息的聊天方式任何第三方。比如说通信系统提供商，电信提供商，互联网提供商或者其他想要获取到你聊天记录的人都不可以获取到你的聊天记录。目前很多消息服务的提供商都采用了端到端加密，包括iMessage，whatsapp和zoom。
