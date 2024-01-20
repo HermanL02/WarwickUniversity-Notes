@@ -91,7 +91,10 @@
 ## What about the other types of data access government requires? Why don't you mention them today?  
 - 对于第1个问题，我认为包括端到端在内的所有的加密和隐私保护话题，对所有人都有它们重要性。其次我也了解到有关中国的身份泄露的信息，包括订酒店信息的泄露，快递信息的泄露，以及其他住址信息的泄露，这些都要需要有关当局在不影响目前社会稳定的前提下，在便捷和安全的权衡之下进行进一步的处理。
 
-## 
+## 2
+我并不认为目前存在其他的手段来指监测端到端加密的pattern，而不监测到端到端加密的实际内容。因为端到端加密的特殊性，我们可能只能期待在之后很久以后算力增加的时候，才能破解到有关的消息了。
+## 3
+
 
 ## References
 - Map: https://www.gp-digital.org/world-map-of-encryption/#
