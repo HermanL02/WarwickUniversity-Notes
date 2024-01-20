@@ -82,6 +82,8 @@
 # What's the Future? 
 - Maintaining E2EE: Essential for Privacy and Security
 - Offering E2EE as an Option: Balancing Accessibility and Confidentiality
+- Other technologies lower the rate
+
 
 # Questions
 ## What about the other types of data access government requires? Why don't you mention them today?  
