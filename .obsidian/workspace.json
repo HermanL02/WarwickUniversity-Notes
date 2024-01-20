@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202401/Script.md",
+                "file": "202401/Script_Eng.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202401/Script.md",
+                "file": "202401/Script_Eng.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202401/Script.md",
+                "file": "202401/Script_Eng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202401/Script.md"
+                "file": "202401/Script_Eng.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "1f181cb20af9651a",
   "lastOpenFiles": [
-    "202401/PPT.md",
     "202401/Script.md",
+    "202401/Script_Eng.md",
+    "202401/PPT.md",
     "Excalidraw/Drawing 2024-01-20 22.26.38.excalidraw.md",
     "未命名.canvas",
     "Dissertation Structure.md",
