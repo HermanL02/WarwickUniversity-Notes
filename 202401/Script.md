@@ -9,7 +9,7 @@
 - January 19, 2024
 
 # Introduction and Motivation
-说实话，端到端加密并不是很新，他从2014年就开始在whatsapp上应用。
+说实话，端到端加密并不是很新，他从2014年就开始在whatsapp上应用，但是近年来我们可以看到各国的法案逐步增多，所以说目前在可以预见的未来中啊，有关于E2EE的法律将越来越严格。
 - Supporters: Five Eyes Nations, many EU countries, China
 - **Opponents:** Certain governments, citizens, and companies
 - Significant debate underway
