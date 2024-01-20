@@ -17,9 +17,9 @@
 # Table of Contents
 - Introduction: The Encryption Debate
 - Part2: Government Perspectives on E2EE: Five Eyes, EU, China
-- Part3: "Views of Citizens and Companies"
-- Part4: My opinion
-- Part5: Question
+- Part3: Views of Citizens and Companies
+- Part4: Personal Analysis: My Perspective
+- Part5: Interactive Session: Questions and Discussions
 # Part 1: E2EE
 ## What is E2EE? 
 
