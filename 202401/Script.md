@@ -39,6 +39,7 @@
 西班牙正在欧盟的内部带头限制数百万人的加密理由是需要防止儿童性虐待内容，然而这可能会危及到端到端加密。同时丹麦和爱尔兰在支持扫描的同时来保护加密，但专家认为这在技术上是不可能的。
 ## US
 - EARN IT Act
+ Ernie法案来把所有的互联网用户视为犯罪分子，如果颁布它将会对大大小小的互联网公司施加巨大的法律压力，要求其停止使用真正的端到端加密，从而扫描所有用户信息照片和文件。
 - STOP CSAM Act
 - Kids Online Safety Act (KOSA)
 ## UK
@@ -86,6 +87,7 @@
 - UK: https://www.technologyreview.com/2023/10/16/1081694/the-fight-over-the-future-of-encryption-explained/
 - China, Iran and Russia: https://www.csis.org/analysis/crypto-wars-are-over
 - US: https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption
+- EARN IT: https://www.eff.org/deeplinks/2023/05/dangerous-earn-it-bill-advances-out-committee-several-senators-offer-objections
 - Ireland False Positive: https://www.iccl.ie/news/an-garda-siochana-unlawfully-retains-files-on-innocent-people-who-it-has-already-cleared-of-producing-or-sharing-of-child-sex-abuse-material/
 - Spain: https://dig.watch/updates/spain-pushes-for-encryption-restrictions-in-eu-raising-concerns-for-privacy-and-child-safety
 - Grammar Correction and Speech Practice tool applied: Chat GPT
