@@ -89,7 +89,7 @@
 我认为仍有其他方式来阻止犯罪，但不应该是以完全禁止E2EE的方式。
 # Questions
 ## What about the other types of data access government requires? Why don't you mention them today?  
-- Due to time constraints, today's focus is specifically on E2EE. However, the broader context of governmental data access is an important and complex topic worthy of separate discussion.
+- 对于第1个问题，我认为包括端到端在内的所有的加密和隐私保护，对所有人都有重要性。其次我也了解到有关中国的身份泄露的信息，包括订酒店信息的泄露，快递信息的泄露，以及其他住址信息的泄露
 
 
 
