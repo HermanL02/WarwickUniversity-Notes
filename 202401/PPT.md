@@ -71,7 +71,7 @@
 ## What about the other types of data access government requires? Why don't you mention them today?  
 - Due to time constraints, today's focus is specifically on E2EE. However, the broader context of governmental data access is an important and complex topic worthy of separate discussion.
 ## Is there a technical means that can guarantee end-to-end encryption of information while also giving government agencies legal access to scan data?
-## 你认为我们是否应该制定全球统一的标准
+## Do you think the countries should set up a global standard? 
 
 ## References
 - Map: https://www.gp-digital.org/world-map-of-encryption/#
