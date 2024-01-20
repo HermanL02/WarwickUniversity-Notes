@@ -41,7 +41,7 @@
 ## China
 - Xi Jinping's Stance: 'No Cybersecurity, No National Security
 - Cybersecurity Law: User Data Retention for Six Months
-- Internet Information Services Management: Record-keeping and Law Enforcement Access
+- Internet Information Services Management Bill: Record-keeping and Law Enforcement Access
 # Why Not? Arguments Against Restricting E2EE
 ## History: PRISM - Surveillance Programs
 - Edward Snowden
