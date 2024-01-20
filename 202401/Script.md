@@ -63,6 +63,7 @@
 德国联邦司法部长[萨宾·洛伊瑟瑟-施纳伦伯格](https://en.wikipedia.org/wiki/Sabine_Leutheusser-Schnarrenberger "萨宾·洛伊瑟-施纳伦伯格")在推特上表示，她认为该计划是“Alptraum”（“噩梦”）。George Orwell 1984 comes true. 
 - ECHELON: Five Eye Nations
 这个很久之前的事件揭露了每个国家政府正在运行的间谍程序。这些间谍程序不只搜集来自境外的数据，他们还收集境内的数据。
+斯诺登揭露的这些软件，来自各个国家且大量存在，这导致我们产生了一种对政府天然的不信任。
 ## History: Censorship and Privacy in China
 - Blocking News: Gaoli Zhang Sexual Assault Case
 - Censorship of COVID-19 Policies
