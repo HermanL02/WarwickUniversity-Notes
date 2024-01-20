@@ -28,11 +28,9 @@
 
 ## EU
 ### Proposal on Child Sex Abuse Regulation (CSAR)
-- Purpose and key aspects of the CSAR.
-- Controversy surrounding its impact on E2EE and private communications.
-- Source: Center for Internet and Society at Stanford University
-### Spain
-- Desirable to legislatively prevent EU-based service providers from implementing end-to-end encryption
+
+### Spain's Approach to E2EE
+- Legislative efforts to limit E2EE among EU service providers
 ## US
 - the EARN IT Act
 - STOP CSAM Act
