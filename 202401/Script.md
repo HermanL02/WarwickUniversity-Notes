@@ -46,9 +46,6 @@
 - Control over Messaging Platforms
 中国经常性的监控微信上的消息，包括图片和文字消息，尤其是在特殊时期。例如之前在彭帅指控上一任中国七位最有权力的人之一，国务院常委张高丽性侵犯的时候，在仅仅半个小时之内在微博上被封杀，然后在微信等聊天工具上没有办法发出相对应的消息，甚至是在一对一的私人聊天当中。所以说在这些事件上，无端到端加密的通信被用作了一种工具，不仅仅是一个制止犯罪的工具，而是一种限制言论自由的工具。这之后中国官方媒体并没有进行任何的辟谣，所以说我们有理由相信这一切是真实发生的，但是却是无法被广泛传播的。
 ## The Risks of False Positive
-- Only 20% is confirmed as CSAM content, more than 10% are confirmed as misclassified photos in Ireland
-- Case of Misclassified CSAM: Innocuous Family Photos
-- Data Handling Disparities: Consumer Ignorance vs. Corporate Practices
 同时我们也要注意这个东西有一些误报率，因为在一次实验中表示爱尔兰的警察机构收到了来自美国的儿童色情机构的有关报告，其中美国相关发布了4000多张照片，爱尔兰当局发现其中的417张都是家庭合照，或者是一些在沙滩上的照片。这导致了这些照片在当事人不知情的情况下被无辜的泄露，这也侵犯了当事人的权利。同时那篇新闻也指出了这些照片被违规的保存了几年之久，这也意味着，如果我们放弃了，端到端加密如何对这谁有权力访问我们的照片，对有关部门的监管是一个非常严肃的问题。
 ## Inequality between Person and Company
 - The customer would not know without E2EE, how the company gonna treat their data
