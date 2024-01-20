@@ -34,7 +34,6 @@
 ## US
 - EARN IT Act
 - STOP CSAM Act
-- Kids Online Safety Act (KOSA)
 ## UK
 - the Online Safety Bill (Gov declared that it doesn't restrict E2EE)
 - Investigatory Powers Act 2016 
