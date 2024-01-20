@@ -27,7 +27,7 @@
 - Part5: Interactive Session: Questions and Discussions
 # Part 1: E2EE
 ## Brief: What is E2EE? 
-
+简单来说，段到端加密是一个只有发送者和接收者，可以查看消息的聊天方式任何第三方。比如说通信系统提供商，电信提供商，互联网提供商或者其他想要获取到你聊天记录的人都不可以做到。
 
 # Part 2: Government View
 
