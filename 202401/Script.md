@@ -40,6 +40,7 @@
 ## US
 - EARN IT Act and STOP CSAM Act
 第 230(e)(1) 条，联邦检察官已经可以要求提供商对其服务中的 CSAM 负责（即使州检察官和民事原告不能这样做）。如果颁布它将会对大大小小的互联网公司施加巨大的法律压力，要求其停止使用真正的端到端加密，从而扫描所有用户信息照片和文件。
+最初未能在 2020 年通过，但于 2022 年重新提出，并于 2023 年第三次提出。
 - Kids Online Safety Act (KOSA)
 ## UK
 - the Online Safety Bill (Gov declared that it doesn't restrict E2EE)
