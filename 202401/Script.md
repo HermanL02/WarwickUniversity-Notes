@@ -2,7 +2,8 @@
 # The Deliberation on End-to-End Encryption: Privacy or Security
 
 # Title
-- **Title:** The Deliberation on End-to-End Encryption: Privacy vs. Security
+大家好，我是梁逸群，今天我们的主题是关于E2EE的
+- **Title:** End-to-End Encryption: Privacy vs. Security
 - **Subtitle:** Warwick University, CS908
 - Herman Liang, 5526872
 - January 19, 2024
