@@ -1,9 +1,9 @@
 # The Deliberation on End-to-End Encryption: Privacy or Security
 
 # Title
-- **Title:** The Deliberation on End-to-End Encryption: Balancing: Privacy or Security
-- **Subtitle:** Warwick University CS908
-- Herman Liang 5526872
+- **Title:** The Deliberation on End-to-End Encryption: Privacy vs. Security
+- **Subtitle:** Warwick University, CS908
+- Herman Liang, 5526872
 - Jan.19, 2024
 
 # Introduction and Motivation
