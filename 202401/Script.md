@@ -47,7 +47,7 @@
 - Investigatory Powers Act 2016 
 - Article: End-to-End Encryption and Child Safety
 ## China
-
+2017年6月1日起施行的《中华人民共和国网络安全法》第二十一条规定，“采取监测、记录网络运行状态、网络安全事件的技术措施，并按照规定留存相关的网络日志不少于六个月。”依据此条款，**包含个人信息的相关网络日志至少需要保存六个月**。
 - Xi Jinping's Stance: 'No Cybersecurity, No National Security
 - Cybersecurity Law: User Data Retention for Six Months
 - Internet Information Services Management: Record-keeping and Law Enforcement Access
