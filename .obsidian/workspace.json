@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202401/PPT.md",
+                "file": "202401/Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202401/PPT.md",
+                "file": "202401/Script.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202401/PPT.md",
+                "file": "202401/Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202401/PPT.md"
+                "file": "202401/Script.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "e2caffa9cec411ff",
   "lastOpenFiles": [
-    "202401/Script.md",
     "202401/PPT.md",
+    "202401/Script.md",
     "Dissertation Structure.md",
     "202401",
     "202309/Lab 6.md",
