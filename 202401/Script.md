@@ -16,9 +16,10 @@
 - Significant debate underway
 - Anticipated decisions and forthcoming legislation
 # More Precise
-所以说综上所述，我认为这个问题其实只是另外一个更大的问题的缩影。其实是否政府允许啊，阻止啊，端到端加密啊，更像是另外一个问题就是我们应该给政府啊访问我们个人聊天记录的。
+所以说综上所述，我认为这个问题其实只是另外一个更大的问题的缩影。其实是否政府允许阻止端到端加密，更像是另外一个问题就是我们应该给政府访问我们个人聊天记录的权力吗? 这里的访问既包括是嗅探，同样也包括是直接查看。
 - Should Government Have Access to Personal Chat Records For Security Reason? 
 # Table of Contents
+所以今天我们将要讨论以下几个部分，第1个部分就是介绍什么是意图意义。
 - Introduction: The Encryption Debate
 - Part1: Brief Background
 - Part2: Government Perspectives on E2EE: Five Eyes, EU, China
