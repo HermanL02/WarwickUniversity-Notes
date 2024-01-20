@@ -70,7 +70,7 @@
 
 # Questions
 ## What about the other types of data access government requires? Why don't you mention them today?  
-- Lack of time
+- Due to time constraints, today's focus is specifically on E2EE. However, the broader context of governmental data access is an important and complex topic worthy of separate discussion.
 
 
 
