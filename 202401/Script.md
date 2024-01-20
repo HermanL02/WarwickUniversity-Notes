@@ -42,11 +42,12 @@
 第 230(e)(1) 条，联邦检察官已经可以要求提供商对其服务中的 CSAM 负责（即使州检察官和民事原告不能这样做）。如果颁布它将会对大大小小的互联网公司施加巨大的法律压力，要求其停止使用真正的端到端加密，从而扫描所有用户信息照片和文件。
 此法案最初未能在 2020 年通过，但于 2022 年重新提出，并于 2023 年第三次提出，并会在未来继续不断地提出。
 ## UK
-这个法案要求包括端到端加密在内的平台扫描儿童色情内容, 尽管专家警告称在不损害用户隐私的情况下，不可能实现这种扫描机制。同时这个法案要求平台过滤合法但有害或者是非法的内容。和之前提到的美国的法案一样，这个是不可能被实现的。但是通过这个法案，政府仍保留了极大的权利来在未来限制端到端加密。
+这个法案要求平台过滤合法但有害或者是非法的内容，例如包括端到端加密在内的平台扫描儿童色情内容, 尽管专家警告称在不损害用户隐私的情况下，不可能实现这种扫描机制。同时和之前提到的美国的法案一样，这个是不可能被实现的。但是通过这个法案，政府仍保留了极大的权利来在未来限制端到端加密。
 - the Online Safety Bill (Gov declared that it doesn't restrict E2EE)
 - Investigatory Powers Act 2016 
 - Article: End-to-End Encryption and Child Safety
 ## China
+
 - Xi Jinping's Stance: 'No Cybersecurity, No National Security
 - Cybersecurity Law: User Data Retention for Six Months
 - Internet Information Services Management: Record-keeping and Law Enforcement Access
