@@ -58,7 +58,7 @@
 - XKeyscore: Led by United States (Germany, Sweden, Denmark, Japan participated)
 - Tempora: United Kingdom GCHQ
 - ECHELON: Five Eye Nations
-这个很久之前的事件揭露了每个guo'j
+这个很久之前的事件揭露了每个国家政府正在运行的间谍程序。这些间谍程序不只搜集来自境外的数据，他们还收集境内的数据。
 ## History: Censorship and Privacy in China
 - Blocking News: Gaoli Zhang Sexual Assault Case
 - Censorship of COVID-19 Policies
