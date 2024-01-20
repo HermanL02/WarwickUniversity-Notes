@@ -64,7 +64,7 @@
 - Blocking News: Gaoli Zhang Sexual Assault Case
 - Censorship of COVID-19 Policies
 - Control over Messaging Platforms
-中国经常性的监控微信上的消息，包括图片和文字消息，尤其是在特殊时期。例如之前在彭帅指控国家。
+中国经常性的监控微信上的消息，包括图片和文字消息，尤其是在特殊时期。例如之前在彭帅指控国家政治局常务委员会前第1副总理张高丽的时候，在仅仅半个小时之内在微博上被封杀，然后在微信等聊天工具上没有办法发出相对应的消息，甚至是在一对一的私人聊天当中。所以说在这些事件上，无端到端加密的通信被用作了一种工具。
 ## The Risks of False Positive
 - Only 20% is confirmed as CSAM content, more than 10% are confirmed as misclassified photos in Ireland
 - Case of Misclassified CSAM: Innocuous Family Photos
