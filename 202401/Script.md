@@ -19,8 +19,7 @@
 所以说综上所述，我认为这个问题其实只是另外一个更大的问题的缩影。其实是否政府允许阻止端到端加密，更像是另外一个问题就是我们应该给政府访问我们个人聊天记录的权力吗? 这里的访问既包括是嗅探，同样也包括是直接查看。
 - Should Government Have Access to Personal Chat Records For Security Reason? 
 # Table of Contents
-所以今天我们将要讨论以下几个部分，第1个部分就是介绍什么是意图意义。
-- Introduction: The Encryption Debate
+所以今天我们将要讨论以下几个部分，第1个部分就是介绍什么是E2ee。第2个部分我将采取来自政府的意见，为什么他们如此坚持实施反对E2ee的法案，以及他们都已经采取了什么样的行动？第3个部分我将介绍，为什么我们应该继续坚持E2ee，一些来自公民以及公司的意见。
 - Part1: Brief Background
 - Part2: Government Perspectives on E2EE: Five Eyes, EU, China
 - Part3: Views of Citizens and Companies
