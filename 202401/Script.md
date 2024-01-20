@@ -37,10 +37,8 @@
 
 ## History: PRISM - Surveillance Programs
 - Edward Snowden
-- XKeyscore 是一个美国用来监控全世界的软件, zhe包括电子邮件、视频和语音聊天、视频、照片、语音-通过 IP 聊天（例如[Skype](https://en.wikipedia.org/wiki/Skype "Skype")）、文件传输和社交网络详细信息
-- Tempora: United Kingdom GCHQ
-《卫报》声称，公众公民和目标嫌疑人之间的数据收集没有区别 (https://www.theguardian.com/uk/2013/jun/21/gchq-cables-secret-world-communications-nsa)。据说 Tempora 包括电话录音、电子邮件内容、Facebook 条目和用户的个人互联网历史记录。
-德国联邦司法部长[萨宾·洛伊瑟瑟-施纳伦伯格](https://en.wikipedia.org/wiki/Sabine_Leutheusser-Schnarrenberger "萨宾·洛伊瑟-施纳伦伯格")在推特上表示，她认为该计划是“Alptraum”（“噩梦”）。George Orwell 1984 comes true. 
+- XKeyscore 是一个美国用来监控全世界的软件, 这包括电子邮件、聊天、视频、照片、文件传输和社交网络详细信息
+- Tempora: 是一个由英国情报组织GCHQ使用的软件，《卫报》声称，公众公民和目标嫌疑人之间的数据收集没有区别 。据说 Tempora 包括电话录音、电子邮件内容、Facebook 条目和用户的个人互联网历史记录。德国联邦司法部长[萨宾·洛伊瑟瑟-施纳伦伯格](https://en.wikipedia.org/wiki/Sabine_Leutheusser-Schnarrenberger "萨宾·洛伊瑟-施纳伦伯格")在推特上表示，她认为该计划是“Alptraum”（“噩梦”）。George Orwell 1984 comes true. 
 - ECHELON: Five Eye Nations
 这个很久之前的事件揭露了每个国家政府正在运行的间谍程序。这些间谍程序不只搜集来自境外的数据，他们还收集境内的数据。
 斯诺登揭露的这些软件，来自各个国家且大量存在，这导致我们产生了一种对政府天然的不信任。很显然他们并没有遵守承诺来把这些信息只用于安全用途。
