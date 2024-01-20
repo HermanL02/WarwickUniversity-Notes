@@ -36,6 +36,7 @@
 这个法案是在2022年提出的一项新的欧盟法规。支持这项法案的人，认为在线服务提供商啊，为监测在线儿童性虐待而采取的自愿行动是不够的，所以说他认为政府需要参与到其中。在这项法规中的其中一项，就是对所有的数字私人通信实施了强制的聊天控制。而很明显这项聊天的控制将影响E2EE。
 ### Spain's Approach to E2EE
 - Legislative efforts to limit E2EE among EU service providers
+西班牙正在欧盟的内部带头限制数百万人的加密理由是需要防止儿童性虐待内容
 ## US
 - EARN IT Act
 - STOP CSAM Act
@@ -86,7 +87,7 @@
 - China, Iran and Russia: https://www.csis.org/analysis/crypto-wars-are-over
 - US: https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption
 - Ireland False Positive: https://www.iccl.ie/news/an-garda-siochana-unlawfully-retains-files-on-innocent-people-who-it-has-already-cleared-of-producing-or-sharing-of-child-sex-abuse-material/
-- Spain: 
+- Spain: https://dig.watch/updates/spain-pushes-for-encryption-restrictions-in-eu-raising-concerns-for-privacy-and-child-safety
 - Grammar Correction and Speech Practice tool applied: Chat GPT
 
 
