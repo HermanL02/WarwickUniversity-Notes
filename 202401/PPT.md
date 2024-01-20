@@ -9,9 +9,9 @@
 # Introduction and Motivation
 - Topic: Ban E2EE or monitor E2EE
 - Supporters: Five Eyes Nations, many EU countries, China
-- Refusers: Certain governments, citizens, and companies
-- Great Argue now
-- Expected decisions and new bills coming out in the close future
+- **Opponents:** Certain governments, citizens, and companies
+- Significant debate underway
+- Anticipated decisions and forthcoming legislation
 # More Precise
 - Should Government Have Access to Personal Chat Records For Security Reason? 
 # Table of Contents
