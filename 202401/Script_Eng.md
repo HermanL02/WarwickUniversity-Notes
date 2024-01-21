@@ -8,11 +8,11 @@ Hello everyone, I am Herman. Today, our topic is about the privacy and security 
 
 Frankly speaking, end-to-end encryption is not a new concept; it has been in use on WhatsApp since 2014. The reason I chose this topic is that, in recent years, we have seen an increasing number of legislations worldwide. So, in the foreseeable future, discussions on E2EE are expected to continue and intensify. Governments often justify their stance on E2EE for security reasons, either national security or the safety from crimes. They argue that end-to-end encryption facilitates the increase of terrorist organizations and child pornography, leading governments to seek ways to weaken or prohibit E2EE. On the other hand, privacy advocates support E2EE, believing it ensures online users' protection from threats by service providers, government agencies, and other cyber actors. Countries like those in the Five Eyes Alliance, many EU countries, and China support legislations to weaken E2EE. However, some governments, like Germany, express opposition to restrictions on E2EE, as do some privacy advocates. Additionally, companies join the opposition to retain users and prevent user loss.
 
-Each country continues to express its viewpoint on this issue, and the discussions are ongoing. However, I believe a resolution will soon be reached, which is why I wish to discuss this topic today.
+Each country continues to express its viewpoint on this issue, and the discussions are ongoing. However, I believe a final decision will soon be reached, which is why I wish to discuss this topic today.
 
 # More Precise
 
-To sum up, I believe this issue is a microcosm of a larger problem. Whether the government should be allowed to prevent end-to-end encryption is akin to asking if we should grant the government access to our personal chat records, including scanning and direct viewing.
+To sum up, I believe this issue is a sub issue of a larger problem. Whether the government should be allowed to prevent end-to-end encryption is asking if we should grant the government access to our personal chat records, including scanning and direct viewing.
 
 # Table of Contents
 
