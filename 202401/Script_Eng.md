@@ -19,10 +19,10 @@ To sum up, I believe this issue is a sub issue of a larger problem. Whether the 
 Today's discussion will cover several parts:
 
 1. Introduction to E2EE.
-2. The government's perspective and why they insist on implementing anti-E2EE legislations, including actions they have already taken.
-3. Reasons why we should continue supporting E2EE, including opinions from citizens and companies.
-4. My personal viewpoint.
-5. Audience questions.
+2. The government's perspective 
+3. Reasons why we should continue supporting E2EE
+4. My personal view
+5. Audience questions
 
 # Part 1: E2EE
 
