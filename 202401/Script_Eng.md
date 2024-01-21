@@ -36,7 +36,7 @@ End-to-end encryption is a method of communication where only the sender and rec
 
 ### Proposal on Child Sex Abuse Regulation (CSAR)
 
-This legislation, proposed in 2022, is a new EU regulation. Its proponents believe voluntary actions by online service providers to monitor online child sexual abuse are insufficient, necessitating government involvement. One aspect of this regulation mandates compulsory chat control on all digital private communications, clearly impacting E2EE. However, this proposal was not passed.
+This legislation, proposed in 2022, is a new EU regulation. Its proponents believe voluntary actions by online service providers to monitor online child sexual abuse are insufficient. It requires more government involvement. One aspect of this regulation mandates compulsory chat control on all digital private communications, clearly impacting E2EE. However, this proposal was not passed.
 
 ### Spain's Approach to E2EE
 
