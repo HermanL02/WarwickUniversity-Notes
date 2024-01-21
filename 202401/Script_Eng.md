@@ -40,7 +40,7 @@ This legislation, proposed in 2022, is a new EU regulation. Its proponents belie
 
 ### Spain's Approach to E2EE
 
-Spain leads within the EU in limiting millions of people's encryption, citing the prevention of child sexual abuse content. However, this could jeopardize E2EE. Denmark and Ireland support scanning to protect encryption, but experts believe this is technically impossible.
+Spain leads within the EU in limiting millions of people's encryption, citing the prevention of child sexual abuse content. However, this could weaken E2EE. Denmark and Ireland support scanning to protect encryption, but experts believe this is technically impossible.
 
 ## US
 
