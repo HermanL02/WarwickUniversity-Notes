@@ -28,7 +28,7 @@ Today's discussion will cover several parts:
 
 ## Brief: What is E2EE?
 
-Simply put, end-to-end encryption is a method of communication where only the sender and receiver can view messages. This means that no third party, including communication service providers, telecom providers, ISPs, or anyone else seeking access to chat logs, can access these messages. Many messaging services use E2EE, including iMessage, WhatsApp, and Zoom.
+End-to-end encryption is a method of communication where only the sender and receiver can view messages. This means that no third party, including communication service providers, telecom providers, ISPs, or anyone else seeking access to chat logs, can access these messages. Many messaging services use E2EE, including iMessage, WhatsApp, and Zoom.
 
 # Part 2: Government View
 
