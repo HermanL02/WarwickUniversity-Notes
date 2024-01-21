@@ -30,7 +30,7 @@ Today's discussion will cover several parts:
 
 End-to-end encryption is a method of communication where only the sender and receiver can view messages. This means that no third party, including communication service providers, telecom providers, ISPs, or anyone else seeking access to chat logs, can access these messages. Many messaging services use E2EE, including iMessage, WhatsApp, and Zoom.
 
-# Part 2: Government View
+# Part 2: Government Views and Actions
 
 ## EU
 
@@ -44,7 +44,7 @@ Spain leads within the EU in limiting millions of people's encryption, citing th
 
 ## US
 
-Section 230(e)(1) allows federal prosecutors to hold service providers accountable for CSAM (Child Sexual Abuse Material) in their services (even if state prosecutors and civil plaintiffs cannot). If enacted, this would put immense legal pressure on internet companies of all sizes to stop using true E2EE, thus scanning all user information, photos, and files. This bill initially failed to pass in 2020, was reintroduced in 2022, and again in 2023, and will continue to be a topic of discussion.
+Section 230(e)(1) allows federal prosecutors to hold service providers accountable for CSAM (Child Sexual Abuse Material) in their services (even if state prosecutors and civil plaintiffs cannot). If enacted, this would put legal pressure on internet companies of all sizes to stop using true E2EE, thus scanning all user information, photos, and files. This bill initially failed to pass in 2020, was reintroduced in 2022, and again in 2023, and will continue to be a topic of discussion.
 
 ## UK
 
