@@ -16,7 +16,7 @@ In the future, we will deploy a server using Node.js to create APIs for users to
 ### Function design
 The encryption protocol we need to choose a type that can easily exchange them online, which here I think a RSA protocol would be a good beginning. After the app is fully implemented, we can add more protocols including J-Pake (developed by Dr. Feng Hao, references) and Signal for easier and safer key exchange. 
 
-The application should allow users to exchange public keys by direct sending messages. The basic function is that it can encrypt and also decrypt the message. Supposing there are two people, A and B, are trying to do the encrypted communication using this app. User A should be able to retrieve a WeChat message that, decrypt it using A's private key and also should send a WeChat message that encrypt it using B's public key. 
+The application should allow users to exchange public keys by direct sending messages. The basic function is that it can encrypt and also decrypt the message. Supposing there are two people, A and B, are trying to do the encrypted communication using this app. User A should be able to retrieve a WeChat message and decrypt it using A's private key and also should send a WeChat message that encrypt it using B's public key. 
 
 
 
