@@ -2,7 +2,7 @@
 WeChat's monitor on user's data
 E2EE's introduction
 China does not allow a registered real E2EE app in China and related laws
-China does have a firewall to prevent users use abroad E2EE apps (WhatsApp, Facebook Messenger, etc. ). Some users use VPN, but  VPN connection not stable. also have potential illegal status. 
+China does have a firewall to prevent users use abroad E2EE apps (WhatsApp, Facebook Messenger, etc. ). Some users use VPN, but  VPN connection not stable. Nord VPN/Express VPN also does nalso have potential illegal status. 
 
 
 ## Ideas
