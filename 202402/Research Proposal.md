@@ -12,7 +12,7 @@ The key we need to choose a type that can easily exchange them online, which her
 
 The basic function is that it can encrypt and also decrypt the message. Supposing there are two people, A and B, are trying to do the encrypted communication is using this app. User A should be able to retrieve a WeChat message that, decrypt it using A's private key and also should send a WeChat message that encrypt it using B's public key. 
 
-The application should allow users to change private keys by directly input, 
+The application should allow users to exchange public keys by direct user inputs. 
 
 ## Implementation 
 We should use WeChat hook to retrieve the message from WeChat application and forward it to a HTTP port. Also, this hook also needs to receive a post message through the API. Fortunately, there is a open source GitHub repo to provide this function. 
