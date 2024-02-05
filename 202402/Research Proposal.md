@@ -9,6 +9,8 @@ China does have a firewall to prevent users use abroad E2EE apps (WhatsApp, Face
 The app will mainly focus on Windows and Android phones, because the current develop environment is based on this while I don't have MacOS and iPhone devices. 
 
 On Windows, we want to use WeChat hook to achieve direct chat using our app, through WeChat platform. (We will introduce details later.)  
+
+On Android, due to the limitation of retrieving root privilege on Android devices, w
 ### Function design
 The encryption protocol we need to choose a type that can easily exchange them online, which here I think a RSA protocol would be a good beginning. After the app is fully implemented, we can add more protocols including J-Pake (developed by Dr. Feng Hao, references) and Signal. 
 
