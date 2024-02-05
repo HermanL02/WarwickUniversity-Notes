@@ -6,7 +6,7 @@ China does have a firewall to prevent users use abroad E2EE apps (WhatsApp, Face
 ## Ideas
 
 ### Function design
-The key we need to choose a type that can easily exchange them online, which here I think a RSA protocol would be a good beginning. After the app is fully implemented, we can add more protocols including J-Pake (developed by Dr. Feng Hao, references) and Signal. 
+The encryption protocol we need to choose a type that can easily exchange them online, which here I think a RSA protocol would be a good beginning. After the app is fully implemented, we can add more protocols including J-Pake (developed by Dr. Feng Hao, references) and Signal. 
 
 The basic function is that it can encrypt and also decrypt the message. Supposing there are two people, A and B, are trying to do the encrypted communication is using this app. User A should be able to retrieve a WeChat message that, decrypt it using A's private key and also should send a WeChat message that encrypt it using B's public key. 
 
