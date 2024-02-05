@@ -12,7 +12,7 @@ On Windows, we want to use WeChat hook to achieve direct chat using our app, thr
 
 On Android, due to the limitation of retrieving root privilege on Android devices, we decided to extend the current keyboard app to add another plugin using Kotlin. 
 
-In the future, we want to allow users to automatically retrieve other's public key by using WeChat unique ID. We will deploy a server using Node.js to create APIs for users to upload their public key with their WeChat unique ID and 
+In the future, we will deploy a server using Node.js to create APIs for users to upload their public key with their WeChat unique ID and retreive others public key using WeChat unique ID. However, we want to make sure if the server is blocked or is down because of some reason, the 
 ### Function design
 The encryption protocol we need to choose a type that can easily exchange them online, which here I think a RSA protocol would be a good beginning. After the app is fully implemented, we can add more protocols including J-Pake (developed by Dr. Feng Hao, references) and Signal. 
 
