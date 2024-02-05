@@ -10,7 +10,11 @@ We want to make a E2EE app to achieve E2EE communication between the users. I se
 ### Function design
 The key we need to choose a type that can easily exchange them online, which here I think a RSA protocol would be a good beginning. After the app is fully implemented, we can add more protocols including J-Pake (developed by Dr. Feng Hao, references) and Signal. 
 
-The basic function is that it can encrypt and also decrypt the message. Supposing there are two people, A and B, are trying to do the encrypted communication is using this app. User A should be able to retrieve a WeChat message that, decrypt it using the private key
+The basic function is that it can encrypt and also decrypt the message. Supposing there are two people, A and B, are trying to do the encrypted communication is using this app. User A should be able to retrieve a WeChat message that, decrypt it using A's private key and also should send a WeChat message that encrypt it using B's public key. 
+
+
+
+## Implementation 
 We should use WeChat hook to retrieve the message from WeChat application and forward it to a HTTP port. Also, this hook also needs to receive a post message through the API. Fortunately, there is a open source GitHub repo to provide this function. 
 
 
