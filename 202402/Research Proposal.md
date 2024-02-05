@@ -8,7 +8,7 @@ China does have a firewall to prevent users use abroad E2EE apps (WhatsApp, Face
 ### Platform Support
 The app will mainly focus on Windows and Android phones, because my current develop environment is Windows and Android. I don't have MacOS and iPhone devices. If it is possible, we will introduce our app on more 
 
-On Windows, we want to use WeChat hook to achieve direct chat using our app, through WeChat platform. (We will introduce details later.)  
+On Windows, we want to use WeChat hook to achieve direct chat using our app, through WeChat platform. (We will introduce details later.)  The app will be build with Electron Framework, with React.js as front end and Node.js as backend. The app wi
 
 On Android, due to the limitation of retrieving root privilege on Android devices, we decided to use Kotlin
 ### Function design
