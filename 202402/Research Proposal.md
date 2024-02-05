@@ -1,3 +1,5 @@
 ## Motivation
 E2EE's importance
-WeChat's monitor on Use
+WeChat's monitor on user's data
+China does not allow a registered real 
+
