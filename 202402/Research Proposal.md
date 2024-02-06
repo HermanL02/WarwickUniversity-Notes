@@ -27,7 +27,9 @@ For Windows system, we should use a WeChat hook to use reverse engineering to re
 
 For Android system, we will based on [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) , which is an app with thousands of stars. This keyboard mainly based on local dictionaries with regular updates. It does not send the user input to any other third parties. 
 
+## deliverable and work plan
 
+The development process will cost around 2 months. re are a few phases. 
 
 
 
