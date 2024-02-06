@@ -29,7 +29,7 @@ For Android system, we will based on [fcitx5-android](https://github.com/fcitx5-
 
 ## deliverable and work plan
 
-The development will based on scrum development and will use process will cost around 2 months. re are a few phases. 
+The development will based on scrum development and will use Jira to manage the development. The development will cost around 2 months. The first month will be focused on Windows application design. The second month will be focused on 
 
 
 
