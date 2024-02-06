@@ -31,7 +31,7 @@ For Android system, we will based on [fcitx5-android](https://github.com/fcitx5-
 
 The development will based on scrum development and will use Jira to manage the development. The development will cost around 2 months. The first month will be focused on Windows application design. The second month will be focused on Android application design. 
 
-The development will be step by step, which are learning framework, devel
+The development will be step by step, which are learning framework, develop backend process, develop frontend logic, UI/UX implementation, unit tests and general test. Learning and implementations will cost 6 days each and the
 
 
 
