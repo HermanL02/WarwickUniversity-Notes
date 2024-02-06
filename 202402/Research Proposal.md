@@ -25,7 +25,9 @@ Supposing there are two people, A and B, are trying to do the encrypted communic
 ## Implementation 
 For Windows system, we should use a WeChat hook to use reverse engineering to retrieve the message from WeChat application and forward it to a  local HTTP port. Also, this hook also needs to receive a post message through the API. There is a open source GitHub repo to provide this function. (reference) 
 
-For Android system, we will based on [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) , which is an app with thousands of stars. This keyboard mainly based on local 
+For Android system, we will based on [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) , which is an app with thousands of stars. This keyboard mainly based on local dictionaries with regular updates. It does not send the user input to any other third parties. 
+
+
 
 
 
