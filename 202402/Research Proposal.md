@@ -21,13 +21,18 @@ The application should allow users to exchange public keys by direct sending mes
 Supposing there are two people, A and B, are trying to do the encrypted communication using this app. User A should be able to retrieve a WeChat message and decrypt it using A's private key and also should send a WeChat message that encrypt it using B's public key. 
 
 
+## UX design
 
 ## Implementation 
 For Windows system, we should use a WeChat hook to use reverse engineering to retrieve the message from WeChat application and forward it to a  local HTTP port. Also, this hook also needs to receive a post message through the API. There is a open source GitHub repo to provide this function. (reference) 
 
 For Android system, we will based on [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) , which is an app with thousands of stars. This keyboard mainly based on local dictionaries with regular updates. It does not send the user input to any other third parties. 
 
+## Target customers
+
 ## deliverable and work plan
+### Cost and expenses
+### Continua
 
 The development will based on scrum development and will use Jira to manage the development. The development will cost around 2 months. The first month will be focused on Windows application design. The second month will be focused on Android application design. 
 
