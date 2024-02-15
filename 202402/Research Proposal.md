@@ -9,7 +9,10 @@ To circumvent these restrictions, some users turn to Virtual Private Networks (V
 
 Therefore, it becomes imperative to explore a solution that enables the creation of genuine end-to-end encryption (E2EE) for communications within the Chinese region.
 ## Ideas
+## Implementation 
+For Windows system, we should use a WeChat hook to use reverse engineering to retrieve the message from WeChat application and forward it to a  local HTTP port. Also, this hook also needs to receive a post message through the API. There is a open source GitHub repo to provide this function. (reference) 
 
+For Android system, we will based on [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) , which is an app with thousands of stars. This keyboard mainly based on local dictionaries with regular updates. It does not send the user input to any other third parties. 
 ### Function design
 The encryption protocol we need to choose a type that can easily exchange them online, which here I think a RSA protocol would be a good beginning. After the app is fully implemented, we can add more protocols including J-Pake (developed by Dr. Feng Hao, references) and Signal for easier and safer key exchange. 
 
@@ -27,10 +30,7 @@ On Android, due to the limitation of retrieving root privilege on Android device
 In the future, we will deploy a server using Node.js to create APIs for users to upload their public key with their WeChat unique ID and retrieve others public key using WeChat unique ID. However, we want to make sure when the server is blocked or is down, the app is still usable. 
 ## UX design
 
-## Implementation 
-For Windows system, we should use a WeChat hook to use reverse engineering to retrieve the message from WeChat application and forward it to a  local HTTP port. Also, this hook also needs to receive a post message through the API. There is a open source GitHub repo to provide this function. (reference) 
 
-For Android system, we will based on [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) , which is an app with thousands of stars. This keyboard mainly based on local dictionaries with regular updates. It does not send the user input to any other third parties. 
 
 ## Target customers
 
