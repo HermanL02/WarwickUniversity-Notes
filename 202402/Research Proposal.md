@@ -9,7 +9,7 @@ To circumvent these restrictions, some users turn to Virtual Private Networks (V
 
 Therefore, it becomes imperative to explore a solution that enables the creation of genuine end-to-end encryption (E2EE) for communications within the Chinese region.
 ## Ideas
-The proposed solution involves developing mechanisms to enable E2EE for users within restrictive digital environments, focusing on popular platforms like WeChat on Windows and Android systems.
+The proposed solution involves developing mechanisms to enable E2EE for users within restrictive digital environments, focusing on WeChat on Windows and Android systems. 
 ## Implementation 
 For the Windows operating system, our strategy encompasses utilizing a WeChat hook to employ reverse engineering techniques. This method aims to intercept messages from the WeChat application, extracting them for E2EE processing, and then forwarding these encrypted messages to a local HTTP port. Concurrently, this hook is designed to receive encrypted messages through an API, decrypt them, and then display them within the WeChat application. An existing open-source GitHub repository, which provides foundational functions for this approach, will serve as a reference point for development. 
 
