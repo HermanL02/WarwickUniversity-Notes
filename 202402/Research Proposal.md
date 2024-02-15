@@ -11,7 +11,7 @@ Therefore, it becomes imperative to explore a solution that enables the creation
 ## Ideas
 The proposed solution involves developing mechanisms to enable E2EE for users within restrictive digital environments, focusing on popular platforms like WeChat on Windows and Android systems.
 ## Implementation 
-For Windows system, we should use a WeChat hook to use reverse engineering to retrieve the message from WeChat application and forward it to a  local HTTP port. Also, this hook also needs to receive a post message through the API. There is a open source GitHub repo to provide this function. (reference) 
+For the Windows operating system, our strategy encompasses utilizing a WeChat hook to employ reverse engineering techniques. This method aims to intercept messages from the WeChat application, extracting them for E2EE processing, and then forwarding these encrypted messages to a local HTTP port. Concurrently, this hook is designed to receive encrypted messages through an API, decrypt them, and then display them within the WeChat application. An existing open-source GitHub repository, which provides foundational functions for this approach, will serve as a reference point for development. 
 
 For Android system, we will based on [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) , which is an app with thousands of stars. This keyboard mainly based on local dictionaries with regular updates. It does not send the user input to any other third parties. 
 ### Function design
