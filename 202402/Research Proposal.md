@@ -1,5 +1,5 @@
 ## Motivation
-Most convenient WeChat's monitor on user's data
+Nowadays, the balance between convenient communication and privacy has become a pivotal concern. One notable example is WeChat, China's most popular messaging app, which offers an array of services from messaging to financial transactions. However, its convenience comes at a cost: significant monitoring and data collection practices that raise privacy concerns. WeChat's approach to user data is emblematic of broader trends in digital surveillance and data management within China. 
 E2EE's introduction
 China does not allow a registered real E2EE app in China and related laws. 
 China does have a firewall to prevent users use abroad E2EE apps (WhatsApp, Facebook Messenger, etc. ). Some users use VPN, but  VPN also have potential illegal status. VPN connection not stable, because large VPN providers are targeted by Chinese gov. Small VPN providers are generally not safe. 
