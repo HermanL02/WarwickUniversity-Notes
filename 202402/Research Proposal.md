@@ -15,7 +15,7 @@ For the Windows operating system, our strategy encompasses utilizing a WeChat ho
 
 On the Android platform, our approach is based on leveraging the [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) application, which boasts significant community support. This input method, renowned for its reliance on local dictionaries and regular updates, guarantees that user inputs are not transmitted to third-party entities. This framework provides a secure foundation for integrating E2EE functionalities.
 ### Function design
-The encryption protocol we need to choose a type that can easily exchange them online, which here I think a RSA protocol would be a good beginning. After the app is fully implemented, we can add more protocols including J-Pake (developed by Dr. Feng Hao, references) and Signal for easier and safer key exchange. 
+The cornerstone of our E2EE implementation is the selection of an encryption protocol conducive to online key exchanges. Initially, we propose the adoption of the RSA encryption protocol, renowned for its security and ease of key management. Subsequent iterations of the application will explore the integration of additional protocols, such as J-Pake and Signal, to enhance key exchange mechanisms and overall encryption security. 
 
 The application should allow users to exchange public keys by direct sending messages. The basic function is that it can encrypt and also decrypt the message. 
 
