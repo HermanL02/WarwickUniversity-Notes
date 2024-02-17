@@ -19,11 +19,11 @@ Based on the application, we want to implement a textbox within the input Androi
 ### Function design
 The cornerstone of our E2EE implementation is the selection of an encryption protocol conducive to online key exchanges. Initially, we propose the adoption of the RSA encryption protocol, renowned for its security and ease of key management. Subsequent iterations of the application will explore the integration of additional protocols, such as J-Pake and Signal, to enhance key exchange mechanisms and overall encryption security. 
 
-The application should allow users to exch ange public keys by direct sending messages. The basic function is that it can encrypt and also decrypt the message. 
+The application should allow users to exchange public keys by direct sending messages. The basic function is that it can encrypt and also decrypt the message. 
 
 Supposing there are two people, A and B, are trying to do the encrypted communication using this app. User A should be able to retrieve a WeChat message and decrypt it using A's private key and also should send a WeChat message that encrypt it using B's public key. 
 
-### Platform Support
+### Deli
 The app will mainly focus on Windows and Android phones, because my current develop environment is Windows and Android. I don't have MacOS and iPhone devices. If it is possible, we will introduce our app on more 
 
 On Windows, we want to use WeChat hook to achieve direct chat using our app, through WeChat platform. (We will introduce details later.)  The app will be build with Electron Framework, with React.js as front end and Node.js as backend. The app will rely on IPC communication. 
