@@ -6,6 +6,12 @@ The introduction of end-to-end encryption (E2EE) represents a technological solu
 However, the regulatory environment in China presents a unique challenge to the adoption of E2EE technologies. The Chinese government has not permitted the registration of real E2EE applications, citing national security and public safety concerns. This stance is in line with broader Internet governance strategies in China, including the Great Firewall, which blocks access to many foreign websites and services, including popular E2EE-enabled applications like WhatsApp and Facebook Messenger.
 
 To circumvent these restrictions, some users turn to Virtual Private Networks (VPNs), which can provide a way to access blocked services by encrypting the user's Internet traffic and routing it through a server located outside of China. Nevertheless, the use of VPNs in China is fraught with challenges. The legal status of VPNs is ambiguous and potentially illegal if not government-approved, making their use a risky endeavor. Moreover, the Chinese government has been known to target large VPN providers, leading to unstable connections and further diminishing the reliability of this workaround. Smaller VPN providers, on the other hand, may offer less security and are generally considered unsafe due to their lack of robust infrastructure and potential vulnerability to surveillance and data breaches.
+### The Importance of Privacy in Digital Communication
+
+In an era where digital surveillance is becoming increasingly pervasive, the importance of privacy in digital communication cannot be overstated. The case of WeChat in China exemplifies the delicate balance between offering comprehensive digital services and safeguarding user privacy. This project not only seeks to address the specific challenges posed by WeChat's surveillance mechanisms but also aims to contribute to the global conversation on digital privacy rights.
+### The Global Context of Digital Surveillance
+
+While this project focuses on China, the methodologies and technologies developed could have broader applications in other regions with restrictive digital environments. By pioneering a model for E2EE communication that can function within such constraints, the project has the potential to set a precedent for privacy-centric digital innovation worldwide.
 
 Therefore, it becomes imperative to explore a solution that enables the creation of genuine end-to-end encryption (E2EE) for communications within the Chinese region.
 ## Ideas
