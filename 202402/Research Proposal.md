@@ -37,6 +37,29 @@ On Android, due to the limitation of retrieving root privilege on Android device
 We will deploy a server using Node.js to create APIs for users to upload their public key with their WeChat unique ID and retrieve others public key using WeChat unique ID. However, we want to make sure when the server is blocked or is down, the app is still usable. 
 ### Work plan
 The development of our end-to-end encryption (E2EE) solution for WeChat on Windows and Android platforms will adopt an agile methodology, specifically the Scrum framework, to ensure flexibility, rapid iteration, and continuous feedback throughout the project lifecycle. Project management and task tracking will be facilitated through Jira, allowing for clear visibility of progress, assignment of tasks, and collaboration among team members. The overall development timeline is estimated at approximately two months, with distinct phases allocated to the Windows and Android platforms.
+#### Development Plan Overview
+#### Month 1: Windows Application Development
+
+The first month is dedicated to the design and development of the Windows application. This phase is organized into four key stages:
+
+1. **Initial Learning and Familiarization:** Team members will acclimate to the development languages and tools relevant to the Windows platform, ensuring a strong foundation for subsequent phases.
+2. **Backend Development:** Focus will shift to backend coding, particularly establishing connections to WeChat and integrating WeChat hooks for message interception and handling.
+3. **Frontend Development:** The development of user interfaces (UI) aims to enhance user experience, making the application intuitive and accessible.
+4. **Additional Functionalities:** Final adjustments and the incorporation of extra features to enrich the application's capabilities.
+
+Each stage is expected to span three to four days, with progress meticulously documented and managed through our [Jira project board](https://hermanyiqunliang.atlassian.net/jira/software/projects/YIQ/boards/2?atlOrigin=eyJpIjoiZThkMmIyOWI5YzUxNDQ2NjhhNWI1ODAxZWMyMDljOGUiLCJwIjoiaiJ9). We are currently in the fourth and final phase of the Windows application development.
+
+#### Month 2: Android Application Development
+
+The subsequent month will be allocated to developing the Android application. The phases mirror those of the Windows development, with adaptations to accommodate the Android platform:
+
+1. **Learning and Adaptation:** Given the Android application's reliance on Kotlin and its unique app structure, additional time will be allocated for the team to familiarize themselves with Kotlin programming and the existing keyboard app framework.
+2. **Backend Development:** Similar to the Windows phase, focusing on integrating E2EE functionalities within the app's existing structure.
+3. **Frontend and UI/UX Development:** Emphasis will be placed on creating a user-friendly interface that aligns with Android usability standards.
+4. **Integration and Enhancement:** Incorporating additional security protocols and ensuring the application's stability and reliability.
+
+Given the complexities associated with Android development, particularly the need to integrate with the fcitx5-android keyboard app, each phase is expected to take approximately ten days.
+
 
 The development will be step by step, which are learning framework, develop backend process, develop frontend logic, UI/UX implementation, unit tests and general test.
 The Windows development is already started. The work is disigned in 4 phases. The first phase is to get used to the development languages and get used to it. The second phase is to write backend code to connect to WeChat and make use of WeChat hooks. The third phase is to write frontend UIs to make it easier for user to use. The fourth phase to implement other functionalities.  The Jira process can be found here. We are currently in the fourth phase. Each phase is going to take three to four days. (https://hermanyiqunliang.atlassian.net/jira/software/projects/YIQ/boards/2?atlOrigin=eyJpIjoiZThkMmIyOWI5YzUxNDQ2NjhhNWI1ODAxZWMyMDljOGUiLCJwIjoiaiJ9) 
