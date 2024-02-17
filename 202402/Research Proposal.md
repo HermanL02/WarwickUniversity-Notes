@@ -15,7 +15,7 @@ For the Windows operating system, our strategy encompasses utilizing a WeChat ho
 
 On the Android platform, our approach is based on leveraging the [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) application, which boasts significant community support. This input method, renowned for its reliance on local dictionaries and regular updates, guarantees that user inputs are not transmitted to third-party entities. This framework provides a secure foundation for integrating E2EE functionalities. 
 
-Based on the application, we want to implement a textbox within the input Android keyboard, that could receive the user input, when user click on send on keyboard, it then will send the encrypted message to the designated user. The box above the input method, we can 
+Based on the application, we want to implement a textbox within the input Android keyboard, that could receive the user input, when user click on send on keyboard, it then will send the encrypted message to the designated user. The input method also monitors  
 ### Function design
 The cornerstone of our E2EE implementation is the selection of an encryption protocol conducive to online key exchanges. Initially, we propose the adoption of the RSA encryption protocol, renowned for its security and ease of key management. Subsequent iterations of the application will explore the integration of additional protocols, such as J-Pake and Signal, to enhance key exchange mechanisms and overall encryption security. 
 
