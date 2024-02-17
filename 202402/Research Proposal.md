@@ -36,7 +36,7 @@ On Android, due to the limitation of retrieving root privilege on Android device
 
 We will deploy a server using Node.js to create APIs for users to upload their public key with their WeChat unique ID and retrieve others public key using WeChat unique ID. However, we want to make sure when the server is blocked or is down, the app is still usable. 
 ### Work plan
-The Windows development is already started. The work is disigned in 4 phases. The first phase is to get used to the development languagesThe Jira process can be found here. (https://hermanyiqunliang.atlassian.net/jira/software/projects/YIQ/boards/2?atlOrigin=eyJpIjoiZThkMmIyOWI5YzUxNDQ2NjhhNWI1ODAxZWMyMDljOGUiLCJwIjoiaiJ9) 
+The Windows development is already started. The work is disigned in 4 phases. The first phase is to get used to the development languages and get used to it. The second phase is to design UIs to make the work simple. The third phase is to design The Jira process can be found here. (https://hermanyiqunliang.atlassian.net/jira/software/projects/YIQ/boards/2?atlOrigin=eyJpIjoiZThkMmIyOWI5YzUxNDQ2NjhhNWI1ODAxZWMyMDljOGUiLCJwIjoiaiJ9) 
 The main hard work will be focused on 
 ### Cost and expenses
 ### Continuity and Future plan
