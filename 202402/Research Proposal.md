@@ -23,7 +23,14 @@ On the Android platform, our approach is based on leveraging the [fcitx5-android
 
 Based on the application, we want to implement a textbox within the input Android keyboard, that could receive the user input, when user click on send on keyboard, it then will send the encrypted message to the designated user. The input method also monitors  the clipboard, to decrypt the copied messages. 
 ### Function design
-The cornerstone of our E2EE implementation is the selection of an encryption protocol conducive to online key exchanges. Initially, we propose the adoption of the RSA encryption protocol, renowned for its security and ease of key management. Subsequent iterations of the application will explore the integration of additional protocols, such as J-Pake and Signal, to enhance key exchange mechanisms and overall encryption security. 
+The cornerstone of our E2EE implementation is the selection of an encryption protocol conducive to online key exchanges. Initially, we propose the adoption of the RSA encryption protocol, renowned for its security and ease of key management. Subsequent iterations of the application will explore the integration of additional protocols, such as J-Pake and Signal, to enhance key exchange mechanisms and overall encryption security.  
+
+##### RSA
+
+##### J-Pake
+
+##### Signal
+
 
 The application should allow users to exchange public keys by direct sending messages. The basic function is that it can encrypt and also decrypt the message. 
 
