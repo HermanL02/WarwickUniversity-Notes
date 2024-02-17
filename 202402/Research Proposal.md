@@ -23,20 +23,38 @@ On the Android platform, our approach is based on leveraging the [fcitx5-android
 
 Based on the application, we want to implement a textbox within the input Android keyboard, that could receive the user input, when user click on send on keyboard, it then will send the encrypted message to the designated user. The input method also monitors  the clipboard, to decrypt the copied messages. 
 ### Function design
-The cornerstone of our E2EE implementation is the selection of an encryption protocol conducive to online key exchanges. Initially, we propose the adoption of the RSA encryption protocol, renowned for its security and ease of key management. Subsequent iterations of the application will explore the integration of additional protocols, such as J-Pake and Signal, to enhance key exchange mechanisms and overall encryption security.  
+The cornerstone of our E2EE implementation is the selection of an encryption protocol conducive to online key exchanges. Initially, we propose the adoption of the RSA encryption protocol, renowned for its security and ease of key management. Subsequent iterations of the application will explore the integration of additional protocols, such as J-Pake and Signal, to enhance key exchange mechanisms and overall encryption security. 
 
-##### RSA
+Integrating three different cryptographic protocols—RSA, J-PAKE, and the Signal Protocol—into our system is a strategic decision aimed at leveraging the unique strengths and security features of each to provide a comprehensive, robust, and flexible encryption framework. Here's why incorporating each of these protocols is beneficial:
+### RSA (Rivest-Shamir-Adleman)
+
+**Versatility and Trust**: RSA is one of the most widely used public-key cryptosystems, trusted for secure data transmission across the internet. Its versatility in encrypting small blocks of data, like keys or digital signatures, makes it a valuable component of a multi-protocol strategy.
+
+**Established Security Foundation**: RSA provides a solid foundation for secure communications, based on the mathematical challenge of factoring large prime numbers. This long-established security basis is crucial for certain aspects of our system, such as initial key exchanges or digital signatures, where the proven reliability of RSA can be particularly advantageous.
+
+RSA is going to provide basic cryptographies in our system. 
 
 ##### J-Pake
+**Zero-Knowledge Password Proof**: J-PAKE enables two parties to establish a secure cryptographic key based on a shared password without ever transmitting the password or its hash over the network. This protocol offers a secure way to authenticate users in a manner that minimizes the risk of password interception or brute force attacks, enhancing the overall security of the system.
 
+**Mitigating Man-in-the-Middle Attacks**: By ensuring that the password itself is never exposed and that the key exchange process is secure even in the presence of potential eavesdroppers, J-PAKE adds an important layer of security against man-in-the-middle (MitM) attacks, complementing the other protocols in our system.
 ##### Signal
+**Forward Secrecy and Post-Quantum Security**: The Signal Protocol is designed to offer forward secrecy, ensuring that the compromise of one set of keys does not compromise past or future communications. This is a critical feature for maintaining the confidentiality of communications over time, even if a key is somehow compromised.
 
+**Modern, Robust Encryption**: The Signal Protocol employs a combination of cryptographic techniques, including the Double Ratchet Algorithm, prekeys, and a triple Diffie-Hellman handshake. This modern approach to encryption is highly effective at securing end-to-end communications, making it a key part of our system's encryption framework.
 
 The application should allow users to exchange public keys by direct sending messages. The basic function is that it can encrypt and also decrypt the message. 
 
 Supposing there are two people, A and B, are trying to do the encrypted communication using this app. User A should be able to retrieve a WeChat message and decrypt it using A's private key and also should send a WeChat message that encrypt it using B's public key. 
 
+By integrating RSA, J-PAKE, and the Signal Protocol, our system is designed to leverage the combined strengths of these protocols to address a wide range of security requirements and threats. This multi-protocol approach allows us to:
 
+- **Ensure versatile and trusted encryption** for different aspects of the communication process.
+- **Enhance user authentication** and mitigate specific attack vectors, such as MitM attacks.
+- **Provide robust end-to-end encryption** with forward secrecy, protecting the integrity and confidentiality of messages over time.
+- **Prepare for future security challenges**, including the advent of quantum computing, by incorporating protocols that can be adapted to use post-quantum cryptographic algorithms.
+
+In summary, the choice to incorporate these three cryptographic protocols into our system reflects a comprehensive strategy to maximize security, flexibility, and future-proofing, ensuring that our system can protect users' communications against a wide array of potential threats.
 ## Target customers
 
 ## Deliverable and work plan
