@@ -35,6 +35,9 @@ On Windows, we want to use WeChat hook to achieve direct chat using our app, thr
 On Android, due to the limitation of retrieving root privilege on Android devices, we decided to extend the current keyboard app to add another plugin using Kotlin. 
 
 We will deploy a server using Node.js to create APIs for users to upload their public key with their WeChat unique ID and retrieve others public key using WeChat unique ID. However, we want to make sure when the server is blocked or is down, the app is still usable. 
+### Work plan
+The Windows development is already started. The Jira process can be found here. (https://hermanyiqunliang.atlassian.net/jira/software/projects/YIQ/boards/2?atlOrigin=eyJpIjoiZThkMmIyOWI5YzUxNDQ2NjhhNWI1ODAxZWMyMDljOGUiLCJwIjoiaiJ9)
+The main dif
 ### Cost and expenses
 ### Continuity and Future plan
 
@@ -42,7 +45,6 @@ The development will based on scrum development and will use Jira to manage the 
 
 The development will be step by step, which are learning framework, develop backend process, develop frontend logic, UI/UX implementation, unit tests and general test. Learning and implementations will cost 8 days each and the tests will cost 2 days each. The rest time will be assigned to unexpected errors. 
 
-The Windows development is already started. The Jira process can be found here. https://hermanyiqunliang.atlassian.net/jira/software/projects/YIQ/boards/2?atlOrigin=eyJpIjoiZThkMmIyOWI5YzUxNDQ2NjhhNWI1ODAxZWMyMDljOGUiLCJwIjoiaiJ9
 
 
 
