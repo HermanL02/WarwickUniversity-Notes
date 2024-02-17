@@ -59,11 +59,11 @@ The subsequent month will be allocated to developing the Android application. Th
 4. **Integration and Enhancement:** Incorporating additional security protocols and ensuring the application's stability and reliability.
 
 Given the complexities associated with Android development, particularly the need to integrate with the fcitx5-android keyboard app, each phase is expected to take approximately ten days.
+### Development Methodology and Testing
 
+Throughout the project, we will employ unit testing and comprehensive testing to ensure the reliability and security of the E2EE solution. The agile Scrum approach, combined with Jira for project management, will enable our team to adapt to challenges, incorporate feedback, and iterate on the solution efficiently.
 
-The development will be step by step, which are learning framework, develop backend process, develop frontend logic, UI/UX implementation, unit tests and general test.
-The Windows development is already started. The work is disigned in 4 phases. The first phase is to get used to the development languages and get used to it. The second phase is to write backend code to connect to WeChat and make use of WeChat hooks. The third phase is to write frontend UIs to make it easier for user to use. The fourth phase to implement other functionalities.  The Jira process can be found here. We are currently in the fourth phase. Each phase is going to take three to four days. (https://hermanyiqunliang.atlassian.net/jira/software/projects/YIQ/boards/2?atlOrigin=eyJpIjoiZThkMmIyOWI5YzUxNDQ2NjhhNWI1ODAxZWMyMDljOGUiLCJwIjoiaiJ9) 
-The main hard work will be focused on Android development. The same phase for development will be used. However, we need more time to get used to the Kotlin programming language and also the app structure already included in the keyboard structure. Each phase is going to take ten days. 
+(https://hermanyiqunliang.atlassian.net/jira/software/projects/YIQ/boards/2?atlOrigin=eyJpIjoiZThkMmIyOWI5YzUxNDQ2NjhhNWI1ODAxZWMyMDljOGUiLCJwIjoiaiJ9) 
 ### Cost and expenses
 ### Continuity and Future plan
 
