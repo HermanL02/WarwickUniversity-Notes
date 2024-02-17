@@ -36,14 +36,16 @@ On Android, due to the limitation of retrieving root privilege on Android device
 
 We will deploy a server using Node.js to create APIs for users to upload their public key with their WeChat unique ID and retrieve others public key using WeChat unique ID. However, we want to make sure when the server is blocked or is down, the app is still usable. 
 ### Work plan
+The development will based on scrum development and will use Jira to manage the development. The development will cost around 2 months. The first month will be focused on Windows application design. The second month will be focused on Android application design. 
+The development will be step by step, which are learning framework, develop backend process, develop frontend logic, UI/UX implementation, unit tests and general test.
 The Windows development is already started. The work is disigned in 4 phases. The first phase is to get used to the development languages and get used to it. The second phase is to write backend code to connect to WeChat and make use of WeChat hooks. The third phase is to write frontend UIs to make it easier for user to use. The fourth phase to implement other functionalities.  The Jira process can be found here. We are currently in the fourth phase. Each phase is going to take three to four days. (https://hermanyiqunliang.atlassian.net/jira/software/projects/YIQ/boards/2?atlOrigin=eyJpIjoiZThkMmIyOWI5YzUxNDQ2NjhhNWI1ODAxZWMyMDljOGUiLCJwIjoiaiJ9) 
 The main hard work will be focused on Android development. The same phase for development will be used. However, we need more time to get used to the Kotlin programming language and also the app structure already included in the keyboard structure. Each phase is going to take ten days. 
 ### Cost and expenses
 ### Continuity and Future plan
 
-The development will based on scrum development and will use Jira to manage the development. The development will cost around 2 months. The first month will be focused on Windows application design. The second month will be focused on Android application design. 
 
-The development will be step by step, which are learning framework, develop backend process, develop frontend logic, UI/UX implementation, unit tests and general test. Learning and implementations will cost 8 days each and the tests will cost 2 days each. The rest time will be assigned to unexpected errors. 
+
+
 
 
 
