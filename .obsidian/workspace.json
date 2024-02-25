@@ -45,9 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eaf77531c47645b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,7 +210,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1f181cb20af9651a",
+  "active": "eaf77531c47645b8",
   "lastOpenFiles": [
     "202309/Lab 6.md",
     "202309/Essay.md",
