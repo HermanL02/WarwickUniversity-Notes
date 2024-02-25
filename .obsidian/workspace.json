@@ -50,9 +50,11 @@
             "id": "eaf77531c47645b8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "202402/Research Proposal.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
