@@ -1,4 +1,5 @@
 ## Motivation
+## Background
 Nowadays, the balance between convenient communication and privacy has become a pivotal concern. One notable example is WeChat, China's most popular messaging app, which offers an array of services from messaging to financial transactions. However, its convenience comes at a cost: significant monitoring and data collection practices that raise privacy concerns. WeChat's approach to user data is emblematic of broader trends in digital surveillance and data management within China. 
 
 The introduction of end-to-end encryption (E2EE) represents a technological solution to enhance privacy by ensuring that only the communicating users can read the messages. E2EE prevents potential eavesdroppers – including telecom providers, Internet providers, and even the service providers themselves – from accessing the cryptographic keys needed to decrypt the conversation.
