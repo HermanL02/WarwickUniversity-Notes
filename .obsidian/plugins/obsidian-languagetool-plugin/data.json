@@ -6,5 +6,6 @@
   "autoCheckDelay": 3000,
   "pickyMode": false,
   "staticLanguage": "auto",
-  "englishVeriety": "en-GB"
+  "englishVeriety": "en-GB",
+  "motherTongue": "zh-CN"
 }
