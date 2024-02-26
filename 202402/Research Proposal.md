@@ -58,7 +58,7 @@ In summary, the choice to incorporate these three cryptographic protocols into o
 ## Target customers
 
 ## Target
-We want to make our project scalable and 
+We want to make our project scalable. 
 
 ## Deliverable and work plan
 ### Deliverables 
