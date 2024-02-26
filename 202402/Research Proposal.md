@@ -2,7 +2,7 @@
 ## Background
 Nowadays, the balance between convenient communication and privacy has become a pivotal concern. In an era that digital communication is everywhere, the convenience of keeping communication with others seems to be granted. However, this convenience brings a strict privacy issue, because most governments and enterprises are seeking or having the ability to monitor, collect and analyse much personal communication data. The global discussion about the monitoring of chatting tools has never stopped. 
 
-Many countries in the world take terrorist, crime and national security threats as the reason to restrict encryption attemptations, including End-to-End Encryption (E2EE) technologies. E2EE is a safe communication method, which can prevent third party to retrieve the data when transmitting the data from one terminal or device to another terminal or device, which means all other external entities including the government cannot access the personal chats. 
+Many countries in the world take terrorist, crime and national security threats as the reason to restrict encryption attemptations, including End-to-End Encryption (E2EE) technologies. E2EE is a safe communication method, which can prevent third party to retrieve the data when transmitting the data from one terminal or device to another terminal or device, which means all other external entities including the government, telecom providers, Internet providers, and even the service providers themselves – from accessing the cryptographic keys needed to decrypt the conversation.
 
 Although E2EE provides privacy advantages, there is resistance with implementations. Some governments believe that E2EE technologies make the criminal's communications cannot be censored and monitored. Many countries are attempting to legislative compel of tech companies that provide E2EE services. These actions result a serious discussion between privacy and the possibility of misuse of monitoring rights, shows the hardness of balancing security and protect personal information. 
 
@@ -10,7 +10,7 @@ China is always in the forefront of monitoring chat communications, implementing
 
 One notable example is WeChat, China's most popular messaging app, which offers an array of services from messaging to financial transactions. However, its convenience comes at a cost: significant monitoring and data collection practices that raise privacy concerns. WeChat's approach to user data is emblematic of broader trends in digital surveillance and data management within China. 
 
-The introduction of end-to-end encryption (E2EE) represents a technological solution to enhance privacy by ensuring that only the communicating users can read the messages. E2EE prevents potential eavesdroppers – including telecom providers, Internet providers, and even the service providers themselves – from accessing the cryptographic keys needed to decrypt the conversation.
+
 
 However, the regulatory environment in China presents a unique challenge to the adoption of E2EE technologies. The Chinese government has not permitted the registration of real E2EE applications, citing national security and public safety concerns. This stance is in line with broader Internet governance strategies in China, including the Great Firewall, which blocks access to many foreign websites and services, including popular E2EE-enabled applications like WhatsApp and Facebook Messenger. Also, in some cases, the police officer would stop you on the street to see if you are using some illegal apps, like Telegram. 
 
