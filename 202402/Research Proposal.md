@@ -4,7 +4,7 @@ Nowadays, the balance between convenient communication and privacy has become a 
 
 Many countries in the world take terrorist, crime and national security threats as the reason to restrict encryption attemptations, including End-to-End Encryption (E2EE) technologies. E2EE is a safe communication method, which can prevent third party to retrieve the data when transmitting the data from one terminal or device to another terminal or device, which means all other external entities including the government cannot access the personal chats. 
 
-Although E2EE provides privacy advantages, there is resistance with implementations. Some governments believe that E2EE technologies make the criminal's communications cannot be censored and monitored. Many countr
+Although E2EE provides privacy advantages, there is resistance with implementations. Some governments believe that E2EE technologies make the criminal's communications cannot be censored and monitored. Many countries are attempting to legislative compel of tech companies that provide E2EE services. Th
 
 
 One notable example is WeChat, China's most popular messaging app, which offers an array of services from messaging to financial transactions. However, its convenience comes at a cost: significant monitoring and data collection practices that raise privacy concerns. WeChat's approach to user data is emblematic of broader trends in digital surveillance and data management within China. 
