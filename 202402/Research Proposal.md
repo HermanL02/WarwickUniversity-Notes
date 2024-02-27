@@ -5,7 +5,7 @@ Nowadays, the balance between convenient communication and privacy has become a 
 ## Ideas
 The proposed solution involves developing mechanisms to enable easy established legal, stable E2EE for users within restrictive digital environments using non-E2EE popular app, WeChat, without connecting to outside Chinese servers and without using VPNs. 
 ### App Structure
-For the Windows operating system, our strategy encompasses utilizing a WeChat hook to employ reverse engineering techniques. This method aims to intercept messages from the WeChat application, extracting them for E2EE processing, and then forwarding these encrypted messages to a local port. Concurrently, this hook is designed to receive encrypted messages through a local API, decrypt them, and then display them within our application. Also, the user could input plain text in our software, and then the message will be forwarded to another port. Then WeChat hook could send the message to the contact through WeChat. We want to use WeChat hook to achieve direct chat using our app, through WeChat platform. (We will introduce details later.)  The app will be build with Electron Framework, with React.js as front end and Node.js as backend. The app will rely on IPC communication. 
+For the Windows operating system, we applied three different levels methods to eour strategy encompasses utilizing a WeChat hook to employ reverse engineering techniques. This method aims to intercept messages from the WeChat application, extracting them for E2EE processing, and then forwarding these encrypted messages to a local port. Concurrently, this hook is designed to receive encrypted messages through a local API, decrypt them, and then display them within our application. Also, the user could input plain text in our software, and then the message will be forwarded to another port. Then WeChat hook could send the message to the contact through WeChat. We want to use WeChat hook to achieve direct chat using our app, through WeChat platform. (We will introduce details later.)  The app will be build with Electron Framework, with React.js as front end and Node.js as backend. The app will rely on IPC communication. 
 
 On the Android platform, we decided to extend the current keyboard app to add another plugin using Kotlin. Our approach is based on leveraging the [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) application, which boasts significant community support. This input method, renowned for its reliance on local dictionaries and regular updates, guarantees that user inputs are not transmitted to third-party entities. This framework provides a secure foundation for integrating E2EE functionalities. 
 
@@ -20,7 +20,8 @@ The solution is related to multiple encryption methods and the WeChat hook in We
 
 The app will be scalable for choosing multiple different strategies in encryption, and could allow users decide their own encryption methods. 
 
-However, for WeChat hook, the hook strictly relies on specific versions, if the WeChat forces the users to update the latest version, it would cause the latency to update the WeChat hooks. During this time, the user may 
+However, for WeChat hook, the hook strictly relies on specific versions, if the WeChat forces the users to update the latest version, it would cause the latency to update the WeChat hooks. During this time, the user may only rely on the basic encryption methods to run the app. 
+
 
 
 ## Target customers
