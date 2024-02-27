@@ -13,7 +13,8 @@ Based on the application, we want to implement a textbox within the input Androi
 
 We will deploy a server using Node.js to create APIs for users to upload their public key with their WeChat unique ID and retrieve others public key using WeChat unique ID. However, we want to make sure when the server is blocked or is down, the app is still usable. 
 
-### Scalable
+### Scalability
+
 
 ## Target customers
 
