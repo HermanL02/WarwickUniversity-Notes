@@ -36,25 +36,35 @@ These measures, combined with the server's existing functionality, will ensure t
 
 ### Scalability
 
-The solution is related to multiple encryption methods and the WeChat hook in WeChat. 
+The proposed solution involves multiple encryption methods and the utilization of a WeChat hook within WeChat, designed to provide robust security and flexibility in communications. Below we explore various aspects of scalability and resilience of the system.
+
 ### Technology Scalability
 
-The app will be scalable for choosing multiple different strategies in encryption, and could allow users to decide their own encryption methods to avoid the encryption methods become outdated. 
+Our app is designed to be highly scalable in terms of encryption technology. It allows users to choose from multiple encryption strategies, providing the flexibility to select or customize encryption methods. This design ensures that the app can adapt to new security challenges and prevents encryption methods from becoming obsolete.
 
-However, for Windows WeChat hook, the hook can be updated after the latest WeChat version is available. However, different hooks are fitting different versions of WeChat. If the WeChat forces the users to update the latest version, it would cause the latency to update the WeChat hooks. During this time, we can only provide the basic encryption methods to the users to run the app. 
+However, the scalability of the WeChat hook for Windows presents unique challenges. The hook needs to be updated to remain compatible with new versions of WeChat. Given that WeChat may enforce updates, there could be a delay in updating our hooks to match the latest version, which might temporarily limit users to basic encryption methods until the hook is updated.
 
+### Enhanced Operation Scalability
 
-### Operation Scalability
-We should maintain the app to be easy and stable at all the time. If the solution requires the users to do complex settings and changes their communication experience, it may be a challenge to let them continue to work on that. 
+To ensure the app remains user-friendly and stable, we emphasize simplicity in its operation. The solution is designed to integrate seamlessly with users’ existing communication habits, minimizing the need for complex configurations. Our goal is to maintain an intuitive user experience that encourages continued use of the app, even as we introduce advanced encryption functionalities.
 
 ### Legal Status Scalability
-There are potential risks of Chinese government to restrict the use the local use of E2EE. However, local apps are relatively harder to be revealed by the government. 
-### Server and Network Load
-The exchange of keys through the server is optional. The local client side should be reliable for running at least 24 hours without any errors. 
-## Target customers
 
-## Target
-We want to make our project scalable. 
+While there are potential legal challenges, especially concerning the use of E2EE in regions with strict regulatory environments like China, our approach aims to mitigate these risks. By focusing on local app deployment and minimizing server reliance for critical operations, the app's visibility to regulatory authorities is reduced, enhancing its resilience against legal and regulatory actions.
+
+### Server and Network Load Scalability
+
+To further ensure the app’s reliability, key exchange can be conducted through the server or, optionally, directly between clients to reduce server and network load. This hybrid approach enhances the system’s scalability and ensures that the client-side application can function independently for extended periods without server interaction, aiming for at least 24 hours of error-free operation.
+
+### Expanding on Scalability and Resilience
+
+To address the potential latency in updating WeChat hooks, we will explore the development of a modular hook system that allows for quicker adaptations to new WeChat versions. This system could include a community-driven platform where developers can contribute updates and fixes for new versions of WeChat, fostering a collaborative environment that speeds up the update process.
+
+Additionally, we will implement advanced caching mechanisms for encryption keys and user settings, ensuring that these can be stored securely on the device for longer periods. This approach not only improves the app's performance but also its autonomy from network conditions and server availability.
+
+In terms of legal and operational scalability, we will continuously monitor regulatory developments and adapt our strategies accordingly. This may involve enhancing the app's stealth features or deploying decentralized network technologies to further obscure communication and reduce the likelihood of detection and restriction.
+
+By addressing these aspects of scalability and resilience, we aim to create a secure, user-friendly, and legally resilient communication platform that remains effective and accessible across various operating environments and regulatory landscapes.
 
 ## Deliverable and work plan
 ### Deliverables 
