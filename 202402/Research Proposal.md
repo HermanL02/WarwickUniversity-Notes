@@ -32,7 +32,7 @@ We should maintain the app to be easy and stable at all the time. If the solutio
 ### Legal Status Scalability
 There are potential risks of Chinese government to restrict the use the local use of E2EE. However, local apps are relatively harder to be revealed by the government. 
 ### Server and Network Load
-The exchange of keys through the server is optional. The local client side should be reliable for runni
+The exchange of keys through the server is optional. The local client side should be reliable for running at least 24 hours without any errors. 
 ## Target customers
 
 ## Target
@@ -40,7 +40,7 @@ We want to make our project scalable.
 
 ## Deliverable and work plan
 ### Deliverables 
-
+The Windows WeChat hook is successfully 
 ### Work plan
 
 The development of our end-to-end encryption (E2EE) solution for WeChat on Windows and Android platforms will adopt an agile methodology, specifically the Scrum framework, to ensure flexibility, rapid iteration, and continuous feedback throughout the project lifecycle. Project management and task tracking will be facilitated through Jira, allowing for clear visibility of progress, assignment of tasks, and collaboration among team members. The overall development timeline is estimated at approximately two months, with distinct phases allocated to the Windows and Android platforms.
