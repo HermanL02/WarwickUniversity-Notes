@@ -13,6 +13,7 @@ On the Android platform, we decided to extend the current keyboard app to add an
 
 Based on the application, we want to implement a textbox within the input Android keyboard, that could receive the user input, when user clicks on send on keyboard, it then will send the encrypted message to the designated user. The input method also monitors  the clipboard, to decrypt the copied messages. 
 
+### Optional Server
 We will deploy a server using Node.js to create APIs for users to upload their public key with their WeChat unique ID and retrieve others public key using WeChat unique ID. However, we want to make sure when the server is blocked or is down, the app is still usable. 
 
 ### Scalability
@@ -25,7 +26,8 @@ The app will be scalable for choosing multiple different strategies in encryptio
 However, for WeChat hook, the hook strictly relies on specific versions, if the WeChat forces the users to update the latest version, it would cause the latency to update the WeChat hooks. During this time, the user may only rely on the basic encryption methods to run the app. 
 
 
-
+### Operation Scalability
+The user should use easy to use 
 ## Target customers
 
 ## Target
