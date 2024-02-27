@@ -66,11 +66,44 @@ In terms of legal and operational scalability, we will continuously monitor regu
 
 By addressing these aspects of scalability and resilience, we aim to create a secure, user-friendly, and legally resilient communication platform that remains effective and accessible across various operating environments and regulatory landscapes.
 
-## Deliverable and work plan
-### Deliverables 
-The Windows WeChat hook is successfully applied. The hook achives 100% interception. The message deliver latency is reduced to under 100ms. The hook does not have any memory leaks. 
+### Deliverables Overview
 
-The protocols of encryption are successfully used. The encryption and decryption does not have any error. The encryption and decryption meets the performance standard. The security checks to ensure the encryption level and with no 漏洞。
+The project's objectives focus on implementing a highly effective Windows WeChat hook and ensuring the robustness and efficiency of encryption protocols. Below is a detailed outline of the deliverables aligned with these goals:
+
+### Windows WeChat Hook Implementation
+
+1. **Successful Application of the WeChat Hook**: The hook is seamlessly integrated with the Windows version of WeChat, enabling real-time message interception without disrupting the native app experience.
+    
+2. **Interception Accuracy**: Achieve 100% success rate in intercepting messages, ensuring no messages bypass the hook, thus maintaining the integrity of the encryption and decryption process.
+    
+3. **Latency Reduction**: The message delivery system, post-interception and processing (encryption/decryption), operates with a latency of under 100 milliseconds, enhancing the user experience by ensuring timely communication.
+    
+4. **Memory Management**: The hook is optimized for efficient memory usage, eliminating any memory leaks to ensure stable and prolonged operation of the WeChat application without degradation in performance.
+    
+
+### Encryption Protocol Effectiveness
+
+1. **Error-Free Encryption and Decryption**: The implemented encryption and decryption algorithms function without errors, accurately processing messages to maintain confidentiality and integrity.
+    
+2. **Performance Standards Compliance**: The encryption and decryption processes meet predefined performance standards, balancing security with efficiency to not impede the user experience.
+    
+3. **Security Validation**: Conduct thorough security checks to confirm the encryption protocols are free from vulnerabilities (漏洞). This includes regular audits, penetration testing, and adherence to current best practices in cryptographic security to prevent potential exploits.
+    
+
+### Quality Assurance and Testing
+
+- **Comprehensive Testing**: Implement a rigorous testing framework that includes unit tests, integration tests, and end-to-end tests to ensure all components function correctly as a cohesive system.
+    
+- **Performance Benchmarking**: Regularly benchmark the system's performance, especially focusing on the speed and resource usage of the encryption/decryption processes and the WeChat hook's impact on the overall system.
+    
+- **Security Audits**: Perform continuous security assessments, leveraging both automated tools and manual inspection techniques to identify and mitigate any security issues promptly.
+    
+
+### Documentation and Support
+
+- **Technical Documentation**: Provide detailed documentation covering the setup, configuration, and operation of the WeChat hook and encryption protocols, including troubleshooting guides and best practices for users.
+    
+- **User Support System**: Establish a responsive support system for users to report issues, request features, or seek help with the application, fostering a community-driven improvement process.
 ### Work plan
 
 The development of our end-to-end encryption (E2EE) solution for WeChat on Windows and Android platforms will adopt an agile methodology, specifically the Scrum framework, to ensure flexibility, rapid iteration, and continuous feedback throughout the project lifecycle. Project management and task tracking will be facilitated through Jira, allowing for clear visibility of progress, assignment of tasks, and collaboration among team members. The overall development timeline is estimated at approximately two months, with distinct phases allocated to the Windows and Android platforms.
