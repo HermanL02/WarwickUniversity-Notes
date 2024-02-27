@@ -1,6 +1,6 @@
 ## Motivation
 ## Background
-Nowadays, the balance between convenient communication and privacy has become a pivotal concern. In an era that digital communication is everywhere, the convenience of keeping communication with others seems to be granted. However, this convenience brings a strict privacy issue, because most governments and enterprises are seeking or having the ability to monitor, collect and analyse much personal communication data. The global discussion about the monitoring of chatting tools has never stopped. 
+Nowadays, the balance between convenient communication and privacy has become a serious concern. In an era that digital communication is everywhere, the convenience of keeping communication with others seems to be granted. However, this convenience brings a strict privacy issue, because most governments and enterprises are seeking or having the ability to monitor, collect and analyse much personal communication data. 
 
 End-to-End Encryption (E2EE) is a safe communication method, which can prevent third party to retrieve the data when transmitting the data from one terminal or device to another terminal or device, which means all other external entities including the government, telecom providers, Internet providers, and even the service providers themselves do not have access to the messages. 
 
