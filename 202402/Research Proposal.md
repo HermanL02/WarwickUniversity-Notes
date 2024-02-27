@@ -21,7 +21,7 @@ For the Windows operating system, we implemented two methods to address differen
 
 On the Android platform, we have decided to enhance an open-source keyboard app by adding a new plugin using Kotlin. Our strategy utilizes the [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) application, which enjoys a large range of community support. This input method is reliance on local dictionaries and frequent updates, ensures that user inputs are not shared with third-party entities. This framework lays a solid groundwork for incorporating E2EE (End-to-End Encryption) capabilities. 
 
-Drawing on this application, we plan to integrate a textbox within the Android keyboard input. This textbox will capture user input, and when the user presses the send button on the keyboard, it will transmit the encrypted message to the intended recipient. Additionally, the input method will monitor the clipboard to decrypt messages that have been copied.
+Drawing on this application, we plan to integrate a textbox within the Android keyboard input. This textbox will capture user input, and when the user presses the send button on the keyboard, it will transmit the encrypted message to the intended recipient. Additionally, the input method will monitor the clipboard to decrypt messages that have been copied. We 
 
 ### Optional Server
 We plan to deploy a server utilizing Node.js to develop APIs that allow users to upload their public key along with their WeChat unique ID, and to retrieve others' public keys using the WeChat unique ID. However, to ensure the app remains functional even when the server is blocked or down, we will implement additional resilience measures.
