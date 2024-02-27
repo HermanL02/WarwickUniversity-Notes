@@ -15,7 +15,7 @@ We will deploy a server using Node.js to create APIs for users to upload their p
 
 ### Scalability
 
-
+The solution is related to multiple encryption methods and the WeChat hook in WeChat. The te
 ## Target customers
 
 ## Target
