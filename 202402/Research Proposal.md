@@ -40,7 +40,7 @@ We want to make our project scalable.
 
 ## Deliverable and work plan
 ### Deliverables 
-The Windows WeChat hook is successfully applied. The hook achives 100% interception. The messge deliver latency is reduced to under 1s
+The Windows WeChat hook is successfully applied. The hook achives 100% interception. The message deliver latency is reduced to under 100ms. The hook does not have any memory leaks. 
 
 The protocols of encryption are successfully used. The encryption and decryption does not have any error. The encryption and decryption meets the performance standard. The security checks to ensure the encryption level and with no 漏洞。
 ### Work plan
