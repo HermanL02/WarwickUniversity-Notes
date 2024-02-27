@@ -27,7 +27,7 @@ However, for WeChat hook, the hook strictly relies on specific versions, if the 
 
 
 ### Operation Scalability
-The user should use easy to use 
+We should maintain the app to be easy and stable at all the time. If the solution requires the users to do complex settings and changes their communication experience
 ## Target customers
 
 ## Target
