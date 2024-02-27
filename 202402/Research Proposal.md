@@ -21,13 +21,13 @@ We will deploy a server using Node.js to create APIs for users to upload their p
 The solution is related to multiple encryption methods and the WeChat hook in WeChat. 
 ### Technology Scalability
 
-The app will be scalable for choosing multiple different strategies in encryption, and could allow users decide their own encryption methods. 
+The app will be scalable for choosing multiple different strategies in encryption, and could allow users to decide their own encryption methods. 
 
-However, for WeChat hook, the hook strictly relies on specific versions, if the WeChat forces the users to update the latest version, it would cause the latency to update the WeChat hooks. During this time, the user may only rely on the basic encryption methods to run the app. 
+However, for Windows WeChat hook, the hook can be updated after the latest WeChat version is available. However, each hook , if the WeChat forces the users to update the latest version, it would cause the latency to update the WeChat hooks. During this time, the user may only rely on the basic encryption methods to run the app. 
 
 
 ### Operation Scalability
-We should maintain the app to be easy and stable at all the time. If the solution requires the users to do complex settings and changes their communication experience
+We should maintain the app to be easy and stable at all the time. If the solution requires the users to do complex settings and changes their communication experience, it may be a challenge 
 ## Target customers
 
 ## Target
