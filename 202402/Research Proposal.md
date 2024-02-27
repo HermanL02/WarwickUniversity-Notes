@@ -29,6 +29,9 @@ However, for Windows WeChat hook, the hook can be updated after the latest WeCha
 ### Operation Scalability
 We should maintain the app to be easy and stable at all the time. If the solution requires the users to do complex settings and changes their communication experience, it may be a challenge to let them continue to work on that. 
 
+### Legal Status Scalability
+There are potential risks of th
+### Local 
 ## Target customers
 
 ## Target
