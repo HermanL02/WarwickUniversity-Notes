@@ -20,7 +20,9 @@ The solution is related to multiple encryption methods and the WeChat hook in We
 
 The app will be scalable for choosing multiple different strategies in encryption, and could allow users decide their own encryption methods. 
 
-However, for WeChat hook, the hook strictly relies on specific versions, if the WeChat forces t
+However, for WeChat hook, the hook strictly relies on specific versions, if the WeChat forces the users to update the latest version, it would cause the latency to update the WeChat hooks. During this time, the user may 
+
+
 ## Target customers
 
 ## Target
