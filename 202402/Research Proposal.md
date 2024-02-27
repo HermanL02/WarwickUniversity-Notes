@@ -24,7 +24,15 @@ On the Android platform, we have decided to enhance our current keyboard app by 
 Drawing on this application, we plan to integrate a textbox within the Android keyboard input. This textbox will capture user input, and when the user presses the send button on the keyboard, it will transmit the encrypted message to the intended recipient. Additionally, the input method will monitor the clipboard to decrypt messages that have been copied.
 
 ### Optional Server
-We will deploy a server using Node.js to create APIs for users to upload their public key with their WeChat unique ID and retrieve others public key using WeChat unique ID. However, we want to make sure when the server is blocked or is down, the app is still usable. 
+We plan to deploy a server utilizing Node.js to develop APIs that allow users to upload their public key along with their WeChat unique ID, and to retrieve others' public keys using the WeChat unique ID. However, to ensure the app remains functional even when the server is blocked or down, we will implement additional resilience measures.
+
+To enhance the app's resilience and usability during server downtimes, we will incorporate a local caching system within the app. This system will store recently accessed public keys and their associated WeChat IDs locally on the user's device. By doing so, the app can continue to facilitate the encryption and decryption processes by using the cached keys, ensuring that users can still communicate securely without interruption.
+
+Moreover, we will explore the possibility of establishing a peer-to-peer (P2P) fallback mechanism. In this scenario, if the central server becomes unreachable, the app will attempt to connect directly with peers (other app users) to exchange public keys. This P2P approach leverages the users' network, making the system more robust against server outages and censorship efforts.
+
+To further enhance data integrity and security, we will implement cryptographic verification of the public keys retrieved from both the server and peer sources. This ensures that the keys have not been tampered with, maintaining the trustworthiness of the encryption process.
+
+These measures, combined with the server's existing functionality, will ensure that the app remains a reliable tool for secure communication, even in the face of server disruptions or network issues.
 
 ### Scalability
 
