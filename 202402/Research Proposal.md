@@ -104,37 +104,58 @@ The project's objectives focus on implementing a highly effective Windows WeChat
 - **Technical Documentation**: Provide detailed documentation covering the setup, configuration, and operation of the WeChat hook and encryption protocols, including troubleshooting guides and best practices for users.
     
 - **User Support System**: Establish a responsive support system for users to report issues, request features, or seek help with the application, fostering a community-driven improvement process.
-### Work plan
+### Work Plan Overview
 
-The development of our end-to-end encryption (E2EE) solution for WeChat on Windows and Android platforms will adopt an agile methodology, specifically the Scrum framework, to ensure flexibility, rapid iteration, and continuous feedback throughout the project lifecycle. Project management and task tracking will be facilitated through Jira, allowing for clear visibility of progress, assignment of tasks, and collaboration among team members. The overall development timeline is estimated at approximately two months, with distinct phases allocated to the Windows and Android platforms.
-#### Development Plan Overview
-#### Month 1: Windows Application Development
+The development of the end-to-end encryption (E2EE) solution for WeChat on Windows and Android platforms will be approached using an agile methodology, specifically adopting the Scrum framework, tailored for a solo development effort. This approach ensures flexibility, rapid iteration, and continuous feedback throughout the project lifecycle. Project management and task tracking will be facilitated through Jira, allowing for clear visibility of progress and efficient organization of tasks. The overall development timeline is estimated at approximately two months, with distinct phases allocated to the Windows and Android platforms.
 
-The first month is dedicated to the design and development of the Windows application. This phase is organized into four key stages:
+### Phase 1: Initial Setup and Planning (Weeks 1-2)
 
-1. **Initial Learning and Familiarization:** Team members will acclimate to the development languages and tools relevant to the Windows platform, ensuring a strong foundation for subsequent phases.
-2. **Backend Development:** Focus will shift to backend coding, particularly establishing connections to WeChat and integrating WeChat hooks for message interception and handling.
-3. **Frontend Development:** The development of user interfaces (UI) aims to enhance user experience, making the application intuitive and accessible.
-4. **Additional Functionalities:** Final adjustments and the incorporation of extra features to enrich the application's capabilities.
+- **Sprint 0: Project Kickoff and Requirements Gathering**
+    - Establish project goals, gather requirements, and define the scope for both the Windows and Android platforms.
+    - Set up the project environment in Jira, creating epics and stories for initial tasks.
+    - Outline the solo development strategy, incorporating roles such as Scrum Master and Product Owner into personal workflow.
 
-Each stage is expected to span three to four days, with progress meticulously documented and managed through our [Jira project board](https://hermanyiqunliang.atlassian.net/jira/software/projects/YIQ/boards/2?atlOrigin=eyJpIjoiZThkMmIyOWI5YzUxNDQ2NjhhNWI1ODAxZWMyMDljOGUiLCJwIjoiaiJ9). We are currently in the fourth and final phase of the Windows application development.
+### Phase 2: Windows Platform Development (Weeks 3-5)
 
-#### Month 2: Android Application Development
+- **Sprint 1: Windows WeChat Hook Development**
+    
+    - Design and implement the initial version of the Windows WeChat hook for message interception.
+    - Begin development on the encryption module, focusing on integrating selected encryption algorithms.
+    - Conduct initial testing and debugging of the hook and encryption module.
+- **Sprint 2: Enhancement and Optimization**
+    
+    - Optimize the WeChat hook for performance, ensuring low latency and memory efficiency.
+    - Enhance the encryption module, implementing security checks and performance optimizations.
+    - Conduct thorough testing, including performance benchmarking and security audits.
 
-The subsequent month will be allocated to developing the Android application. The phases mirror those of the Windows development, with adaptations to accommodate the Android platform:
+### Phase 3: Android Platform Development (Weeks 6-7)
 
-1. **Learning and Adaptation:** Given the Android application's reliance on Kotlin and its unique app structure, additional time will be allocated for the team to familiarize themselves with Kotlin programming and the existing keyboard app framework.
-2. **Backend Development:** Similar to the Windows phase, focusing on integrating E2EE functionalities within the app's existing structure.
-3. **Frontend and UI/UX Development:** Emphasis will be placed on creating a user-friendly interface that aligns with Android usability standards.
-4. **Integration and Enhancement:** Incorporating additional security protocols and ensuring the application's stability and reliability.
+- **Sprint 3: Android App Development**
+    
+    - Start the development of the Android keyboard plugin, integrating the E2EE functionalities.
+    - Implement the text box for input and configure clipboard monitoring for decryption.
+    - Initiate testing for functionality, performance, and security on the Android platform.
+- **Sprint 4: Finalization and Testing**
+    
+    - Finalize the development of the Android platform, focusing on refining features and fixing bugs identified during testing.
+    - Perform comprehensive end-to-end testing across both platforms to ensure interoperability and reliability.
+    - Address any remaining issues and conduct a final review.
 
-Given the complexities associated with Android development, particularly the need to integrate with the fcitx5-android keyboard app, each phase is expected to take approximately ten days.
-### Development Methodology and Testing
+### Phase 4: Deployment and Feedback (Week 8)
 
-Throughout the project, we will employ unit testing and comprehensive testing to ensure the reliability and security of the E2EE solution. The agile Scrum approach, combined with Jira for project management, will enable our team to adapt to challenges, incorporate feedback, and iterate on the solution efficiently.
+- **Sprint 5: Deployment and Market Introduction**
+    
+    - Prepare for deployment, including final documentation and user guides.
+    - Deploy the E2EE solution for WeChat on both Windows and Android platforms.
+    - Monitor the solution in real-time operation, collecting feedback for future improvements.
+- **Post-Launch: Continuous Improvement**
+    
+    - Analyze feedback and performance data to identify areas for improvement.
+    - Plan and implement updates in subsequent iterations, continuing to use the agile framework for ongoing development and enhancement.
 
-(https://hermanyiqunliang.atlassian.net/jira/software/projects/YIQ/boards/2?atlOrigin=eyJpIjoiZThkMmIyOWI5YzUxNDQ2NjhhNWI1ODAxZWMyMDljOGUiLCJwIjoiaiJ9) 
-### Cost and expenses
+Regular Scrum activities such as sprint planning, reviews, and retrospectives will be adapted for solo execution, ensuring the project remains on track, adapts to any changes or challenges, and continuously improves based on self-assessment and feedback.
+
+
 ### Continuity and Future plan
 
 
