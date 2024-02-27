@@ -30,8 +30,9 @@ However, for Windows WeChat hook, the hook can be updated after the latest WeCha
 We should maintain the app to be easy and stable at all the time. If the solution requires the users to do complex settings and changes their communication experience, it may be a challenge to let them continue to work on that. 
 
 ### Legal Status Scalability
-There are potential risks of Chinese government to restrict the use the local use of E2EE. However, l
-### Local 
+There are potential risks of Chinese government to restrict the use the local use of E2EE. However, local apps are relatively harder to be revealed by the government. 
+### Server and Network Load
+The exchange of keys through the server is optional. The local client side should be reliable for runni
 ## Target customers
 
 ## Target
