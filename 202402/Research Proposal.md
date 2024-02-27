@@ -40,7 +40,7 @@ We want to make our project scalable.
 
 ## Deliverable and work plan
 ### Deliverables 
-The Windows WeChat hook is successfully 
+The Windows WeChat hook is successfully applied. The protocols of encryption are successfully used. The encryption and decryption does not have any error. The encryption and decryption meets the performance standard. The security checks to ensure the encryption level and
 ### Work plan
 
 The development of our end-to-end encryption (E2EE) solution for WeChat on Windows and Android platforms will adopt an agile methodology, specifically the Scrum framework, to ensure flexibility, rapid iteration, and continuous feedback throughout the project lifecycle. Project management and task tracking will be facilitated through Jira, allowing for clear visibility of progress, assignment of tasks, and collaboration among team members. The overall development timeline is estimated at approximately two months, with distinct phases allocated to the Windows and Android platforms.
