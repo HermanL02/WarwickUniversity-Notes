@@ -113,15 +113,12 @@ We will conduct thorough testing, including performance benchmarking and securit
 
 We will start the development of the Android keyboard plugin, integrating the E2EE functionalities, implement the text box for input and configure clipboard monitoring for decryption.
 We will initiate testing for functionality, performance, and security on the Android platform.
-Also, we will finalize the development of the Android platform, focusing on refining features and fixing bugs identified during testing. We will perform comprehensive end-to-end testing across both platforms to ensure interoperability and reliability. Then I will contact some students to do the alpha te
+Also, we will finalize the development of the Android platform, focusing on refining features and fixing bugs identified during testing. We will perform comprehensive end-to-end testing across both platforms to ensure interoperability and reliability. Then I will contact some students to do the comprehensive alpha test. 
 
 ### Phase 4: Deployment and Feedback (Week 8)
 
-- **Sprint 5: Deployment and Market Introduction**
-    
-    - Prepare for deployment, including final documentation and user guides.
-    - Deploy the E2EE solution for WeChat on both Windows and Android platforms.
-    - Monitor the solution in real-time operation, collecting feedback for future improvements.
+We will prepare for deployment, including final documentation and user guides, deploy the E2EE solution for WeChat on both Windows and Android platforms.
+collecting feedback for future improvements.
 - **Post-Launch: Continuous Improvement**
     
     - Analyze feedback and performance data to identify areas for improvement.
