@@ -52,7 +52,7 @@ While there are potential legal challenges, especially concerning the use of E2E
 
 ### Server and Network Load Scalability
 
-To further ensure the app’s reliability, key exchange can be conducted through the server or, optionally, directly between clients to reduce server and network load. This hybrid approach enhances the system’s scalability and ensures that the client-side application can function independently for extended periods without server interaction, aiming for at least 24 hours of error-free operation.
+To further ensure the app’s reliability, key exchange can be conducted between clients to reduce server and network load. This hybrid approach enhances the system’s scalability and ensures that the client-side application can function independently for extended periods without server interaction, aiming for at least 24 hours of error-free operation.
 
 ### Expanding on Scalability and Resilience
 
