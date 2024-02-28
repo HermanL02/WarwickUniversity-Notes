@@ -44,11 +44,11 @@ It allows users to choose from a variety of encryption policies. We also try to 
 However, the scalability of WeChat hooks on Windows presents unique challenges. The hook needs to be updated to remain compatible with the new version of WeChat. Given that WeChat may force updates, there may be delays in updating our hooks to match the latest version, which may temporarily limit users' access to only the basic encryption methods until the hooks are updated. 
 ### Enhanced Operation Scalability
 
-To ensure the app remains user-friendly and stable, we emphasize simplicity in its use. We try to minimize the need for complex configurations. Usually the hook requires injecting WeChat first, then connect to WeChat, then send the message. We are working on writing it to the scripts to simplify the procedure. The solution is designed to integrate with users’ existing communication habits.  Our goal is to maintain an intuitive user experience that encourages continued use of the app, even as we introduce advanced encryption functionalities. 
+To ensure the app remains user-friendly and stable, we emphasize simplicity in its use. We try to minimize the need for complex configurations. Usually the hook requires injecting WeChat first, then connect to WeChat, then send the message. We are working on writing it to the scripts to simplify the procedure. The solution is designed to integrate with users’ existing communication habits.  Our goal is to maintain an intuitive user experience that encourages continued use of the app, even as we introduce advanced encryption functions. 
 
 ### Legal Status Scalability
 
-While there are potential legal challenges, especially concerning the use of E2EE in regions with strict regulatory environments like China, our approach aims to mitigate these risks. By focusing on local app deployment and minimizing server reliance for critical operations, the app's visibility to regulatory authorities is reduced, enhancing its resilience against legal and regulatory actions.
+While there are potential legal challenges, especially concerning the use of E2EE in regions with strict regulatory environments like China, our approach aims to mitigate these risks. By focusing on local app and minimizing server reliance for critical operations, the app's visibility to regulatory authorities is reduced, enhancing its resilience against legal and regulatory actions.
 
 
 ### Expanding on Scalability and Resilience
