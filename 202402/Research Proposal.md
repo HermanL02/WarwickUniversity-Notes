@@ -53,7 +53,7 @@ While there are potential legal challenges, especially concerning the use of E2E
 
 ### Expanding on Scalability and Resilience
 
-To address the potential latency in updating WeChat hooks, we will explore the development of a modular hook system that allows for quicker adaptations to new WeChat versions. This system could include a community-driven platform where developers can contribute updates and fixes for new versions of WeChat, fostering a collaborative environment that speeds up the update process.
+To address the potential latency in updating WeChat hooks, we will explore the development of a modular hook system that allows for quicker adaptations to new WeChat versions. I will first in charge of making updates, after that we could receive donations and use it as a reward to attract new people. This system could include a community-driven platform where developers can contribute updates and fixes for new versions of WeChat, fostering a collaborative environment that speeds up the update process.
 
 Additionally, we will implement advanced caching mechanisms for encryption keys and user settings, ensuring that these can be stored securely on the device for longer periods. This approach not only improves the app's performance but also its autonomy from network conditions and server availability.
 
