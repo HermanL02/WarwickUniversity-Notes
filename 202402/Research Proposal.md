@@ -28,9 +28,7 @@ We plan to deploy a server utilizing Node.js to develop APIs that allow users to
 
 This app will store recently accessed public keys and their associated WeChat IDs locally on the user's device. By doing so, the app can continue to facilitate the encryption and decryption processes by using the cached keys, ensuring that users can still communicate securely without interruption. 
 
-Moreover, we will explore the possibility of establishing a peer-to-peer (P2P) fallback mechanism. In this scenario, if the central server becomes unreachable, the app will attempt to connect directly with peers (other app users) to exchange public keys. This P2P approach leverages the users' network, making the system more robust against server outages and censorship efforts.
-
-To further enhance data integrity and security, we will implement cryptographic verification of the public keys retrieved from both the server and peer sources. This ensures that the keys have not been tampered with, maintaining the trustworthiness of the encryption process.
+Moreover, we will explore the possibility of establishing a peer-to-peer fallback mechanism. In this scenario, if the central server becomes unreachable, the app will attempt to connect directly with peers (other app users) to exchange public keys. This P2P approach leverages the users' network, making the system more robust against server outages and censorship efforts.
 
 These measures, combined with the server's existing functionality, will ensure that the app remains a reliable tool for secure communication, even in the face of server disruptions or network issues.
 
