@@ -95,9 +95,9 @@ We will use GitHub tickets to create a responsive support system for users to re
 The development of the E2EE solution for WeChat on Windows and Android platforms will be approached using an agile methodology, specifically adopting the Scrum framework, but a solo development. This approach ensures flexibility, rapid iteration, and continuous feedback throughout the project lifecycle. We will use Jira for real time feedback and visualization of our progress. It allows clear visibility of progress. The overall development timeline is estimated at approximately two months, with different phases allocated to the Windows and Android platforms. 
 
 
-The first phase is iI will spend two weeks to establish project goals, gather requirements, and define the scope for both the Windows and Android platforms. During this time, we will set up the project environment in Jira, creating epics and stories for initial tasks. 
+The first phase is the initial setup. I will spend two weeks to establish project goals, gather requirements, and define the scope for both the Windows and Android platforms. During this time, we will set up the project environment in Jira, creating epics and stories for initial tasks. 
 
-### Phase 2: Windows Platform Development 
+The second phase is the Windows development. 
 
 We will spend two more weeks on phase 2. We will design and implement the initial version of the Windows WeChat hook for message interception, and begin development on the encryption module, focusing on integrating selected encryption algorithms. 
 
@@ -105,13 +105,13 @@ We will conduct initial testing and debugging of the hook and encryption module,
 
 We will conduct thorough testing, including performance benchmarking and security audits.
 
-### Phase 3: Android Platform Development
+The third phase is the Android development for two weeks. 
 
 We will start the development of the Android keyboard plugin, integrating the E2EE functionalities, implement the text box for input and configure clipboard monitoring for decryption.
 We will initiate testing for functionality, performance, and security on the Android platform.
 Also, we will finalize the development of the Android platform, focusing on refining features and fixing bugs identified during testing. We will perform comprehensive end-to-end testing across both platforms to ensure interoperability and reliability. Then I will contact some students to do the comprehensive alpha test. 
 
-### Phase 4: Deployment and Feedback (Week 8)
+The fourth phase is the feedback 
 
 We will prepare for deployment, including final documentation and user guides, deploy the E2EE solution for WeChat on both Windows and Android platforms, and collecting feedback for future improvements.
     
