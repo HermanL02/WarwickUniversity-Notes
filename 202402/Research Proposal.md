@@ -50,9 +50,6 @@ To ensure the app remains user-friendly and stable, we emphasize simplicity in i
 
 While there are potential legal challenges, especially concerning the use of E2EE in regions with strict regulatory environments like China, our approach aims to mitigate these risks. By focusing on local app deployment and minimizing server reliance for critical operations, the app's visibility to regulatory authorities is reduced, enhancing its resilience against legal and regulatory actions.
 
-### Server and Network Load Scalability
-
-To further ensure the app’s reliability, key exchange can be conducted between clients to reduce server and network load. This hybrid approach enhances the system’s scalability and ensures that the client-side application can function independently for extended periods without server interaction, aiming for at least 24 hours of error-free operation.
 
 ### Expanding on Scalability and Resilience
 
