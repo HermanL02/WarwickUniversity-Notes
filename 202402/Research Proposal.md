@@ -113,9 +113,7 @@ We will conduct thorough testing, including performance benchmarking and securit
 
 We will start the development of the Android keyboard plugin, integrating the E2EE functionalities, implement the text box for input and configure clipboard monitoring for decryption.
 We will initiate testing for functionality, performance, and security on the Android platform.
-Also, we will finalize the development of the Android platform, focusing on refining features and fixing bugs identified during testing.
-    - Perform comprehensive end-to-end testing across both platforms to ensure interoperability and reliability.
-    - Address any remaining issues and conduct a final review.
+Also, we will finalize the development of the Android platform, focusing on refining features and fixing bugs identified during testing. We will perform comprehensive end-to-end testing across both platforms to ensure interoperability and reliability. Then I will contact some students to do the alpha te
 
 ### Phase 4: Deployment and Feedback (Week 8)
 
