@@ -102,7 +102,7 @@ The second phase is the Windows development, which takes around two weeks.
 
 We will conduct initial testing and debugging of the hook and encryption module, optimize the WeChat hook for performance, ensuring low latency and memory efficiency, enhance the encryption module, implementing security checks and performance optimizations.
 
-We will conduct thorough testing, including performance benchmarking and security audits.
+Furthermore, we will conduct thorough testing, including performance benchmarking and security audits.
 
 The third phase is the Android development for two weeks. 
 
@@ -119,7 +119,7 @@ I will do regular Scrum activities such as sprint planning, reviews, and retrosp
 
 ### Continuity Plan
 
-After finish the dissertation, we plan to ensure the long-term viability and adaptability of the E2EE solution for WeChat on Windows and Android platforms. It requires a well-structured continuity plan. This plan will focus on maintaining operational effectiveness, addressing emerging threats, and incorporating technological advancements.
+After finish the dissertation, we plan to ensure the long-term adaptability of the E2EE solution for WeChat on Windows and Android platforms. It requires a well-structured continuity plan. This plan will focus on maintaining operational effectiveness, addressing emerging threats, and incorporating technological advancements. 
 
 We also may develop a new iOS and macOS version for better adaptability and making more users enjoy the secure communication. 
 
