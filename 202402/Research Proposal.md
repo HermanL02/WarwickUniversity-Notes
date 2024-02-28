@@ -94,7 +94,7 @@ We will use GitHub tickets to create a responsive support system for users to re
 
 The development of the E2EE solution for WeChat on Windows and Android platforms will be approached using an agile methodology, and specifically adopting the Scrum framework, but a solo development. This approach ensures flexibility, rapid iteration, and continuous feedback throughout the project lifecycle. We will use Jira for real time feedback and visualization of our progress. It allows clear visibility of progress. The overall development timeline is estimated at approximately two months, with different phases allocated to the Windows and Android platforms. 
 
-The first phase is the initial setup. I will spend two weeks to establish project goals, gather requirements, and define the scope for both the Windows and Android platforms. During this time, we will set up the project environment in Jira, creating epics and stories for initial tasks. 
+The first phase is the initial setup. I will spend two weeks to establish project goals, which also includes gather requirements, and define the scope for both the Windows and Android platforms. During this time, we will set up the project environment in Jira, creating epics and stories for initial tasks. 
 
 The second phase is the Windows development, which takes around two weeks. 
 
