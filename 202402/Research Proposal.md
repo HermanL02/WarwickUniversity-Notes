@@ -81,7 +81,7 @@ Also, we need to conduct thorough security checks to confirm the encryption prot
 
 During the development process, we need to implement comprehensive testing that includes unit tests, integration tests, and end-to-end tests to ensure all components function correctly as a cohesive system. 
 
-We need to regularly benchmark the system's performance, especially focusing on the speed and resource usage of the encryption/decryption processes and the WeChat hook's impact on the overall system.
+We need to regularly benchmark the system's performance, especially focusing on the speed and resource usage of the encryption and decryption processes and the WeChat hook's impact on the overall system.
 
 We need to perform continuous security assessments, leveraging both automated tools and manual inspection techniques, to identify and check if there is any security issues promptly.
 
