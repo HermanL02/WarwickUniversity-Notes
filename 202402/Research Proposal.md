@@ -84,17 +84,16 @@ Also, we need to conduct thorough security checks to confirm the encryption prot
 ### Quality Assurance and Testing
 
 During the development process, we need to implement a rigorous testing framework that includes unit tests, integration tests, and end-to-end tests to ensure all components function correctly as a cohesive system. 
-    
+
 We need to regularly benchmark the system's performance, especially focusing on the speed and resource usage of the encryption/decryption processes and the WeChat hook's impact on the overall system.
-    
+
 We need to perform continuous security assessments, leveraging both automated tools and manual inspection techniques to identify and mitigate any security issues promptly.
-    
 
 ### Documentation and Support
 
-- **Technical Documentation**: Provide detailed documentation covering the setup, configuration, and operation of the WeChat hook and encryption protocols, including troubleshooting guides and best practices for users.
+We need to provide detailed documentation covering the setup, configuration, and operation of the WeChat hook and encryption protocols, including troubleshooting guides and best practices for users.
     
-- **User Support System**: Establish a responsive support system for users to report issues, request features, or seek help with the application, fostering a community-driven improvement process.
+We will use GitHub tickets to create a responsive support system for users to report issues, request features, or seek help with the application, fostering a community-driven improvement process.
 ### Work Plan Overview
 
 The development of the end-to-end encryption (E2EE) solution for WeChat on Windows and Android platforms will be approached using an agile methodology, specifically adopting the Scrum framework, tailored for a solo development effort. This approach ensures flexibility, rapid iteration, and continuous feedback throughout the project lifecycle. Project management and task tracking will be facilitated through Jira, allowing for clear visibility of progress and efficient organization of tasks. The overall development timeline is estimated at approximately two months, with distinct phases allocated to the Windows and Android platforms.
