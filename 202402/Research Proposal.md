@@ -41,7 +41,7 @@ Below we explore various aspects of scalability and resilience of the system.
 
 ### Technology Scalability
 
-Our application is highly scalable in terms of encryption technology. It allows users to choose from a variety of encryption policies. We also try to provide the flexibility to choose or customize the encryption method. This design ensures that applications can adapt to new security challenges and prevents encryption methods from becoming obsolete.
+It allows users to choose from a variety of encryption policies. We also try to provide the flexibility to choose or customize the encryption method. This design ensures that applications can adapt to new security challenges and prevents encryption methods from becoming obsolete.
 
 However, the scalability of wechat hooks on Windows presents unique challenges. The hook needs to be updated to remain compatible with the new version of wechat. Given that wechat may force updates, there may be delays in updating our hooks to match the latest version, which may temporarily limit users' access to basic encryption methods until the hooks are updated.
 ### Enhanced Operation Scalability
