@@ -77,9 +77,9 @@ Fourth, as a known problem, the previous version of the WeChat hook has occasion
 
 ### Encryption Protocol Effectiveness
 
-For Encryption protocol, first, we need to  implemented encryption and decryption algorithms function without errors, accurately processing messages to maintain confidentiality and integrity.
+For Encryption protocol, first, we need to implement encryption and decryption algorithms function without errors. It should accurately process messages to maintain confidentiality and integrity.
     
-2. **Performance Standards Compliance**: The encryption and decryption processes meet predefined performance standards, balancing security with efficiency to not impede the user experience.
+Second, the encryption and decryption processes meet predefined performance standards, balancing security with efficiency to not impede the user experience.
     
 3. **Security Validation**: Conduct thorough security checks to confirm the encryption protocols are free from vulnerabilities (漏洞). This includes regular audits, penetration testing, and adherence to current best practices in cryptographic security to prevent potential exploits.
     
