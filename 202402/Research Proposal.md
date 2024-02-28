@@ -89,17 +89,16 @@ We need to perform continuous security assessments, leveraging both automated to
 
 We need to provide detailed documentation covering the setup, configuration, and operation of the WeChat hook and encryption protocols, including troubleshooting and best practices for users. 
     
-We will use GitHub tickets to create a responsive support system for users to report issues, request features, or seek help with the application, fostering a community-driven improvement process.
+We will use GitHub tickets to create a responsive support system for users to report issues, request features, or seek help with the application, creating a community-driven improvement process.
 ### Work Plan Overview
 
 The development of the E2EE solution for WeChat on Windows and Android platforms will be approached using an agile methodology, specifically adopting the Scrum framework, but a solo development. This approach ensures flexibility, rapid iteration, and continuous feedback throughout the project lifecycle. We will use Jira for real time feedback and visualization of our progress. It allows clear visibility of progress. The overall development timeline is estimated at approximately two months, with different phases allocated to the Windows and Android platforms. 
 
-
 The first phase is the initial setup. I will spend two weeks to establish project goals, gather requirements, and define the scope for both the Windows and Android platforms. During this time, we will set up the project environment in Jira, creating epics and stories for initial tasks. 
 
-The second phase is the Windows development. 
+The second phase is the Windows development, which takes around two
 
-We will spend two more weeks on phase 2. We will design and implement the initial version of the Windows WeChat hook for message interception, and begin development on the encryption module, focusing on integrating selected encryption algorithms. 
+ We will design and implement the initial version of the Windows WeChat hook for message interception, and begin development on the encryption module, focusing on integrating selected encryption algorithms. 
 
 We will conduct initial testing and debugging of the hook and encryption module, optimize the WeChat hook for performance, ensuring low latency and memory efficiency, enhance the encryption module, implementing security checks and performance optimizations.
 
