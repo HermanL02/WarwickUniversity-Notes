@@ -31,9 +31,7 @@ We plan to deploy a server that uses Node.js to develop APIs that allow users to
 
 The app stores the recently accessed public key and its associated WeChat ID locally on the user's device. By doing so, the application can continue to use the cached keys to facilitate the encryption and decryption process, ensuring that users can still communicate securely without interruption.
 
-In addition, we will explore the possibility of establishing peer-to-peer back-up mechanisms. In this case, if the central server becomes unreachable, the application will attempt to connect directly with the peer to exchange public keys. This P2P approach leverages the user's network, making the system more robust and resistant to server outages and censorship efforts.
-
-These measures, combined with the server's existing capabilities, will ensure that the application remains a reliable tool for secure communication, even in the face of server outages.
+In addition, we will explore the possibility of establishing peer-to-peer back-up mechanisms. In this case, if the central server becomes unreachable, the application will attempt to connect directly with the peer to exchange public keys. This P2P approach leverages the user's network, making the system more robust and resistant to server outages and censorship efforts. 
 
 ### Scalability
 
@@ -41,7 +39,7 @@ Below we explore various aspects of scalability and resilience of the system.
 
 ### Technology Scalability
 
-It allows users to choose from a variety of encryption policies. We also try to provide the flexibility to choose or customize the encryption method. This design ensures that applications can adapt to new security challenges and prevents encryption methods from becoming obsolete.
+It allows users to choose from a variety of encryption policies. We also try to provide the flexibility to choose or customize the encryption method. This design ensures that applications can adapt to new security challenges and prevents encryption methods from becoming outdated. 
 
 However, the scalability of wechat hooks on Windows presents unique challenges. The hook needs to be updated to remain compatible with the new version of wechat. Given that wechat may force updates, there may be delays in updating our hooks to match the latest version, which may temporarily limit users' access to basic encryption methods until the hooks are updated.
 ### Enhanced Operation Scalability
