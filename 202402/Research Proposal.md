@@ -27,11 +27,11 @@ On the Android platform, we decided to enhance an open source keyboard applicati
 
 With this application, we plan to add a text box into Android keyboard input. This text box will capture user input, and when the user presses the Send button on the keyboard, it will send the encrypted message to the intended recipient. In addition, the input method monitors the clipboard to decrypt copied messages. We will also design a contact management function.
 ### Optional Server
-We plan to deploy a server that uses Node.js to develop APIs that allow users to upload their own public keys with WeChat unique IDs and retrieve the public keys of others using WeChat unique IDs. However, this is just a supplementary to our local software, which means even when the server is blocked or shut down, we will implement additional resiliency measures.
+We plan to deploy a server that uses Node.js to develop APIs that allow users to upload their own public keys with WeChat unique IDs and retrieve the public keys of others using WeChat unique IDs. However, this is just a supplementary to our local software, which means even when the server is blocked or shut down, we still have access to the app. 
 
-The app stores the recently accessed public key and its associated wechat id locally on the user's device. By doing so, the application can continue to use the cached keys to facilitate the encryption and decryption process, ensuring that users can still communicate securely without interruption.
+The app stores the recently accessed public key and its associated WeChat ID locally on the user's device. By doing so, the application can continue to use the cached keys to facilitate the encryption and decryption process, ensuring that users can still communicate securely without interruption.
 
-In addition, we will explore the possibility of establishing peer-to-peer back-up mechanisms. In this case, if the central server becomes unreachable, the application will attempt to connect directly with the peer (other application users) to exchange public keys. This P2P approach leverages the user's network, making the system more robust and resistant to server outages and censorship efforts.
+In addition, we will explore the possibility of establishing peer-to-peer back-up mechanisms. In this case, if the central server becomes unreachable, the application will attempt to connect directly with the peer to exchange public keys. This P2P approach leverages the user's network, making the system more robust and resistant to server outages and censorship efforts.
 
 These measures, combined with the server's existing capabilities, will ensure that the application remains a reliable tool for secure communication, even in the face of server outages.
 
