@@ -126,7 +126,7 @@ I will do regular Scrum activities such as sprint planning, reviews, and retrosp
 
 Ensuring the long-term viability and adaptability of the end-to-end encryption (E2EE) solution for WeChat on Windows and Android platforms requires a well-structured continuity plan. This plan will focus on maintaining operational effectiveness, addressing emerging threats, and incorporating technological advancements.
 
-1. **Regular Updates and Maintenance**: Commit to a schedule of regular updates to the E2EE solution, including both the WeChat hook and encryption algorithms. This will address any security vulnerabilities that emerge and adapt to updates in the WeChat application itself.
+Commit to a schedule of regular updates to the E2EE solution, including both the WeChat hook and encryption algorithms. This will address any security vulnerabilities that emerge and adapt to updates in the WeChat application itself.
     
 2. **Community Engagement and Feedback**: Establish a mechanism for collecting feedback from users and engaging with the broader community. This feedback loop will be invaluable for identifying issues, understanding user needs, and prioritizing future developments.
     
