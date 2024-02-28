@@ -83,7 +83,7 @@ During the development process, we designed a testing system. We plan to write u
 
 We need to regularly benchmark the system's performance, especially focusing on the speed and resource usage of the encryption and decryption processes and the WeChat hook's impact for the overall app. 
 
-We need to perform continuous security assessments, leveraging both automated tools and manual inspection techniques, to identify and check if there is any security issues promptly. 
+We need to perform continuous security assessments. We plan to use both automated tools and manual inspection techniques, to identify and check if there is any security issues. 
 
 ### Documentation and Support
 
