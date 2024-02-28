@@ -87,7 +87,7 @@ During the development process, we need to implement a rigorous testing framewor
     
 We need to regularly benchmark the system's performance, especially focusing on the speed and resource usage of the encryption/decryption processes and the WeChat hook's impact on the overall system.
     
-- **Security Audits**: Perform continuous security assessments, leveraging both automated tools and manual inspection techniques to identify and mitigate any security issues promptly.
+We need to perform continuous security assessments, leveraging both automated tools and manual inspection techniques to identify and mitigate any security issues promptly.
     
 
 ### Documentation and Support
