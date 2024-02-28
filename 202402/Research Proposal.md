@@ -71,7 +71,7 @@ The project's objectives focus on implementing a highly effective Windows WeChat
     
 3. **Latency Reduction**: The message delivery system, post-interception and processing (encryption/decryption), operates without major latency, enhancing the user experience by ensuring timely communication.
     
-4. **Memory Management**: The hook is optimized for efficient memory usage, eliminating any memory leaks to ensure stable and prolonged operation of the WeChat application without degradation in performance.
+4. **Memory Management**: The hook is optimized for efficient memory usage, eliminating any memory leaks to ensure stable and long time operation of the WeChat application without degradation in performance.
     
 
 ### Encryption Protocol Effectiveness
