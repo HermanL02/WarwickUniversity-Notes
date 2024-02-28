@@ -72,12 +72,12 @@ Second, we need achieve 100% success rate in intercepting messages. It ensures n
 
 Third, we need to minimize the latency by simplifying code. The message delivery system, post-interception and processing (encryption/decryption), operates without long latency. 
     
-4. **Memory Management**: The hook is optimized for efficient memory usage. There is no memory leaks to ensure stable and long time operation of the WeChat application without degradation in performance. 
+Fourth, as a known problem, the previous version of the WeChat hook has occasional Memory leak problem. We need to be optimized for efficient memory usage. There is no memory leaks to ensure stable and long time operation of the WeChat application without degradation in performance. 
     
 
 ### Encryption Protocol Effectiveness
 
-1. **Error-Free Encryption and Decryption**: The implemented encryption and decryption algorithms function without errors, accurately processing messages to maintain confidentiality and integrity.
+For Encryption protocol, The implemented encryption and decryption algorithms function without errors, accurately processing messages to maintain confidentiality and integrity.
     
 2. **Performance Standards Compliance**: The encryption and decryption processes meet predefined performance standards, balancing security with efficiency to not impede the user experience.
     
