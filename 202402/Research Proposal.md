@@ -111,7 +111,7 @@ We will start the development of the Android keyboard plugin, integrating the E2
 We will initiate testing for functionality, performance, and security on the Android platform.
 Also, we will finalize the development of the Android platform, focusing on refining features and fixing bugs identified during testing. We will perform comprehensive end-to-end testing across both platforms to ensure interoperability and reliability. Then I will contact some students to do the comprehensive alpha test. 
 
-The fourth phase is the feedback 
+The fourth phase is the feedback phase for another one week. 
 
 We will prepare for deployment, including final documentation and user guides, deploy the E2EE solution for WeChat on both Windows and Android platforms, and collecting feedback for future improvements.
     
