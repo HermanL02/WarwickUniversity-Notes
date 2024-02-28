@@ -79,7 +79,7 @@ Also, we need to conduct thorough security checks to confirm the encryption prot
 
 ### Quality Assurance and Testing
 
-During the development process, we designed a testing system. We plan to write unit tests, like Jest and  integration tests, and end-to-end tests to ensure all components function correctly as a cohesive system. 
+During the development process, we designed a testing system. We plan to write unit tests, like Jest, then integration tests, and end-to-end tests to ensure all components function correctly as a cohesive system. 
 
 We need to regularly benchmark the system's performance, especially focusing on the speed and resource usage of the encryption and decryption processes and the WeChat hook's impact on the overall system.
 
