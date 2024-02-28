@@ -109,7 +109,7 @@ We will conduct initial testing and debugging of the hook and encryption module,
 
 We will conduct thorough testing, including performance benchmarking and security audits.
 
-### Phase 3: Android Platform Development (Weeks 6-7)
+### Phase 3: Android Platform Development
 
 - **Sprint 3: Android App Development**
     
