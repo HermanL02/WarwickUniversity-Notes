@@ -30,7 +30,7 @@ This app will store recently accessed public keys and their associated WeChat ID
 
 Moreover, we will explore the possibility of establishing a peer-to-peer fallback mechanism. In this scenario, if the central server becomes unreachable, the app will attempt to connect directly with peers (other app users) to exchange public keys. This P2P approach leverages the users' network, making the system more robust against server outages and censorship efforts.
 
-These measures, combined with the server's existing functionality, will ensure that the app remains a reliable tool for secure communication, even in the face of server disruptions or network issues.
+These measures, combined with the server's existing functionality, will ensure that the app remains a reliable tool for secure communication, even in the face of server disruptions. 
 
 ### Scalability
 
