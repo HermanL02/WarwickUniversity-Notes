@@ -66,10 +66,8 @@ By addressing these aspects of scalability and resilience, we aim to create a se
 The project's objectives focus on implementing a highly effective Windows WeChat hook and ensuring the robustness and efficiency of encryption protocols. Below is a detailed outline of the deliverables aligned with these goals:
 
 ### Windows WeChat Hook Implementation
-
-1. **Successful Application of the WeChat Hook**: The hook is integrated with the Windows version of WeChat. The real-time message interception without disrupting the native app experience works well. 
-    
-2. **Interception Accuracy**: Achieve 100% success rate in intercepting messages. It ensures no messages bypass the hook, thus maintaining the integrity of the encryption and decryption process.
+First, we need to make sure we have successful application of WeChat hook. The hook is along with the Windows version of WeChat. The real-time message interception without disrupting the native app experience should works well. 
+Second, we nee dhieve 100% success rate in intercepting messages. It ensures no messages bypass the hook, thus maintaining the integrity of the encryption and decryption process.
     
 3. **Latency Reduction**: The message delivery system, post-interception and processing (encryption/decryption), operates without major latency. 
     
