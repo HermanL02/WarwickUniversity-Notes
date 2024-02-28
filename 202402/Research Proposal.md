@@ -96,7 +96,7 @@ The development of the E2EE solution for WeChat on Windows and Android platforms
 
 The first phase is the initial setup. I will spend two weeks to establish project goals, gather requirements, and define the scope for both the Windows and Android platforms. During this time, we will set up the project environment in Jira, creating epics and stories for initial tasks. 
 
-The second phase is the Windows development, which takes around two
+The second phase is the Windows development, which takes around two weeks. 
 
  We will design and implement the initial version of the Windows WeChat hook for message interception, and begin development on the encryption module, focusing on integrating selected encryption algorithms. 
 
