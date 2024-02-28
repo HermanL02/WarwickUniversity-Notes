@@ -1,6 +1,6 @@
 ## Motivation
 ## Background
-Nowadays, the balance between convenient communication and privacy has become a serious concern. In an era that digital communication is everywhere, the convenience of keeping communication with others seems to be granted. However, this convenience brings a strict privacy issue, because most governments and enterprises are seeking or having the ability to monitor, collect and analyse much personal communication data. 
+The balance between convenient communication and privacy has become a serious concern. In an era that digital communication is everywhere, the convenience of keeping communication with others seems to be granted. However, this convenience brings a strict privacy issue, because most governments and enterprises are seeking or having the ability to monitor, collect and analyse much personal communication data. 
 
 End-to-End Encryption (E2EE) is a safe communication method, which can prevent third party to retrieve the data when transmitting the data from one terminal or device to another terminal or device. It means all other external entities including the government, telecom providers, Internet providers, and even the service providers themselves do not have access to the messages. 
 
@@ -34,7 +34,7 @@ These measures, combined with the server's existing functionality, will ensure t
 
 ### Scalability
 
-The proposed solution involves multiple encryption methods and the utilization of a WeChat hook within WeChat, designed to provide robust security and flexibility in communications. Below we explore various aspects of scalability and resilience of the system.
+Below we explore various aspects of scalability and resilience of the system.
 
 ### Technology Scalability
 
