@@ -102,7 +102,7 @@ The development of the E2EE solution for WeChat on Windows and Android platforms
 I will spend two weeks to establish project goals, gather requirements, and define the scope for both the Windows and Android platforms.
 
 During this time, I will set up the project environment in Jira, creating epics and stories for initial tasks. 
-    - Outline the solo development strategy, incorporating roles such as Scrum Master and Product Owner into personal workflow.
+We will outline the solo development strategy, incorporating roles such as Scrum Master and Product Owner into personal workflow.
 
 ### Phase 2: Windows Platform Development (Weeks 3-5)
 
