@@ -24,7 +24,7 @@ On the Android platform, we have decided to enhance an open-source keyboard app 
 Drawing on this application, we plan to integrate a textbox within the Android keyboard input. This textbox will capture user input, and when the user presses the send button on the keyboard, it will transmit the encrypted message to the intended recipient. Additionally, the input method will monitor the clipboard to decrypt messages that have been copied. We will also design a contact management feature. 
 
 ### Optional Server
-We plan to deploy a server utilizing Node.js to develop APIs that allow users to upload their public key along with their WeChat unique ID, and to retrieve others' public keys using the WeChat unique ID. However, to ensure the app remains functional even when the server is blocked or down, we will implement additional resilience measures.
+We plan to deploy a server utilizing Node.js to develop APIs that allow users to upload their public key with their WeChat unique ID, and to retrieve others' public keys using the WeChat unique ID. However, to ensure the app remains functional even when the server is blocked or down, we will implement additional resilience measures.
 
 To enhance the app's resilience and usability during server downtimes, we will incorporate a local caching system within the app. This system will store recently accessed public keys and their associated WeChat IDs locally on the user's device. By doing so, the app can continue to facilitate the encryption and decryption processes by using the cached keys, ensuring that users can still communicate securely without interruption.
 
