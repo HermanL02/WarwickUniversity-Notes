@@ -120,7 +120,9 @@ I will do regular Scrum activities such as sprint planning, reviews, and retrosp
 
 ### Continuity Plan
 
-After finish the dissertation, we plan to ensure the long-term viability and adaptability of the end-to-end encryption (E2EE) solution for WeChat on Windows and Android platforms requires a well-structured continuity plan. This plan will focus on maintaining operational effectiveness, addressing emerging threats, and incorporating technological advancements.
+After finish the dissertation, we plan to ensure the long-term viability and adaptability of the E2EE solution for WeChat on Windows and Android platforms. It requires a well-structured continuity plan. This plan will focus on maintaining operational effectiveness, addressing emerging threats, and incorporating technological advancements.
+
+We also may develop a new iOS and MacOS version for better ada
 
 Commit to a schedule of regular updates to the E2EE solution, including both the WeChat hook and encryption algorithms. This will address any security vulnerabilities that emerge and adapt to updates in the WeChat application itself. This process will mainly rely on the rewards' system to attract more developers working on the updates to follow WeChat updates. 
     
