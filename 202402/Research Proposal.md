@@ -2,7 +2,7 @@
 ## Background
 There is a pressing issue regarding the balance between privacy and easy communication. At present, digital means of communication seems to be granted, and keeping in touch with others seems effortless. But this convenience is marked by a severe privacy problem as many governments and corporations seek or have powers to monitor, gather, and analyze most private personal communication data. 
 
-As a secure communication method, End-to-End Encryption (E2EE) makes it impossible for third parties to acquire data while transferring it between devices. In this case, no one else apart from the sender and recipient has access to these messages; not even the government, telecom companies, or ISPs, let alone the service providers themselves.
+As a secure communication method, End-to-End Encryption (E2EE) makes it impossible for third parties to acquire data while transferring it between devices. In this case, no one else apart from the sender and recipient has access to these messages, including the government, telecom companies, or ISPs, even the service providers themselves.
 
 Many countries in the world take terrorist, crime and national security threats as the reason to restrict encryption attempts, including E2EE technologies. This situation shows that although E2EE provides privacy advantages, there is resistance with implementations. Some governments believe that E2EE technologies make the criminal's communications cannot be censored and monitored. Many countries are attempting to take legal act of tech companies that provide E2EE services. These actions result in a serious discussion between privacy and the possibility of misuse of the rights of monitoring. It shows that it is hard to balance security and personal information. 
 
