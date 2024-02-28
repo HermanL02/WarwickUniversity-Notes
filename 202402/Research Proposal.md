@@ -55,9 +55,7 @@ While there are potential legal challenges, especially concerning the use of E2E
 
 To address the potential latency in updating WeChat hooks, I will be the first developer in charge of making updates, after that we could receive donations and use it as a reward to attract new developers to contribute updates and fixes for new versions of WeChat, fostering a collaborative environment that speeds up the hook's update process.
 
-In terms of legal and operational scalability, we will continuously monitor regulatory developments and adapt our strategies accordingly. This may involve enhancing the app's stealth features or deploying decentralized network technologies to further obscure communication and reduce the likelihood of detection and restriction.
-
-By addressing these aspects of scalability and resilience, we aim to create a secure, user-friendly, and legally resilient communication platform that remains effective and accessible across various operating environments and regulatory landscapes.
+In terms of legal and operational scalability, we will continuously monitor regulatory developments and adapt our strategies accordingly. 
 
 ### Deliverables Overview
 
