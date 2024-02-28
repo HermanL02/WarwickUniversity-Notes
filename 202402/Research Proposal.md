@@ -13,7 +13,7 @@ One notable example is WeChat, China's most popular messaging app, which offers 
 To deal with these restrictions, some users turn to use Virtual Private Networks (VPNs), which can provide a way to access blocked services and encrypt the user's Internet traffic. It can route it through a server located outside of China. However, the use of VPNs in China is challenging for normal users. First, the legal status of VPNs is ambiguous and potentially illegal if not government-approved. It makes their use risky. Moreover, the Chinese government has been known to target large VPN providers, leading to unstable connections and further diminishing the reliability, such as Nord VPN and Express VPN. There are not smaller, and not registered VPN providers, on the other hand, may offer less security and are generally considered unsafe due to their lack of robust infrastructure and potential vulnerability to surveillance and data breaches. One other thing is, users do not always keep connected to VPN. When they are gaming or if VPN is lagging, they are likely to disconnect from it, so the messages cannot be delivered real time. 
 
 ## Ideas
-We proposed a solution to use the non-E2EE popular app WeChat in restricted digital environments, providing users with easy access to a legitimate, stable E2EE without having to connect to a server outside of China or use a VPN. 
+We proposed a solution to use the non-E2EE popular app WeChat in restricted digital environments, providing users with easy access to a legitimate stable E2EE without having to connect to a server outside of China or use a VPN. 
 ### App Structure
 ### Windows
 For Windows operating systems, we implement two approaches to deal with different situations. 
