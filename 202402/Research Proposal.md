@@ -44,7 +44,7 @@ However, the scalability of the WeChat hook for Windows presents unique challeng
 
 ### Enhanced Operation Scalability
 
-To ensure the app remains user-friendly and stable, we emphasize simplicity in its operation. The solution is designed to integrate seamlessly with users’ existing communication habits, minimizing the need for complex configurations. Our goal is to maintain an intuitive user experience that encourages continued use of the app, even as we introduce advanced encryption functionalities.
+To ensure the app remains user-friendly and stable, we emphasize simplicity in its use. The solution is designed to integrate with users’ existing communication habits, minimizing the need for complex configurations. Our goal is to maintain an intuitive user experience that encourages continued use of the app, even as we introduce advanced encryption functionalities. 
 
 ### Legal Status Scalability
 
