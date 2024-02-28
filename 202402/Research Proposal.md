@@ -117,14 +117,9 @@ Also, we will finalize the development of the Android platform, focusing on refi
 
 ### Phase 4: Deployment and Feedback (Week 8)
 
-We will prepare for deployment, including final documentation and user guides, deploy the E2EE solution for WeChat on both Windows and Android platforms.
-collecting feedback for future improvements.
-- **Post-Launch: Continuous Improvement**
+We will prepare for deployment, including final documentation and user guides, deploy the E2EE solution for WeChat on both Windows and Android platforms, and collecting feedback for future improvements.
     
-    - Analyze feedback and performance data to identify areas for improvement.
-    - Plan and implement updates in subsequent iterations, continuing to use the agile framework for ongoing development and enhancement.
-
-Regular Scrum activities such as sprint planning, reviews, and retrospectives will be adapted for solo execution, ensuring the project remains on track, adapts to any changes or challenges, and continuously improves based on self-assessment and feedback.
+I will do regular Scrum activities such as sprint planning, reviews, and retrospectives, ensuring the project remains on track, adapts to any changes or challenges, and continuously improves based on self-assessment and feedback.
 
 
 ### Continuity Plan
