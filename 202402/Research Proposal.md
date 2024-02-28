@@ -55,20 +55,20 @@ While there are potential legal challenges, especially concerning the use of E2E
 
 To address the potential latency in updating WeChat hooks, I will be the first developer in charge of making updates, after that we could receive donations and use it as a reward to attract new developers to contribute updates and fixes for new versions of WeChat, fostering a collaborative environment that speeds up the hook's update process.
 
-In terms of legal and operational scalability, we will continuously monitor regulatory developments and adapt our strategies accordingly. 
-
 ### Deliverables Overview
 
-The project's objectives focus on implementing a highly effective Windows WeChat hook and ensuring the robustness and efficiency of encryption protocols. Below is a detailed outline of the deliverables aligned with these goals:
+The project's objectives focus on implementing a highly effective Windows WeChat hook and ensuring the robustness and efficiency of encryption protocols. 
+
+Below is a detailed outline of the deliverables aligned with these goals:
 
 ### Windows WeChat Hook Implementation
-First, we need to make sure we have successful application of WeChat hook. The hook is along with the Windows version of WeChat. The real-time message interception without disrupting the native app experience should works well. 
+First, we need to make sure we have successful application of WeChat hook. The hook is along with the Windows version of WeChat. The real-time message interception without disrupting the native app experience should work well. 
 
 Second, we need achieve 100% success rate in intercepting messages. It ensures no messages bypass the hook, thus maintaining the integrity of the encryption and decryption process.
 
 Third, we need to minimize the latency by simplifying code. The message delivery system, post-interception and processing (encryption/decryption), operates without long latency. 
     
-Fourth, as a known problem, the previous version of the WeChat hook has occasional Memory leak problem. We need to be optimized for efficient memory usage. There is no memory leaks to ensure stable and long time operation of the WeChat application without degradation in performance. 
+Fourth, as a known problem, the previous version of the WeChat hook has occasional memory leak problem. We need to be optimized for efficient memory usage. There is no memory leaks to ensure stable and long time operation of the WeChat application without degradation in performance. 
     
 
 ### Encryption Protocol Effectiveness
