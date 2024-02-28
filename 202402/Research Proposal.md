@@ -41,7 +41,7 @@ Below we explore various aspects of scalability and resilience of the system.
 
 It allows users to choose from a variety of encryption policies. We also try to provide the flexibility to choose or customize the encryption method. This design ensures that applications can adapt to new security challenges and prevents encryption methods from becoming outdated. 
 
-However, the scalability of wechat hooks on Windows presents unique challenges. The hook needs to be updated to remain compatible with the new version of wechat. Given that wechat may force updates, there may be delays in updating our hooks to match the latest version, which may temporarily limit users' access to basic encryption methods until the hooks are updated.
+However, the scalability of WeChat hooks on Windows presents unique challenges. The hook needs to be updated to remain compatible with the new version of WeChat. Given that WeChat may force updates, there may be delays in updating our hooks to match the latest version, which may temporarily limit users' access to only the basic encryption methods until the hooks are updated. 
 ### Enhanced Operation Scalability
 
 To ensure the app remains user-friendly and stable, we emphasize simplicity in its use. We try to minimize the need for complex configurations. Usually the hook requires injecting WeChat first, then connect to WeChat, then send the message. We are working on writing it to the scripts to simplify the procedure. The solution is designed to integrate with users’ existing communication habits.  Our goal is to maintain an intuitive user experience that encourages continued use of the app, even as we introduce advanced encryption functionalities. 
