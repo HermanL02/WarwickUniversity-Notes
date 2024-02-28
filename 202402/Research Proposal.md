@@ -87,9 +87,9 @@ We need to perform continuous security assessments. We plan to use both automate
 
 ### Documentation and Support
 
-We need to provide detailed documentation, including the installation and configuration of the WeChat hook and encryption protocols. We also will introduce troubleshooting and best practices for users. 
+We need to provide detailed documentation, including the installation and configuration of the WeChat hook and encryption protocols. We will also introduce troubleshooting and best practices for users. 
     
-We will use GitHub tickets to create a responsive support system for users to report issues, request features, or seek help with the application, creating a community-driven improvement process.
+We will use GitHub tickets to create a responsive support system for users to report issues, request features, or seek help with the application. This would allow a community-driven improvement process.
 ### Work Plan Overview
 
 The development of the E2EE solution for WeChat on Windows and Android platforms will be approached using an agile methodology, and specifically adopting the Scrum framework, but a solo development. This approach ensures flexibility, rapid iteration, and continuous feedback throughout the project lifecycle. We will use Jira for real time feedback and visualization of our progress. It allows clear visibility of progress. The overall development timeline is estimated at approximately two months, with different phases allocated to the Windows and Android platforms. 
