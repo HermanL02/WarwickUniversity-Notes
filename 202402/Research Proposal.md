@@ -87,7 +87,7 @@ We need to perform continuous security assessments. We plan to use both automate
 
 ### Documentation and Support
 
-We need to provide detailed documentation, including the installation and configuration of the WeChat hook and encryption protocols, including troubleshooting and best practices for users. 
+We need to provide detailed documentation, including the installation and configuration of the WeChat hook and encryption protocols. We also will introduce troubleshooting and best practices for users. 
     
 We will use GitHub tickets to create a responsive support system for users to report issues, request features, or seek help with the application, creating a community-driven improvement process.
 ### Work Plan Overview
