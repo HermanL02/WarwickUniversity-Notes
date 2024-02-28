@@ -67,9 +67,10 @@ The project's objectives focus on implementing a highly effective Windows WeChat
 
 ### Windows WeChat Hook Implementation
 First, we need to make sure we have successful application of WeChat hook. The hook is along with the Windows version of WeChat. The real-time message interception without disrupting the native app experience should works well. 
-Second, we nee dhieve 100% success rate in intercepting messages. It ensures no messages bypass the hook, thus maintaining the integrity of the encryption and decryption process.
-    
-3. **Latency Reduction**: The message delivery system, post-interception and processing (encryption/decryption), operates without major latency. 
+
+Second, we need achieve 100% success rate in intercepting messages. It ensures no messages bypass the hook, thus maintaining the integrity of the encryption and decryption process.
+
+Third, we need to minimize the latency by simplifying code. The message delivery system, post-interception and processing (encryption/decryption), operates without long latency. 
     
 4. **Memory Management**: The hook is optimized for efficient memory usage. There is no memory leaks to ensure stable and long time operation of the WeChat application without degradation in performance. 
     
