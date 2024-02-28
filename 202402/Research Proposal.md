@@ -69,9 +69,9 @@ The project's objectives focus on implementing a highly effective Windows WeChat
     
 2. **Interception Accuracy**: Achieve 100% success rate in intercepting messages. It ensures no messages bypass the hook, thus maintaining the integrity of the encryption and decryption process.
     
-3. **Latency Reduction**: The message delivery system, post-interception and processing (encryption/decryption), operates without major latency, enhancing the user experience by ensuring timely communication.
+3. **Latency Reduction**: The message delivery system, post-interception and processing (encryption/decryption), operates without major latency. 
     
-4. **Memory Management**: The hook is optimized for efficient memory usage, eliminating any memory leaks to ensure stable and long time operation of the WeChat application without degradation in performance.
+4. **Memory Management**: The hook is optimized for efficient memory usage. There is no memory leaks to ensure stable and long time operation of the WeChat application without degradation in performance.
     
 
 ### Encryption Protocol Effectiveness
