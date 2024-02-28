@@ -23,13 +23,13 @@ On the Android platform, we decided to enhance an open source keyboard applicati
 
 With this application, we plan to integrate a text box into Android keyboard input. This text box will capture user input, and when the user presses the Send button on the keyboard, it will send the encrypted message to the intended recipient. In addition, the input method monitors the clipboard to decrypt copied messages. We will also design a contact management function.
 ### Optional Server
-We plan to deploy a server utilizing Node.js to develop APIs that allow users to upload their public key with their WeChat unique ID, and to retrieve others' public keys using the WeChat unique ID. However, to ensure the app remains functional even when the server is blocked or down, we will implement additional resilience measures.
+We plan to deploy a server that uses Node.js to develop apis that allow users to upload their own public keys with wechat unique ids and retrieve the public keys of others using wechat unique ids. However, to ensure that the application works even when the server is blocked or shut down, we will implement additional resiliency measures.
 
-This app will store recently accessed public keys and their associated WeChat IDs locally on the user's device. By doing so, the app can continue to facilitate the encryption and decryption processes by using the cached keys, ensuring that users can still communicate securely without interruption. 
+The app stores the recently accessed public key and its associated wechat id locally on the user's device. By doing so, the application can continue to use the cached keys to facilitate the encryption and decryption process, ensuring that users can still communicate securely without interruption.
 
-Moreover, we will explore the possibility of establishing a peer-to-peer fallback mechanism. In this scenario, if the central server becomes unreachable, the app will attempt to connect directly with peers (other app users) to exchange public keys. This P2P approach leverages the users' network, making the system more robust against server outages and censorship efforts.
+In addition, we will explore the possibility of establishing peer-to-peer back-up mechanisms. In this case, if the central server becomes unreachable, the application will attempt to connect directly with the peer (other application users) to exchange public keys. This P2P approach leverages the user's network, making the system more robust and resistant to server outages and censorship efforts.
 
-These measures, combined with the server's existing functionality, will ensure that the app remains a reliable tool for secure communication, even in the face of server disruptions. 
+These measures, combined with the server's existing capabilities, will ensure that the application remains a reliable tool for secure communication, even in the face of server outages.
 
 ### Scalability
 
@@ -37,10 +37,9 @@ Below we explore various aspects of scalability and resilience of the system.
 
 ### Technology Scalability
 
-Our app is designed to be highly scalable in terms of encryption technology. It allows users to choose from multiple encryption strategies. We also try to provide the flexibility to select or customize encryption methods. This design ensures that the app can adapt to new security challenges and prevents encryption methods from becoming obsolete.
+Our application is highly scalable in terms of encryption technology. It allows users to choose from a variety of encryption policies. We also try to provide the flexibility to choose or customize the encryption method. This design ensures that applications can adapt to new security challenges and prevents encryption methods from becoming obsolete.
 
-However, the scalability of the WeChat hook for Windows presents unique challenges. The hook needs to be updated to remain compatible with new versions of WeChat. Given that WeChat may enforce updates, there could be a delay in updating our hooks to match the latest version, which might temporarily limit users to basic encryption methods until the hook is updated.
-
+However, the scalability of wechat hooks on Windows presents unique challenges. The hook needs to be updated to remain compatible with the new version of wechat. Given that wechat may force updates, there may be delays in updating our hooks to match the latest version, which may temporarily limit users' access to basic encryption methods until the hooks are updated.
 ### Enhanced Operation Scalability
 
 To ensure the app remains user-friendly and stable, we emphasize simplicity in its use. We try to minimize the need for complex configurations. The solution is designed to integrate with users’ existing communication habits.  Our goal is to maintain an intuitive user experience that encourages continued use of the app, even as we introduce advanced encryption functionalities. 
