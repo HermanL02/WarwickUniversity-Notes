@@ -83,11 +83,11 @@ During the development process, we need to implement comprehensive testing that 
 
 We need to regularly benchmark the system's performance, especially focusing on the speed and resource usage of the encryption/decryption processes and the WeChat hook's impact on the overall system.
 
-We need to perform continuous security assessments, leveraging both automated tools and manual inspection techniques to identify and mitigate any security issues promptly.
+We need to perform continuous security assessments, leveraging both automated tools and manual inspection techniques, to identify and check if there is any security issues promptly.
 
 ### Documentation and Support
 
-We need to provide detailed documentation covering the setup, configuration, and operation of the WeChat hook and encryption protocols, including troubleshooting guides and best practices for users.
+We need to provide detailed documentation covering the setup, configuration, and operation of the WeChat hook and encryption protocols, including troubleshooting and best practices for users. 
     
 We will use GitHub tickets to create a responsive support system for users to report issues, request features, or seek help with the application, fostering a community-driven improvement process.
 ### Work Plan Overview
