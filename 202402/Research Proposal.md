@@ -103,11 +103,9 @@ I will spend two weeks to establish project goals, gather requirements, and defi
 
 ### Phase 2: Windows Platform Development (Weeks 3-5)
 
-I will design and implement the initial version of the Windows WeChat hook for message interception. I will also begin development on the encryption module, focusing on integrating selected encryption algorithms.
-    - Conduct initial testing and debugging of the hook and encryption module.
-    
-    - Optimize the WeChat hook for performance, ensuring low latency and memory efficiency.
-    - Enhance the encryption module, implementing security checks and performance optimizations.
+We will design and implement the initial version of the Windows WeChat hook for message interception, and begin development on the encryption module, focusing on integrating selected encryption algorithms. 
+
+We will conduct initial testing and debugging of the hook and encryption module, optimize the WeChat hook for performance, ensuring low latency and memory efficiency, enhance the encryption module, implementing security checks and performance optimizations.
     - Conduct thorough testing, including performance benchmarking and security audits.
 
 ### Phase 3: Android Platform Development (Weeks 6-7)
