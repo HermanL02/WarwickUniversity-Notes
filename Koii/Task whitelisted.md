@@ -19,4 +19,3 @@ To have your task appear on the whitelisted tasks list, take the following actio
 ### Note
 During this process, our team will create a dedicated GitHub account for holding your project. 
 
-Remember, opening a support ticket on Discord is crucial for the whitelisting process. Make sure to follow these guidelines carefully to ensure your task can be shared and utilized by the wider community.
