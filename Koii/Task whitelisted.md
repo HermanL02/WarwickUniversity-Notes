@@ -3,7 +3,7 @@
 To get your task whitelisted, follow these steps:
 
 ### Use the Advanced Task Feature
-Before applying for the whitelisting process, utilize the Advanced Task feature on the node. This allows you to run your own task without official whitelisting, enabling your friends to run it as well. You can find the advanced task feature under **Add Task > + Advanced Tasks**. 
+Before applying for the whitelisting process, utilize the Advanced Task feature on the node. This allows you to run your own task without official whitelisting, enabling your friends to run it as well. You can find the advanced task feature under **Add Task > + Advanced**. 
 
 ### 1. Test Locally
 Begin by testing your task on your local environment to ensure it functions correctly. 
