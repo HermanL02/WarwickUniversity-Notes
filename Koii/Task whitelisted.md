@@ -4,7 +4,7 @@ To get your task whitelisted, follow these steps:
 
 1. **Test Locally**: Begin by testing your task on your local environment to ensure it functions correctly. 
 
-2. **Test with Friends (Advanced Task)**:  share it with friends for further testing and feedback.
+2. **Test with Friends: Click on Add Task > + Advanced to add your task to the list, share it with friends for further testing and feedback. 
 
 3. **Use the Advanced Task Feature**: Before applying for the whitelisting process, utilize the Advanced Task feature on the node. This allows you to run your own task without official whitelisting, enabling your friends to run it as well.
 
