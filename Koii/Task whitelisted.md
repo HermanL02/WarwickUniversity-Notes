@@ -9,7 +9,7 @@ Before applying for the whitelisting process, utilize the Advanced Task feature 
 Begin by testing your task on your local environment to ensure it functions correctly. 
 
 ### 2. Test with Friends
-Click on **Add Task > + Advanced** to add your task to the list, then share it with friends for further testing and feedback. 
+Share it with friends for further testing and feedback. 
 
 ### 3. Apply for Whitelisting
 To have your task appear on the whitelisted tasks list, take the following actions:
