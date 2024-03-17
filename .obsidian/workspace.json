@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Koii/Task whitelisted.md",
+                "file": "visa/feb.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Koii/Task whitelisted.md",
+                "file": "visa/feb.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Koii/Task whitelisted.md",
+                "file": "visa/feb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Koii/Task whitelisted.md"
+                "file": "visa/feb.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "e2caffa9cec411ff",
   "lastOpenFiles": [
-    "202402/Research Proposal.md",
     "Koii/Task whitelisted.md",
+    "visa/feb.md",
+    "202402/Research Proposal.md",
     "Koii",
     "未命名.canvas",
     "202309/Lab 6.md",
@@ -231,7 +232,6 @@
     "程柏淳",
     "Excalidraw/Labs",
     "Excalidraw/Labs/Drawing 2023-11-20 15.57.56.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-19 21.07.46.excalidraw.md",
     "Excalidraw/CS917_A2_Q6",
     "Excalidraw/CS917_A2_Q5",
     "202309",
