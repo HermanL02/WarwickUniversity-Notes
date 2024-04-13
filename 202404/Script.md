@@ -13,6 +13,7 @@ There is always a issue for Chinese people
 
 Core: Easy to use, Legal, Cannot be blocked
 How to easy to use? How to Legal? And How to be not blocked?
+## Why not website? WeChat weird design. 
 ## Windows
 ## Android
 Besides core: Sharing Contacts! 
