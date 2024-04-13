@@ -7,7 +7,9 @@ Today I am going to present the WeChat E2EE Encrypter.
 There is always a issue for Chinese people 
 ## Users Alternatives
 # Design
-## 
+Core: Easy to use, Legal, Cannot be blocked
+## Windows
+## Android
 
 # Tech Stack
 
