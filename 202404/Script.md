@@ -10,7 +10,9 @@ There is always a issue for Chinese people
 ### Using VPN
 
 # Design
+
 Core: Easy to use, Legal, Cannot be blocked
+How to easy to use? How to Legal? And How to be not blocked?
 ## Windows
 ## Android
 Besides core: Sharing Contacts! 
