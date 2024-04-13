@@ -14,10 +14,12 @@ Core: Easy to use, Legal, Cannot be blocked
 ## Windows
 ## Android
 
+Besides co
+
 # Tech Stack
 
 
 # Schedule 
-Sorry for a little bit show off here. I am balancing my work, study, and the project. 
+Sorry for a little bit of show off here. I am balancing my work, study, and the project. 
 
 # Work
