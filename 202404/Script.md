@@ -20,6 +20,7 @@ Besides core: Sharing Contacts!
 ## Frameworks
 ## Reverse Engineering
 ## Encryption
+## Test and Decentralized
 
 
 # Schedule 
