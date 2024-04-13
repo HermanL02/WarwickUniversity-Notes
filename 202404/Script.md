@@ -18,6 +18,6 @@ Core: Easy to use, Legal, Cannot be blocked
 
 
 # Schedule 
-I am balancing my work, study, and 
+Sorry for a little bit show off here. I am balancing my work, study, and the project. 
 
 # Work
