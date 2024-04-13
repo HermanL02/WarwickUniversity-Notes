@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72a1465bf4b6f05e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,8 +195,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e2caffa9cec411ff",
+  "active": "cf8aadadb8b82695",
   "lastOpenFiles": [
+    "未命名",
     "Koii/Task whitelisted.md",
     "visa/feb.md",
     "202402/Research Proposal.md",
@@ -231,7 +242,6 @@
     "程柏淳/Visa.md",
     "程柏淳",
     "Excalidraw/Labs",
-    "Excalidraw/Labs/Drawing 2023-11-20 15.57.56.excalidraw.md",
     "Excalidraw/CS917_A2_Q6",
     "Excalidraw/CS917_A2_Q5",
     "202309",
