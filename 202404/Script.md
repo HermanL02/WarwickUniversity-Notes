@@ -5,10 +5,14 @@ Today I am going to present the WeChat E2EE Encrypter.
 ## WeChat Market Place
 ## WeChat vs. Privacy
 There is always a issue for Chinese people 
-## WeChat vs. Alternatives
+## Users Alternatives
+# Design
+## 
 
 # Tech Stack
 
 
 # Schedule 
 I am balancing my work, study, and 
+
+# Work
