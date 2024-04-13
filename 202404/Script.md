@@ -13,10 +13,10 @@ There is always a issue for Chinese people
 Core: Easy to use, Legal, Cannot be blocked
 ## Windows
 ## Android
-
-Besides co
-
-# Tech Stack
+Besides core: Sharing Contacts! 
+# Tech and Tech Stack
+## Frameworks
+## Encryption
 
 
 # Schedule 
