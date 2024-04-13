@@ -2,9 +2,10 @@
 # Introduction
 Today I am going to present the WeChat E2EE Encrypter. 
 # Motivation
-## WeChat's Market Place in China
+## WeChat Market Place
 ## WeChat vs. Privacy
 There is always a issue for Chinese people 
+## WeChat vs. Alternatives
 
 # Tech Stack
 
