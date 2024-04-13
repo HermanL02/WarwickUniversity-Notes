@@ -8,4 +8,4 @@ There is always a issue for Chinese people
 
 
 # Schedule 
-I am b
+I am balancing my work, study, and 
