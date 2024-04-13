@@ -1,6 +1,6 @@
 - My Reading Speed: 140 Words/ min, expected length: 2240
 # Introduction
-Good morning, professors. I am really glad to have a chance to bring you this presentation. Today I am going to present the WeChat E2EE Encrypter. 
+Good morning, professors. I am really glad to have a chance to bring you my dissertation project desigToday I am going to present the WeChat E2EE Encrypter. 
 # Motivation
 ## WeChat Market Place
 ## WeChat vs. Privacy
