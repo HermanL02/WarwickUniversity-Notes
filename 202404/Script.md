@@ -1,6 +1,6 @@
 - My Reading Speed: 140 Words/ min, expected length: 2240
 # Introduction
-Good morning, professors. I am really glad to have a chance to bring you my dissertation project, the WeChat End to End Encryption Tool, which I want t o
+Good morning, professors. I am really glad to have a chance to bring you my dissertation project, the WeChat End to End Encryption Tool, which I want to call it, the LibreChat. 
 # Motivation
 ## WeChat Market Place
 ## WeChat vs. Privacy
