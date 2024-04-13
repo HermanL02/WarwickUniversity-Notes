@@ -16,6 +16,7 @@ Core: Easy to use, Legal, Cannot be blocked
 Besides core: Sharing Contacts! 
 # Tech and Tech Stack
 ## Frameworks
+## Reverse Engineering
 ## Encryption
 
 
