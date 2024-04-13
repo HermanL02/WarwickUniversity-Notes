@@ -17,6 +17,7 @@ How to easy to use? How to Legal? And How to be not blocked?
 ## Android
 Besides core: Sharing Contacts! 
 # Tech and Tech Stack
+
 ## Frameworks
 ## Reverse Engineering
 ## Encryption
