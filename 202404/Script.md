@@ -6,6 +6,9 @@ Today I am going to present the WeChat E2EE Encrypter.
 ## WeChat vs. Privacy
 There is always a issue for Chinese people 
 ## Users Alternatives
+### Other Apps
+### Using VPN
+
 # Design
 Core: Easy to use, Legal, Cannot be blocked
 ## Windows
