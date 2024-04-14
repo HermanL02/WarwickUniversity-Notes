@@ -47,9 +47,11 @@
             "id": "6a86646291317c39",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "202404/Script.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
