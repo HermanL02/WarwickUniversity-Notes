@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a86646291317c39",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,7 +207,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "72a1465bf4b6f05e",
+  "active": "6a86646291317c39",
   "lastOpenFiles": [
     "202404/Script.md",
     "202404",
