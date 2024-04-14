@@ -3,7 +3,7 @@
 Good morning, professors. I am really glad to have a chance to bring you my dissertation project, the WeChat End-to-End Encryption Tool, which I want to call it, the Libre Chat. 
 # Motivation
 ## WeChat Market Place
-According to the latest report, WeChat already have 1 billion daily active users. It means almost everyone in China use WeCah
+According to the latest report, WeChat already have 1 billion daily active users. It means almost everyone in China use WeChat as their 
 ## WeChat vs. Privacy
 There is always a issue for Chinese people 
 ## Users Alternatives
