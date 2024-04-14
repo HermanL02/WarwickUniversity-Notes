@@ -3,7 +3,7 @@
 Good morning, professors. I am really glad to have a chance to bring you my dissertation project, the WeChat End-to-End Encryption Tool, which I want to call it, the Libre Chat. 
 # Motivation
 ## WeChat Market Place
-According to the latest data of Chinese instant message apps, WeChat has over 1 billion daily active users. The second one is QQ, which has over 300 thousand daily active users. It is also a Tencent product. The first one 
+According to the latest data of Chinese instant message apps, WeChat has over 1 billion daily active users. The second one is QQ, which has over 300 thousand daily active users. It is also a Tencent product. The only 
 ## WeChat vs. Privacy
 There is always a issue for Chinese people 
 ## Users Alternatives
