@@ -12,6 +12,8 @@ However, that is already out of date, so, second, I will talk about the technica
 From the table, we can see that among the first 6 popular IM apps in the world. Only WeChat does not comply the rule. 
 ### Other Apps
 ### Using VPN
+### Any products before? 
+Through the searching on GitHub, I observed that there are a
 
 # Design
 
