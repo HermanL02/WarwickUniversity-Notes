@@ -7,9 +7,8 @@ According to the latest data of Chinese instant message apps, WeChat ranked the 
 ## WeChat vs. Privacy
 However, there are some concerns. Does WeChat comply to the privacy requirements? 
 First, I will talk about the official Amnesty International's rank in 2016. This is the only official evaluation that I can reference here. In this metrics, WeChat received a 0 in evaluation and ranked the bottom. 
-However, that is already out of date, so, second, I will talk about the technical methods WeChat use to protect the security compare to its competitors. 
-
-From the table, we can see that among the first 6 popular IM apps in the world. Only WeChat does not comply the rule. 
+However, that is already out of date, so, second, I will talk about the technical methods WeChat use to protect the security compare to its competitors. It is the only app that does not provides a E2EE option. 
+Although there is no official investigations about what 
 ### Other Apps
 ### Using VPN
 ### Any products before? 
