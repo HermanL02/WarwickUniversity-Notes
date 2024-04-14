@@ -13,7 +13,7 @@ From the table, we can see that among the first 6 popular IM apps in the world. 
 ### Other Apps
 ### Using VPN
 ### Any products before? 
-Through the searching on GitHub, I observed that there are a
+Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, that application is based on Web WeChat, which is already 
 
 # Design
 
