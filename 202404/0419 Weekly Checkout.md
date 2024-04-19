@@ -12,4 +12,3 @@
 # Community
 - Answer Questions Community
 - Town Hall Rewards assist Pedro
-- VPS Docker Testnet Link
