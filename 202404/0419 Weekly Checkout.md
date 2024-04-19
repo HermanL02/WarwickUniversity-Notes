@@ -9,6 +9,6 @@
 - Assist Soma in some tasks to fix IPFS retries when Spheron is down
 
 # Community
-- Stake Pot Account Investigation
+- Answer Questions in TownHall
 - Town Hall Rewards assist Pedro
 - VPS Docker Testnet Link
