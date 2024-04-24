@@ -16,7 +16,7 @@ Through the searching on GitHub, I observed that there is a thinking about WeCha
 
 # Design
 
-Our main goal is to allow WeChat users to have a safe, encrypted conversation with the lowest effort. We want to make the tooEasy to use, Legal, Cannot be blocked
+Our main goal is to allow WeChat users to have a safe, encrypted conversation with the lowest effort. We want to make the tool 1, Easy to use, 2, Legal, Cannot be blocked
 How to easy to use? How to Legal? And How to be not blocked?
 ## Why not website? WeChat weird design. 
 ## Windows
