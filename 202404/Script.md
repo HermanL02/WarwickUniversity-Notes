@@ -26,7 +26,7 @@ Besides core: Sharing Contacts!
 
 ## Frameworks
 ### Windows
-We will use Electron as the framework, with React.
+We will use Electron as the framework, with React.js as the frontend, an
 ## Reverse Engineering
 ## Encryption
 ## Test and Decentralized
