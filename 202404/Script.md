@@ -14,7 +14,7 @@ If we briefly take a look at the technical methods WeChat use to protect the sec
 ### Personal Experience
 Although there is no official investigations about how many users are not satisfied with the WeChat privacy policy, I could provide some personal cases about it. 
 During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I don't personally agree or disagree with the person, but I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
-On the same time, my grandpa, which is a 75 years old man, who sent a news regarding the prediction 
+On the same time, my grandpa, which is a 75 years old man, who sent news regarding the prediction 
 ### Other Apps
 ### Using VPN
 ### Any products before? 
