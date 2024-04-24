@@ -13,7 +13,8 @@ However, that is already out of date, so, second, I will talk about the technica
 If we briefly take a look at the technical methods WeChat use to protect the security compare to its competitors. It is the only app that does not provide a E2EE option. 
 ### Personal Experience
 Although there is no official investigations about how many users are not satisfied with the WeChat privacy policy, I could provide some personal cases about it. 
-During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for antilockdown. I don't personally agree or disagree
+During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I don't personally agree or disagree with the person, but I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
+On the same time, my third grandpa, which is 
 ### Other Apps
 ### Using VPN
 ### Any products before? 
