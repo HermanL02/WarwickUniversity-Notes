@@ -11,7 +11,7 @@ First, I will talk about the official Amnesty International's rank in 2016. This
 However, that is already out of date, so, second, I will talk about the 
 
 ### Technical methods 
-WeChat use to protect the security compare to its competitors. It is the only app that does not provides a E2EE option. 
+If we briefly take a look at the WeChat use to protect the security compare to its competitors. It is the only app that does not provides a E2EE option. 
 ### Personal Experience
 Although there is no official investigations about what 
 ### Other Apps
