@@ -25,6 +25,8 @@ Besides core: Sharing Contacts!
 # Tech and Tech Stack
 
 ## Frameworks
+### Windows
+We will use Electron as the framework, with React.
 ## Reverse Engineering
 ## Encryption
 ## Test and Decentralized
