@@ -5,5 +5,5 @@
 - +3 bullet points
 # Question 1 Example
 1. When we have the iseq(), it is about the pair stuff like 
-Type of this {1->a, 2->b}: P(Z*X)
-
+Type of this: {1->a, 2->b}: P(Z* X)
+Seq: 
