@@ -7,4 +7,5 @@
 1. When we have the iseq(), it is about the pair stuff like 
 	Type of this: {1->a, 2->b}: P(Z* X)
 	Seq: P(P(Z* X))
-2. 
+2. 1) [a,b] 2) [b] 3) any
+3. 
