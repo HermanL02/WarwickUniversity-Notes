@@ -40,6 +40,6 @@ We will use Electron as the framework, with React.js as the frontend, and Node.j
 
 
 # Schedule 
-For this part, I would say sorry to Dr. Hao, because I didn't have much progress after February
+For this part, I would say sorry to Dr. Hao, because I didn't have much progress after February. 
 
 # Work
