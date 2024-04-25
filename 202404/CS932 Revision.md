@@ -4,4 +4,5 @@
 - The intricacies (extremely detailed) code in Atelier B
 - +3 bullet points
 # Question 1 Example
+1. 
 
