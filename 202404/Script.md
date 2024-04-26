@@ -36,24 +36,15 @@ It sounds not reality to create a keyboard on our own. However, which keyboard s
 The 
 
 # Demonstration
+## Electron
 
 # Problems That we are still facing
 ## Android <-> Windows
-The encryption method for both Android and Windows are RSA-2048/OAEPPadding. The keys are PEM format. However, there is still some issues for connecting them together. The 	
+The encryption method for both Android and Windows are RSA-2048/OAEPPadding. The keys are PEM format. However, there are still some issues for connecting them together. 
 ## WeChat Potential Architecture Change
 Our current method for injection is fully based on the current architecture of WeChat. As we may already know, that Tencent recently updated the QQ architecture to Electron, which is the framework we are using now to save its developer cost. If the architecture changes, our app would become deprecated and cannot be regularly updated. 
 
 
-
-
-# 
-
-## Frameworks
-### Windows
-We will use Electron as the framework, with React.js as the frontend, and Node.js as the backend. 
-## Reverse Engineering
-## Encryption
-## Test and Decentralized
 
 
 # Current Process and Schedule 
