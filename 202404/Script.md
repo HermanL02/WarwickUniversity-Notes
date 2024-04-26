@@ -26,9 +26,9 @@ Our main goal is to allow WeChat users to have a safe, encrypted conversation wi
 How to easy to use? How to Legal? And How to be not blocked?
 ## Windows
 For making a such product, we cannot leave the usage of many kinds of utilities. Therefore, to inject the WeChat, I used wxhelper(https://github.com/ttttupup/wxhelper/tree/main) project and the Electron Spoiler Template to start. The wxhelper is an open source WeChat injector. It updates every 3 months to make sure they can catch up to the latest WeChat release. The Electron Spoiler is the best Electron template I can find on the internet. It follows every security requirement and configuration that Electron suggests. 
-So, when a message comes, it will be intercepted by the wxhelper, delivered to our app, and our app read it, decrypt it, and display it to the user. When a user sends a message, it will encrypt it and send it to the 
+So, when a message comes, it will be intercepted by the wxhelper, delivered to our app, and our app read it, decrypt it, and display it to the user. When a user sends a message, it will encrypt it and send it through the wxhelper. 
 ## Android
-Besides core: Sharing Contacts! 
+The injection seems not being possible. So, 
 # 
 
 ## Frameworks
