@@ -32,12 +32,14 @@ The injection is possible, but hard for the users. Usually the injection require
 Usually, if a normal user wants to decrypt it, the users are required to copy it, and then open a third party website or app, paste it, and then get the result. That is NOT convenient. However, when we look into this process, we can see the time we took the most is copy and pasting. How about let's set up a function within the keyboard, so that the users don't have to jump from 1 app to another. 
 Therefore, my idea is to make a keyboard that when you receive a message, copy it, then it will be automatically decrypted, and when you are sending a message, there is a button, tap it, and encrypt it. 
 It sounds not reality to create a keyboard on our own. However, which keyboard should we use to begin? There is a recent research from the University of Toronto reveals that most of the Chinese keyboards are leaking your personal information. This is already fixed. However, it raised my concern. If a keyboard is connected to the internet, it still has the potential possibility to leak your information. So, we need to use a fully offline, and open sourced keyboard. Fcitix /ˈfaɪtɪks/ (**Free Chinese Input Tool for X**) is the largest community maintained Chinese input method. It is safe, offline, and open sourced. So, we edited their clipboard implementation, and now it allows the current function. 
-## 
+## Protocol
+The 
 
 # Demonstration
 
 # Problems That we are still facing
-## Java/JavaScript 
+## Android <-> Windows
+The encryption method for both Android and 
 ## WeChat Potential Architecture Change
 Our current method for injection is fully based on the current architecture of WeChat. As we may already know, that Tencent recently updated the QQ architecture to Electron, which is the framework we are using now to save its developer cost. If the architecture changes, our app would become deprecated and cannot be regularly updated. 
 
