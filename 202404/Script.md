@@ -37,9 +37,16 @@ The
 
 # Demonstration
 ## Electron
+Get a New Key
+Copy a Key
+Send and Receive Messages
+## Android
+Get a New Key
+Copy a Key
+Send and Receive Messages
 
 # Problems That we are still facing
-## Android <-> Windows
+## Android ⇿ Windows
 The encryption method for both Android and Windows are RSA-2048/OAEPPadding. The keys are PEM format. However, there are still some issues for connecting them together. 
 ## WeChat Potential Architecture Change
 Our current method for injection is fully based on the current architecture of WeChat. As we may already know, that Tencent recently updated the QQ architecture to Electron, which is the framework we are using now to save its developer cost. If the architecture changes, our app would become deprecated and cannot be regularly updated. 
@@ -48,6 +55,6 @@ Our current method for injection is fully based on the current architecture of W
 
 
 # Current Process and Schedule 
-For this part, I would say sorry to Dr. Hao, because I didn't have much progress after February on the desktop version. However, I did finish a simple prototype of my mobile version. 
+For this part, I would say sorry to Dr. Hao, because I didn't have much progress after February on the Windows version. However, I did finish a simple prototype of my mobile version. 
 
 # Work
