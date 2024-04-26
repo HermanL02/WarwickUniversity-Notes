@@ -19,7 +19,7 @@ Above 3分20秒
 ### Other Apps
 ### Using VPN
 ### Any products before? 
-Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]] I believe that is because some special commercial considerations of WeChat, but that eventually increases the complexity for us to provide users a end to end encryption experience. 
+Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]]We believe that is because of some special commercial considerations of WeChat, but that eventually increases the complexity for us to provide users a end to end encryption experience. 
 # Design, Tech and Tech Stack
 
 Our main goal is to allow WeChat users to have a safe, encrypted conversation with the lowest effort. We want to make the tool 1, Secure, 2, Easy to use, 3, Legal, cannot be blocked by any third party including the government. 
@@ -29,7 +29,8 @@ For making a such product, we cannot leave the usage of many kinds of utilities.
 So, when a message comes, it will be intercepted by the wxhelper, delivered to our app, and our app read it, decrypt it, and display it to the user. When a user sends a message, it will encrypt it and send it through the wxhelper. 
 ## Android
 The injection is possible, but hard for the users. Usually the injection requires the usage of root privilege, but many phone manufactures are limiting the usage of it.  
-Usually, if a normal user wants to decrypt it, the users are required to copy it, and then open a third party website or app, paste it, and then get the result. That is NOT convenient. However, when we look into this process, we can see the time we took the most is copy and pasting. How about lets set up a function within the keyboard, so that the users don't have to jump from 1 
+Usually, if a normal user wants to decrypt it, the users are required to copy it, and then open a third party website or app, paste it, and then get the result. That is NOT convenient. However, when we look into this process, we can see the time we took the most is copy and pasting. How about lets set up a function within the keyboard, so that the users don't have to jump from 1 app to another. 
+So
 
 # Efforts We Made to make it easy to use
 # Problems That we are still facing
