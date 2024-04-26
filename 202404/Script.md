@@ -30,7 +30,7 @@ So, when a message comes, it will be intercepted by the wxhelper, delivered to o
 ## Android
 The injection is possible, but hard for the users. Usually the injection requires the usage of root privilege, but many phone manufactures are limiting the usage of it.  
 Usually, if a normal user wants to decrypt it, the users are required to copy it, and then open a third party website or app, paste it, and then get the result. That is NOT convenient. However, when we look into this process, we can see the time we took the most is copy and pasting. How about let's set up a function within the keyboard, so that the users don't have to jump from 1 app to another. 
-Therefore, my idea is to make a keyboard that when you are copying, it can also decrypt, and when you are talking, there is a button that can select all you typed and 
+Therefore, my idea is to make a keyboard that when you receive a message, copy it, then it will be automatically decrypted, and when you are sending a message, there is a button that can select all you typed and encrypt it. 
 
 # Efforts We Made to make it easy to use
 # Problems That we are still facing
