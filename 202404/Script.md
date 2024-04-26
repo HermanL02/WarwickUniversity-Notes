@@ -54,6 +54,6 @@ Our current method for injection is fully based on the current architecture of W
 
 # Current Process and Schedule 
 
-As you can see from this timeline, I have worked on the Electron Windows version back to February and finished my deis. I have finished my Mobile version on April. 
+As you can see from this timeline, I have worked on the Electron Windows version back to February and finished my design at that time. I have finished my Mobile version on April. I will also put my other schedules on this timeline. I was working as a full time employee remotely at a Canadian company
 
 # Use of GPT
