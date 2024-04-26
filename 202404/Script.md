@@ -19,7 +19,7 @@ Above 3分20秒
 ### Other Apps
 ### Using VPN
 ### Any products before? 
-Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]]
+Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]] I believe that is because some special con
 
 # Design
 
