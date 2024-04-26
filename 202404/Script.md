@@ -19,11 +19,10 @@ Above 3分20秒
 ### Other Apps
 ### Using VPN
 ### Any products before? 
-Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]] I believe that is because some special con
-
+Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]] I believe that is because some special commercial considerations of WeChat, but that eventually increases the complexity for us to provide users a end to end encryption experience. 
 # Design
 
-Our main goal is to allow WeChat users to have a safe, encrypted conversation with the lowest effort. We want to make the tool 1, Easy to use, 2, Legal, Cannot be blocked
+Our main goal is to allow WeChat users to have a safe, encrypted conversation with the lowest effort. We want to make the tool 1, Secure, 2, Easy to use, 3, Legal, Cannot be blocked
 How to easy to use? How to Legal? And How to be not blocked?
 ## Why not website? WeChat weird design. 
 ## Windows
