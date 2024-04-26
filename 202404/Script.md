@@ -39,8 +39,7 @@ The
 
 # Problems That we are still facing
 ## Android <-> Windows
-The encryption method for both Android and Windows are RSA-2048/ECB/OAEPPadding
-	
+The encryption method for both Android and Windows are RSA-2048/OAEPPadding. The keys are PEM format. However, there is still some issues for connecting them together. The 	
 ## WeChat Potential Architecture Change
 Our current method for injection is fully based on the current architecture of WeChat. As we may already know, that Tencent recently updated the QQ architecture to Electron, which is the framework we are using now to save its developer cost. If the architecture changes, our app would become deprecated and cannot be regularly updated. 
 
