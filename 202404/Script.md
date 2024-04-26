@@ -29,7 +29,7 @@ For making a such product, we cannot leave the usage of many kinds of utilities.
 So, when a message comes, it will be intercepted by the wxhelper, delivered to our app, and our app read it, decrypt it, and display it to the user. When a user sends a message, it will encrypt it and send it through the wxhelper. 
 ## Android
 The injection is possible, but hard for the users. Usually the injection requires the usage of root privilege, but many phone manufactures are limiting the usage of it.  
-Usually, if  the users want to decrypt it, the users are required to copy it, and then open a third party website, paste it, and then get the result. That is NOT convenient. 
+Usually, if a normal user wants to decrypt it, the users are required to copy it, and then open a third party website or app, paste it, and then get the result. That is NOT convenient. However, when we look into this process, 
 
 # Efforts We Made to make it easy to use
 # Problems That we are still facing
