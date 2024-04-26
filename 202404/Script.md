@@ -29,8 +29,8 @@ For making a such product, we cannot leave the usage of many kinds of utilities.
 So, when a message comes, it will be intercepted by the wxhelper, delivered to our app, and our app read it, decrypt it, and display it to the user. When a user sends a message, it will encrypt it and send it through the wxhelper. 
 ## Android
 The injection is possible, but hard for the users. Usually the injection requires the usage of root privilege, but many phone manufactures are limiting the usage of it.  
-Usually, if a normal user wants to decrypt it, the users are required to copy it, and then open a third party website or app, paste it, and then get the result. That is NOT convenient. However, when we look into this process, we can see the time we took the most is copy and pasting. How about lets set up a function within the keyboard, so that the users don't have to jump from 1 app to another. 
-Therefore, my idea is to make a 
+Usually, if a normal user wants to decrypt it, the users are required to copy it, and then open a third party website or app, paste it, and then get the result. That is NOT convenient. However, when we look into this process, we can see the time we took the most is copy and pasting. How about let's set up a function within the keyboard, so that the users don't have to jump from 1 app to another. 
+Therefore, my idea is to make a keyboard that when you are copying, it can also decrypt, and when you are talking, there is a button that can select all you typed and 
 
 # Efforts We Made to make it easy to use
 # Problems That we are still facing
@@ -46,6 +46,6 @@ We will use Electron as the framework, with React.js as the frontend, and Node.j
 
 
 # Current Process and Schedule 
-For this part, I would say sorry to Dr. Hao, because I didn't have much progress after February on the desktop version. H
+For this part, I would say sorry to Dr. Hao, because I didn't have much progress after February on the desktop version. However, I did finish a simple prototype of my mobile version. 
 
 # Work
