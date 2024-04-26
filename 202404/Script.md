@@ -20,16 +20,16 @@ Above 3分20秒
 ### Using VPN
 ### Any products before? 
 Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]] I believe that is because some special commercial considerations of WeChat, but that eventually increases the complexity for us to provide users a end to end encryption experience. 
-# Design
+# Design, Tech and Tech Stack
 
 Our main goal is to allow WeChat users to have a safe, encrypted conversation with the lowest effort. We want to make the tool 1, Secure, 2, Easy to use, 3, Legal, cannot be blocked by any third party including the government. 
 How to easy to use? How to Legal? And How to be not blocked?
 ## Windows
 For making a such product, we cannot leave the usage of many kinds of utilities. Therefore, to inject the WeChat, I used wxhelper(https://github.com/ttttupup/wxhelper/tree/main) project and the Electron Spoiler Template to start. The wxhelper is an open source WeChat injector. It updates every 3 months to make sure they can catch up to the latest WeChat release. The Electron Spoiler is the best Electron template I can find on the internet. It follows every security requirement and configuration that Electron suggests. 
-So, when a message comes, it will be intercepted by the wxhelper, delivered to our app, and our app read it, decrypt it, and display it to the user. On the other hand, the message 
+So, when a message comes, it will be intercepted by the wxhelper, delivered to our app, and our app read it, decrypt it, and display it to the user. When a user sends a message, it will encrypt it and send it to the 
 ## Android
 Besides core: Sharing Contacts! 
-# Tech and Tech Stack
+# 
 
 ## Frameworks
 ### Windows
