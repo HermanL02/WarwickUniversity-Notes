@@ -37,8 +37,10 @@ It sounds not reality to create a keyboard on our own. However, which keyboard s
 # Demonstration
 
 # Problems That we are still facing
+## Java/JavaScript 
 ## WeChat Potential Architecture Change
 Our current method for injection is fully based on the current architecture of WeChat. As we may already know, that Tencent recently updated the QQ architecture to Electron, which is the framework we are using now to save its developer cost. If the architecture changes, our app would become deprecated and cannot be regularly updated. 
+
 
 
 
