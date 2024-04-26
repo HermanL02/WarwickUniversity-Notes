@@ -48,7 +48,7 @@ Send and Receive Messages
 
 # Problems That we are still facing
 ## Android ⇿ Windows
-The encryption method for both Android and Windows are RSA-2048/OAEPPadding. The keys are PEM format. However, there are still some issues for connecting them together. 
+The encryption method for both Android and Windows are RSA-2048/OAEP Padding. The keys are PEM format. However, there are still some issues for connecting them together. 
 ## WeChat Potential Architecture Change
 Our current method for injection is fully based on the current architecture of WeChat. As we may already know, that Tencent recently updated the QQ architecture to Electron, which is the framework we are using now to save its developer cost. If the architecture changes, our app would become deprecated and cannot be regularly updated. 
 
@@ -56,6 +56,6 @@ Our current method for injection is fully based on the current architecture of W
 
 As you can see from this timeline, I have worked on the Electron Windows version back to February and finished my design at that time. I have finished my Mobile version on April. I will also put my other schedules on this timeline. 
 I was working as a full-time employee in charge of Electron app development remotely at a Canadian company since March.6th. Furthermore, I was also working as a part-time intern at another Canadian company. I have my final exams in May and June. Physically, I will back to Canada for working on-site after that. Our time is very tight. 
-However, I would say there are also benefits. Since I worked on this E2EE app, I got the full-time job, and since the full-time job, I can learn more about Electron. I learned how to manage the child process. I learned which DB will be best fit our chat history storage. 
+However, I would say there are also benefits. Since I worked on this E2EE app, I got the full-time job, and since the full-time job, I can learn more about Electron. I learned how to manage the child process, use code to inject another app, get the admin priviledg. I learned which DB will be best fit our chat history storage. 
 
 # Use of GPT
