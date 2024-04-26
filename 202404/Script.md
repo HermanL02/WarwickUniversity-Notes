@@ -36,6 +36,7 @@ It sounds not reality to create a keyboard on our own. However, which keyboard s
 The 
 
 # Demonstration
+For this part, I would say sorry to Dr. Feng Hao, because I didn't have much progress after February on the Windows version. However, I did finish a simple example of my mobile version. 
 ## Electron
 Get a New Key
 Copy a Key
@@ -51,10 +52,6 @@ The encryption method for both Android and Windows are RSA-2048/OAEPPadding. The
 ## WeChat Potential Architecture Change
 Our current method for injection is fully based on the current architecture of WeChat. As we may already know, that Tencent recently updated the QQ architecture to Electron, which is the framework we are using now to save its developer cost. If the architecture changes, our app would become deprecated and cannot be regularly updated. 
 
-
-
-
 # Current Process and Schedule 
-For this part, I would say sorry to Dr. Hao, because I didn't have much progress after February on the Windows version. However, I did finish a simple prototype of my mobile version. 
 
-# Work
+As you can see from this timeline, I have 
