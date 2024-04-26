@@ -25,7 +25,7 @@ Through the searching on GitHub, I observed that there is a thinking about WeCha
 Our main goal is to allow WeChat users to have a safe, encrypted conversation with the lowest effort. We want to make the tool 1, Secure, 2, Easy to use, 3, Legal, cannot be blocked by any third party including the government. 
 How to easy to use? How to Legal? And How to be not blocked?
 ## Windows
-For making a such product, we cannot leave the usage of many kinds of utilities. Therefore, to inject the WeChat, I used WXHelper(https://github.com/ttttupup/wxhelper/tree/main) project as the injector and the Electron Windows Spoiler to start. T
+For making a such product, we cannot leave the usage of many kinds of utilities. Therefore, to inject the WeChat, I used wxhelper(https://github.com/ttttupup/wxhelper/tree/main) project as the injector and the Electron Windows Spoiler to start. The We
 ## Android
 Besides core: Sharing Contacts! 
 # Tech and Tech Stack
