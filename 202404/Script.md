@@ -54,4 +54,4 @@ Our current method for injection is fully based on the current architecture of W
 
 # Current Process and Schedule 
 
-As you can see from this timeline, I have 
+As you can see from this timeline, I have worked on the Electron back to February. I have finished my 
