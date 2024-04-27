@@ -57,7 +57,7 @@ Our current method for injection is fully based on the current architecture of W
 As you can see from this timeline, I have worked on the Electron Windows version back to February and finished my design at that time. I have finished my Mobile version on April. I will also put my other schedules on this timeline. 
 I was working as a full-time employee in charge of Electron app development remotely at a Canadian company since March.6th. Furthermore, I was also working as a part-time intern at another Canadian company. I have my final exams in May and June. Physically, I will back to Canada for working on-site after that. Our time is very tight. 
 However, I would say there are also benefits. Since I worked on this E2EE app, I got the full-time job, and since the full-time job, I can learn more about Electron. I learned how to manage the child process, use code to inject another app, get the admin privilege I also learned which DB will be best fit our chat history storage. 
-Back to our schedule, I believe the main time I will work on this will be in June, to make it almost done, and will improve it 
+Back to our schedule, I believe the main time I will work on this will be in June, to make it almost done, and will improve it later after the interium
 
 # Use of GPT
 
