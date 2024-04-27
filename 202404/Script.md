@@ -60,4 +60,4 @@ However, I would say there are also benefits. Since I worked on this E2EE app, I
 Back to our schedule, I believe the main time I will work on this will be in June, to make it almost done, and will improve it later after the interim report. 
 
 # Use of GPT
-Before these months, I have zero experience regarding Electron and Android Development. I know it is not possible for me to become a expert, or a senior developer in such a short time. Luckily, the generative tools act as a intermediate developer for me. It fixes my grammar mistake
+Before these months, I have zero experience regarding Electron and Android Development. I know it is not possible for me to become an expert, or a senior developer in such a short time. Luckily, the generative tools act as an intermediate developer for me. It fixes my grammar mistake
