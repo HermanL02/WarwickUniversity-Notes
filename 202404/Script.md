@@ -13,8 +13,7 @@ The official Amnesty International's rank in 2016 indicates that WeChat received
 The Citizen Lab of the University of Toronto has published many reports regarding the WeChat transparency and censorship. 
 Inside *An Analysis of WeChat’s Realtime Image Filtering in Chats*, It reveals that 
 1. WeChat implements realtime, automatic censorship of chat images based on text contained in images and on an image’s visual similarity to those on a blacklist. The photos MD5 and hash improves the real time filtering. 
-2. The filtering is especially targeting politics, and especially targeti
-3. 
+2. The filtering is especially targeting politics, and especially targeting the news. 
 
 If we briefly take a look at the technical methods WeChat use to protect the security compare to its competitors. It is the only app that does not provide a E2EE option, while it only provides the encryption between the users and the server, which means this is still technically possible to be leaked to WeChat workers and the government. Telegram provides a E2EE option. WhatsApp, Facebook Messenger, and iMessage all provide real time end-to-end encryption protocol. 
 ### News
