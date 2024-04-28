@@ -16,7 +16,7 @@ Inside *An Analysis of WeChat’s Realtime Image Filtering in Chats*, It reveals
 2. The filtering is especially targeting politics, and especially targeting the news. 
 There are also lots of technical reviews about how WeChat is filtering text and so on. I would say if I put all the technical analysis here, it will cost too much time. 
 ### News and Personal Experience
-
+Before I talk about this, I would like say that I am not a activist
 #### Xiaobo Liu and Filtering
 Xiaobo Liu
 During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
