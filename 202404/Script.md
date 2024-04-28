@@ -17,7 +17,8 @@ Inside *An Analysis of WeChat’s Realtime Image Filtering in Chats*, It reveals
 There are also lots of technical reviews about how WeChat is filtering text and so on. I would say if I put all the technical analysis here, it will cost too much time. 
 ### News and Personal Experience
 
-Although there is no official investigations about how many users are not satisfied with the WeChat privacy policy, I could provide some personal cases about it. 
+#### Xiaobo Liu and Filtering
+
 During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
 On the same time, my grandpa, which is a 75 years old man, who sent news regarding the prediction of the election in the WeChat group. He was banned as well as the whole WeChat group for spreading rumours. 
 Above 3分20秒
