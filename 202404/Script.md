@@ -35,7 +35,7 @@ Usually, if a normal user wants to decrypt it, the users are required to copy it
 Therefore, my idea is to make a keyboard that when you receive a message, copy it, then it will be automatically decrypted, and when you are sending a message, there is a button, tap it, and encrypt it. 
 It sounds not reality to create a keyboard on our own. However, which keyboard should we use to begin? 
 When I was trying to find a keyboard to make a plug in. What brings to my mind is that the keyboard must be open sourced, secured and fully offline. Fcitix /ˈfaɪtɪks/ (**Free Chinese Input Tool for X**) is the largest community maintained Chinese input method. It satisfied everything I required. So, we mainly edited their keyboard's clipboard part, and another part on their input view to implement the E2EE feature. 
-After we choose the Fcitix, there is a research from Citizen Lab Canada comes to my attention. It is  a University of Toronto reveals that most of the Chinese keyboards are leaking your personal information. This is already fixed. However, it raised my concern. If a keyboard is connected to the internet, it still has the potential possibility to leak your information. So, w
+After I finished the implemented, there is a very recent research published on Apr.23 comes to my attention. The research is from  Citizen Lab Canada.  reveals that most of the Chinese keyboards are leaking your personal information. This is already fixed. However, it raised my concern. If a keyboard is connected to the internet, it still has the potential possibility to leak your information. So, w
 ## Protocol
 The main protocol we are using now is the RSA protocol, because it is easy to use, well known, and reliable protocol. 
 
