@@ -16,9 +16,9 @@ Although there is no official investigations about how many users are not satisf
 During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I don't personally agree or disagree with the person, but I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
 On the same time, my grandpa, which is a 75 years old man, who sent news regarding the prediction of the election in the WeChat group. He was banned as well as the whole WeChat group for spreading rumours. 
 Above 3分20秒
-### Other Apps
+### Any Other Choices For Mainland People? 
 ### Using VPN
-When I was in mainland, I was trying to use VPN to chat with my friends. I was concerned about a lots of things. First, the connection is not stable. Sometimes, the firewall would restri
+When I was in mainland, I was trying to use VPN to chat with my friends. I was concerned about a lots of things. First, the connection is not stable. Sometimes, the firewall would restrict the famous companies connection. 
 ### Any products before? 
 Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]]We believe that is because of some special commercial considerations of WeChat, but that eventually increases the complexity for us to provide users a end to end encryption experience. 
 # Design, Tech and Tech Stack
