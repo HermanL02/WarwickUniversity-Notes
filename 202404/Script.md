@@ -16,12 +16,12 @@ Inside *An Analysis of WeChat’s Realtime Image Filtering in Chats*, It reveals
 2. The filtering is especially targeting politics, and especially targeting the news. 
 There are also lots of technical reviews about how WeChat is filtering text and so on. I would say if I put all the technical analysis here, it will cost too much time. 
 ### News and Personal Experience
-Before I talk about this, I would like to say that I am not an activist in politics, but politics is everywhere in our life, so sometimes I discuss it. 
+Before I talk about this, I would like to say that I am not an activist in politics, but I don't want to talk  There are several 
 #### Xiaobo Liu
 Xiaobo Liu is a Chinese activist, a Nobel Peace Prize laureate, participated in the 1989 Tiananmen Square protest, and he died in 2017. The death of him results many discussions of democracy on WeChat. WeChat filtered all the English and Chinese spelling of his name.  
 #### Peng Shuai 
 Pengshuai has accused Gaoli Zhang for sexual assault on Weibo. After three hours, the post was deleted by Weibo, and WeChat also start filtering the keywords and screenshots. I was attempting to spread the rumours too. However, even if I edit the photos, those photos are still blocked. 
-### Sitong Bridge
+#### Sitong Bridge Protest
 
 During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
 On the same time, my grandpa, which is a 75 years old man, who sent news regarding the prediction of the election in the WeChat group. He was banned as well as the whole WeChat group for spreading rumours. 
