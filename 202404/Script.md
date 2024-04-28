@@ -20,7 +20,7 @@ Before I talk about this, I would like to say that I am not an activist in polit
 #### Xiaobo Liu
 Xiaobo Liu is a Chinese activist, a Nobel Peace Prize laureate, participated in the 1989 Tiananmen Square protest, and he died in 2017. The death of him results many discussions of democracy on WeChat. WeChat filtered all the English and Chinese spelling of his name.  
 #### Peng Shuai 
-Pengshuai has accused Gaoli Zhang, a Chinese  for sexual assault on Weibo. After three hours, the post was deleted by Weibo, and WeChat also start filtering the keywords and screenshots. I was attempting to spread the rumours too. However, even if I edit the photos, those photos are still blocked. 
+Pengshuai has accused Gaoli Zhang, a Chinese for sexual assault on Weibo. After three hours, the post was deleted by Weibo, and WeChat also start filtering the keywords and screenshots. I was attempting to spread the rumours too. However, even if I edit the photos, those photos are still blocked. 
 #### Sitong Bridge Protest
 
 During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
