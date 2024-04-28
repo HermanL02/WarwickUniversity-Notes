@@ -46,12 +46,12 @@ Get a New Key
 Copy a Key
 Send and Receive Messages
 
-# Problems That we are still facing
+# Issues
 ## Android ⇿ Windows
 The encryption method for both Android and Windows are RSA-2048/OAEP Padding. The keys are PEM format. However, there are still some issues for connecting them together. 
 
 ## WeChat Update
-We have noticed that WeC
+We have noticed that WeChat could implement a force login restriction when the version is too low. So, it is 
 ## WeChat Potential Architecture Change
 Our current method for injection is fully based on the current architecture of WeChat. As we may already know, that Tencent recently updated the QQ architecture to Electron, which is the framework we are using now to save its developer cost. If the architecture changes, our app would become deprecated and cannot be regularly updated. 
 
