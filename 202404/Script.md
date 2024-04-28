@@ -51,7 +51,7 @@ Send and Receive Messages
 The encryption method for both Android and Windows are RSA-2048/OAEP Padding. The keys are PEM format. However, there are still some issues for connecting them together. 
 
 ## WeChat Update
-We have noticed that WeChat could implement a force login restriction when the version is too low. There are two ways for us to solve this. From one hand, the open source GitHub and probably I will continue to update WeChat Injection scripts. On the other hand, there are already some injection scripts to avoid the WeChat update by changing their version number. 
+We have noticed that WeChat could implement a force login restriction when the version is too low. There are two ways for us to solve this. From one hand, the open source GitHub, and probably I will continue to update WeChat Injection scripts. On the other hand, there are already some injection scripts to avoid the WeChat update by changing their version number. So, we aim to connect these scripts seamlessly to our 
 ## WeChat Potential Architecture Change
 Our current method for injection is fully based on the current architecture of WeChat. As we may already know, that Tencent recently updated the QQ architecture to Electron, which is the framework we are using now to save its developer cost. If the architecture changes, our app would become deprecated and cannot be regularly updated. 
 
