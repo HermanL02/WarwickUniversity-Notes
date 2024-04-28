@@ -48,6 +48,7 @@ When I was trying to find a keyboard to make a plug in. What brings to my mind i
 After I finished the implemented, there is a very recent research published on Apr.23 comes to my attention. The research is from the University of Toronto supported lab called Citizen Lab Canada.  reveals that most of the Chinese keyboards are leaking your personal information. This is already fixed. However, it raised my concern. If a keyboard is connected to the internet, it still has the potential possibility to leak your information. So, w
 ## Protocol
 The main protocol we are using now is the RSA protocol, because it is easy to use, well known, and reliable protocol. 
+We might have some updates regarding other protocols, such as 
 
 # Demonstration
 For this part, I would say sorry to Dr. Feng Hao, because I didn't have much progress after February on the Windows version. However, I did finish a simple example of my mobile version. 
