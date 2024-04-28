@@ -9,7 +9,9 @@ However, there are some concerns. Does WeChat comply to the privacy requirements
 ### Third Party Report
 #### Amnesty International
 The official Amnesty International's rank in 2016 indicates that WeChat received a 0, and ranked the bottom among all the researched applications. 
-Second, the Citizen Lab of the University of Toronto has published many reports regarding the WeChat transparency and censorship. 
+#### Citizen Lab Canada
+The Citizen Lab of the University of Toronto has published many reports regarding the WeChat transparency and censorship. 
+
 If we briefly take a look at the technical methods WeChat use to protect the security compare to its competitors. It is the only app that does not provide a E2EE option, while it only provides the encryption between the users and the server, which means this is still technically possible to be leaked to WeChat workers and the government. Telegram provides a E2EE option. WhatsApp, Facebook Messenger, and iMessage all provide real time end-to-end encryption protocol. 
 ### Personal Experience
 Although there is no official investigations about how many users are not satisfied with the WeChat privacy policy, I could provide some personal cases about it. 
