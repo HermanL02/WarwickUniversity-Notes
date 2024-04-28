@@ -56,6 +56,9 @@ We have noticed that WeChat could implement a force login restriction when the v
 ## WeChat Potential Architecture Change
 Our current method for injection is fully based on the current architecture of WeChat. As we may already know, that Tencent recently updated the QQ architecture from C++ to Electron, which is actually the framework we are using now. The reason for them to change it is to save its multi-platform developer cost. If the architecture of WeChat changes, our app would become deprecated and cannot be regularly updated. 
 
+## WeChat Implemented E2EE Function
+If WeChat implemented the E2EE function, this project will be useless.
+
 # Current Process and Schedule 
 
 As you can see from this timeline, I have worked on the Electron Windows version back to February and finished my design at that time. I have finished my Mobile version on April. I will also put my other schedules on this timeline. 
@@ -67,4 +70,4 @@ Back to our schedule, I believe the main time I will work on this will be in Jun
 Before these months, I have zero experience regarding Electron and Android Development. I know it is not possible for me to become an expert, or a senior developer in such a short time. Luckily, the generative tools act as an intermediate developer for me. It fixes my grammar mistake
 
 # Conclusion
-I hope this project could pr
+I hope this project could bring the Chinese people a new integrated E2EE experience with WeChat. 
