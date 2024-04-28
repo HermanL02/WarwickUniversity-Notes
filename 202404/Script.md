@@ -34,7 +34,7 @@ The injection is possible, but hard for the users. Usually the injection require
 Usually, if a normal user wants to decrypt it, the users are required to copy it, and then open a third party website or app, paste it, and then get the result. That is NOT convenient. However, when we look into this process, we can see the time we took the most is copy and pasting. How about let's set up a function within the keyboard, so that the users don't have to jump from 1 app to another. 
 Therefore, my idea is to make a keyboard that when you receive a message, copy it, then it will be automatically decrypted, and when you are sending a message, there is a button, tap it, and encrypt it. 
 It sounds not reality to create a keyboard on our own. However, which keyboard should we use to begin? 
-When I was trying to find a keyboard to make a plug in. What brings to my mind is that the keyboard must be open sourced, secured and fully offline. Fcitix /ˈfaɪtɪks/ (**Free Chinese Input Tool for X**) is the largest community maintained Chinese input method. It is safe, offline, and open sourced. So, we edited their clipboard implementation, and now it allows the current function. 
+When I was trying to find a keyboard to make a plug in. What brings to my mind is that the keyboard must be open sourced, secured and fully offline. Fcitix /ˈfaɪtɪks/ (**Free Chinese Input Tool for X**) is the largest community maintained Chinese input method. It satisfied everything I required. So, we mainly edited their keyboard 
 ## Protocol
 The main protocol we are using now is the RSA protocol, because it is easy to use, well known, and reliable protocol. 
 
