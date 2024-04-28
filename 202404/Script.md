@@ -13,7 +13,7 @@ However, that is already out of date, so, second, I will talk about the technica
 If we briefly take a look at the technical methods WeChat use to protect the security compare to its competitors. It is the only app that does not provide a E2EE option, while it only provides the encryption between the users and the server, which means this is still technically possible to be leaked to WeChat workers and the government. Telegram provides a E2EE option. WhatsApp, Facebook Messenger, and iMessage all provide real time end-to-end encryption protocol. 
 ### Personal Experience
 Although there is no official investigations about how many users are not satisfied with the WeChat privacy policy, I could provide some personal cases about it. 
-During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I don't personally agree or disagree with the person, but I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
+During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
 On the same time, my grandpa, which is a 75 years old man, who sent news regarding the prediction of the election in the WeChat group. He was banned as well as the whole WeChat group for spreading rumours. 
 Above 3分20秒
 ### Any Other Choices For Mainland People to use E2EE? 
@@ -72,4 +72,4 @@ Back to our schedule, I believe the main time I will work on this will be in Jun
 Before these months, I have zero experience regarding Electron and Android Development. I know it is not possible for me to become an expert, or a senior developer in such a short time. Luckily, the generative tools act as an intermediate developer for me. It fixes my grammar mistake
 
 # Conclusion
-I hope this project could bring the Chinese people a new integrated E2EE experience with WeChat. 
+I hope this project could bring the Chinese people a new integrated E2EE experience with WeChat. It has a potential  
