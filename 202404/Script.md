@@ -57,7 +57,7 @@ We have noticed that WeChat could implement a force login restriction when the v
 Our current method for injection is fully based on the current architecture of WeChat. As we may already know, that Tencent recently updated the QQ architecture from C++ to Electron, which is actually the framework we are using now. The reason for them to change it is to save its multi-platform developer cost. If the architecture of WeChat changes, our app would become deprecated and cannot be regularly updated. 
 
 ## WeChat Implemented E2EE Function
-If WeChat implemented the E2EE function, this project will be useless.
+If in the future, WeChat one day implemented the E2EE function, this project will be useless. However, if this is annouced, I am really satisfied instead of the sadness to see my 3 month effort becomes useless.  
 
 # Current Process and Schedule 
 
