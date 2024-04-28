@@ -21,7 +21,7 @@ Above 3分20秒
 When I was in mainland, I was trying to use VPN to chat with my friends. I was concerned about lots of things. The connection is not stable, and people cannot always keep the VPN on, because some apps does not support foreign IP. (companies search app/some bank loan app/video app/ driver licence management app, and so on) It prevents us from using it all the time, so we may miss some instant messages. After that, if I decide to talk about something legal but sensitive, I have to use WeChat to tell them lets open our VPN and move to WhatsApp to chat. 
 
 ### Own a foreign SIM card
-Many people bought 
+Many people bought UK SIM cards during the pandemic, so that they can connect to the university services. However, the card has the same 
 ### Any products before? 
 Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]]We believe that is because of some special commercial considerations of WeChat, but that eventually increases the complexity for us to provide users a end to end encryption experience. 
 # Design, Tech and Tech Stack
