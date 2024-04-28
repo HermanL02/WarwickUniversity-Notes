@@ -18,6 +18,7 @@ On the same time, my grandpa, which is a 75 years old man, who sent news regardi
 Above 3分20秒
 ### Other Apps
 ### Using VPN
+When I was in mainland, I was trying to use VPN to chat with my friends. I was concerned about a lots of things. First, the connection is not stable. Sometimes, the firewall would restri
 ### Any products before? 
 Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]]We believe that is because of some special commercial considerations of WeChat, but that eventually increases the complexity for us to provide users a end to end encryption experience. 
 # Design, Tech and Tech Stack
