@@ -6,10 +6,9 @@ Good morning, professors. I am really glad to have a chance to bring you my diss
 According to the latest data of Chinese instant message apps, WeChat ranked the top, which has over 1 billion daily active users. The second one is QQ, which has over 300 million daily active users. It is also a Tencent product. The third one would be Ding Talk app, which has less than 100 million, and it is more likely to be a Slack type organizational and administration app. We may observe that WeChat has a dominant role in China. 
 ## WeChat vs. Privacy
 However, there are some concerns. Does WeChat comply to the privacy requirements? 
-### Third Party Review
-First, I will talk about the official Amnesty International's rank in 2016. This is the only official evaluation that I can reference here. In this metrics, WeChat received a 0 in evaluation and ranked the bottom. 
-Second, the Citizen Lab of the University of Toronto has published many reports regarding the WeChat transparency and cencorship. 
-### Technical methods 
+### Third Party Report
+The official Amnesty International's rank in 2016. This is the only official evaluation that I can reference here. In this metrics, WeChat received a 0 in evaluation and ranked the bottom. 
+Second, the Citizen Lab of the University of Toronto has published many reports regarding the WeChat transparency and censorship. 
 If we briefly take a look at the technical methods WeChat use to protect the security compare to its competitors. It is the only app that does not provide a E2EE option, while it only provides the encryption between the users and the server, which means this is still technically possible to be leaked to WeChat workers and the government. Telegram provides a E2EE option. WhatsApp, Facebook Messenger, and iMessage all provide real time end-to-end encryption protocol. 
 ### Personal Experience
 Although there is no official investigations about how many users are not satisfied with the WeChat privacy policy, I could provide some personal cases about it. 
