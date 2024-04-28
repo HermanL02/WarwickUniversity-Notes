@@ -18,7 +18,7 @@ There are also lots of technical reviews about how WeChat is filtering text and 
 ### News and Personal Experience
 Before I talk about this, I would like to say that I am not an activist in politics, but politics is everywhere in our life, so sometimes I discuss it. 
 #### Xiaobo Liu and Filtering
-Xiaobo Liu is a Chinese activist, a Nobel Peace Prize laureate, participated in the 1989 Tiananmen Square protest, and he died in 2017. The death of him reminds many  WeChat filtered all the English 
+Xiaobo Liu is a Chinese activist, a Nobel Peace Prize laureate, participated in the 1989 Tiananmen Square protest, and he died in 2017. The death of him results many discussions of democracy on WeChat. WeChat filtered all the English and Chinese spelling of his name.  
 During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
 On the same time, my grandpa, which is a 75 years old man, who sent news regarding the prediction of the election in the WeChat group. He was banned as well as the whole WeChat group for spreading rumours. 
 Above 3分20秒
