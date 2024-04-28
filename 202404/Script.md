@@ -65,3 +65,6 @@ Back to our schedule, I believe the main time I will work on this will be in Jun
 
 # Use of GPT
 Before these months, I have zero experience regarding Electron and Android Development. I know it is not possible for me to become an expert, or a senior developer in such a short time. Luckily, the generative tools act as an intermediate developer for me. It fixes my grammar mistake
+
+# Conclusion
+I hope this project could pr
