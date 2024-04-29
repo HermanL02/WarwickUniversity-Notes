@@ -31,7 +31,7 @@ Above 3分20秒
 When I was in mainland, I was trying to use VPN to chat with my friends with WhatsApp and Telegram. I believe the connection is secure, but there are a few drawbacks. First, the connection is not stable. Second, I attempted to keep the VPN always on, but finally failed. Many Chinese native apps do not support foreign IP addresses. (companies search app/some bank loan app/video app/ driver licence management app, and so on) It is unable for people to switch the VPN off while they are watching the videos, and turn the VPN on after they finish watching. Even if they can do that, they will lose the messages when they are watching the videos. Third, it is illegal and has a potential fine. During the Shanghai 
 ### Own a foreign SIM card
 Many people bought UK SIM cards during the pandemic, so that they can connect to the university services. However, the card has the same drawbacks as the VPN, and it may 
-### Any products before? 
+### Any similar solution before
 Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]]We believe that is because of some special commercial considerations of WeChat, but that eventually increases the complexity for us to provide users a end to end encryption experience. 
 # Design, Tech and Tech Stack
 
