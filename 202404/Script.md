@@ -24,9 +24,9 @@ Pengshuai has accused Gaoli Zhang, a Chinese vice prime minister, for sexual ass
 #### Sitong Bridge Protest
 
 During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
-On the same time, my grandpa, which is a 75 years old man, has been working for this country for his lifetime, was banned for spreading rumours, because sent news regarding the prediction of the election in the WeChat group.  
-Above 3分20秒
+On the same time, my grandpa, which is a 75 years old man, has been working for this country for his lifetime, was banned for spreading rumours. In fact, sent news regarding the prediction of the election in the WeChat group.  
 ### Any Other Choices For Mainland People to use E2EE? 
+
 ### Using VPN
 When I was in mainland, I was trying to use VPN to chat with my friends with WhatsApp and Telegram. I believe the connection is secure, but there are a few drawbacks. First, the connection is not stable. Second, I attempted to keep the VPN always on, but finally failed. Many Chinese native apps do not support foreign IP addresses. (companies search app/some bank loan app/video app/ driver licence management app, and so on) It is unable for people to switch the VPN off while they are watching the videos, and turn the VPN on after they finish watching. Even if they can do that, they will lose the messages when they are watching the videos. Third, it is illegal and has a potential fine. During the Shanghai 
 ### Own a foreign SIM card
