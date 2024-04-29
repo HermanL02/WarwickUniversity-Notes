@@ -24,7 +24,7 @@ Pengshuai has accused Gaoli Zhang, a Chinese vice prime minister, for sexual ass
 #### Sitong Bridge Protest
 
 During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
-On the same time, my grandpa, which is a 75 years old man, has been working for this country for his lifetime, was banned for spreading rumours. In fact, sent news regarding the prediction of the election in the WeChat group.  
+On the same time, my grandpa, which is a 75 years old man, has been working for this country for his lifetime, was banned for spreading rumours. In fact, he was sent news regarding the prediction of the election in the WeChat group.  
 ### Any Other Choices For Mainland People to use E2EE? 
 
 ### Using VPN
