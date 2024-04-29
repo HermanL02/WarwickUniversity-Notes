@@ -84,4 +84,4 @@ Back to our schedule, I believe the main time I will work on this will be in Jun
 Before these months, I have zero experience regarding Electron and Android Development. I know it is not possible for me to become an expert, or a senior developer in such a short time. Luckily, the generative tools act as an intermediate developer for me. It fixes my grammar mistake and give me suggestions on the best security practices. 
 
 # Conclusion
-I hope this project could bring the people in China a new integrated E2EE experience with WeChat when it is finished.  It has a potential  
+I hope this project could bring the people in China a new integrated E2EE experience with WeChat when it is finished.  Questions and Comments. 
