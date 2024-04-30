@@ -30,7 +30,8 @@ Break Cipher Process: Kasiski test + the index of coincidence
 3. Hash Collision: Why dangerous? 
 4. Draw Merkle-Damgård Construction以及证明这个! 
 ### MAC
-1. Given AES and CBC, how to build a MAC function. 
-2. 
+1. Given AES and CBC, how to build a MAC function - 记住如何construct
+2. Why H(k,m) is not secure? 
+3. 
 
 
