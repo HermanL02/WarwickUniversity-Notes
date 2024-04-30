@@ -10,4 +10,7 @@ All questions are required.
 ### Cipher types
 Shift cipher, substitution cipher, Vigenère cipher, 
 Break Cipher Process: Kasiski test + the index of coincidence
-## Stream C
+## Stream Cipher
+1. One time pad
+2. Two time 
+
