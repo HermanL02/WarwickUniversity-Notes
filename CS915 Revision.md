@@ -64,4 +64,7 @@ Break Cipher Process: Kasiski test + the index of coincidence
 - CSRF works? Why? 
 ## XSS
 - Difference between CSRF and XSS
-- Distinguish non-persistent/persistent XSS attac
+- Distinguish non-persistent/persistent XSS attacks
+- How XSS self-replicate
+## SQL
+
