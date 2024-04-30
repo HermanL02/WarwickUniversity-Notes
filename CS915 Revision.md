@@ -12,5 +12,6 @@ Shift cipher, substitution cipher, Vigenère cipher,
 Break Cipher Process: Kasiski test + the index of coincidence
 ## Stream Cipher
 1. One time pad
-2. Two time 
+2. Two time pad
+3. 
 
