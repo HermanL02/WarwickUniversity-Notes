@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404/Script.md",
+                "file": "202404/0419 Weekly Checkout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5301edbc7c98692b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS915 Revision.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202404/Script.md",
+                "file": "CS915 Revision.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202404/Script.md",
+                "file": "CS915 Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202404/Script.md"
+                "file": "CS915 Revision.md"
               }
             }
           },
@@ -209,10 +221,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a86646291317c39",
+  "active": "5301edbc7c98692b",
   "lastOpenFiles": [
-    "202404/CS932 Revision.md",
     "202404/0419 Weekly Checkout.md",
+    "CS915 Revision.md",
+    "202404/CS932 Revision.md",
     "202404/Script.md",
     "Pasted image 20240414170049.png",
     "202404",
@@ -225,7 +238,6 @@
     "未命名 2.canvas",
     "未命名 1.canvas",
     "202309/Essay.md",
-    "未命名.md",
     "未命名 1.md",
     "202402",
     "202401/Script_Eng.md",

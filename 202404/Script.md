@@ -4,7 +4,7 @@ Good morning, professors. I am really glad to have a chance to bring you my diss
 # Motivation(Next Page)
 ## WeChat Market Place(Next Page)
 For marketplace, WeChat ranked the top, which has over 1 billion daily active users. The second one is Tencent QQ, which has over 300 million daily active users. The third one would be Ding Talk app, which has less than 100 million, and it is more likely to be a Slack type organizational app. WeChat has an undoubtful leading role here. 
-## WeChat vs. Privacy(Next Page)
+## WeChat's privacy
 However, there are some concerns. Does WeChat comply to the privacy requirements? 
 ### Third Party Report
 #### Amnesty International
