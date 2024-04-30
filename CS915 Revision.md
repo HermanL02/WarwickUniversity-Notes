@@ -58,5 +58,8 @@ Break Cipher Process: Kasiski test + the index of coincidence
 - Understand set-uid concept
 - How set-uid works, eg. passwd
 - Describe how to use race condition to write to passwd
-- 
+## Web security - CORS
+- Same site/Cross site
+- cookie used in authentication
+- CSRF works? Why? 
 
