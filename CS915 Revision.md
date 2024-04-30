@@ -29,10 +29,10 @@ Break Cipher Process: Kasiski test + the index of coincidence
 2. Birthday Paradox 理解-> 反直觉的secure level，23个人即可有两个人生日相同的概率>50%
 3. Hash Collision: Why dangerous? 
 4. Draw Merkle-Damgård Construction以及证明这个! 
-### MAC
+## MAC
 1. Given AES and CBC, how to build a MAC function - 记住如何construct
 2. Why H(k, m) is not secure? 
 3. HMAC, timing attack是什么? 
-4. 
-#
+### Key agreement
+1. 
 
