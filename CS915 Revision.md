@@ -26,7 +26,7 @@ Break Cipher Process: Kasiski test + the index of coincidence
 5. Draw CBC, CFB, OFB, CRT properties, learn its recovery of error and synchronization
 ## Hash
 1. Random Oracle(随机预言机)一个查询对应一个输出，单向的
-2. Birthday Paradox 理解
+2. Birthday Paradox 理解-> 反直觉的secure level，23个人即可有两个人生日相同的概率>5
 3. 
 
 
