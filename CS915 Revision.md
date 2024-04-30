@@ -33,9 +33,11 @@ Break Cipher Process: Kasiski test + the index of coincidence
 1. Given AES and CBC, how to build a MAC function - 记住如何construct
 2. Why H(k, m) is not secure? 
 3. HMAC, timing attack是什么? 
-### Key agreement
+## Key agreement
 1. Understand how Diffie Hellman works. Why it is not secure for active attack? 
 2. How to make Diffie Hellman secure? 
 3. How Merkle Puzzle works and the complexities 
-##
+## Public Key Encryption
+1. Textbook RSA encryption scheme? Key generation, encryption, decryption
+2. 
 
