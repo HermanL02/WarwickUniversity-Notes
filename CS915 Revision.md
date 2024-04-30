@@ -14,6 +14,6 @@ Break Cipher Process: Kasiski test + the index of coincidence
 1. Stream cipher: Reuse the key; One time pad: Key length limit
 2. DVD CSS Broken
 ## Block cipher
-1. DES
+1. DES: **
 
 
