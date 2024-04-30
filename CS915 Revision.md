@@ -52,5 +52,6 @@ Break Cipher Process: Kasiski test + the index of coincidence
 - How EBP used to indicate memory address? 
 - Steps to inject malicious code in buffer overflow
 - Jumping in the malicious code: Filling NOP, spraying return address RT
-- 
+- Stack Guard How? Why? 
+
 
