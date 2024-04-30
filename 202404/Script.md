@@ -3,7 +3,7 @@
 Good morning, professors. I am really glad to have a chance to bring you my dissertation project, the WeChat End-to-End Encryption Tool, which I want to call it, the Libre Chat. 
 # Motivation(Next Page)
 ## WeChat Market Place(Next Page)
-According to the latest data of Chinese instant message apps, WeChat ranked the top, which has over 1 billion daily active users. The second one is QQ, which has over 300 million daily active users. It is also a Tencent product. The third one would be Ding Talk app, which has less than 100 million, and it is more likely to be a Slack type organizational and administration app. We may observe that WeChat has a dominant role in the instant messaging field. 
+For marketplace, WeChat ranked the top, which has over 1 billion daily active users. The second one is Tencent QQ, which has over 300 million daily active users. The third one would be Ding Talk app, which has less than 100 million, and it is more likely to be a Slack type organizational app. WeChat has an undoubtful leading role here. 
 ## WeChat vs. Privacy(Next Page)
 However, there are some concerns. Does WeChat comply to the privacy requirements? 
 ### Third Party Report
