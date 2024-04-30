@@ -34,8 +34,8 @@ Break Cipher Process: Kasiski test + the index of coincidence
 2. Why H(k, m) is not secure? 
 3. HMAC, timing attack是什么? 
 ### Key agreement
-1. Understand how Diffie Hellman works. Why it is secure for active attack? 
-2. 
+1. Understand how Diffie Hellman works. Why it is not secure for active attack? 
+2. How to make Diffie Hellman secure? 
 3. How Merkle Puzzle works and the complexities 
-4. 
+##
 
