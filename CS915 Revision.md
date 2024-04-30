@@ -32,6 +32,7 @@ Break Cipher Process: Kasiski test + the index of coincidence
 ### MAC
 1. Given AES and CBC, how to build a MAC function - 记住如何construct
 2. Why H(k, m) is not secure? 
-3. 
+3. HMAC, timing attack是什么? 
+4. 
 
 
