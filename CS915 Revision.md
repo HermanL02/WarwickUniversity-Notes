@@ -42,4 +42,6 @@ Break Cipher Process: Kasiski test + the index of coincidence
 2. Why textbook RSA insecure? 
 ## Digital signature
 1. How textbook RSA signature scheme works
+2. Attacks against textbook RSA
+3. Schnorr signature 
 
