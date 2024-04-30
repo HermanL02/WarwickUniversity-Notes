@@ -43,5 +43,5 @@ Break Cipher Process: Kasiski test + the index of coincidence
 ## Digital signature
 1. How textbook RSA signature scheme works
 2. Attacks against textbook RSA
-3. Schnorr signature 
+3. How Schnorr signature  scheme and Schnorr identification scheme works
 
