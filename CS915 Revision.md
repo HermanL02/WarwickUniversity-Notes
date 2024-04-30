@@ -68,4 +68,6 @@ Break Cipher Process: Kasiski test + the index of coincidence
 - How XSS self-replicate
 ## SQL
 1. Is js removing special char in front end safe? No
-## 
+## Packet sniffing
+## TCP attacks
+
