@@ -16,6 +16,7 @@ Break Cipher Process: Kasiski test + the index of coincidence
 ## Block cipher
 1. DES: **Drawing One Round**
 2. Feistel Network - IMPORTANT
-3. Why DES double time cannot provide 112 bit seucirty? Why Key size too smal
+3. Why DES double time cannot provide 112 bit seucirty? 
+4. Drawback of DES: Key size too small. 
 
 
