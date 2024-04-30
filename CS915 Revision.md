@@ -46,5 +46,6 @@ Break Cipher Process: Kasiski test + the index of coincidence
 3. How Schnorr signature  scheme and Schnorr identification scheme works
 # Part II: System Security
 ### Basics
-What is CIA traid 
+- What is CIA traid? 
+##
 
