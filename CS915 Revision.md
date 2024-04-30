@@ -11,7 +11,7 @@ All questions are required.
 Shift cipher, substitution cipher, Vigenère cipher, 
 Break Cipher Process: Kasiski test + the index of coincidence
 ## Stream Cipher
-1. One time pad
+1. Stream cipher: Reuse the key; One time pad: Key length limit
 2. Two time pad
 3. 
 
