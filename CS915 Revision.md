@@ -21,7 +21,8 @@ Break Cipher Process: Kasiski test + the index of coincidence
 ## Block cipher II
 1. AES (No need memorize design)
 2. How Confusion and Diffusion work? 
-3. Why ECB insecure? 
-4. CBC, CFB, OFB, CRT properties, 
+3. Why ECB insecure? Correlation. 
+4. CBC, CFB, OFB, CRT properties, recovery of error and synchronization
+
 
 
