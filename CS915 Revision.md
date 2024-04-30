@@ -67,4 +67,5 @@ Break Cipher Process: Kasiski test + the index of coincidence
 - Distinguish non-persistent/persistent XSS attacks
 - How XSS self-replicate
 ## SQL
-
+1. Is js removing special char in front end safe? No
+## 
