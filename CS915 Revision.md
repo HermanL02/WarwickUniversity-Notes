@@ -28,7 +28,7 @@ Break Cipher Process: Kasiski test + the index of coincidence
 1. Random Oracle(随机预言机)一个查询对应一个输出，单向的
 2. Birthday Paradox 理解-> 反直觉的secure level，23个人即可有两个人生日相同的概率>50%
 3. Hash Collision: Why dangerous? 
-4. 
+4. Draw Merkle-Damgard Construction
 
 
 
