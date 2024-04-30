@@ -50,5 +50,7 @@ Break Cipher Process: Kasiski test + the index of coincidence
 ## Buffer Overflow
 - Text Data BSS segment heap stack
 - How EBP used to indicate memory address? 
-- Steps to inject malicious code in buffe
+- Steps to inject malicious code in buffer overflow
+- Jumping in the malicious code: Filling NOP, spraying return address RT
+- 
 
