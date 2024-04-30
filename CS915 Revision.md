@@ -22,8 +22,9 @@ Break Cipher Process: Kasiski test + the index of coincidence
 1. AES (No need memorize design)
 2. How Confusion and Diffusion work? 
 3. Why ECB insecure? Correlation. 
-4. Draw CBC, CFB, OFB, CRT properties, learn its recovery of error and synchronization
-## 
+4. CBC: When to add pad/when to remove? 
+5. Draw CBC, CFB, OFB, CRT properties, learn its recovery of error and synchronization
+## Hash
 
 
 
