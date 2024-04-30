@@ -7,4 +7,5 @@ All questions are required.
 2. Known Plaintext
 3. Choose Plaintext
 4. Choose Ciphertext
-## Cipher
+### Cipher types
+Shift cipher, substitution cipher, Vigenère cipher, 
