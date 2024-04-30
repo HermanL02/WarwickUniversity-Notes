@@ -56,7 +56,7 @@ Break Cipher Process: Kasiski test + the index of coincidence
 ## Race condition
 - TOCTTOU attack describe
 - Understand set-uid concept
-- How set-uid works, passwd
-- 
+- How set-uid works, eg. passwd
+- Describe how to use race condition to write to passwd
 - 
 
