@@ -53,5 +53,10 @@ Break Cipher Process: Kasiski test + the index of coincidence
 - Steps to inject malicious code in buffer overflow
 - Jumping in the malicious code: Filling NOP, spraying return address RT
 - Stack Guard How? Why? 
-
+## Race condition
+- TOCTTOU attack describe
+- Understand set-uid concept
+- How set-uid works, passwd
+- 
+- 
 
