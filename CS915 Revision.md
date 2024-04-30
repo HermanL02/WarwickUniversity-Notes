@@ -45,7 +45,10 @@ Break Cipher Process: Kasiski test + the index of coincidence
 2. Attacks against textbook RSA
 3. How Schnorr signature  scheme and Schnorr identification scheme works
 # Part II: System Security
-### Basics
+## Basics
 - What is CIA traid? 
-##
+## Buffer Overflow
+- Text Data BSS segment heap stack
+- How EBP used to indicate memory address? 
+- Steps to inject malicious code in buffe
 
