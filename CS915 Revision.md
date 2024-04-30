@@ -18,5 +18,8 @@ Break Cipher Process: Kasiski test + the index of coincidence
 2. Feistel Network - IMPORTANT
 3. Why DES double time cannot provide 112 bits security? 
 4. Drawback of DES: Key size too small. 
+## Block cipher II
+1. AES (No need memorize design)
+2. 
 
 
