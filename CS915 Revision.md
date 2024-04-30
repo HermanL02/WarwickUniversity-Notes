@@ -25,8 +25,9 @@ Break Cipher Process: Kasiski test + the index of coincidence
 4. CBC: When to add pad/when to remove? 
 5. Draw CBC, CFB, OFB, CRT properties, learn its recovery of error and synchronization
 ## Hash
-1. Random Oracle(随机预言机)
-2. 
+1. Random Oracle(随机预言机)一个查询对应一个输出，单向的
+2. Birthday Paradox 理解
+3. 
 
 
 
