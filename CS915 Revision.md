@@ -70,4 +70,6 @@ Break Cipher Process: Kasiski test + the index of coincidence
 1. Is js removing special char in front end safe? No
 ## Packet sniffing
 ## TCP attacks
-
+1. understand TCP
+2. Understand SYN flood -> TCB queue
+3. Understand SYN cookie -> How addresses SYN Flood
