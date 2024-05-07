@@ -17,9 +17,9 @@ There are also lots of technical reviews about how WeChat is filtering text and 
 ### News and Personal Experience
 I am not an activist in politics, but these are the essential reasons why I made this project. 
 #### Xiaobo Liu
-Xiaobo Liu is a Chinese revolutioner, received a Nobel Peace Prize. He participated in many historical event including the protest on Tiananmen Square, and he died in 2017. The death of him results many discussions of democracy on Chinese social platforms. WeChat filtered all the English and Chinese spelling of his name to restrict the democracy discussion.   
+Xiaobo Liu is a Chinese revolutioner, received a Nobel Peace Prize. He participated in many historical event including the protest on Tiananmen Square, and he died in 2017. The death of him results many discussions of democracy on Chinese social platforms. WeChat filtered all the English and Chinese spelling of his name to restrict the discussion. 
 #### Peng Shuai 
-Pengshuai has accused Gaoli Zhang, a Chinese vice prime minister, for sexual assault on Weibo. After three hours, the post was deleted by Weibo, and WeChat also start filtering the keywords and screenshots. I was attempting to spread the rumours too. You can see I screenshoted those. However, as I mentioned in the previous report, even if I edit the photos, those photos are still blocked. 
+Pengshuai has accused Gaoli Zhang, a Chinese vice prime minister, for sexual assault on Weibo. After three hours, the post was deleted by Weibo, and WeChat also start filtering the keywords and screenshots. I was attempting to send a screenshot. However, as I mentioned in the previous report, even if I edit the photos, those photos are still blocked. 
 #### Sitong Bridge Protest
 
 During the 2022 Chinese election, there is a protestor put a banner on the bridge in Beijing for anti-lockdown. I shared this to my friend on WeChat. Right after I share the image, I was banned for 7 days. 
