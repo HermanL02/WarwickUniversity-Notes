@@ -34,6 +34,18 @@ When I was in mainland, I was trying to use VPN to chat with my friends with Wha
 Many people bought UK SIM cards during the pandemic, so that they can connect to Warwick university services. It is stable, legal and safe to use. However, the card has the same drawbacks as the VPN. We cannot keep it always on, and it is super expensive. 
 ### Any similar solution before
 Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]]We believe that is because of some special commercial considerations of WeChat, but that eventually increases the complexity for us to provide users a end to end encryption experience. 
+# Demonstration
+Before I tell you the tech part, I would like to show my current work first to g
+For this part, I would say sorry to Dr. Feng Hao, because I didn't have much progress after February on the Windows version. However, I did finish a simple example of my mobile version. 
+## Electron
+Injection
+Get a New Key
+Copy a Key
+Send and Receive Messages
+## Android
+Get a New Key
+Copy a Key
+Send and Receive Messages
 # Design, Tech and Tech Stack
 
 Our main goal is to allow all the Chinese users to have a safe, encrypted conversation with the lowest effort. We want to make the tool 1. WeChat based, 2. End-to-End Encrypted Message, 3. Easy to use, 4, Legal, and cannot be blocked. Then I will show you how I am going to achieve this. 
@@ -50,17 +62,7 @@ After I finished the implemented, there is very recent research published on Apr
 ## Protocol
 The main protocol we are using now is the RSA protocol, because it is easy to use, well known, and reliable. 
 We might have some updates regarding other protocols, such as Signal. 
-# Demonstration
-For this part, I would say sorry to Dr. Feng Hao, because I didn't have much progress after February on the Windows version. However, I did finish a simple example of my mobile version. 
-## Electron
-Injection
-Get a New Key
-Copy a Key
-Send and Receive Messages
-## Android
-Get a New Key
-Copy a Key
-Send and Receive Messages
+
 
 # Issues
 ## Android ⇿ Windows
