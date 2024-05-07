@@ -12,8 +12,7 @@ However, there are some concerns. Does WeChat comply to the privacy needs?
 The official Amnesty International's rank in 2016 indicates that WeChat received a 0, and ranked the bottom among all the researched applications. 
 #### Citizen Lab Canada
 The Citizen Lab of the University of Toronto has published many reports regarding the WeChat transparency and censorship. 
-Just used one research paper as an example: It dicates WeChat has realtime, automatic censorship of chat images based on text contained in images and on an image’s visual similarity to those on a blacklist. The photos MD5 and hash improves the real time filtering. 
-2. The filtering is especially targeting politics, and especially targeting the news. 
+Just used one research paper as an example: It indicates WeChat has a real-time, automatic censorship of images using MD5 and hash. It also provides the other text filterings. The filtering is especially targeting politics news. 
 There are also lots of technical reviews about how WeChat is filtering text and so on. I would say if I put all the technical analysis here, it will cost too much time. It is not our topic today. I will skip it here. 
 ### News and Personal Experience
 Before I talk about this, I would like to say that I am not an activist in politics, but these are the essential reasons why I made this project. 
