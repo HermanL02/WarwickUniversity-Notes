@@ -35,7 +35,8 @@ Many people bought UK SIM cards during the pandemic, so that they can connect to
 ### Any similar solution before
 Through the searching on GitHub, I observed that there is a thinking about WeChat E2EE implementation. However, WeChat does not support the Web version any more, it will redirect most users to use the Desktop version.  ![[Pasted image 20240414170049.png]]We believe that is because of some special commercial considerations of WeChat, but that eventually increases the complexity for us to provide users a end to end encryption experience. 
 # Demonstration
-Before I tell you the tech part, I would like to show my current work first to g
+Before I tell you the tech part, I would like to show my current work first to give you are general view. This is just the work so far. I plan to implement a lot of stuff including multi language support and so on. 
+
 For this part, I would say sorry to Dr. Feng Hao, because I didn't have much progress after February on the Windows version. However, I did finish a simple example of my mobile version. 
 ## Electron
 Injection
