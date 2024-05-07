@@ -61,6 +61,8 @@ Therefore, my idea is to make a keyboard that when you receive a message, copy i
 It sounds not reality to create a keyboard on our own. However, which keyboard should we use to begin? 
 When I was trying to find a keyboard to make a plug in. What brings to my mind is that the keyboard must be open sourced, secured and fully offline. Fcitix /ˈfaɪtɪks/ (**Free Chinese Input Tool for X**) is the largest community maintained Chinese input method. It satisfied everything I required. So, we mainly edited their keyboard's clipboard part, and another part on their input view to implement the E2EE feature. 
 After I finished the implemented, there is very recent research published on Apr.23 which verifies what I just talked. It reveals that most of the Chinese keyboards are leaking your personal information. This is already fixed. However, it proves that a keyboard is connected to the internet, it still has the potential possibility to leak your information. So, I believe for me it is correct to use Fcitix. 
+Here is the chart. 
+
 ## Protocol
 The main protocol we are using now is the RSA protocol, because it is easy to use, well known, and reliable. 
 We might have some updates regarding other protocols, such as Signal. 
