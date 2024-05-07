@@ -6,14 +6,13 @@ The first reason is it has a big user number base.
 WeChat has over 1 billion daily active users. Tencent QQ has over 300 million daily active users. Ding Talk app, which has less than 100 million users, and it is more likely to be a Slack type organizational app. 
 So, we can see WeChat has an undoubtful leading role here. 
 ## WeChat's privacy
-However, there are some concerns. Does WeChat comply to the privacy requirements? If it complies the require
+However, there are some concerns. Does WeChat comply to the privacy needs? 
 ### Third Party Report
 #### Amnesty International
 The official Amnesty International's rank in 2016 indicates that WeChat received a 0, and ranked the bottom among all the researched applications. 
 #### Citizen Lab Canada
 The Citizen Lab of the University of Toronto has published many reports regarding the WeChat transparency and censorship. 
-Inside *An Analysis of WeChat’s Realtime Image Filtering in Chats*, It reveals that 
-1. WeChat implements realtime, automatic censorship of chat images based on text contained in images and on an image’s visual similarity to those on a blacklist. The photos MD5 and hash improves the real time filtering. 
+Just used one research paper as an example: It dicates WeChat has realtime, automatic censorship of chat images based on text contained in images and on an image’s visual similarity to those on a blacklist. The photos MD5 and hash improves the real time filtering. 
 2. The filtering is especially targeting politics, and especially targeting the news. 
 There are also lots of technical reviews about how WeChat is filtering text and so on. I would say if I put all the technical analysis here, it will cost too much time. It is not our topic today. I will skip it here. 
 ### News and Personal Experience
