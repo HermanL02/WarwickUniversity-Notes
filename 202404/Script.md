@@ -12,10 +12,10 @@ However, there are some concerns. Does WeChat comply to the privacy needs?
 The official Amnesty International's rank in 2016 indicates that WeChat received a 0, and ranked the bottom among all the researched applications. 
 #### Citizen Lab Canada
 The Citizen Lab of the University of Toronto has published many reports regarding the WeChat transparency and censorship. 
-Just used one research paper as an example: It indicates WeChat has a real-time, automatic censorship of images using MD5 and hash. It also provides the other text filterings. The filtering is especially targeting politics news. 
-There are also lots of technical reviews about how WeChat is filtering text and so on. I would say if I put all the technical analysis here, it will cost too much time. It is not our topic today. I will skip it here. 
+Just used one research paper as an example: It indicates WeChat has a real-time, automatic censorship of images using MD5 and hash. It also provides the other text filtering. The filtering is especially targeting politics news. 
+There are also lots of technical reviews about how WeChat is filtering text and so on, but I would like to skip this part and introduce my personal experience. 
 ### News and Personal Experience
-Before I talk about this, I would like to say that I am not an activist in politics, but these are the essential reasons why I made this project. 
+I am not an activist in politics, but these are the essential reasons why I made this project. 
 #### Xiaobo Liu
 Xiaobo Liu is a Chinese activist, a Nobel Peace Prize laureate, participated in the 1989 Tiananmen Square protest, and he died in 2017. The death of him results many discussions of democracy on WeChat. WeChat filtered all the English and Chinese spelling of his name. to restrict the democracy discussion.   
 #### Peng Shuai 
