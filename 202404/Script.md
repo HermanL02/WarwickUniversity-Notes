@@ -53,6 +53,7 @@ Our main goal is to allow all the Chinese users to have a safe, encrypted conver
 ## Windows
 For making a such product, we cannot leave the usage of many kinds of utilities. Therefore, to inject the WeChat, I used wxhelper(https://github.com/ttttupup/wxhelper/tree/main) project and the Electron Spoiler Template to start. The wxhelper is an open source WeChat injector. It updates every 3 months to make sure they can catch up to the latest WeChat release. The Electron Spoiler is the best Electron template I can find on the internet. It follows every security requirement and configuration that Electron suggests. 
 So, when a message comes, it will be intercepted by the wxhelper, delivered to our app, and our app read it, decrypt it, and display it to the user. When a user sends a message, it will encrypt it and send it through the wxhelper. 
+Here is the figure. 
 ## Android
 The injection is possible, but hard for the users. Usually the injection requires the usage of root privilege, but many phone manufactures are limiting the usage of it.  
 Usually, if a normal user wants to decrypt or encrypt a message, the users are required to copy it, and then open a third party website or app, paste it, and then get the result. That is NOT convenient. However, when we look into this process, we can see the time we took the most is copy and pasting. How about let's set up a function within the keyboard, so that the users don't have to jump from 1 app to another. 
