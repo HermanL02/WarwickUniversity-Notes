@@ -77,12 +77,9 @@ We have noticed that WeChat could implement a force login restriction when the v
 ## WeChat Potential Architecture Change
 As we may already know, that Tencent recently updated the QQ architecture from C++ to Electron, which is actually the framework we are using now. The reason for them to change it is to save its multi-platform developer cost. If the architecture of WeChat changes, our app would become deprecated and cannot be regularly updated. 
 
-## WeChat Implemented E2EE Function
-If in the future, WeChat one day implemented the E2EE function, this project will be useless. This is a key threat to my project. However, I would say If this is announced, I will be really satisfied instead of being disappointed to see my 3-month effort becomes useless, because it is finally a great thing for the users. 
+# Schedule 
 
-# Current Process and Schedule 
-
-As you can see from this timeline, I have worked on the Electron Windows version back to February and finished my design at that time. I have finished my Mobile version on April. I will also work on it after the exam. Then I will improve it after that. 
+As you can see from this timeline, I have worked on the Electron Windows version back to February and finished most of these stuff at that time. I have finished my Mobile version on April. I will also work on it after the exam. Then I will improve it after that. 
 Starting March, I started to work as a full-time employee in charge of Electron app development remotely at a Canadian company. Furthermore, I was also working as a part-time intern at another Canadian company. I have my final exams in May and June. Physically, I will back to Canada for working on-site after that. Our time is very tight. 
 However, I would say there are also benefits. Since I worked on this E2EE app, I got the full-time job, and since the full-time job, I can learn more about Electron. I learned how to manage the child process, use code to inject another app, get the admin privilege I also learned which DB will be best fit our chat history storage. 
 Back to our schedule, I believe the main time I will work on this will be in June, to make it almost done, and will improve it later after the interim report. 
