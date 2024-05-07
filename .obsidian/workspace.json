@@ -59,11 +59,9 @@
             "id": "5301edbc7c98692b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "202404/Script.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240414170049.png"
               }
             }
           }
@@ -146,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202404/Script.md",
+                "file": "Pasted image 20240414170049.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202404/Script.md",
+                "file": "Pasted image 20240414170049.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202404/Script.md"
+                "file": "Pasted image 20240414170049.png"
               }
             }
           },
@@ -221,10 +219,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5301edbc7c98692b",
+  "active": "cf8aadadb8b82695",
   "lastOpenFiles": [
-    "202404/CS932 Revision.md",
     "202404/Script.md",
+    "202404/CS932 Revision.md",
     "CS915 Revision.md",
     "202404/0419 Weekly Checkout.md",
     "Pasted image 20240414170049.png",
