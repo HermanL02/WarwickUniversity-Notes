@@ -3,9 +3,10 @@
 Good morning, professors. I am really glad to have a chance to bring you my dissertation project, the WeChat End-to-End Encryption Tool, which I want to call it, the Libre Chat. 
 # Motivation
 The first reason is it has a big user number base. 
-WeChat has over 1 billion daily active users. Tencent QQ has over 300 million daily active users. The third one would be Ding Talk app, which has less than 100 million, and it is more likely to be a Slack type organizational app. WeChat has an undoubtful leading role here. 
+WeChat has over 1 billion daily active users. Tencent QQ has over 300 million daily active users. Ding Talk app, which has less than 100 million users, and it is more likely to be a Slack type organizational app. 
+So, we can see WeChat has an undoubtful leading role here. 
 ## WeChat's privacy
-However, there are some concerns. Does WeChat comply to the privacy requirements? 
+However, there are some concerns. Does WeChat comply to the privacy requirements? If it complies the require
 ### Third Party Report
 #### Amnesty International
 The official Amnesty International's rank in 2016 indicates that WeChat received a 0, and ranked the bottom among all the researched applications. 
