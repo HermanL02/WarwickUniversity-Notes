@@ -59,9 +59,11 @@
             "id": "5301edbc7c98692b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240414170049.png"
+                "file": "202404/Script.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240414170049.png",
+                "file": "202404/Script.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240414170049.png",
+                "file": "202404/Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240414170049.png"
+                "file": "202404/Script.md"
               }
             }
           },
@@ -219,13 +221,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cf8aadadb8b82695",
+  "active": "5301edbc7c98692b",
   "lastOpenFiles": [
+    "Pasted image 20240414170049.png",
     "202404/Script.md",
     "202404/CS932 Revision.md",
     "CS915 Revision.md",
     "202404/0419 Weekly Checkout.md",
-    "Pasted image 20240414170049.png",
     "202404",
     "Koii/Task whitelisted.md",
     "visa/feb.md",
@@ -263,7 +265,6 @@
     "Pasted image 20231203151021.png",
     "Pasted image 20231203150935.png",
     "Pasted image 20231203150709.png",
-    "Excalidraw/Labs/Drawing 2023-11-16 15.09.03.excalidraw.md",
     "visa",
     "程柏淳",
     "Excalidraw/Labs",
