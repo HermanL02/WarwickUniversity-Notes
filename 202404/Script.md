@@ -70,7 +70,7 @@ We might have some updates regarding other protocols, such as Signal.
 
 # Issues
 ## Android ⇿ Windows
-The encryption method for both Android and Windows are RSA-2048/OAEP Padding. The keys are PEM format. However, there are still some issues for connecting them together. 
+The encryption method for both Android and Windows are RSA-2048/OAEP Padding. The keys are PEM format. However, there are still some issues for connecting them together. I plan to use JSON to unify them, and try to find out 
 
 ## WeChat Update
 We have noticed that WeChat could implement a force login restriction when the version is too low. There are two ways for us to solve this. From one hand, the open source GitHub, and probably I will continue to update WeChat Injection scripts. On the other hand, there are already some injection scripts to avoid the WeChat update by changing their version number. So, we aim to connect these scripts seamlessly to our app. 
