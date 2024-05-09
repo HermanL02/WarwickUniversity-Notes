@@ -182,4 +182,5 @@ tokenisation-> Word Level, Char Level
 Subword Tokenization -> 不需要自己做，model 帮你做
 Byte pair encoding 
 Others subword tokenization
-Bert 1. Masked Language Model
+Bert 1. Masked Language Model, 2. Contextualised Word Embedding
+Single sentence classification 
