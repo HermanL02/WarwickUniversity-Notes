@@ -74,3 +74,6 @@ Polysemy 同词相近含义
 Synonyms 
 Antonyms
 ## Two Types of Similarity Algorithms
+### Thesaurus-based algorithms 不需要记住所有的，但是记住如何应用，大概含义
+### Distributional algorithms
+### Pointwise Mutual in
