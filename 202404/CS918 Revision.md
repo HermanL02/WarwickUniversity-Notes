@@ -134,4 +134,5 @@ Precision and Recall
 `F = 2 *(precision*recall)/(precision+recall)`
 多类别classification
 F1 score 
-Macro average /Micro average 怎么算
+Macro average /Micro average 怎么算 公式! 
+从SDQC表获取Precision and Recall 和Macro Micro 计算题
