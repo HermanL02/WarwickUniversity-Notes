@@ -143,4 +143,4 @@ Micro 无需计算每个分类 Macro 计算每个分类
 POS targeting
 Markov Chain 
 什么是transition probability 什么是Markov assumption
-例子 _1131
+例子 __1131
