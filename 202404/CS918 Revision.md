@@ -6,4 +6,6 @@ c[a-z]*
 all strings represents dollars
 我的: `\$[0-9]*.[0-9]*`
 标准:`\$(\d+\.\d\d?|\d+)`
-All strings that start with lowercase letter, end with 
+All strings that start with a lowercase letter, end with an uppercase letter, contain at least one digit
+`^[a-z].*\d.*[A-Z]$`
+All 
