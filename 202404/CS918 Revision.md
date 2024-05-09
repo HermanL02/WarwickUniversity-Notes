@@ -24,4 +24,6 @@ Lemington Spa -> 地名，1词还是2词?
 ### Tokenization in Chinese 
 预处理不同
 例题: What is the difference between lemmatization and stemming? 
-stemming: 不一定是一个真实的单词
+Lemmatization: is, are -> be
+stemming: 不一定是一个真实的单词例如living -> liv
+## N-grams
