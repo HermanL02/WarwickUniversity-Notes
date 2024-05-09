@@ -67,4 +67,5 @@ Chain rule 0509_1042
 1. 计算probability问题 0509_1046
 ## Word Senses and Similarity 
 Synonymy 是什么意思 = binary 他和similarity的关系 要记住
-relatedness
+Relatedness measures可能的association
+### Word S
