@@ -190,3 +190,7 @@ Perplexity -> apply 可能考
 这部分就理解就行: Named Entity Recognition
 过去: What is named entity  recognition? What are the most common approaches to named entity
 recognition NER in academic research and commercial applications? 
+Relation extraction 
+We need to develop a system for relation extraction, but we don't ahve a suitable dataset? what solution would be a reasonable solution? 
+Ans. infoboxes from wikipedia
+What is entity Linking? 
