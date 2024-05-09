@@ -60,3 +60,5 @@ The Shannon Game: How well can we predict the next word?
 PP(W) = 公式: 0509_1041
 Chain rule 0509_1042
 之前: what is smoothing and why do we use it in language modelling
+答案: 0509_1043 
+之前: Describe one way of performing extrinsic evaluation of language modelse, and another way of performing intrinsic ev
