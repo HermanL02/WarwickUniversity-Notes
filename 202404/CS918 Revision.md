@@ -146,4 +146,5 @@ Markov Chain
 例子 __1131
 HMM 是什么
 我们如何找到best tag sequence emission transition （需要具体的公式) 
-Viterbi Algorithm是什么: 如何用就行，不需要如何apply或者具体细节，
+Viterbi Algorithm是什么: 如何用就行，不需要如何apply或者具体细节
+Entropy 为什么重要-> Maxium Entropy Models
