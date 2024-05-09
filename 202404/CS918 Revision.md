@@ -184,4 +184,5 @@ Byte pair encoding
 Others subword tokenization
 Bert 1. Masked Language Model, 2. Contextualised Word Embedding
 Single sentence classification 
-Perplexity -> apply 
+
+Perplexity -> apply 可能考
