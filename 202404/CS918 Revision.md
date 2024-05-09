@@ -166,3 +166,5 @@ Graph Algorithms:
 I will have lunch on the flight to barcelona.  1145
 ## Deep learning
 MSE Loss 必须记住compute的方法
+Multiclass classification network
+CE Loss
