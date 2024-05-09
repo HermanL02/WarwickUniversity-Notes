@@ -175,3 +175,5 @@ Gradient Descent 必须可以describe, 且discuss，不需要公式
 
 ## RNN and attension
 ## Sequence to Seuqence The bottleneck problem
+Attension stuff -> 区分即可
+Deep Learning
