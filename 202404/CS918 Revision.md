@@ -165,6 +165,8 @@ Graph Algorithms:
 可能的考试问题: Given the tagset and grammar rules provided in the appendix, create a parse tree CFG for that? 
 I will have lunch on the flight to barcelona.  1145
 ## Deep learning
-MSE Loss 必须记住compute的方法
+MSE Loss 必须记住compute的方法公式
 Multiclass classification network
-CE Loss
+CE Loss 公式可能要记
+Gradient Descent for binary classification 不需要记住所有的公式，但是要可以讨论
+Chain of depend
