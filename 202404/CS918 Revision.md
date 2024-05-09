@@ -127,4 +127,6 @@ She 默认 ----------> Nurse最高 --> engineer最低
 非常重要对于exam来讲! 
 - Binary: 
 - Multi-class
-- 
+- Overfitting? 
+你必须可以会matrix
+Evaluation of binary classification 0509_1122
