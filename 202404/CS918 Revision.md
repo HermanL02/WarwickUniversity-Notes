@@ -155,4 +155,6 @@ POS: 例题2: _1138
 不需要Context Free Grammars 记住sequence，但是要会用
 Grammars and Parsing
 两种syntactical Structures
-1. Constit
+1. Constitancy
+Parsing
+Lexicalisation Parsing
