@@ -80,5 +80,9 @@ We don't have Thesaurus for every language.
 ### Distributional algorithms
 vector-space models 一样的
 A/B 同意思
+tackle the task tackle the news
+deal with the task deal with the ...
+#### Termi Context Matrix for Similarity 
+Vector表，Vector更近意味着更相似
 ### Pointwise Mutual information
 
