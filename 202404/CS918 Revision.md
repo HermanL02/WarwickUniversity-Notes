@@ -11,4 +11,7 @@ All strings that start with a lowercase letter, end with an uppercase letter, co
 See Photo 20240509_1017
 
 ## Text Preprocessing 
+- Tokenisation
+	- Segmenting sentences in running text
+	- Segmenting/tokenising words in running text
 - 
