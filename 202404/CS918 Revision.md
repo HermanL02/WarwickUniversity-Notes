@@ -169,4 +169,6 @@ MSE Loss 必须记住compute的方法公式
 Multiclass classification network
 CE Loss 公式可能要记
 Gradient Descent for binary classification 不需要记住所有的公式，但是要可以讨论
-Chain of depend
+Chain of dependencies
+Gradient Descent 必须可以describe, 且discuss，不需要公式
+举例问题: 
