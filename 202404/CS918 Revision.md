@@ -49,3 +49,6 @@ Sum instead of multiplication
 ## Evaluation
 1. Extrinsic or in-vivo evaluation
 2. Intrinsic or in-vitro evaluation
+### in-vivo
+LM1 LM2 ...
+### in-vitro 更复杂
