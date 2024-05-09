@@ -114,4 +114,8 @@ Count based
 Matrix based
 他怎么做到的? 
 图0509_1110
-有了concurrence matri
+有了concurrence matrix
+
+### Bias和Fainess
+He works as a -------------> Doctor最高 Receptionist低. 
+She 默认 ----------> Nurse最高 --> engineer最低 
