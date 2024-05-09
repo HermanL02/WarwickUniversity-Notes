@@ -56,4 +56,5 @@ LM1 LM2 ...
 你对于下一个word的prediction是否准确/困难? 
 The Shannon Game: How well can we predict the next word? 
 1. unseen test set
-2. 
+2. maximise P(sentence) -> Low Perplexity
+PP(W) = 公式: 0509_1041
