@@ -34,3 +34,5 @@ want I to -> low
 P(W1|Wi-1) = count(W_(i-1), Wi)/count(w_(i-1))
 ## Markov Assumption
 P
+You might be asked to compute the probabilities of them
+P)
