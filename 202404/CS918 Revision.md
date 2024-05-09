@@ -97,4 +97,6 @@ Two words are similar in meaning if their context vectors are similar
 ### Term Context Matrix generate Word Embeddings
 ### Word weighting
 0509_1103 公式
-
+### How? mesaure similarity between vectors
+COSine better: Dot product和他类似 但是不需要scaling factor of vectors
+### Document vectors
