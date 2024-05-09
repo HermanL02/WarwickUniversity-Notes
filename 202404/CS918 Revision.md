@@ -151,4 +151,5 @@ Entropy 为什么重要-> Maxium Entropy Models （需要具体看)
 MEMM(需要what it is why it is happending)
 Conditional Random Field ()
 过去: What is Part of speech? Why it is a sequential problem? 
-POS： 
+POS: 例题2: _1138
+不需要CFG记住se'q
