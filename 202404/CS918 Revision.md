@@ -188,4 +188,5 @@ Single sentence classification
 Perplexity -> apply 可能考
 ## Information Extraction
 这部分就理解就行: Named Entity Recognition
-过去: What is named entity  recognition? What are the most common approaches to named entity recognition NER in academic research and commercial applications? 
+过去: What is named entity  recognition? What are the most common approaches to named entity
+recognition NER in academic research and commercial applications? 
