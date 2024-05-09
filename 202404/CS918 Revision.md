@@ -23,4 +23,4 @@ Lemington Spa -> 地名，1词还是2词?
 
 ### Tokenization in Chinese 
 预处理不同
-例题: What is the difference between lemmatisation and stemming? 
+例题: What is the difference between lemmatization and stemming? 
