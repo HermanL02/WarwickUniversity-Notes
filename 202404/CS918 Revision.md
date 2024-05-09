@@ -1,1 +1,2 @@
-只要学好PT
+PPT = High Mark 
+1. RE
