@@ -140,3 +140,5 @@ Macro average /Micro average 怎么算 公式没拍下来!
 not generalize （关键词）
 过去: What is difference microavg and macroavg? 
 Micro 无需计算每个分类 Macro 计算每个分类
+POS targeting
+Markov Chain 
