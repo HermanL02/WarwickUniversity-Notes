@@ -33,6 +33,9 @@ want I to -> low
 ### MLE公式
 P(W1|Wi-1) = count(W_(i-1), Wi)/count(w_(i-1))
 ## Markov Assumption
-P
+Probability
 You might be asked to compute the probabilities of them
-P)
+P(want|I)
+## Practical Solution
+用Log space来找到概率 如果过小
+Sum instead of multip
