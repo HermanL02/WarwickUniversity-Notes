@@ -58,3 +58,5 @@ The Shannon Game: How well can we predict the next word?
 1. unseen test set
 2. maximise P(sentence) -> Low Perplexity
 PP(W) = 公式: 0509_1041
+Chain rule 0509_1042
+之前: what is smoothing and why do we use it in language modelling
