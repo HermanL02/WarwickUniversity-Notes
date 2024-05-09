@@ -113,3 +113,5 @@ Glove
 Count based 
 Matrix based
 他怎么做到的? 
+图0509_1110
+有了concurrence matri
