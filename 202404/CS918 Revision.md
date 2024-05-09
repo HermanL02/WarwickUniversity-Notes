@@ -52,3 +52,5 @@ Sum instead of multiplication
 ### in-vivo
 LM1 LM2 ...
 ### in-vitro 更复杂
+#### Perplexity? 
+你对于下一个word的prediction是否准确困难? 
