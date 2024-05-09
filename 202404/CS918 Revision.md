@@ -5,4 +5,4 @@ Brackets, Negations, Disjunction, Repetition, Anchors, Special Chars
 c[a-z]*
 all strings represents dollars
 我的: `\$[0-9]*.[0-9]*`
-标准:`\$
+标准:`\$(\d+\.\d\d?|\d+)`
