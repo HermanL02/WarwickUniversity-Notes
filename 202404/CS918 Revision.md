@@ -142,5 +142,7 @@ not generalize （关键词）
 Micro 无需计算每个分类 Macro 计算每个分类
 POS targeting
 Markov Chain 
-什么是transition probability 什么是Markov assumption
+什么是transition probability./emission probability 画一些图来解释MD VB NN; 什么是Markov assumption
 例子 __1131
+HMM 是什么
+我们如何找到best tag sequence 
