@@ -199,3 +199,5 @@ Summarization?
 ROUGE evaluation是什么? 
 
 ### Recommender Systems
+adv or disadvantage of content based recommender systems? Pros cons
+Define cold start and popularity bias in RS? 
