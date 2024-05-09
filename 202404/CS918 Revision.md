@@ -123,4 +123,8 @@ She 默认 ----------> Nurse最高 --> engineer最低
 过去: how do we compute the similarity between two word vectors using embeddings? 
 
 
-### Text Classification
+## Text Classification
+非常重要对于exam来讲! 
+- Binary: 
+- Multi-class
+- 
