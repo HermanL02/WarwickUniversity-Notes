@@ -46,4 +46,6 @@ Sum instead of multiplication
 3. Good turing
 4. Kneser-Ney 
 5. (四个其中一个会考，所以所有的都要熟悉，explanation and problems, 过去也考过几道，这个回去看看PPT关于这几个, listing provide examples, 同时也可能有解决问题)
-## 
+## Evaluation
+1. Extrinsic or in-vivo evaluation
+2. Intrinsic or in-vitro evaluation
