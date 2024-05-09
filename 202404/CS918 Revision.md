@@ -37,5 +37,7 @@ Probability
 You might be asked to compute the probabilities of them
 P(want|I)
 ## Practical Solution
-用Log space来找到概率 如果过小
-Sum instead of multip
+如果过小
+用Log space来找到概率 
+Sum instead of multiplication
+### S
