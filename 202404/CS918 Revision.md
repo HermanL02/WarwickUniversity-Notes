@@ -100,3 +100,6 @@ Two words are similar in meaning if their context vectors are similar
 ### How? mesaure similarity between vectors
 COSine better: Dot product和他类似 但是不需要scaling factor of vectors
 ### Document vectors
+
+### Skip-gram Algorithms (Word2Vec)
+Skip gram
