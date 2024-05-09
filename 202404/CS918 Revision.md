@@ -12,6 +12,5 @@ See Photo 20240509_1017
 
 ## Text Preprocessing 
 - Tokenisation
-	- Segmenting sentences in running text
-	- Segmenting/tokenising words in running text
-- 
+- Lemmatisation
+- Stemming
