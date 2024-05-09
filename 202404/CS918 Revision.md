@@ -162,4 +162,6 @@ PCFG是什么
 解释expansion of rules
 Dependency parsing
 Graph Algorithms: 
-可能的考试问题: Given the tagset and grammar rules provided in the appendix,
+可能的考试问题: Given the tagset and grammar rules provided in the appendix, create a parse tree CFG for that? 
+I will have lunch on the flight to barcelona.  1145
+## Deep learning
