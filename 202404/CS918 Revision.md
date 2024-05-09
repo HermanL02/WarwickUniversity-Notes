@@ -95,4 +95,6 @@ Vector表，Vector更近意味着更相似
 3. Count-based methods/Prediction-based methods
 Two words are similar in meaning if their context vectors are similar
 ### Term Context Matrix generate Word Embeddings
+### Word weighting
+0509_1103 公式
 
