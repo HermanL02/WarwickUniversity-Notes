@@ -87,4 +87,4 @@ Vector表，Vector更近意味着更相似
 ### Pointwise Mutual information
 
 ### N-gram models
-polysemy和synonymy的区别，举例说明
+过去: polysemy和synonymy的区别，举例说明
