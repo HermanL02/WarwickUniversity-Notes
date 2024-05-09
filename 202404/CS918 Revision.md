@@ -27,3 +27,5 @@ Lemington Spa -> 地名，1词还是2词?
 Lemmatization: is, are -> be
 stemming: 不一定是一个真实的单词例如living -> liv
 ## N-grams
+## Statistical Language Model
+I want to -> 
