@@ -65,4 +65,6 @@ Chain rule 0509_1042
 答案: 0509_1044
 ## Sentence probability
 1. 计算probability问题 0509_1046
-## Word Se
+## Word Senses and Similarity 
+Synonymy 是什么意思 = binary 他和similarity的关系 要记住
+relatedness
