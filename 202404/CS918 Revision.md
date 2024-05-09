@@ -116,7 +116,7 @@ Matrix based
 图0509_1110
 有了concurrence matrix
 
-### Bias和Fainess
+### Bias和Fairness
 He works as a -------------> Doctor最高 Receptionist低. 
 She 默认 ----------> Nurse最高 --> engineer最低 
 还是用entrisic and intrinic来evaluate
@@ -124,7 +124,7 @@ She 默认 ----------> Nurse最高 --> engineer最低
 
 
 ## Text Classification
-非常重要对于exam来讲! 
+非常重要, 对于exam来讲! 
 - Binary: 
 - Multi-class
 - Overfitting? 
@@ -136,3 +136,6 @@ Precision and Recall
 F1 score 
 Macro average /Micro average 怎么算 公式! 
 从SDQC表获取Precision and Recall 和Macro Micro 计算题
+过去: What is overfitting? 
+not generalize （关键词）
+过去: What is difference microavg and macroavg
