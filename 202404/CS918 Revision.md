@@ -27,5 +27,8 @@ Lemington Spa -> 地名，1词还是2词?
 Lemmatization: is, are -> be
 stemming: 不一定是一个真实的单词例如living -> liv
 ## N-grams
-## Statistical Language Model
-I want to -> 
+### Statistical Language Model
+I want to -> high
+want I to -> low
+### MLE公式
+P(W1|Wi-1) = count(W_i-1, Wi)/count(w_i-1)
