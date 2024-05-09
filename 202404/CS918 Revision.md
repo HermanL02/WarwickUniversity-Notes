@@ -90,4 +90,7 @@ Vector表，Vector更近意味着更相似
 过去: polysemy和synonymy的区别，举例说明
 ### Representing words as discrete symbols
 ### Word Embeddings
+1. 与1 hot相反
+2. 减少dimension
+3. Count-based methods/Prediction-based methods
 
