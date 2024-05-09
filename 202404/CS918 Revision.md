@@ -172,3 +172,6 @@ Gradient Descent for binary classification 不需要记住所有的公式，但�
 Chain of dependencies
 Gradient Descent 必须可以describe, 且discuss，不需要公式
 举例问题: 
+
+## RNN and attension
+## Sequence to Seuqence The bottleneck problem
