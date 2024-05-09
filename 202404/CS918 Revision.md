@@ -129,4 +129,7 @@ She 默认 ----------> Nurse最高 --> engineer最低
 - Multi-class
 - Overfitting? 
 你必须会matrix
-Evaluation of binary classification 0509_1122
+Evaluation of binary classification 0509_1122 1123
+Precision and Recall
+`F = 2 *(precision*recall)/(precision+recall)`
+多类别classification
