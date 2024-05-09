@@ -88,3 +88,6 @@ Vector表，Vector更近意味着更相似
 
 ### N-gram models
 过去: polysemy和synonymy的区别，举例说明
+### Representing words as discrete symbols
+### Word Embeddings
+
