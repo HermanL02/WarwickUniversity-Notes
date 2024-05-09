@@ -104,4 +104,7 @@ COSine better: Dot product和他类似 但是不需要scaling factor of vectors
 ### Skip-gram Algorithms (Word2Vec)
 Skip gram algorithms with negative sampling (SGNS)是什么? 
 1. Treat the target word
-2. 
+这个alg的目的
+### FastText
+n-grams of subwords (一半的词)
+Advantage: can deal with out-of-va
