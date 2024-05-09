@@ -176,4 +176,6 @@ Gradient Descent 必须可以describe, 且discuss，不需要公式
 ## RNN and attension
 ## Sequence to Seuqence The bottleneck problem
 Attension stuff -> 区分即可
-Deep Learning
+例题: problems of exploding and vanishing gradients in recurrent neural networks, typical solutions to address these problems
+## Transformers
+tokenization-> Word Level, Char Level
