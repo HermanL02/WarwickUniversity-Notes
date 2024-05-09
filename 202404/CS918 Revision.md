@@ -31,4 +31,6 @@ stemming: 不一定是一个真实的单词例如living -> liv
 I want to -> high
 want I to -> low
 ### MLE公式
-P(W1|Wi-1) = count(W_i-1, Wi)/count(w_i-1)
+P(W1|Wi-1) = count(W_(i-1), Wi)/count(w_(i-1))
+## Markov Assumption
+P
