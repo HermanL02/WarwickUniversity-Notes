@@ -152,4 +152,7 @@ MEMM(需要what it is why it is happending)
 Conditional Random Field ()
 过去: What is Part of speech? Why it is a sequential problem? 
 POS: 例题2: _1138
-不需要CFG记住se'q
+不需要Context Free Grammars 记住sequence，但是要会用
+Grammars and Parsing
+两种syntactical Structures
+1. Constit
