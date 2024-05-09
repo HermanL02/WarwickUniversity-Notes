@@ -133,3 +133,4 @@ Evaluation of binary classification 0509_1122 1123
 Precision and Recall
 `F = 2 *(precision*recall)/(precision+recall)`
 多类别classification
+F1 score Macro average 
