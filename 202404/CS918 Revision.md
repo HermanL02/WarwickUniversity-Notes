@@ -194,3 +194,5 @@ Relation extraction
 We need to develop a system for relation extraction, but we don't ahve a suitable dataset? what solution would be a reasonable solution? 
 Ans. infoboxes from wikipedia
 What is entity Linking? 
+Summarization? 
+区别 extractive和Abstractive summarization? single-do这种占分高
