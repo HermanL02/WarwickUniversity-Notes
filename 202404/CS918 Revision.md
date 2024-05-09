@@ -121,3 +121,6 @@ He works as a -------------> Doctor最高 Receptionist低.
 She 默认 ----------> Nurse最高 --> engineer最低 
 还是用entrisic and intrinic来evaluate
 过去: how do we compute the similarity between two word vectors using embeddings? 
+
+
+### Text Classification
