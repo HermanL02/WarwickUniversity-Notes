@@ -75,7 +75,10 @@ Synonyms
 Antonyms
 ## Two Types of Similarity Algorithms
 ### Thesaurus-based algorithms 不需要记住所有的，但是记住如何应用，大概含义
-### Distributional algorithms
-### Pointwise Mutual information
 公式 Do words PMI(word1, word2)
 We don't have Thesaurus for every language. 
+### Distributional algorithms
+vector-space models 一样的
+A/B 同意思
+### Pointwise Mutual information
+
