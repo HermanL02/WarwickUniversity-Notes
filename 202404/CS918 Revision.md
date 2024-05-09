@@ -150,4 +150,5 @@ Viterbi Algorithm是什么: 如何用就行，不需要如何apply或者具体�
 Entropy 为什么重要-> Maxium Entropy Models （需要具体看) 
 MEMM(需要what it is why it is happending)
 Conditional Random Field ()
-What is Part of speech
+过去: What is Part of speech? Why it is a sequential problem? 
+POS： 
