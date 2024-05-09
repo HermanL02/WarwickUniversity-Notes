@@ -195,4 +195,7 @@ We need to develop a system for relation extraction, but we don't ahve a suitabl
 Ans. infoboxes from wikipedia
 What is entity Linking? 
 Summarization? 
-区别 extractive和Abstractive summarization? single-do这种占分高
+区别 extractive和Abstractive summarization? single-document and multi-document summarization 这种占分高
+ROUGE evaluation是什么? 
+
+### Recommender Systems
