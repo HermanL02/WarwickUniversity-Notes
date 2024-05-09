@@ -186,3 +186,6 @@ Bert 1. Masked Language Model, 2. Contextualised Word Embedding
 Single sentence classification 
 
 Perplexity -> apply 可能考
+## Information Extraction
+这部分就理解就行: Named Entity Recognition
+
