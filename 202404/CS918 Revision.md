@@ -102,4 +102,6 @@ COSine better: Dot product和他类似 但是不需要scaling factor of vectors
 ### Document vectors
 
 ### Skip-gram Algorithms (Word2Vec)
-Skip gram
+Skip gram algorithms with negative sampling (SGNS)是什么? 
+1. Treat the target word
+2. 
