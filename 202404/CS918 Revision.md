@@ -1,4 +1,4 @@
-PPT = High Mark 只看PPT就能高分，想满分看之前所有内容; 每年考试Topic都不同，所以看今年的PPT; 
+PPT = High Mark 只看PPT就能高分，想满分看之前所有内容; 每年考试Topic都不同，所以看今年的PPT; 但是今年PPT不会有原题; 
 ## RE! 必考! 
 Brackets, Negations, Disjunction, Repetition, Anchors, Special Chars
 例题: The set of all lowercase alphabetic strings starting with c
@@ -22,3 +22,5 @@ Lemington Spa -> 地名，1词还是2词?
 答题技巧: LEE; List Explain and Example
 
 ### Tokenization in Chinese 
+预处理不同
+例题: What is the difference between lemmatisation and stemming? 
