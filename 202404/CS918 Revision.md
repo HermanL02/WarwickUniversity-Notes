@@ -107,4 +107,9 @@ Skip gram algorithms with negative sampling (SGNS)是什么?
 这个alg的目的
 ### FastText
 n-grams of subwords (一半的词)
-Advantage: can deal with out-of-va
+Advantage: can deal with out-of-vocabulary words
+
+Glove 
+Count based 
+Matrix based
+他怎么做到的? 
