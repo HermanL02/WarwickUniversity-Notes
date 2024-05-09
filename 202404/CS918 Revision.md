@@ -14,3 +14,6 @@ See Photo 20240509_1017
 - Tokenisation
 - Lemmatisation
 - Stemming
+## Issue in Tokenisation 
+(England's capital-> England, Englands, England's)
+What're, I'm, i
