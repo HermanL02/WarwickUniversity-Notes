@@ -64,4 +64,5 @@ Chain rule 0509_1042
 之前: Describe one way of performing extrinsic evaluation of language modelse, and another way of performing intrinsic evaluation? What is a disadvantage of each of these evaluation techniques? 
 答案: 0509_1044
 ## Sentence probability
-1. 计算probability问题
+1. 计算probability问题 0509_1046
+## Word Se
