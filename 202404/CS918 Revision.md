@@ -1,4 +1,4 @@
-PPT = High Mark 只看PPT就能高分，想满分看之前所有内容; 每年考试Topic都不同，所以看今年的PPT; 但是今年PPT不会有原题; 
+PPT = High Mark 只看PPT就能高分，想满分看之前所有内容; 每年考试Topic都不同，所以看今年的PPT; 但是PPT不会有原题; 
 ## RE! 必考! 
 Brackets, Negations, Disjunction, Repetition, Anchors, Special Chars
 例题: The set of all lowercase alphabetic strings starting with c
@@ -61,4 +61,5 @@ PP(W) = 公式: 0509_1041
 Chain rule 0509_1042
 之前: what is smoothing and why do we use it in language modelling
 答案: 0509_1043 
-之前: Describe one way of performing extrinsic evaluation of language modelse, and another way of performing intrinsic ev
+之前: Describe one way of performing extrinsic evaluation of language modelse, and another way of performing intrinsic evaluation? What is a disadvantage of each of these evaluation techniques? 
+答案: 0509_1044
