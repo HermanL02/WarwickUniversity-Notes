@@ -40,4 +40,9 @@ P(want|I)
 如果过小
 用Log space来找到概率 
 Sum instead of multiplication
-### S
+## Smoothing
+1. Laplace
+2. Interpolation
+3. Good turing
+4. Kneser-Ney 
+5. (四个其中一个会考，所以所有的都要熟悉，explanation and problems, 过去也考过几道，这个hui'qu)
