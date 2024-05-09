@@ -178,4 +178,6 @@ Gradient Descent 必须可以describe, 且discuss，不需要公式
 Attension stuff -> 区分即可
 例题: problems of exploding and vanishing gradients in recurrent neural networks, typical solutions to address these problems
 ## Transformers
-tokenization-> Word Level, Char Level
+tokenisation-> Word Level, Char Level
+Subword Tokenization -> 不需要自己做，model 帮你做
+Byte pair encoding 
