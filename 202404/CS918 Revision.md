@@ -14,6 +14,8 @@ See Photo 20240509_1017
 - Tokenisation
 - Lemmatisation
 - Stemming
-## Issue in Tokenisation 
+### Issue in Tokenisation 
 (England's capital-> England, Englands, England's)
-What're, I'm, i
+state-of-the-art ? 4? 
+Hewlett-Packard -> Hewlett Packard
+Lemington Spa -> 地名，1词还是2词? 
