@@ -160,3 +160,6 @@ Parsing
 Lexicalisation Parsing
 PCFG是什么
 解释expansion of rules
+Dependency parsing
+Graph Algorithms: 
+可能的考试问题: Given the tagset and grammar rules provided in the appendix,
