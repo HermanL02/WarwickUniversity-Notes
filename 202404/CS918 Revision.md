@@ -134,8 +134,9 @@ Precision and Recall
 `F = 2 *(precision*recall)/(precision+recall)`
 多类别classification
 F1 score 
-Macro average /Micro average 怎么算 公式! 
+Macro average /Micro average 怎么算 公式没拍下来! 
 从SDQC表获取Precision and Recall 和Macro Micro 计算题
 过去: What is overfitting? 
 not generalize （关键词）
-过去: What is difference microavg and macroavg
+过去: What is difference microavg and macroavg? 
+Micro 无需计算每个分类 Macro 计算每个分类
