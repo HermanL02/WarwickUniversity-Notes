@@ -68,4 +68,9 @@ Chain rule 0509_1042
 ## Word Senses and Similarity 
 Synonymy 是什么意思 = binary 他和similarity的关系 要记住
 Relatedness measures可能的association
-### Word S
+### Word Senses
+Homonymy 同词不同意思
+Polysemy 同词相近含义
+Synonyms 
+Antonyms
+## Two Types of Similarity Algorithms
