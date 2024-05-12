@@ -58,3 +58,4 @@ PRE  oo ∈ OPTION and oo ∈ dom(user_access) and uu ∈ USER and uu dom(user_a
 THEN pp := {ppp| ppp∈PRINTER and oo ∈ options[{ppp}] and uu ∈ user_access[{ppp}]}
 END
 ```
+vi. 
