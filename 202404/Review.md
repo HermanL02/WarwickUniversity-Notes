@@ -59,8 +59,10 @@ THEN pp := {ppp| ppp∈PRINTER and oo ∈ options[{ppp}] and uu ∈ user_access[
 END
 ```
 vi. 
+```
 rr <- average_options = 
 ANY avg 
 WHERE avg ∈ ℚ ∧ card(PRINTER) > 0 ∧ avg = (Σ(p).(p ∈ PRINTER | card(options[{p}]))) / card(PRINTER) 
 THEN rr := avg
 END
+```
