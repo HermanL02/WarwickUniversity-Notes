@@ -23,11 +23,15 @@ INITIALISATION user_access := ∅
 ### c
 i. 
 ```
-add(ss) = 
-PRE ss ∈ USER*PRINTER
-THEN user_access <- ss
+add(pp) = 
+PRE pp ∈ USER*PRINTER
+THEN user_access <- pp
 END
 ```
 ii. 
-
+```
+remove(uu) = 
+PRE uu ∈ USER
+THEN 
+```
 # 2
