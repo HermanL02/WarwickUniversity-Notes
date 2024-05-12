@@ -1,4 +1,4 @@
 # 1
 a) i: Each of X corresponds to Y 
 ii: X and Y relationship is both Injection and Surjection 
-iii: 
+iii: P(N, N* N)
