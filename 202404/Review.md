@@ -41,6 +41,11 @@ iii.
 unify(uu1,uu2) = 
 PRE uu1 ∈ USER and uu2 ∈ USER and uu1 ≠ uu2
 THEN 
-user_access = {pp| pp∈user_access∧ dom(pp) ≠ uu}
+user_access := user_access ∪ ({user1} × user_access[{user2}]) ∪ ({user2} × user_access[{user1}])
 END
+```
+iv. 
+```
+findprinter(oo) = 
+PRE 
 ```
