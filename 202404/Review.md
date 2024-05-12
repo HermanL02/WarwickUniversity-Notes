@@ -47,5 +47,6 @@ END
 iv. 
 ```
 findprinter(oo) = 
-PRE  oo ∈ OPTION and 
+PRE  oo ∈ OPTION and oo ∈ dom(user_access)
+THEN 
 ```
