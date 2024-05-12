@@ -66,5 +66,6 @@ WHERE avg ∈ ℚ ∧ card(PRINTER) > 0 ∧ avg = (Σ(p).(p ∈ PRINTER | card(o
 THEN rr := avg
 END
 ```
-2. a) a conjunction means and, which requires all the options to be true, but implication can in some extent can be False-> True, which does not meet the requirement. Ex. if I want to have aa = 1 and bb = 1, if I use a->b, it could  
+2. a) a conjunction means and, which requires all the options to be true, but implication can in some extent can be False-> True, which does not meet the requirement. Ex. if I want to have aa = 1 and bb = 1, if I use a->b, it could implies a condition which aa!=1 and bb=1, which may also pass the pre condtion. 
+	b) 
    
