@@ -7,6 +7,7 @@ b) i:
 2. maxnum should be at least 1. 
 ii: 
 MACHINE Access
-SETS USER; PRINTER; 
+SETS USER; PRINTER; OPTION
+CONSTANTS options, maxnum
 
 # 2
