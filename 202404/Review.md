@@ -47,5 +47,5 @@ END
 iv. 
 ```
 findprinter(oo) = 
-PRE 
+PRE  oo ∈ OPTION and 
 ```
