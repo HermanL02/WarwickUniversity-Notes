@@ -75,5 +75,7 @@ MACHINE Modules
 SETS STUDENT, MODULE
 VARIABLES modchoice
 INVARIANT modchoice ∈ STUDENT<-> MODULE
+INITIALIZATION modchoice := ∅
+
 ```
    
