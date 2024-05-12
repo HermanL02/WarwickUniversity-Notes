@@ -54,7 +54,7 @@ END
 v. 
 ```
 pp <- findpermited(oo, uu) = 
-PRE  oo ∈ OPTION and oo ∈ dom(user_access) and uu ∈ dom(user_access)
+PRE  oo ∈ OPTION and oo ∈ dom(user_access) and uu ∈ USER and uu dom(user_access)
 THEN pp := {ppp| ppp∈PRINTER and oo ∈ options[{ppp}] }
 END
 ```
