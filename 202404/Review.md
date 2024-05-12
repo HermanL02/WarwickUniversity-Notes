@@ -21,6 +21,13 @@ VARIABLES user_access
 INVARIANT user_access ∈ USER ↔ PRINTER
 INITIALISATION user_access := ∅
 ### c
+i. 
+```
 add(ss) = 
-PRE ss 
+PRE ss ∈ USER*PRINTER
+THEN user_access <- ss
+END
+```
+ii. 
+
 # 2
