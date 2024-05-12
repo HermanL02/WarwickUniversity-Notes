@@ -1,4 +1,4 @@
-# No Revise Needed
+2023 1. a) i: Each of X corresponds to Y ii: X and Y relationship is both Injection and Surjection iii:# No Revise Needed
 - Details of the prover 
 - The details of library machines for implementation
 - The intricacies (extremely detailed) code in Atelier B
