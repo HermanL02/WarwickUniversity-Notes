@@ -46,9 +46,15 @@ END
 ```
 iv. 
 ```
-pp <- findprinter(oo) = 
+pp <- findpp(oo) = 
 PRE  oo ∈ OPTION and oo ∈ dom(user_access)
 THEN pp := {ppp| ppp∈PRINTER and oo ∈ options[{ppp}] }
 END
 ```
 v. 
+```
+pp <- findpermited(oo, uu) = 
+PRE  oo ∈ OPTION and oo ∈ dom(user_access) and uu ∈ dom(user_access)
+THEN pp := {ppp| ppp∈PRINTER and oo ∈ options[{ppp}] }
+END
+```
