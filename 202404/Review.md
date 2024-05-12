@@ -33,5 +33,7 @@ ii.
 remove(uu) = 
 PRE uu ∈ USER
 THEN 
+user_access = user_access/user_access[{uu}]
+END
 ```
 # 2
