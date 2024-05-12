@@ -72,5 +72,7 @@ END
 b)  
 ```
 MACHINE Modules
+SETS STUDENT, MODULE
+
 ```
    
