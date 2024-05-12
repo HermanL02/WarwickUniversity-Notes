@@ -66,4 +66,4 @@ WHERE avg ∈ ℚ ∧ card(PRINTER) > 0 ∧ avg = (Σ(p).(p ∈ PRINTER | card(o
 THEN rr := avg
 END
 ```
-2. a) a conjunction means and, but implication a
+2. a) a conjunction means and, but implication can in some extent can be False-> True
