@@ -46,7 +46,8 @@ END
 ```
 iv. 
 ```
-findprinter(oo) = 
+pp <- findprinter(oo) = 
 PRE  oo ∈ OPTION and oo ∈ dom(user_access)
-THEN 
+THEN pp := {pp| {oo->pp} ∈ user_ }
+END
 ```
