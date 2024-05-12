@@ -9,5 +9,10 @@ ii:
 MACHINE Access
 SETS USER; PRINTER; OPTION
 CONSTANTS options, maxnum
-CONSTRAINTS options: PRINTER <-> OPTION, maxnum:NAT1, forall p.(p ∈ PRINTER, card(options[{p}])<m)
+CONSTRAINTS options: PRINTER <-> OPTION, maxnum:NAT1, forall p.(p ∈ PRINTER, card(options[{p}])<= maxnum)
+iii. 
+MACHINE Access
+SETS USER; PRINTER; OPTION
+CONSTANTS options, maxnum
+CONSTRAINTS options: PRINTER <-> OPTION, maxnum:NAT1, forall p.(p ∈ PRINTER, card(options[{p}])<= maxnum)
 # 2
