@@ -37,5 +37,10 @@ user_access = {pp| pp∈user_access∧ dom(pp) ≠ uu}
 END
 ```
 iii. 
-
-# 2
+```
+unify(uu1,uu2) = 
+PRE uu1 ∈ USER and uu2 
+THEN 
+user_access = {pp| pp∈user_access∧ dom(pp) ≠ uu}
+END
+```
