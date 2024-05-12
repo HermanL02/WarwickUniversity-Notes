@@ -9,5 +9,5 @@ ii:
 MACHINE Access
 SETS USER; PRINTER; OPTION
 CONSTANTS options, maxnum
-CONSTRAINTS options: PRINTER <-> OPTION, maxnum:NAT1, 
+CONSTRAINTS options: PRINTER <-> OPTION, maxnum:NAT1, forall p.(p ∈ PRINTER, card())
 # 2
