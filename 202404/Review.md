@@ -33,7 +33,7 @@ ii.
 remove(uu) = 
 PRE uu ∈ USER
 THEN 
-user_access = user_access/user_access[{uu}]
+user_access = {pp| pp∈user_access∧ dom(pp) ≠ uu}
 END
 ```
 # 2
