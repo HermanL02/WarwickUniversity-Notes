@@ -70,9 +70,9 @@ END
  a) a conjunction means and, which requires all the options to be true, but implication can in some extent can be False-> True, which does not meet the requirement. Ex. if I want to have aa = 1 and bb = 1, if I use a->b, it could implies a condition which aa!=1 and bb=1, which may also pass the pre condtion. 
 # 3
  a) Includes, Sees, Extends
-b)  Includes and sees cannot use all the functions from a resources
+ b)  i) Includes and sees cannot use all the functions from a resources
 	ii) Sees cannot use another machines variable in its invarient
-	c)  
+ c)  
 # 5
 a) B0 is the “concrete” subset of the B language. Int, boolean, sets, array/record of them. 
 b)  
