@@ -68,7 +68,8 @@ END
 ```
 2. a) a conjunction means and, which requires all the options to be true, but implication can in some extent can be False-> True, which does not meet the requirement. Ex. if I want to have aa = 1 and bb = 1, if I use a->b, it could implies a condition which aa!=1 and bb=1, which may also pass the pre condtion. 
 	b) 
-5. a) B0 is the “concrete” subset of the B language. Int, boolean, sets, array/record of them. 
+3. Includes, Se
+1. a) B0 is the “concrete” subset of the B language. Int, boolean, sets, array/record of them. 
 b)  
 ```
 MACHINE Modules
