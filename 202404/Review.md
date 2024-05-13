@@ -71,7 +71,8 @@ END
    b)  Includes and sees cannot use all the functions from a resources
 	ii) Sees cannot use another machines variable in its invarient
 	c) 
-1. a) B0 is the “concrete” subset of the B language. Int, boolean, sets, array/record of them. 
+4. 
+5. a) B0 is the “concrete” subset of the B language. Int, boolean, sets, array/record of them. 
 b)  
 ```
 MACHINE Modules
