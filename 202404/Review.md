@@ -78,6 +78,14 @@ INVARIANT modchoice ∈ STUDENT<-> MODULE
 INITIALIZATION modchoice := ∅
 OPERATIONS 
 add_student_module(std, mod) = 
-PRE std ∈ STUDENT ∧ mod ∈ MODULE ∧ card(modchoice[{std}]) < MAX_CHOICE ∧ std ∉ dom(modchoice) ∨ (std |-> mod) ∉ modchoice THEN modchoice := modchoice ∪ {std |-> mod} END; has_module(std, mod) = PRE std ∈ STUDENT ∧ mod ∈ MODULE THEN RETURN (std |-> mod) ∈ modchoice END END
+PRE 
+std ∈ STUDENT ∧ mod ∈ MODULE ∧ card(modchoice[{std}]) < MAX_CHOICE ∧ std ∉ dom(modchoice) ∨ (std |-> mod) ∉ modchoice THEN 
+modchoice := modchoice ∪ {std |-> mod} 
+END; 
+mod <-- has_module(std, mod) = 
+PRE std ∈ STUDENT ∧ mod ∈ MODULE 
+THEN 
+(std |-> mod) ∈ modchoice 
+END 
 ```
    
