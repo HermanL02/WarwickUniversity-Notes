@@ -88,4 +88,4 @@ THEN
 (std |-> mod) ∈ modchoice 
 END 
 ```
-   
+   c) Errors stuff
