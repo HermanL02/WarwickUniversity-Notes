@@ -2,7 +2,9 @@
 1. ss
 2. Pre-condition: 
 ```
-WHILE ii /= size(ss)
+ss : seq1(NAT)
+
+WHILE ii /= nn
 
 DO ii := ii + 1;
 
