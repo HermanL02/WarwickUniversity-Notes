@@ -7,7 +7,7 @@
 maxnum <--max() =
 PRE
 
-arr ∈ seq(NAT) ^ forall x | x∈ 0..nn, arr(x)∈NAT
+forall x | x∈ 1..nn, arr(x)∈NAT
 
 POST
 
