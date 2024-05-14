@@ -2,11 +2,11 @@
 1. ss
 2. Pre-condition: 
 ```
-ss : seq(NAT)
+
 
 maxnum <--max() =
 PRE
-
+arr ∈ seq(NAT) ^ 
 
 THEN
 	
