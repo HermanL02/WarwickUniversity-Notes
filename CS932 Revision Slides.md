@@ -4,7 +4,7 @@
 ```
 ss : seq(NAT)
 
-max()
+maxnum <--max() =
 PRE
 
 
