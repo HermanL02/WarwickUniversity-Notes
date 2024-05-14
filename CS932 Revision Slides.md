@@ -9,7 +9,7 @@ PRE
 
 forall x | x∈ 1..nn, arr(x) ∈ NAT
 
-POST mm =
+POST mm = max(ran(arr))
 
 THEN
 	
