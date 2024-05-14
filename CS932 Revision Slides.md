@@ -9,6 +9,8 @@ PRE
 
 arr ∈ seq(NAT) ^ forall x | x∈ 0..nn, arr(x)∈NAT
 
+POST
+
 THEN
 	
 	WHILE ii /= nn
@@ -19,4 +21,6 @@ THEN
 	
 	END
 END
+
+
 ```
