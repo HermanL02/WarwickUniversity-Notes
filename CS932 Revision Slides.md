@@ -2,13 +2,20 @@
 1. ss
 2. Pre-condition: 
 ```
-ss : seq1(NAT)
+ss : seq(NAT)
 
-WHILE ii /= nn
+max()
+PRE
 
-DO ii := ii + 1;
 
-IF ss(ii) > mm THEN mm := ss(ii) END
-
+THEN
+	
+	WHILE ii /= nn
+	
+	DO ii := ii + 1;
+	
+	IF ss(ii) > mm THEN mm := ss(ii) END
+	
+	END
 END
 ```
