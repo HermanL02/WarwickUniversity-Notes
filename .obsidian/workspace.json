@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404/CS932 Revision.md",
+                "file": "202404/CS932 2023 Exam Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202404/CS932 Revision.md",
+                "file": "202404/CS932 2023 Exam Review.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202404/CS932 Revision.md",
+                "file": "202404/CS932 2023 Exam Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202404/CS932 Revision.md"
+                "file": "202404/CS932 2023 Exam Review.md"
               }
             }
           },
@@ -259,9 +259,9 @@
   },
   "active": "dd1651c320546975",
   "lastOpenFiles": [
+    "202404/CS932 Revision.md",
     "CS932 Revision Slides.md",
     "202404/CS932 2023 Exam Review.md",
-    "202404/CS932 Revision.md",
     "202404/CS918 Revision.md",
     "202404/Script.md",
     "202404/0419 Weekly Checkout.md",
