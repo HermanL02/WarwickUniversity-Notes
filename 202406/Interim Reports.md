@@ -5,9 +5,9 @@ However, in People's Republic of China(PRC), these secure apps are not accessibl
 
 Therefore, in this report, we want to introduce an End-to-End Encryption solution for WeChat with main focus on Windows and Android, which may potentially benefits people who can only access to mainland chat apps and the people who need to keep contact with their mainland friends. 
 
-# Motivation
+# Background and research
 
-## Personal Motivation
+## Current WeChat Encryption Measures
 
-
+## Current WeChat 
 
