@@ -1,5 +1,7 @@
 # Introduction
-In today's digital era, instant messaging platforms have become integral to daily communication. Among these platforms, WeChat stands out with over 1 billion daily active users, making it a dominant force in the messaging landscape. Its competitors, such as Tencent QQ and DingTalk, have significantly smaller user bases, reinforcing WeChat's unparalleled reach and influence.
+In today's digital era, instant messaging platforms have become integral to daily communication. To ensure the communication security, many users prefer to use the secured communication tool, including WhatsApp, FB Messenger, which provi
+
+Among these platforms, WeChat stands out with over 1 billion daily active users, making it a dominant force in the messaging landscape. Its competitors, such as Tencent QQ and DingTalk, have significantly smaller user bases, reinforcing WeChat's unparalleled reach and influence.
 
 Despite its widespread use, WeChat has been the subject of considerable privacy and security concerns. Reports from reputable organizations like Amnesty International and the Citizen Lab at the University of Toronto highlight serious issues regarding WeChat's transparency and censorship practices. For instance, Amnesty International's 2016 report ranked WeChat at the bottom of its privacy index, while Citizen Lab's studies have documented extensive real-time censorship of images and text, particularly those related to politically sensitive topics. 
 
