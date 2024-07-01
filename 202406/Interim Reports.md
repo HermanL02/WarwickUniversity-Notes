@@ -19,9 +19,10 @@ Therefore, in this report, we want to introduce an End-to-End Encryption solutio
 ## Windows
 
 ### Underlying Technology Stack
+### General Structure
 ### Front End
 ### Back End and Communication with Hook
 
 
 ## Android
-### Fundamental
+### Structure
