@@ -8,7 +8,7 @@ Therefore, we want to introduce an End-to-End Encryption solution for WeChat wit
 ## E2EE Measures from a Global Perspective
 There are four properties are used to ensure the messaging is secure, which are confidentiality, integrity, authentication and non-repudiation. There are many encryption protocols are designed to fulfil the these properties, such as Signal protocol and the RSA protocol. 
 
-iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. iMessage uses PQ3 protocol, WhatsApp and Signal uses Signal protocol. 
+iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. iMessage uses PQ3 protocol, WhatsApp and Signal uses Signal protocol. Telegram  uses MTProto. 
 
 ## Current WeChat Encryption Measures
 [https://citizenlab.ca/2020/05/wechat-surveillance-explained/]
