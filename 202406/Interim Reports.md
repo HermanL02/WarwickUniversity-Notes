@@ -3,7 +3,7 @@ In today's digital era, instant messaging platforms have become integral to dail
 
 However, in People's Republic of China(PRC), these secure apps are not accessible due to the government internet restrictions. Instead, in Chinese market, among all these platforms, WeChat stands out with over 1 billion daily active users, making it a dominant force in the messaging landscape. However, compare to the competitors on the global market, we found neither of the Chinese apps provides a E2EE feature nor seen security and safety as their priority. 
 
-Therefore, in this report, we want to introduce a 
+Therefore, in this report, we want to introduce a End-to-End Encryption solution for WeChat, which may potentially provide 
 
 
 # Motivation
