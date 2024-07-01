@@ -1,5 +1,5 @@
 # Introduction
-In today's digital era, instant messaging platforms have become integral to daily communication. To ensure the communication security, many users prefer to use the secured communication tool, including WhatsApp, FB Messenger, which provides an end-to-end encryption feature. 
+In today's digital era, instant messaging platforms have become integral to daily communication. To ensure the communication security, many users prefer to use the secured communication apps such as WhatsApp, which provides an end-to-end encryption feature. 
 
 However, in People's Republic of China(PRC), these apps are not accessible, instead, among all these platforms, WeChat stands out with over 1 billion daily active users, making it a dominant force in the messaging landscape. Its competitors, such as Tencent QQ and DingTalk, have significantly smaller user bases, reinforcing WeChat's unparalleled reach and influence. However, compare to the competitors on the global market, we found neither of the Chinese apps provides a E2EE feature nor seen security and safety as their priority. 
 
