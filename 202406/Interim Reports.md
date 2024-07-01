@@ -12,7 +12,7 @@ iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. i
 
 We can generally consider that E2EE is widely used protocol outside internet restricted area. 
 ## Current WeChat Encryption Measures
-[https://citizenlab.ca/2020/05/wechat-surveillance-explained/]
+WeChat uses TLS encryption to secure your data as it moves to [https://citizenlab.ca/2020/05/wechat-surveillance-explained/]
 
 ## Current 
 
