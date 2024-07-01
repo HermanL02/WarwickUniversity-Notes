@@ -14,8 +14,13 @@ Therefore, in this report, we want to introduce an End-to-End Encryption solutio
 
 # Progress
 
-## Underlying Technology Stack
+
+
+## Windows
+
+### Underlying Technology Stack
+### Front End Technologies
+
 
 ## Android
-
-### 
+### Fundamental
