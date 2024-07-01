@@ -26,11 +26,8 @@ Therefore, in this report, we want to introduce an End-to-End Encryption solutio
 ### Details
 
 
-# Future Plan
+# Project Management and Future Plan
 
 
 # Evaluation
 
-# Ethics
-
-# Project Management
