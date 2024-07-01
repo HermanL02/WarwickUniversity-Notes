@@ -10,7 +10,7 @@ There are four properties are used to ensure the messaging is secure, which are 
 
 iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. iMessage uses PQ3 protocol, WhatsApp and Signal uses Signal protocol. Telegram uses MTProto Protocol. Proton Mail uses RSA protocol. 
 
-We can generally consider that E2EE is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+We can generally consider that E2EE is 
 ## Current WeChat Encryption Measures
 [https://citizenlab.ca/2020/05/wechat-surveillance-explained/]
 
