@@ -21,8 +21,12 @@ Therefore, in this report, we want to introduce an End-to-End Encryption solutio
 ### Underlying Technology Stack
 ### General Structure
 ### Front End
-### Back End and Communication with Hook
+### Back End
 
  
 ## Android
-### Structure
+### Code Structure
+### Details
+
+
+
