@@ -20,7 +20,7 @@ Therefore, in this report, we want to introduce an End-to-End Encryption solutio
 
 ### Underlying Technology Stack
 ### Front End
-### Back End and Communicatio9
+### Back End and Communication with Hook
 
 
 ## Android
