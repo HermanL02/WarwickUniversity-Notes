@@ -14,6 +14,8 @@ Therefore, in this report, we want to introduce an End-to-End Encryption solutio
 
 # Progress
 
-## Infrastructure Support
+## Underlying Technology Stack
 
+## Android
 
+### 
