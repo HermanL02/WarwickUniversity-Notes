@@ -5,7 +5,8 @@ However, in People's Republic of China(PRC), these secure apps are not accessibl
 
 Therefore, we want to introduce an End-to-End Encryption solution for WeChat with main focus on Windows and Android platforms, which may potentially benefits people who can only access to mainland chat applications and the people who need to keep contact with mainland friends. 
 # Background and Research
-## E2EE Measures on 
+## E2EE Measures Global
+
 
 ## Current WeChat Encryption Measures
 [https://citizenlab.ca/2020/05/wechat-surveillance-explained/]
