@@ -6,7 +6,7 @@ However, in People's Republic of China(PRC), these secure apps are not accessibl
 Therefore, we want to introduce an End-to-End Encryption solution for WeChat with main focus on Windows and Android platforms, which may potentially benefits people who can only access to mainland chat applications and the people who need to keep contact with mainland friends. 
 # Background and Research
 ## E2EE Measures from a Global Perspective
-There are four properties are used to ensure the messaging is secure, which are confidentiality, integrity, authentication and non-repudiation. There are many encryption protocols are designed to fulfil the these properties, such as Signal protocol and the RSA protocol. 
+There are four properties are used to ensure the messaging is secure, which are confidentiality, integrity, authentication and non-repudiation. [PDF Ref1] There are many encryption protocols are designed to fulfil the these properties, such as Signal protocol and the RSA protocol. 
 
 iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. iMessage uses PQ3 protocol, WhatsApp and Signal uses Signal protocol. Telegram uses MTProto Protocol. Proton Mail uses RSA protocol. [PDF Ref1]
 
