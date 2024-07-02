@@ -12,7 +12,7 @@ iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. i
 
 We can generally consider that E2EE is widely used outside internet restricted area. 
 ## Current WeChat Encryption Measures
-WeChat uses TLS encryption to secure your data as it moves to and from the servers. For the static data, it uses 256 digits AES encryption. However, during this process, the encryption key is controlled by service provider, Tencent, which means it has a potential threat that Tencent might access your information and conversation. [https://www.purevpn.com/encrypted-tunnel/wechat-encryption#:~:text=WeChat%20uses%20TLS%20(Transport%20Layer,encryption%20with%20256%2Dbit%20keys.] And this [https://citizenlab.ca/2020/05/wechat-surveillance-explained/]
+WeChat uses TLS encryption to secure your data as it moves to and from the servers. For the static data, it uses 256 digits AES encryption. However, during this process, the encryption key is controlled by service provider, Tencent, which means it has a potential threat that Tencent has access your information and conversation. [https://www.purevpn.com/encrypted-tunnel/wechat-encryption#:~:text=WeChat%20uses%20TLS%20(Transport%20Layer,encryption%20with%20256%2Dbit%20keys.] And many medias have confirmed that it might not only be a threat, it has already become a fact that Tencent is by law accessing users private conversations.  [https://citizenlab.ca/2020/05/wechat-surveillance-explained/]
 
 ## Current 
 
