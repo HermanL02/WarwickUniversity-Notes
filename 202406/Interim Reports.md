@@ -48,7 +48,7 @@ During the Master's degree period, it is almost impossible for a student to desi
 The main code structure would be the same, as we want to keep its keyboard functionality as much as possible. The only change would be regarding the welcome screen and the top bar. 
 ### Details
 
-# ### Project Management and Future Plan
+# Project Management and Future Plan
 
 
 # Evaluation
