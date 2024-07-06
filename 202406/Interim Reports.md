@@ -21,7 +21,7 @@ According to Citizen Lab of the University of Toronto, [https://citizenlab.ca/20
 For text, they use keywords to find sensitive words. For picture, they compare the whole picture with the MD5 hash value with the ones they identified as politics sensitive. 
 
 ## Current Solutions
-### VPN 
+### Virtual Private Network (VPN)
 
 
 # Progress
