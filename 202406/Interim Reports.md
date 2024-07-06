@@ -42,7 +42,7 @@ On Android side, our original plan is to integrate and inject WeChat injection t
 
 The key idea of this app is to design a keyboard app, which allows users to save multiple keypairs, and create their own keypair. They can encrypt and decrypt the messages while sending and receiving text messages without rooting their devices. 
 
-During the Master's degree period, it is almost impossible for a student to design a easy to use input method to be competitive as the main Chinese competitors like Sogou and Baidu. But recently in April 2024, citizenChinese competitors are influenced by 
+During the Master's degree period, it is almost impossible for a student to design a easy to use input method to be competitive as the main Chinese competitors like Sogou and Baidu. But recently in April 2024, the citizen lab published another article regarding the Chinese input methods, in this report, only a cChinese competitors are influenced by 
 ### Code Structure
 
 ### Details
