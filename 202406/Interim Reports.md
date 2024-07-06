@@ -49,7 +49,6 @@ The main code structure would be the same, as we want to keep its keyboard funct
 ### Details
 
 # Project Management and Future Plan
-
-
+During this process, Git is mostly used as the version control tool. Git issues and Jira was used to create new issues and provide a 
 # Evaluation
 
