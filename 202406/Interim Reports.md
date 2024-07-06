@@ -25,6 +25,8 @@ For text, they use keywords to find sensitive words. For picture, they compare t
 ## Windows
 
 ### Underlying Technology Stack
+The underlying technology stake would be the WeChat injector. 
+
 ### General Structure
 ### Front End
 ### Back End
