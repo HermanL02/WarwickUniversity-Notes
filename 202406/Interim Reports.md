@@ -31,14 +31,9 @@ Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used 
 ### General Structure
 In our application, the whole application is designed following the usual MERN (MongoDB, Express, React and Node) based structure. We applied this structure with an Electron based app. The similarity between MERN stack and Electron means it is possible for a single full stack developer to create, design and build the whole process. Both of them uses Node.js as the backend and React.js as the frontend. Besides, it maintains key features as the desktop node, which means it could interact with the files to inject WeChat, create local database to save keypairs and make use of the WeChat hook, while keeping connection with the local APIs. Since our app is a security based app, it isolates the backend node.js and uses secure IPC(inter-process communication) calls to communicate between frontend and backend code to maintain best security practice. 
 
-Similar to MERN stack, we choose NeDB as our local database, because compare to MongoDB, it is more light weighted while keeping the 
-
-
-
-
-### Front End
+Similar to MERN stack, we choose NeDB as our local database, because compare to MongoDB, it is more light weighted while keeping the NoSQL DB feature and similar command as MongoDB. 
 ### Back End
-
+The backend maintains the communication between DB and utility tools i
  
 ## Android
 ### Code Structure
