@@ -44,10 +44,12 @@ On Android side, our original plan is to integrate and inject WeChat injection t
 
 The key idea of this app is to design a keyboard app, which allows users to save multiple keypairs, and create their own keypair. They can encrypt and decrypt the messages while sending and receiving text messages without rooting their devices. 
 
-During the Master's degree period, it is almost impossible for a student to design an easy-to-use input method to be competitive as the main Chinese competitors like Sogou and Baidu. But recently in April 2024, the citizen lab published another article regarding the Chinese input methods, in this report, almost all the keyboards app have potential vulnerabilities.  Therefore, we had to search on the GitHub and finally chose Fcitix5  for Android as our choice. It is open source, offline, and has a wide range of users, and relatively easy to modify. 
+During the Master's degree period, it is almost impossible for a student to design an easy-to-use input method to be competitive as the main Chinese competitors like Sogou and Baidu. But recently in April 2024, the citizen lab published another article regarding the Chinese input methods, in this report, almost all the keyboards app have potential vulnerabilities.  Therefore, we had to search on the GitHub and finally chose Fcitix5 for Android as our choice. It is open source, offline, and has a wide range of users, and relatively easy to modify. 
+
+The project is a Kotlin based software. 
 ### Code Structure
 The main code structure follows the original keyboard pattern, as we want to keep its keyboard functionality as much as possible. 
-We created a new set of data in shared preferences to store user private key and user public key, as well as friend public keys, so we can store the information without the information being read by third party apps. We also used the Room Database to monitor the clipboard. The controllers can generate keypairs, add contact public keys, and decrypt t
+We created a new set of data in shared preferences to store user private key and user public key, as well as friend public keys, so we can store the information without the information being read by third party apps. We also used the Room Database to monitor the clipboard. The controllers can generate keypairs, add contact public keys, and decrypt/encrypt the messages. It also communicates with the Java modules. 
 ### Details
 
 # Project Management and Future Plan
