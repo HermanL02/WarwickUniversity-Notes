@@ -29,7 +29,7 @@ The underlying technology behind the WeChat injector is a sophisticated applicat
 
 Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used to maintain compatibility, with its API designed for downward compatibility. The approach involves using the `sqlite3_close` function as an anchor to locate other functions, based on the assumption that their offsets will remain consistent. This method allows for the systematic identification and utilization of various SQLite3 functions by referencing their fixed offsets.
 ### General Structure
-In our application, the whole application is designed as a Electron based app. 
+In our application, the whole application is designed as an Electron based app. The Electron app is similar to a web app, which means it is easy to build and possible to work as a single developer. Besides
 ### Front End
 ### Back End
 
