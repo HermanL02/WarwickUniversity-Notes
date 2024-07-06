@@ -29,9 +29,9 @@ The underlying technology behind the WeChat injector is a sophisticated applicat
 
 Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used to maintain compatibility, with its API designed for downward compatibility. The approach involves using the `sqlite3_close` function as an anchor to locate other functions, based on the assumption that their offsets will remain consistent. This method allows for the systematic identification and utilization of various SQLite3 functions by referencing their fixed offsets.
 ### General Structure
-In our application, the whole application is designed as an Electron based app. The Electron app is similar to a web app, which means it is possible for a single full stack developer to create and build. Besides, it maintains key features as the desktop node, which means it could interact with the files to inject WeChat, create local database to save keypairs and make use of the WeChat hook, while keeping connection with the local APIs. Since our app is a security based app, therefore it isolates the backend node.js and uses secure IPC(inter-process communication) calls to communicate between frontend and backend code to remain highest security status. 
+In our application, the whole application is designed following the usual MERN (MongoDB, Eas an Electron based app. The Electron app is similar to a web app, which means it is possible for a single full stack developer to create and build. Besides, it maintains key features as the desktop node, which means it could interact with the files to inject WeChat, create local database to save keypairs and make use of the WeChat hook, while keeping connection with the local APIs. Since our app is a security based app, therefore it isolates the backend node.js and uses secure IPC(inter-process communication) calls to communicate between frontend and backend code to remain highest security status. 
 
-The key 
+
 
 
 
