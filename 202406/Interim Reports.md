@@ -49,7 +49,12 @@ During the Master's degree period, it is almost impossible for a student to desi
 The project is a Kotlin based software. 
 ### Code Structure
 The main code structure follows the original keyboard pattern, as we want to keep its keyboard functionality as much as possible. 
-We created a new set of data in shared preferences to store user private key and user public key, as well as friend public keys, so we can store the information without the information being read by third party apps. We also used the Room Database to monitor the clipboard. The controllers can generate keypairs, add contact public keys, and decrypt/encrypt the messages. It also communicates with the Java modules. 
+
+We created a new set of data in shared preferences to store user private key and user public key, as well as friend public keys, so we can store the information without the information being read by third party apps. We also used the Room Database to monitor the clipboard. 
+
+The controllers can generate keypairs, add contact public keys, and decrypt/encrypt the messages. It also communicates with the Java encryption modules. 
+
+The front end consists the nickname input. It 
 ### Details
 
 # Project Management and Future Plan
