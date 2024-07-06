@@ -33,7 +33,9 @@ In our application, the whole application is designed following the usual MERN (
 
 Similar to MERN stack, we choose NeDB as our local database, because compare to MongoDB, it is more light weighted while keeping the NoSQL DB feature and similar command as MongoDB. 
 ### Back End
-The backend maintains the communication between DB and utility tools i
+The backend maintains the communication between DB and utility tools including the WeChat installer (for people to easily install WeChat) and the Injection Tools (to make use of the WeChat hook to inject WeChat). It also provides the encryption, decryption and generate keypair function to the front end. 
+
+
  
 ## Android
 ### Code Structure
