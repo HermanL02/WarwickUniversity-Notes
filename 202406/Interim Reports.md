@@ -37,7 +37,8 @@ Similar to MERN stack, we choose NeDB as our local database, because compare to 
 ### Back End
 The backend maintains the communication between DB and utility tools including the WeChat installer (for people to easily install WeChat) and the Injection Tools (to make use of the WeChat hook to inject WeChat). It also provides the encryption, decryption and generate keypair function to the front end. 
 ### Front End
-On the front end, tailwind CSS is used to design the scope and to perform simple animations. It uses a React Context to continuously read the content and share the chat history among all React front end pages. It provides the injection page, encryption decryption page, and the chat page to the users. 
+On the front end, tailwind CSS is used to design the scope and to perform simple animations. React is used to make the front end componentized. 
+We applied React Context to continuously read the content and share the chat history among all React front end pages. It provides the injection page, encryption decryption page, and the chat page to the users. 
 ## Android
 On Android side, our original plan is to integrate and inject WeChat injection tools again to our Android devices, but usually the Android devices have a more strict control over the apps. Therefore, to inject WeChat, a rooted device is required for users to use the app. However, our previous main goal is to provide a general solution for the non-tech people, but rooting devices requires the users to have a deeper understanding in Android. Therefore, we decided to make a supplementary solution for the mobile device. This solution is more likely to be a support tool to the main Windows software. 
 
