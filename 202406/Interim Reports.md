@@ -25,7 +25,7 @@ For text, they use keywords to find sensitive words. For picture, they compare t
 ## Windows
 
 ### Underlying Technology Stack
-The underlying technology stake would be the WeChat injector, which is an application of reverse engineering. The original author is from a GitHub public repo. The process is to use Cheat Engine to monitor the process, and send a message through WeChat and create break points. Then, it could 
+The underlying technology stake would be the WeChat injector, which is an application of reverse engineering. The original author is from a GitHub public repo. The process is to use Cheat Engine to monitor the process, and send a message through WeChat and create break points. Then, it could find the corresponding assembly code, and setup the APIs to  make use this assembly code to send/receive m
 
 ### General Structure
 ### Front End
