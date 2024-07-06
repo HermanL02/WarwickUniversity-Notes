@@ -25,8 +25,9 @@ For text, they use keywords to find sensitive words. For picture, they compare t
 ## Windows
 
 ### Underlying Technology Stack
-The underlying technology stake would be the WeChat injector, which is an application of reverse engineering. The original author is from a GitHub public repo. The process is to use Cheat Engine to monitor the process, and send a message through WeChat and create break points. Then, it could find the corresponding assembly code, and set up the APIs to make use of this assembly code to send/receive messages. 
-Besides, it used up a vulnerability of sqlite3. The SQLLite3 is used to maintain the compatibility, the API is designed as downward compatibility. They make use of sqlite3_close function to find the other functions as their offset would be the same. 
+The underlying technology behind the WeChat injector is a sophisticated application of reverse engineering. The original author developed this tool from a publicly available GitHub repository. The process begins by using Cheat Engine to monitor the WeChat process, specifically targeting the sending of messages and setting breakpoints. This allows for the identification of the corresponding assembly code responsible for these actions. Subsequently, APIs are established to leverage this assembly code for sending and receiving messages.
+
+Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used to maintain compatibility, with its API designed for downward compatibility. The approach involves using the `sqlite3_close` function as an anchor to locate other functions, based on the assumption that their offsets will remain consistent. This method allows for the systematic identification and utilization of various SQLite3 functions by referencing their fixed offsets.
 ### General Structure
 The 
 ### Front End
