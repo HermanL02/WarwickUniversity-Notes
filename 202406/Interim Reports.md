@@ -29,13 +29,13 @@ The underlying technology behind the WeChat injector is a sophisticated applicat
 
 Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used to maintain compatibility, with its API designed for downward compatibility. The approach involves using the `sqlite3_close` function as an anchor to locate other functions, based on the assumption that their offsets will remain consistent. This method allows for the systematic identification and utilization of various SQLite3 functions by referencing their fixed offsets.
 ### General Structure
-In our application, the whole application is designed following the usual MERN (MongoDB, Express, React and Node) based structure. We applied this structure with an Electron based app. The similarity between MERN stack and Electron means it is possible for a single full stack developer to create, design and build the whole process. Both of them uses Node.js as the backend and React.js as the frontend. Besides, it maintains key features as the desktop node, which means it could interact with the files to inject WeChat, create local database to save keypairs and make use of the WeChat hook, while keeping connection with the local APIs. Since our app is a security based app, it isolates the backend node.js and uses secure IPC(inter-process communication) calls to communicate between frontend and backend code to maintain best security practice. 
+In our application, the whole application is designed following the usual MERN (MongoDB, Express, React and Node) based structure. We applied this structure with an Electron based app. The similarity between MERN stack and Electron means it is possible for a single full stack developer to create, design and build the whole process. Both of them uses Node.js as the backend and React.js as the frontend. Besides, it maintains key features as the desktop node, which means it could interact with the files to inject WeChat, create local database to save keypairs and make use of the WeChat hook, while keeping connection with the local APIs. Since our app is a security based app, it isolates the backend node.js and uses secure IPC(inter-process communication) calls to communicate between frontend and backend code to maintain the best security practice. 
 
 Similar to MERN stack, we choose NeDB as our local database, because compare to MongoDB, it is more light weighted while keeping the NoSQL DB feature and similar command as MongoDB. 
 ### Back End
 The backend maintains the communication between DB and utility tools including the WeChat installer (for people to easily install WeChat) and the Injection Tools (to make use of the WeChat hook to inject WeChat). It also provides the encryption, decryption and generate keypair function to the front end. 
 ### Front End
-It uses a React Context to continuously read the content and share the chat history among all React front 
+It uses a React Context to continuously read the content and share the chat history among all React front end pages. It provides the injection page, encryption decryption page, and the chat page to the users. 
 ## Android
 ### Code Structure
 ### Details
