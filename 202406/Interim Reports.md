@@ -17,7 +17,8 @@ According to the official website of WeChat help center, WeChat uses TLS encrypt
 ## WeChat Scandal
 Above, we talked about the potential technical possibility of WeChat technology. In fact, there are already reports regarding the block and filter of messages of WeChat. It also applies the account ban on sensitive politic messages. 
 According to Citizen Lab of the University of Toronto, [https://citizenlab.ca/2020/05/wechat-surveillance-explained/] if a message is censored, it will not notify either the sender and the recipient. For example, in this context example, a user tries to send a sensitive word Dharma Wheel, it will be shown as 'sent' on sender's side and will not be shown on recipient side. 
-For text, they use keywords to find sensitive words. For picture, they compare the whole picture with the MD5 hash value with the ones they identified as illegal 
+For text, they use keywords to find sensitive words. For picture, they compare the whole picture with the MD5 hash value with the ones they identified as politics sensitive. 
+
 
 
 
@@ -39,7 +40,7 @@ It uses a React Context to continuously read the content and share the chat hist
 ## Android
 On Android side, our original plan is to integrate and inject WeChat injection tools again to our Android devices, but usually the Android devices have a more strict control over the apps. Therefore, to inject WeChat, a rooted device is required for users to use the app. However, our previous main goal is to provide a general solution for the non-tech people, but rooting devices requires the users to have a deeper understanding in Android. Therefore, we decided to make a supplementary solution for the mobile device. This solution is more likely to be a support tool to the main Windows software. 
 
-The key idea of this app is to design a keyboard app, which allows users to save multiple keypairs, and create their own keypair while creating. copied text
+The key idea of this app is to design a keyboard app, which allows users to save multiple keypairs, and create their own keypair. copied text
 During the Master's degree period, it is almost impossible for a student to design a easy to use input method for 
 ### Code Structure
 
