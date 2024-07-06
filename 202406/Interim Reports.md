@@ -37,7 +37,9 @@ The backend maintains the communication between DB and utility tools including t
 ### Front End
 It uses a React Context to continuously read the content and share the chat history among all React front end pages. It provides the injection page, encryption decryption page, and the chat page to the users. 
 ## Android
+Generally, during the Master's degree period, it is almost impossible for a studnet
 ### Code Structure
+
 ### Details
 
 
