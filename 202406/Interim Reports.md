@@ -50,6 +50,6 @@ The main code structure would be the same, as we want to keep its keyboard funct
 
 # Project Management and Future Plan
 During this process, Git is mostly used as the version control tool. GitHub issues and Jira was used to create new issues and provide a self-sprint period. 
-To provide a continuous integration and continuous distribution (CI/CD) process, we used Electron Builder to automatically 
+To provide a continuous integration and continuous distribution (CI/CD) process, we used GitHub pipeline to run Electron Builder while we push the code. 
 # Evaluation
 
