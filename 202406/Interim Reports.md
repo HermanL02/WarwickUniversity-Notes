@@ -54,8 +54,9 @@ We created a new set of data in shared preferences to store user private key and
 
 The controllers can generate keypairs, add contact public keys, and decrypt/encrypt the messages. It also communicates with the Java encryption modules. 
 
-The front end consists the nickname input. It 
-### Details
+The front end consists the nickname input. 
+## Interconnection
+
 
 # Project Management and Future Plan
 During this process, Git is mostly used as the version control tool. GitHub issues and Jira was used to create new issues and provide a self-sprint period. 
