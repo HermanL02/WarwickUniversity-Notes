@@ -37,7 +37,7 @@ The backend maintains the communication between DB and utility tools including t
 ### Front End
 It uses a React Context to continuously read the content and share the chat history among all React front end pages. It provides the injection page, encryption decryption page, and the chat page to the users. 
 ## Android
-On Android side, our original plan is to integrate and inject WeChat injection tools again to our Android devices, but usually the Android devices have a more strict control over the apps. Therefore, to inject WeChat, a rooted device is required for users to use the app. However, our previous main goal is to provide a  which requires the users to have a deeper understanding. , during the Master's degree period, it is almost impossible for a student to design a easy to use input method for 
+On Android side, our original plan is to integrate and inject WeChat injection tools again to our Android devices, but usually the Android devices have a more strict control over the apps. Therefore, to inject WeChat, a rooted device is required for users to use the app. However, our previous main goal is to provide a general solution for the non-tech people, but rooting devices requires the users to have a deeper understanding in Android. Therefore, we decided to make a sublementry solution for the mobile device. This solution is more likely to be a support tool to the main  during the Master's degree period, it is almost impossible for a student to design a easy to use input method for 
 ### Code Structure
 
 ### Details
