@@ -46,7 +46,8 @@ The key idea of this app is to design a keyboard app, which allows users to save
 
 During the Master's degree period, it is almost impossible for a student to design an easy-to-use input method to be competitive as the main Chinese competitors like Sogou and Baidu. But recently in April 2024, the citizen lab published another article regarding the Chinese input methods, in this report, almost all the keyboards app have potential vulnerabilities.  Therefore, we had to search on the GitHub and finally chose Fcitix5  for Android as our choice. It is open source, offline, and has a wide range of users, and relatively easy to modify. 
 ### Code Structure
-The main code structure would be the same, as we want to keep its keyboard functionality as much as possible. The only change would be regarding the welcome screen and the top bar. 
+The main code structure follows the original keyboard pattern, as we want to keep its keyboard functionality as much as possible. 
+W
 ### Details
 
 # Project Management and Future Plan
