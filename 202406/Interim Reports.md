@@ -55,8 +55,11 @@ We created a new set of data in shared preferences to store user private key and
 The controllers can generate keypairs, add contact public keys, and decrypt/encrypt the messages. It also communicates with the Java encryption modules. 
 
 The front end consists the nickname input. 
-## Windows Android 
+## Interaction between Windows and Android Platforms
 
+Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues between different languages.
+
+We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times.
 # Project Management and Future Plan
 During this process, Git is mostly used as the version control tool. GitHub issues and Jira was used to create new issues and provide a self-sprint period. 
 To provide a continuous integration and continuous distribution (CI/CD) process, we used GitHub pipeline to run Electron Builder while we push the code. 
