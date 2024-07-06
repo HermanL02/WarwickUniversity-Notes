@@ -22,7 +22,13 @@ For text, they use keywords to find sensitive words. For picture, they compare t
 
 ## Current Solutions
 ### Virtual Private Network (VPN)
+One popular practice is to use a VPN to access software outside the country to obtain end-to-end encryption. But this approach has many drawbacks.
 
+First, the security of communication between users and VPN service providers is not necessarily guaranteed. Currently, the larger VPN providers, such as NordVPN, Express VPN, are blocked by the government, and their connection speeds are slow and very unstable. Some users choose smaller VPN providers, they usually have a smoother experience, but many providers do not have relevant service qualifications, and do not have formal business registration in any country, so the risk may be greater.
+
+Second, VPN services are essentially in violation of relevant Chinese laws and regulations. Chinese laws and regulations stipulate that only enterprises can apply for the use of international communication channels, and individuals generally have limited requirements for application and are unlikely to be approved.
+
+Third, the use of VPN is not convenient. If we are always connected to VPN, some software cannot be used. For example, the access speed of government affairs software, enterprise information query software and all kinds of Wechat mini programs will become very slow.
 
 # Progress
 ## Windows
@@ -47,7 +53,7 @@ The key idea of this app is to design a keyboard app, which allows users to save
 
 During the Master's degree period, it is almost impossible for a student to design an easy-to-use input method to be competitive as the main Chinese competitors like Sogou and Baidu. But recently in April 2024, the citizen lab published another article regarding the Chinese input methods, in this report, almost all the keyboards app have potential vulnerabilities.  Therefore, we had to search on the GitHub and finally chose Fcitix5 for Android as our choice. It is open source, offline, and has a wide range of users, and relatively easy to modify. 
 
-The project is a Kotlin based software. 
+The project is a Kotlin based software and can support java integration. 
 ### Code Structure
 The main code structure follows the original keyboard pattern, as we want to keep its keyboard functionality as much as possible. 
 
