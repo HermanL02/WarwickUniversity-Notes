@@ -25,6 +25,7 @@ For text, they use keywords to find sensitive words. For picture, they compare t
 
 # Progress
 ## Windows
+Our app targets to make use of the open source WeChat hook to intercept the incoming WeChat messages, and send encrypted outgoing 
 
 ### Underlying Technology Stack
 The underlying technology behind the WeChat injector is a sophisticated application of reverse engineering. The original author developed this tool from a publicly available GitHub repository. The process begins by using Cheat Engine to monitor the WeChat process, specifically targeting the sending of messages and setting breakpoints. This allows for the identification of the corresponding assembly code responsible for these actions. Subsequently, APIs are established to leverage this assembly code for sending and receiving messages.
