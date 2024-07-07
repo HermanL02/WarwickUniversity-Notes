@@ -95,16 +95,15 @@ To streamline our development process and ensure that our application was always
 
 ## Feedback and open-source
 
-After the reports are submitted, I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute and am willing to see more innovations and feedbacks from the community.  
+After the reports are submitted, I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute and I am willing to see more innovations and feedbacks from the community.  
 
 # Future Plan
 
 ## Picture Send/Receive
 We are currently focused on enhancing the functionality for sending and receiving pictures as we mentioned above. This is in a discussion with other developers to find out the potential solutions. 
 
-
 ## Testing 
-We plan to test the whole process with a senior developer. Also, we will do the A/B test to determine which one the users would prefer, whether they prefer to use a vpn or our app to chat the secret messages. 
+To ensure the robustness and user satisfaction of our app, we plan to ask a few people to review the code. Then, we may conduct thorough testing: 
 
 # Evaluation
 
