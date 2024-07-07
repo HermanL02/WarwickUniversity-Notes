@@ -88,6 +88,6 @@ To streamline our development process and ensure that our application was always
 The issues during the development would be stuck. Since I am a junior dev, when I have some issues regarding some specific information, I would be really confused and cannot find an answer. Most  of the time I rely on Stakeoverflow and ChatGPT to solve potential issues, but generally they cannot substitute the senior developers. As this project combines many parts, it would be challenging for me to connect front end, backend, and the injector. 
 The second issue is the language I am not familiar with. Personally I am good with the web apps, which is Electron. However, I also decided to develop a keyboard app. Generally, if I know web app, I can only develop on React Native, but React Native language is not suitable for keyboard apps, so I had to choose Java-Kotlin language with Android Studio, which I have less experience on. 
 
-The second issue would be the photos. The photos 
+The second issue would be the photos. The photos send/receive currently still have a issue. By default, WeChat does not download this to the local computer, instead it keeps the full photo on the middle server, which means it might not be original photo the other side user send, so it might be challenging for 
 # Evaluation
 
