@@ -102,5 +102,8 @@ After the reports are submitted, I am aware that by myself, it will be impossibl
 ## Picture Send/Receive
 We are still working on the picture send and receive. 
 
+## Testing 
+We plan to test the whole process with a senior developer. Also, we will do the A/BV
+
 # Evaluation
 
