@@ -65,7 +65,7 @@ We created a new set of data in shared preferences to store user private key and
 
 The controllers can generate keypairs, add contact public keys, and decrypt/encrypt the messages. It also communicates with the Java encryption modules. 
 
-The front end consists of the nickname input, andc 
+The front end consists of the nickname input, and a top bar consists utilizing these features. 
 ## Interaction between Windows and Android Platforms
 
 Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues between different languages.
