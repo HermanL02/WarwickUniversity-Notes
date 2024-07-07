@@ -103,7 +103,7 @@ After the reports are submitted, I am aware that by myself, it will be impossibl
 We are still working on the picture send and receive. 
 
 ## Testing 
-We plan to test the whole process with a senior developer. Also, we will do the A/BV
+We plan to test the whole process with a senior developer. Also, we will do the A/B test to determine which one the users would prefer, whether they prefer to use a vpn or our app to chat the secret messages. 
 
 # Evaluation
 
