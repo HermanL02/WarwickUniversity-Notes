@@ -90,6 +90,6 @@ The second issue is the language I am not familiar with. Personally, I am good w
 
 The second issue would be the photos. The photos send/receive currently still have a issue. By default, WeChat does not download this to the local computer, instead it keeps the full photo on the middle server, which means it might not be original photo the other side user send, so it might be challenging for us to encrypt and decrypt the photos. 
 
-The thirds issue would be the interaction. Java and JavaScript generally should be considered as similar ones, but there is a werid issue when we set same RSA protocol and its configurationssame method 
+The thirds issue would be the interaction. Java and JavaScript generally should be considered as similar ones, but there is a werid issue when we set same RSA protocol and its configurations.  
 # Evaluation
 
