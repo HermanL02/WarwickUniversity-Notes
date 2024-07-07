@@ -88,7 +88,7 @@ To streamline our development process and ensure that our application was always
 
 ## Feedback and open-source
 
-After the reports are submitted, I am aware that by m
+After the reports are submitted, I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute and am willing to see more innovations and feed
 # Problems and Issues
 During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
 
