@@ -80,7 +80,7 @@ A further complication involves handling photos. Currently, WeChat does not down
 
 Finally, there are issues with interaction between Java/Kotlin and JavaScript. Despite both being similar languages, discrepancies arise when implementing the same RSA protocol and its configurations. While this issue has been mostly resolved by adopting a more universal package compatible with both Android and Windows applications, it remains a noteworthy challenge.
 
-# Project Management and Future Plan
+# Project Management
 
 ## Version Control
 
@@ -98,8 +98,7 @@ To streamline our development process and ensure that our application was always
 
 After the reports are submitted, I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute and am willing to see more innovations and feedbacks from the community.  
 
-## Next Step
-
+# Future Plan
 
 
 # Evaluation
