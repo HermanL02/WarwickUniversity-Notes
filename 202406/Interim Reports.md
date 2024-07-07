@@ -30,9 +30,8 @@ Second, VPN services are essentially in violation of relevant Chinese laws and r
 
 Third, the use of VPN is not convenient. If we are always connected to VPN, some software cannot be used. For example, the access speed of government affairs software, enterprise information query software and all kinds of Wechat mini programs will become very slow.
 \
-### E2EE Similar Solutions for WeChat
-
-
+### E2EE Deprecated Solutions for WeChat
+In the past, there are some open source solutions attempt to use web version of 
 # Progress
 ## Windows
 Our app targets to make use of the open source WeChat hook to intercept the incoming WeChat messages, and send encrypted outgoing messages. During this process, RSA will be used as the main protocol to ensure the E2EE communication. 
