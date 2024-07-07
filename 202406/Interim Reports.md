@@ -29,6 +29,9 @@ First, the security of communication between users and VPN service providers is 
 Second, VPN services are essentially in violation of relevant Chinese laws and regulations. Chinese laws and regulations stipulate that only enterprises can apply for the use of international communication channels, and individuals generally have limited requirements for application and are unlikely to be approved.
 
 Third, the use of VPN is not convenient. If we are always connected to VPN, some software cannot be used. For example, the access speed of government affairs software, enterprise information query software and all kinds of Wechat mini programs will become very slow.
+\
+### E2EE Similar Solutions for WeChat
+
 
 # Progress
 ## Windows
