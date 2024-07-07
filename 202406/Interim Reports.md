@@ -67,17 +67,17 @@ The front end consists the nickname input.
 Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues between different languages.
 
 We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times.
-## Project Management and Future Plan
+# Project Management and Future Plan
 
-### Version Control
+## Version Control
 
-During this project, we extensively utilized Git as our version control tool. Git's robust branching and merging capabilities allowed for smooth collaboration among team members, ensuring that code changes could be tracked, reviewed, and integrated efficiently.
+During this project, we extensively utilized Git as our version control tool. Git's robust branching and merging capabilities allowed for self progress checking, ensuring that code changes could be tracked, reviewed, and integrated efficiently.
 
-### Issue Tracking
+## Issue Tracking
 
 To manage and track the progress of tasks and issues, we employed GitHub Issues and Jira. These tools enabled us to create, assign, and monitor issues, facilitating a self-sprint period where tasks were planned, executed, and reviewed systematically. This approach helped in maintaining a clear overview of the project's status and ensured timely resolution of issues.
 
-### Continuous Integration and Continuous Distribution (CI/CD)
+## Continuous Integration and Continuous Distribution (CI/CD)
 
 To streamline our development process and ensure that our application was always in a deployable state, we implemented a CI/CD pipeline using GitHub Actions. This pipeline was configured to run Electron Builder, a comprehensive tool for packaging and distributing Electron applications, whenever code was pushed to the repository. This automated process ensured that our builds were consistent, reducing the likelihood of human error and speeding up the release cycle.
 # Evaluation
