@@ -103,7 +103,7 @@ After the reports are submitted, I am aware that by myself, it will be impossibl
 We are currently focused on enhancing the functionality for sending and receiving pictures as we mentioned above. This is in a discussion with other developers to find out the potential solutions. 
 
 ## Testing 
-To ensure the robustness and user satisfaction of our app, we plan to ask a few people to review the code. Then, we may conduct thorough testing: 
+To ensure the robustness and user satisfaction of our app, we plan to ask a few people to review the code. Then, we may conduct thorough multiple testings. First, we will apply unit tests and j
 
 # Evaluation
 
