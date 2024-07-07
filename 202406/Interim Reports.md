@@ -70,8 +70,6 @@ Initially, we used a conventional method to read file information and messages. 
 
 We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times.
 
-# Issues
-
 # Project Management and Future Plan
 
 ## Version Control
@@ -85,5 +83,8 @@ To manage and track the progress of tasks and issues, we employed GitHub Issues 
 ## Continuous Integration and Continuous Distribution (CI/CD)
 
 To streamline our development process and ensure that our application was always in a deployable state, we implemented a CI/CD pipeline using GitHub Actions. This pipeline was configured to run Electron Builder, a comprehensive tool for packaging and distributing Electron applications, whenever code was pushed to the repository. This automated process ensured that our builds were consistent, reducing the likelihood of human error and speeding up the release cycle.
+
+# Issues
+
 # Evaluation
 
