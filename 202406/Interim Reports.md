@@ -85,7 +85,8 @@ To manage and track the progress of tasks and issues, we employed GitHub Issues 
 To streamline our development process and ensure that our application was always in a deployable state, we implemented a CI/CD pipeline using GitHub Actions. This pipeline was configured to run Electron Builder, a comprehensive tool for packaging and distributing Electron applications, whenever code was pushed to the repository. This automated process ensured that our builds were consistent, reducing the likelihood of human error and speeding up the release cycle.
 
 # Problems and Issues
-The issues during the development would be stuck. Since I am a junior dev, when I have some issues regarding some specific information, I would be really confused and cannot find an answer. Most  of the time I rely on Stakeoverflow and ChatGPT to solve potential issues, but generally they cannot substitute the senior developers. As this project combines many parts, it would be challenging for me to connect front end, backend, and the inj
+The issues during the development would be stuck. Since I am a junior dev, when I have some issues regarding some specific information, I would be really confused and cannot find an answer. Most  of the time I rely on Stakeoverflow and ChatGPT to solve potential issues, but generally they cannot substitute the senior developers. As this project combines many parts, it would be challenging for me to connect front end, backend, and the injector. 
+The second issue is the language I am not familiar with. Personally I am good with the web apps, which is Electron. However, I also decided to develop a keyboard app. Generally, if I know web app, I can only develop on 
 
 # Evaluation
 
