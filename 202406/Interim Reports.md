@@ -101,7 +101,7 @@ After the reports are submitted, I am aware that by myself, it will be impossibl
 # Future Plan
 
 ## Picture Send/Receive
-We are still working on the 
+We are still working on the picture send and receive. 
 
 # Evaluation
 
