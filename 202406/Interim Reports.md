@@ -31,7 +31,7 @@ Second, VPN services are essentially in violation of relevant Chinese laws and r
 Third, the use of VPN is not convenient. If we are always connected to VPN, some software cannot be used. For example, the access speed of government affairs software, enterprise information query software and all kinds of WeChat mini programs will become very slow.
 \
 ### E2EE Deprecated Solutions for WeChat
-In the past, there are some open source solutions attempt to use web version of WeChat to intercept the messages. It avoids the complexity of reverse engineering. However, as WeChat aware of the potential use of WeChat Web version, they are forcing users to switch to WeChat Desktop version. Therefore, W
+In the past, there are some open source solutions attempt to use web version of WeChat to intercept the messages. It avoids the complexity of reverse engineering. However, as WeChat aware of the potential use of WeChat Web version, they are forcing users to switch to WeChat Desktop version. Therefore, the web version's use becomes very limited. 
 # Progress
 ## Windows
 Our app targets to make use of the open source WeChat hook to intercept the incoming WeChat messages, and send encrypted outgoing messages. During this process, RSA will be used as the main protocol to ensure the E2EE communication. 
@@ -69,6 +69,9 @@ The front end consists the nickname input.
 Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues between different languages.
 
 We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times.
+
+# Issues
+
 # Project Management and Future Plan
 
 ## Version Control
