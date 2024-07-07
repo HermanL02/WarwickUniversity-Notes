@@ -19,7 +19,7 @@ According to the official website of WeChat help center, WeChat uses TLS encrypt
 Above, we talked about the potential technical possibility of WeChat technology. In fact, there are already reports regarding the block and filter of messages of WeChat. It also applies the account ban on sensitive politic messages. 
 According to Citizen Lab of the University of Toronto, [https://citizenlab.ca/2020/05/wechat-surveillance-explained/] if a message is censored, it will not notify either the sender and the recipient. For example, in this context example, a user tries to send a sensitive word Dharma Wheel, it will be shown as 'sent' on sender's side and will not be shown on recipient side. 
 For text, they use keywords to find sensitive words. For picture, they compare the whole picture with the MD5 hash value with the ones they identified as politics sensitive. In recent years, WeChat also apply the filtering with Optical character recognition(OCR). 
-
+The recent cases include
 ## Current Solutions
 ### Substitution Words
 For some users, utilizing VPN proxies is not a viable option. Generally, it is not ideal to cite individual cases, but I feel compelled to mention my father. He is unfamiliar with using VPNs but is acutely aware of the restrictions on free speech. He knows that these restrictions can lead to the suspension of crucial social account, WeChat. In response, he continuously avoids using sensitive words, often substituting them with alternative letters. However, with advancements in AI technology and the expansion of keyword databases, even these substituted letters are increasingly subject to censorship. Consequently, certain letters can no longer be used, as they too are being filtered out.
