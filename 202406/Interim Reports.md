@@ -22,9 +22,7 @@ For text, they use keywords to find sensitive words. For picture, they compare t
 
 ## Current Solutions
 ### Substitution Words
-For some users, utilizing VPN proxies is not a viable option. Generally, it is not ideal to cite individual cases, but I feel compelled to mention my father. He is unfamiliar with using VPNs but is acutely aware of the restrictions on free speech. He knows that these restrictions can lead to the suspension of crucial social accounts, such as WeChat. In response, he continuously avoids using sensitive words, often substituting them with alternative letters. However, with advancements in AI technology and the expansion of keyword databases, even these substituted letters are increasingly subject to censorship. Consequently, certain letters can no longer be used, as they too are being filtered out.
-
-
+For some users, utilizing VPN proxies is not a viable option. Generally, it is not ideal to cite individual cases, but I feel compelled to mention my father. He is unfamiliar with using VPNs but is acutely aware of the restrictions on free speech. He knows that these restrictions can lead to the suspension of crucial social account, WeChat. In response, he continuously avoids using sensitive words, often substituting them with alternative letters. However, with advancements in AI technology and the expansion of keyword databases, even these substituted letters are increasingly subject to censorship. Consequently, certain letters can no longer be used, as they too are being filtered out.
 ### Virtual Private Network (VPN)
 One popular practice is to use a VPN to access software outside the country to obtain end-to-end encryption. But this approach has many drawbacks.
 
@@ -67,7 +65,7 @@ We created a new set of data in shared preferences to store user private key and
 
 The controllers can generate keypairs, add contact public keys, and decrypt/encrypt the messages. It also communicates with the Java encryption modules. 
 
-The front end consists the nickname input. 
+The front end consists of the nickname input, andc 
 ## Interaction between Windows and Android Platforms
 
 Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues between different languages.
