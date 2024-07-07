@@ -100,7 +100,8 @@ After the reports are submitted, I am aware that by myself, it will be impossibl
 # Future Plan
 
 ## Picture Send/Receive
-We are still working on the picture send and receive. 
+We are currently focused on enhancing the functionality for sending and receiving pictures as we mentioned above. This is in a discussion with other developers to find out the potential solutions. 
+
 
 ## Testing 
 We plan to test the whole process with a senior developer. Also, we will do the A/B test to determine which one the users would prefer, whether they prefer to use a vpn or our app to chat the secret messages. 
