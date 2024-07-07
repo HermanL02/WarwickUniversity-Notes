@@ -71,6 +71,14 @@ The front end consists of the nickname input, and a top bar consists utilizing t
 Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues between different languages.
 
 We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times.
+# Problems and Issues
+During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
+
+Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Tutorial and ChatGPT. 
+
+A further complication involves handling photos. Currently, WeChat does not download photos directly to the local computer but keeps them on an intermediary server. Consequently, the received photo may not be the original one sent by the user, complicating the encryption and decryption processes. This solution is we can turn the photos to files, and WeChat usually cannot compress and modify the photo files. 
+
+Finally, there are issues with interaction between Java/Kotlin and JavaScript. Despite both being similar languages, discrepancies arise when implementing the same RSA protocol and its configurations. While this issue has been mostly resolved by adopting a more universal package compatible with both Android and Windows applications, it remains a noteworthy challenge.
 
 # Project Management and Future Plan
 
@@ -88,14 +96,11 @@ To streamline our development process and ensure that our application was always
 
 ## Feedback and open-source
 
-After the reports are submitted, I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute and am willing to see more innovations and feedbacks from the community. 
-# Problems and Issues
-During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
+After the reports are submitted, I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute and am willing to see more innovations and feedbacks from the community.  
 
-Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Tutorial and ChatGPT. 
+## Next Step
 
-A further complication involves handling photos. Currently, WeChat does not download photos directly to the local computer but keeps them on an intermediary server. Consequently, the received photo may not be the original one sent by the user, complicating the encryption and decryption processes. This solution is we can turn the photos to files, and WeChat usually cannot compress and modify the photo files. 
 
-Finally, there are issues with interaction between Java/Kotlin and JavaScript. Despite both being similar languages, discrepancies arise when implementing the same RSA protocol and its configurations. While this issue has been mostly resolved by adopting a more universal package compatible with both Android and Windows applications, it remains a noteworthy challenge.
+
 # Evaluation
 
