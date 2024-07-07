@@ -21,6 +21,8 @@ According to Citizen Lab of the University of Toronto, [https://citizenlab.ca/20
 For text, they use keywords to find sensitive words. For picture, they compare the whole picture with the MD5 hash value with the ones they identified as politics sensitive. In recent years, WeChat also apply the filtering with Optical character recognition(OCR). 
 
 ## Current Solutions
+### Substitution Words
+
 ### Virtual Private Network (VPN)
 One popular practice is to use a VPN to access software outside the country to obtain end-to-end encryption. But this approach has many drawbacks.
 
