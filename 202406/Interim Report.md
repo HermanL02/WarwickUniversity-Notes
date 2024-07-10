@@ -73,7 +73,11 @@ We adopted the same RSA encryption method and settings to ensure that the genera
 # Problems and Issues
 During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
 
+## New Language, Junior Developer
+
 Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Tutorial and ChatGPT. 
+
+## Photo Receive and Send
 
 A further complication involves handling photos. Currently, WeChat does not download photos directly to the local computer but keeps them on an intermediary server. Consequently, the received photo may not be the original one sent by the user, complicating the encryption and decryption processes. This solution is we can turn the photos to files, and WeChat usually cannot compress and modify the photo files. 
 
