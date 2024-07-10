@@ -105,7 +105,7 @@ To streamline our development process and ensure that our application was always
 
 Once the reports are submitted and the project has been evaluated, I believe the best path forward is to involve the community. Maintaining this software on my own would be an insurmountable task. Without ongoing maintenance and updates, the software would eventually become obsolete and cease to function effectively.
 
-To address this, I propose open-sourcing the project. By making the code available to the public, we can invite contributions from a diverse group of developers and enthusiasts. This collaborative approach will ensure the software remains up-to-date and continues to improve over time.
+To address this, I propose open-sourcing the project. By making the code available to the public, we can invite contributions from a diverse group of developers and enthusiasts. This collaborative approach will ensure the software remains up-to-date and continues to improve over time.  
 
 Open-sourcing the project will not only facilitate its longevity but also foster innovation. I am eager to see how the community can enhance the project with their feedback, ideas, and contributions. By working together, we can create a more robust and versatile tool that benefits everyone.
 
