@@ -107,7 +107,7 @@ Once the reports are submitted and the project has been evaluated, I believe the
 
 To address this, I propose open-sourcing the project. By making the code available to the public, we can invite contributions from a diverse group of developers and enthusiasts. This collaborative approach will ensure the software remains up-to-date and continues to improve over time.  
 
-The only concern would be the developer user base, but as we can observe from wxhelper project, I believe more de
+The only concern would be the developer user base, but as we can observe from wxhelper project, I believe some of the developers would like to take part
 
 Open-sourcing the project will not only facilitate its longevity but also foster innovation. I am eager to see how the community can enhance the project with their feedback, ideas, and contributions. By working together, we can create a more robust and versatile tool that benefits everyone.
 
