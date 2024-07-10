@@ -103,7 +103,7 @@ To streamline our development process and ensure that our application was always
 
 ## Feedback and open-source
 
-After the reports are submitted, I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute, and I am willing to see more innovations and feedbacks from the community.  
+After the reports are submitted and the project is evaluated, I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute, and I am willing to see more innovations and feedbacks from the community.  
 
 # Future Plan
 ## Work Left
