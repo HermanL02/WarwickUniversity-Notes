@@ -113,6 +113,9 @@ To ensure the robustness and user satisfaction of our app, we plan to ask a few 
 ## Timeline
 The rest time would be focused on stabilize the software. I plan to create a 10 people testing team, and do the A/B testing for them, see which software they gonna choose as the secure communication tool during the daily life, whether they choose to use a VPN or a product like this. 
 
-# Evaluation
-As the report requirement requires a self-evaluation, currently I believe my project is innovative, interesting, but lack of proficiency in deeper investigation and theoretical analysis. It mostly uses what people could learn from college level degree and the other self-learning practical knowledge in programming. Potentially, it cannot make financial benefits and do not a future benefit potential. 
-However, the advantage of this project is that it fully increased my personal experience in Electron, which allows me to get a job. Then, it extends my ability in Java and Kotlin, so I could have a general view about how the normal projects would be look like. It also merges what we learned in the class to what we can create. For example, the offsets and the RSA asymmetrical encryption. The other thing is that it proves the self-driven approach 
+# Self-Evaluation
+Currently, I believe my project is innovative and interesting. However, it does lack proficiency in deeper investigation and theoretical analysis. The project mainly relies on knowledge that can be acquired through a college-level degree and self-learning in programming. As a result, it may not have immediate financial benefits or substantial future potential in a commercial sense.
+
+Despite these limitations, the project has significantly enhanced my personal experience, particularly in Electron development. This experience has been instrumental in helping me secure a job. Additionally, the project has broadened my skills in Java and Kotlin, providing me with a comprehensive view of how typical software projects are structured.
+
+This project effectively integrates classroom learning with practical application. For example, it applies concepts like memory offsets and RSA asymmetric encryption in a real-world scenario. Moreover, it showcases the value of a self-driven approach, demonstrating that with motivation and dedication, significant progress and learning can be achieved.
