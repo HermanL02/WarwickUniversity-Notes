@@ -76,7 +76,7 @@ During the development process, several issues can cause progress to stall. As a
 
 ## New Language, Junior Developer
 
-Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better to learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Tutorial and ChatGPT. 
+Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better to learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Programming Tutorial and ChatGPT. 
 
 ## Photo Receive and Send
 
@@ -101,7 +101,7 @@ To streamline our development process and ensure that our application was always
 
 ## Feedback and open-source
 
-After the reports are submitted, I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute and I am willing to see more innovations and feedbacks from the community.  
+After the reports are submitted, I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute, and I am willing to see more innovations and feedbacks from the community.  
 
 # Future Plan
 ## Work Left
@@ -111,7 +111,7 @@ We are currently focused on enhancing the functionality for sending and receivin
 To ensure the robustness and user satisfaction of our app, we plan to ask a few people to review the code. Then, we may conduct thorough multiple testing. First, we will apply unit tests and jest tests on all the products.
 
 ## Timeline
-The rest time would be related to the projects themselves. 
+The rest time would be focused on stablize the software. I plan to create a 10 people testing team, a
 
 # Evaluation
 As the report requirement requires a self-evaluation, currently I believe my project is innovative, interesting, but lack of proficiency in deeper investigation and theoretical analysis. It mostly uses what people could learn from college level degree and the other self-learning practical knowledge in programming. Potentially, it cannot make financial benefits and do not a future benefit potential. 
