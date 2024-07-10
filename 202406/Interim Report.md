@@ -103,7 +103,11 @@ To streamline our development process and ensure that our application was always
 
 ## Feedback and open-source
 
-After the reports are submitted and the project is evaluated, a better common way is to let community get involved I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute, and I am willing to see more innovations and feedbacks from the community.  
+Once the reports are submitted and the project has been evaluated, I believe the best path forward is to involve the community. Maintaining this software on my own would be an insurmountable task. Without ongoing maintenance and updates, the software would eventually become obsolete and cease to function effectively.
+
+To address this, I propose open-sourcing the project. By making the code available to the public, we can invite contributions from a diverse group of developers and enthusiasts. This collaborative approach will ensure the software remains up-to-date and continues to improve over time.
+
+Open-sourcing the project will not only facilitate its longevity but also foster innovation. I am eager to see how the community can enhance the project with their feedback, ideas, and contributions. By working together, we can create a more robust and versatile tool that benefits everyone.
 
 # Future Plan
 ## Work Left
