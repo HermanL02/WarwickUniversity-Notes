@@ -113,4 +113,4 @@ To ensure the robustness and user satisfaction of our app, we plan to ask a few 
 ## Timeline
 
 # Evaluation
-
+As the report requirement requires a self-evaluation, currently I believe my project is innovative, interesting, but lack of proficiency in deeper investigation and theoritical analysis. It mostly uses what we could learn f
