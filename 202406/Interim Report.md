@@ -118,4 +118,4 @@ Currently, I believe my project is innovative and interesting. However, it does 
 
 Despite these limitations, the project has significantly enhanced my personal experience, particularly in Electron development. This experience has been instrumental in helping me secure a job. Additionally, the project has broadened my skills in Java and Kotlin, providing me with a comprehensive view of how typical software projects are structured.
 
-This project effectively integrates classroom learning with practical application. For example, it applies concepts like memory offsets and RSA asymmetric encryption in a real-world scenario. Moreover, it showcases the value of a self-driven approach, demonstrating that with motivation and dedication, significant progress and learning can be achieved.
+This project effectively integrates classroom learning with practical application. For example, it applies concepts like memory offsets and RSA asymmetric encryption in a real-world scenario. Moreover, it showcases the value of a self-driven approach, demonstrating that with motivation and dedication, significant progress and learning can be achieved as a postgraduate student. 
