@@ -81,6 +81,7 @@ Another challenge is working with an unfamiliar programming language. Although I
 ## Photo Receive and Send
 
 A further complication involves handling photos. Currently, WeChat does not download photos directly to the local computer but keeps them on an intermediary server. Consequently, the received photo may not be the original one sent by the user, complicating the encryption and decryption processes. This solution is we can turn the photos to files, and WeChat usually cannot compress and modify the photo files. 
+## Languages Interaction
 
 Finally, there are issues with interaction between Java/Kotlin and JavaScript. Despite both being similar languages, discrepancies arise when implementing the same RSA protocol and its configurations. While this issue has been mostly resolved by adopting a more universal package compatible with both Android and Windows applications, it remains a noteworthy challenge.
 
@@ -103,11 +104,14 @@ To streamline our development process and ensure that our application was always
 After the reports are submitted, I am aware that by myself, it will be impossible to maintain such software. The software will eventually be deprecated and cease to function effectively without ongoing maintenance and updates. Therefore, I propose to open-source the project, allowing the community to contribute and I am willing to see more innovations and feedbacks from the community.  
 
 # Future Plan
-# Work
+## Work Left
 ## Picture Send/Receive
 We are currently focused on enhancing the functionality for sending and receiving pictures as we mentioned above. This is in a discussion with other developers to find out the potential solutions. 
 ## Testing
-To ensure the robustness and user satisfaction of our app, we plan to ask a few people to review the code. Then, we may conduct thorough multiple testing. First, we will apply unit tests and jest tests on all the products. 
+To ensure the robustness and user satisfaction of our app, we plan to ask a few people to review the code. Then, we may conduct thorough multiple testing. First, we will apply unit tests and jest tests on all the products.
+
+## Timeline
+
 # Future Plan
 
 
