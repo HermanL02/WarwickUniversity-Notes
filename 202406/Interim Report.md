@@ -113,5 +113,5 @@ To ensure the robustness and user satisfaction of our app, we plan to ask a few 
 ## Timeline
 
 # Evaluation
-As the report requirement requires a self-evaluation, currently I believe my project is innovative, interesting, but lack of proficiency in deeper investigation and theoretical analysis. It mostly uses what people could learn from college level degree and the other self-learning practical knowledge in programming. Potentially, it cannot make economical benefits and do not a future benefit potential. 
+As the report requirement requires a self-evaluation, currently I believe my project is innovative, interesting, but lack of proficiency in deeper investigation and theoretical analysis. It mostly uses what people could learn from college level degree and the other self-learning practical knowledge in programming. Potentially, it cannot make financial benefits and do not a future benefit potential. 
 However, the advantage of this project is that it fully increased my personal experience in Electron, which allows me to get a job. Then, it extends my ability in Java and Kotlin, so I could have a general view about how the normal projects would be look like. 
