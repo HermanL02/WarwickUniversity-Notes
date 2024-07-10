@@ -112,10 +112,5 @@ To ensure the robustness and user satisfaction of our app, we plan to ask a few 
 
 ## Timeline
 
-# Future Plan
-
-
-
-
 # Evaluation
 
