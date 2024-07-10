@@ -106,11 +106,11 @@ After the reports are submitted, I am aware that by myself, it will be impossibl
 # Future Plan
 ## Work Left
 ## Picture Send/Receive
-We are currently focused on enhancing the functionality for sending and receiving pictures as we mentioned above. This is in a discussion with other developers to find out the potential solutions. 
+We are currently focused on enhancing the functionality for sending and receiving pictures as we mentioned above. This is in a discussion with other developers and trying to collect more information to find out the potential solutions. 
 ## Testing
 To ensure the robustness and user satisfaction of our app, we plan to ask a few people to review the code. Then, we may conduct thorough multiple testing. First, we will apply unit tests and jest tests on all the products.
 
-## Timeline
+## Timeline 
 The rest time would be focused on stabilize the software. I plan to create a 10 people testing team, and do the A/B testing for them, see which software they gonna choose as the secure communication tool during the daily life, whether they choose to use a VPN or a product like this. 
 
 # Self-Evaluation
