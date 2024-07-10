@@ -76,7 +76,7 @@ During the development process, several issues can cause progress to stall. As a
 
 ## New Language, Junior Developer
 
-Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Tutorial and ChatGPT. 
+Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better to learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Tutorial and ChatGPT. 
 
 ## Photo Receive and Send
 
