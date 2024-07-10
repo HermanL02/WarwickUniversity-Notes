@@ -111,7 +111,7 @@ We are currently focused on enhancing the functionality for sending and receivin
 To ensure the robustness and user satisfaction of our app, we plan to ask a few people to review the code. Then, we may conduct thorough multiple testing. First, we will apply unit tests and jest tests on all the products.
 
 ## Timeline
-The rest time would be focused on stablize the software. I plan to create a 10 people testing team, a
+The rest time would be focused on stablize the software. I plan to create a 10 people testing team, and do the A/B testing for them, see which software they gonna choose as the secure communication tool during the daily life, whether they choose to use a VPN or a product like
 
 # Evaluation
 As the report requirement requires a self-evaluation, currently I believe my project is innovative, interesting, but lack of proficiency in deeper investigation and theoretical analysis. It mostly uses what people could learn from college level degree and the other self-learning practical knowledge in programming. Potentially, it cannot make financial benefits and do not a future benefit potential. 
