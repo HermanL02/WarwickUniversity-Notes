@@ -125,7 +125,7 @@ Throughout July and into August, I will conduct extensive internal testing. This
 
 By the beginning of August, the software should be in a mature state, ready for the final stages of testing. This period will involve a select group of external testers who will use the software in real-world scenarios. Feedback from these testers will be invaluable, providing insights into any last-minute adjustments or improvements needed.
 
-Throughout August, the team will be on standby to address any issues or feedback from the testers swiftly. This final round of testing is crucial to ensuring that the software meets all user expectations and performs flawlessly.
+Throughout August, I will be on standby to address any issues or feedback from the testers swiftly. This final round of testing is crucial to ensuring that the software meets all user expectations and performs flawlessly.
 
 By the end of August, the project will be complete, and the software will be ready for launch. The culmination of these efforts will result in a robust, reliable product ready for users.
 
