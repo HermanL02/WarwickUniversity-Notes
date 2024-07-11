@@ -113,9 +113,9 @@ Open-sourcing the project will not only facilitate its longevity but also foster
 
 # Future Plan
 ## Work Left
-## Picture Send/Receive
+### Picture Send/Receive
 We are currently focused on enhancing the functionality for sending and receiving pictures as we mentioned above. This is in a discussion with other developers and trying to collect more information to find out the potential solutions. 
-## Testing
+### Testing
 To ensure the robustness and user satisfaction of our app, we plan to ask a few people to review the code. Then, we may conduct thorough multiple testing. First, we will apply unit tests and jest tests on all the products. Then, we will collect information from volunteers to have a A/B test and check if they prefer to use a VPN or our Electron app. The final result evaluation would be measured with the testing results., 
 
 ## Timeline 
