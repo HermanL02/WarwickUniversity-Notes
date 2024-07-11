@@ -119,7 +119,15 @@ We are currently focused on enhancing the functionality for sending and receivin
 To ensure the robustness and user satisfaction of our app, we plan to ask a few people to review the code. Then, we may conduct thorough multiple testing. First, we will apply unit tests and jest tests on all the products. Then, we will collect information from volunteers to have a A/B test and check if they prefer to use a VPN or our Electron app. The final result evaluation would be measured with the testing results., 
 
 ## Timeline 
-The rest time would be focused on stabilize the software. Around August, the project will be finally finished, and then it will have the final testing with some testers. 
+Starting from July 10th, the primary focus will shift towards stabilizing the software. This phase will involve rigorous debugging, refining, and optimizing the code to ensure the highest level of performance and reliability. Every identified issue will be meticulously addressed to ensure the software runs smoothly under various conditions.
+
+Throughout July and into August, I will conduct extensive internal testing. This will include unit tests, integration tests, and system tests to verify that all components work harmoniously together. The goal is to catch any remaining bugs and performance bottlenecks before the software is released to external testers.
+
+By the beginning of August, the software should be in a mature state, ready for the final stages of testing. This period will involve a select group of external testers who will use the software in real-world scenarios. Feedback from these testers will be invaluable, providing insights into any last-minute adjustments or improvements needed.
+
+Throughout August, the team will be on standby to address any issues or feedback from the testers swiftly. This final round of testing is crucial to ensuring that the software meets all user expectations and performs flawlessly.
+
+By the end of August, the project will be complete, and the software will be ready for launch. The culmination of these efforts will result in a robust, reliable product ready for users.
 
 # Self-Evaluation
 Currently, I believe my project is innovative and interesting. However, it does lack proficiency in deeper investigation and theoretical analysis. The project mainly relies on knowledge that can be acquired through a college-level degree and self-learning in programming. As a result, it may not have immediate financial benefits or substantial future potential in a commercial sense.
