@@ -114,9 +114,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3680edffe5567480",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -269,7 +279,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bd39a107637114de",
+  "active": "3680edffe5567480",
   "lastOpenFiles": [
     "202406/PDF Ref1.pdf",
     "202406/Interim Report.md",
