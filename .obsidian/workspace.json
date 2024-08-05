@@ -119,9 +119,11 @@
             "id": "3680edffe5567480",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "202408/New Things.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -204,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/New Things.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/New Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202406/Interim Report.md"
+                "file": "202408/New Things.md"
               }
             }
           },
@@ -281,8 +283,10 @@
   },
   "active": "3680edffe5567480",
   "lastOpenFiles": [
-    "202406/PDF Ref1.pdf",
     "202406/Interim Report.md",
+    "202408/New Things.md",
+    "202408",
+    "202406/PDF Ref1.pdf",
     "202404/CS932 Revision.md",
     "202404/Script.md",
     "202404/CS932 2023 Exam Review.md",
@@ -327,7 +331,6 @@
     "Pasted image 20231203150709.png",
     "visa",
     "程柏淳",
-    "Excalidraw/Labs",
-    "Excalidraw/CS917_A2_Q6"
+    "Excalidraw/Labs"
   ]
 }
