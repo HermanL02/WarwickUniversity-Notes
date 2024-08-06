@@ -6,4 +6,4 @@
 6. Issues: Express Server stall?
 7. 多语言的实现方法, 以及为何最终未能实现
 8. 双向IPC通信 与 普通REST CALL的不同 为什么采用
-9. 
+9. wxhelper版本的具体问题 比如部分版本提供的功能不同
