@@ -4,3 +4,5 @@
 4. Debug (live debug)
 5. Issues during coding: -> Clarity and maintenance; Eslint and Prettier
 6. Issues: Express Server stall?
+7. 多语言的实现方法, 以及为何最终未能实现
+8. 
