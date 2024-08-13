@@ -26,11 +26,15 @@ To store all 256-bit Keys 2264 bits
 
 ## Stream
 ### One Time Pad
-## Probability
+### Probability
 ![[Pasted image 20240812214722.png]]
 ![[Pasted image 20240812214746.png]]
-## Synchronous Cipher
+### Synchronous Cipher
 ![[Pasted image 20240812215646.png]]
 例如k5 = (k1+k2) mod 2
+
+### Attack
+Two Time Pad
+C1 异或 C2 = M1 异或 M2 => {m1, m2}
 
 ## LFSR
