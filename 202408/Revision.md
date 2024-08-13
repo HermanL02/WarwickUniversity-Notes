@@ -53,4 +53,6 @@ S表:
 0000代表横向行 0000->0 第一列
 
 P表: 
-yi'dui'shu
+一堆数字 代表 n->n
+
+Triple DES: More Secure
