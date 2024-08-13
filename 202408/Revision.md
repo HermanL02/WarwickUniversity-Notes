@@ -30,3 +30,7 @@ To store all 256-bit Keys 2264 bits
 ![[Pasted image 20240812214722.png]]
 ![[Pasted image 20240812214746.png]]
 ## Synchronous Cipher
+![[Pasted image 20240812215646.png]]
+例如k5 = (k1+k2) mod 2
+
+## LFSR
