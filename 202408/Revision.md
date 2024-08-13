@@ -20,7 +20,5 @@ To store all 256-bit Keys 2264 bits
 根据字母频率可以破译
 
 ## Vigenère cipher
-以单词作为key
-
-1. 查找
-2. 
+原因: 以单词作为key
+破解: 查找重复词来判断位移量 -> Index of C
