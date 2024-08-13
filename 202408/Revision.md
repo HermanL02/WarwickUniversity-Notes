@@ -12,5 +12,8 @@ To store all 256-bit Keys 2264 bits
 - Diffusion: 破坏规律, 例如字母出现频率等
 ## Caesar Cipher
 向右移动3位
+## ROT13
+向右移动13位, 对称性: 解密加密相同方式
+
 
 
