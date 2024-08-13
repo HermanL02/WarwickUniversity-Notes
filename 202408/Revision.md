@@ -36,6 +36,7 @@ To store all 256-bit Keys 2264 bits
 ### Attack
 - Two Time Pad
 C1 异或 C2 = M1 异或 M2 => {m1, m2}
-- 
+- Integrity: 修改密文
+- CSS光盘
 
 ## LFSR
