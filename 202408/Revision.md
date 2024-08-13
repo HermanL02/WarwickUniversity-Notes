@@ -21,3 +21,5 @@ To store all 256-bit Keys 2264 bits
 
 ## Vigenère cipher
 
+1. 查找键长
+2. 
