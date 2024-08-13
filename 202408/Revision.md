@@ -10,11 +10,12 @@ To store all 256-bit Keys 2264 bits
 
 - Confusion: 模糊Plaintext/Ciphertext之间的关系
 - Diffusion: 破坏规律, 例如字母出现频率等
-## Caesar Cipher
+## Shift Cipher
+### Caesar Cipher
 向右移动3位
-## ROT13
+### ROT13
 向右移动13位, 对称性: 解密加密相同方式
 
-
-
+## Substitution Cipher
+根据
 
