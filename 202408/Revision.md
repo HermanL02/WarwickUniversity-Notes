@@ -17,5 +17,7 @@ To store all 256-bit Keys 2264 bits
 向右移动13位, 对称性: 解密加密相同方式
 
 ## Substitution Cipher
-根据
+根据字母频率可以破译
+
+## Vigenère cipher
 
