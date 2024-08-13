@@ -28,3 +28,5 @@ To store all 256-bit Keys 2264 bits
 ### One Time Pad
 ## Probability
 ![[Pasted image 20240812214722.png]]
+![[Pasted image 20240812214746.png]]
+@@
