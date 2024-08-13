@@ -10,4 +10,7 @@ To store all 256-bit Keys 2264 bits
 
 - Confusion: 模糊Plaintext/Ciphertext之间的关系
 - Diffusion: 破坏规律, 例如字母出现频率等
+## Caesar Cipher
+向右移动3位
+
 
