@@ -20,6 +20,7 @@ To store all 256-bit Keys 2264 bits
 根据字母频率可以破译
 
 ## Vigenère cipher
+以单词作为key
 
-1. 查找键长
+1. 查找
 2. 
