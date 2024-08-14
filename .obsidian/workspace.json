@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202408/New Things.md",
+                "file": "202408/Revision.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202408/New Things.md",
+                "file": "202408/Revision.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202408/New Things.md",
+                "file": "202408/Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202408/New Things.md"
+                "file": "202408/Revision.md"
               }
             }
           },
@@ -271,6 +271,7 @@
   },
   "active": "3680edffe5567480",
   "lastOpenFiles": [
+    "202408/New Things.md",
     "202408/Revision.md",
     "Pasted image 20240812224721.png",
     "Pasted image 20240812215646.png",
@@ -278,7 +279,6 @@
     "Pasted image 20240812214737.png",
     "Pasted image 20240812214733.png",
     "Pasted image 20240812214722.png",
-    "202408/New Things.md",
     "202409",
     "202404/CS932 2023 Exam Review.md",
     "202406/Interim Report.md",
