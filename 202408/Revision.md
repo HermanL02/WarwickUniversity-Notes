@@ -1,4 +1,4 @@
-# Crypto\
+# Crypto
 ## Classical
 ### Four General Types of Attack
 - Ciphertext-only
