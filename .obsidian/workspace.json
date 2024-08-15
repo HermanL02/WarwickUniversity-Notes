@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/论文结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/论文结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/论文结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202406/Interim Report.md"
+                "file": "202408/论文结构.md"
               }
             }
           },
@@ -271,8 +271,8 @@
   },
   "active": "3680edffe5567480",
   "lastOpenFiles": [
-    "202408/论文结构.md",
     "202406/Interim Report.md",
+    "202408/论文结构.md",
     "202408/Revision.md",
     "Pasted image 20240812224721.png",
     "Pasted image 20240812215646.png",
