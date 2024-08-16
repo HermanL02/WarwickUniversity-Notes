@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309/Lab 6.md",
+                "file": "202408/Revision.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/Revision.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202406/Interim Report.md"
+                "file": "202408/Revision.md"
               }
             }
           },
@@ -269,46 +268,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "floating": {
-    "id": "143d655d38828b5b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d6563df7fa70dd38",
-        "type": "window",
-        "children": [
-          {
-            "id": "0457e6bf98d060aa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8326c77b116150a6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "202406/Interim Report.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 116,
-        "y": 44,
-        "width": 636,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8326c77b116150a6",
+  "active": "ba4c2ec83771b87d",
   "lastOpenFiles": [
     "202408/论文结构.md",
+    "202309/Lab 6.md",
     "202406/Interim Report.md",
     "202406/PDF Ref1.pdf",
     "202408/Revision.md",
@@ -336,7 +299,6 @@
     "202402/Research Proposal.md",
     "Koii",
     "未命名.canvas",
-    "202309/Lab 6.md",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "202309/Essay.md",
