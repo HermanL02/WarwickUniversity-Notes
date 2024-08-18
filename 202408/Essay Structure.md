@@ -73,7 +73,7 @@ At the beginning of the process, I was attempting to
 ## Live Debug
 Developing an Electron app is similar to developing the web apps. Usually the web apps could apply the changes of the feature instantly and directly reflect instantly on the webpage. Electron framework inherits the benefits of web development while supporting the desktop app functions with multi-platform support. 
 ### Code Formatting
-To maintain the clarity and maintenance of the code, it's essential to address common issues during coding. One effective approach is to use tools like ESLint and Prettier. ESLint helps in identifying and fixing code quality issues, while Prettier ensures consistent code formatting. By incorporating these tools into your development process, you not only make your code more readable to others but also to yourself. As the saying goes, "Only God and I know what this code does... and sometimes even I'm not sure!" Proper formatting and linting help ensure that your code remains understandable, even as it evolves over time.
+To maintain the clarity and maintenance of the code, it's essential to address common issues during coding. Therefore, in our project, I used ESLint and Prettier. ESLint helps in identifying and fixing code quality issues, while Prettier ensures consistent code formatting. By incorporating these tools into our development process, we not only make our code more readable to others but also to ourselves. As the saying goes, "Only God and I know what this code does... and sometimes even I'm not sure!" Proper formatting and linting help ensure that your code remains understandable, even as it evolves over time.
 - 添加 测试结果
 
 
