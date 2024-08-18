@@ -80,6 +80,7 @@ To maintain the clarity and maintenance of the code, it's essential to address c
 
 
 # Potential Threats
+## wxhelper requirement
 - 添加 wxhelper版本的具体问题 比如部分版本提供的功能不同
 - 添加 微信可能的反制措施
 
