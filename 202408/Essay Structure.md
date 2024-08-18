@@ -38,6 +38,7 @@ For the last several months, I have learned many essentail software development 
 ### Coupling and Cohesion
 The high coupling refers to a situation where modules are highly dependent on each other. It means changing one module might require changes in several other modules as well. The low cohesion means that the functions within a module are not closely related and the module might be responsible for too many unrelated tasks or a module contains too many unrelated functions. The combination of these two issues might lead to code that is difficult to maintain and hard to extend.    
 This issue is extremely difficult in Electron, because both frontend and backend code are in JavaScript. It means some functions can be done on the frontend and they can be done on the backend as well. If the modules are not designed properly, the coupling will be very high. 
+To avoid this issue, we follow the modulized design principle. During the development in Electron development. 
 To avoid the high coupling and low cohesion issue, in the software, we put low
 - 总体思路: 过去的Electron开发经验
 - 添加 高耦合低内聚
