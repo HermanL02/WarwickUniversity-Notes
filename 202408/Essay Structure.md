@@ -61,8 +61,8 @@ Over engineering or early optimization is the mistake I made in this project. At
 
 # Issues
 ## Express Server Stall
-During the setting up 
- - 添加 Hook成功但是无法收到消息, 需要重启，猜测可能的原因
+During the setting up of express server, there is some probability that the express server cannot receive the messages, but all other functions remain in the hook do not have any issue. 
+
 
 # Project Management
 - 添加 Debug (live debug)
