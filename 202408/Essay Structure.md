@@ -5,18 +5,14 @@ Meanwhile, in People's Republic of China(PRC), people cannot find a secure way t
 
 Therefore, we are here to introduce an E2EE solution for WeChat with main focus on Windows and Android platforms. The whole design has a tested workflow. Although it might not be a production level product to last decades, it potentially benefits people who can only access to the mainland chat applications and the people who need to keep contact with mainland friends. The whole idea also incentivize many more similar applications and urge WeChat and the government policies to change. 
 
-For this appWe give it a name, Libre Chat. 
+For this application, we give it a name, Libre Chat. 
 # Background and Research
 # 功能展示 图片 
 - 添加 安装微信
 - 添加 反制微信更新
 
 # Develop Structure 
-## Overall Concepts
 
-- 总体思路: 过去的Electron开发经验
-- 添加 高耦合低内聚
-- 添加 软件开发理念 例如学到的减少注释 名字简洁则是最好的注释
 ## Windows
 ### Underlying Technology
 - 添加 Process to use ICA to find vulnerabilities; SQL integration
@@ -35,6 +31,9 @@ For this appWe give it a name, Libre Chat.
 
 ## Android
 ### Structure
+
+## Design Concepts
+B
 # Process
 
 ## Solved Issues 
