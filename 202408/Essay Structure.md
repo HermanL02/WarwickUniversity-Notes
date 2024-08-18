@@ -81,10 +81,10 @@ To maintain the clarity and maintenance of the code, it's essential to address c
 
 # Potential Threats
 ## WXhelper Update
-The project WXhelper is maintained by community members. The API usually update very frequently and does not have a fixed pattern. For example, the type of the api calls route changes from the numeric numbers like `/api?type = 1` to meaning based routes like `/api/hookMessages`. 
-It means every time they update their api, we might need to manually update it. That requires a continues distribution which this process is influencable 
-- 添加 wxhelper版本的具体问题 比如部分版本提供的功能不同
-- 添加 微信可能的反制措施
+The project WXhelper is maintained by community members. The API usually update very frequently and does not have a fixed pattern. For example, the type of the API calls route changes from the numeric numbers like `/api?type = 1` to meaning based routes like `/api/hookMessages`. 
+It means every time they update their API, we might need to manually update it. That requires a continues distribution which this process can be interrupted by the third party.  
+
+## WeChat Anti-Measures
 
 
 # Unachieved Features
