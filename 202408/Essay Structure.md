@@ -33,7 +33,7 @@ For this application, we give it a name, Libre Chat.
 ### Structure
 
 ## Design Concepts
-## Overall Concepts
+## Concepts And Why They are Important
 For the last several months, I have learned many essentail software development skills and applied them to our apps. The app design concepts  are usually a foundation of the whole software development process. 
 ### Coupling
 The coupling
