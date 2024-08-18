@@ -50,7 +50,7 @@ the above block is not as clear as the below one.
 ```
 let isHooked = false;
 ```
-Therefore, 
+Therefore, by applying this rule, we reduced many keys 
 ### Over Engineering
 Over Enge
 
