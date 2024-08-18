@@ -60,7 +60,8 @@ Over engineering or early optimization is the mistake I made in this project. At
 
 
 # Issues
- - 添加 Express Server stall?
+## Express Server Stall
+
  - 添加 Hook成功但是无法收到消息, 需要重启，猜测可能的原因
 
 # Project Management
