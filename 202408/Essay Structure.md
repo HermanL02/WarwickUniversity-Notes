@@ -65,6 +65,7 @@ During the setting up of express server, there is some probability that the expr
 
 
 # Project Management
+At the beginning of the process, I was attempting to 
 - 添加 Debug (live debug)
 - 添加 Issues during coding: → Clarity and maintenance; ESLint and Prettier ?(只有上帝和我知道代码)
 - 添加 测试结果
