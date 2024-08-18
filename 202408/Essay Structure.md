@@ -36,7 +36,7 @@ For this application, we give it a name, Libre Chat.
 ## Concepts Application
 For the last several months, I have learned many essentail software development skills and applied them to our apps. The app design concepts  are usually a foundation of the whole software development process. 
 ### Coupling and Cohesion
-The high coupling refers to a situation where modules are highly dependent on each other. It means changing one module might require changes in several other modules as well. The low cohesion means that the functions within a module are not closely related and the module might be responsible for too many unrelated tasks or a module contains too many unrelated functions. The combination of these two issues might lead to code that is difficult to maintasin and hard to extend.    
+The high coupling refers to a situation where modules are highly dependent on each other. It means changing one module might require changes in several other modules as well. The low cohesion means that the functions within a module are not closely related and the module might be responsible for too many unrelated tasks or a module contains too many unrelated functions. The combination of these two issues might lead to code that is difficult to maintain and hard to extend.    
 - 总体思路: 过去的Electron开发经验
 - 添加 高耦合低内聚
 - 添加 软件开发理念 例如学到的减少注释 名字简洁则是最好的注释
