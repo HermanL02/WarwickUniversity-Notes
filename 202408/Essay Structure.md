@@ -61,7 +61,7 @@ Over engineering or early optimization is the mistake I made in this project. At
 
 # Issues
 ## Express Server Stall
-
+During the setting up 
  - 添加 Hook成功但是无法收到消息, 需要重启，猜测可能的原因
 
 # Project Management
