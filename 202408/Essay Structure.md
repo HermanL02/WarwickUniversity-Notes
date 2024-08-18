@@ -35,7 +35,7 @@ For this application, we give it a name, Libre Chat.
 ## Design Concepts
 ## Concepts And Why They are Important
 For the last several months, I have learned many essentail software development skills and applied them to our apps. The app design concepts  are usually a foundation of the whole software development process. 
-### Coupling
+### Coupling and Cohesion
 The coupling is a key concept in software design. It means the dependency of different modules are very strong. Changing one of the module may cause the change of many other modules. 
 - 总体思路: 过去的Electron开发经验
 - 添加 高耦合低内聚
