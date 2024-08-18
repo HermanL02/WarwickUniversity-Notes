@@ -33,6 +33,19 @@ For this application, we give it a name, Libre Chat.
 ### Structure
 
 ## Design Concepts
+
+# Process
+
+## Solved Issues 
+## Remain Unsolved Issues
+
+
+# Issues
+## Express Server Stall
+During the setting up of express server, there is some probability that the express server cannot receive the messages, but all other functions remain in the hook do not have any issue. 
+
+
+# Project Management
 ## Concepts Application
 For the last several months, I have learned many essentail software development skills and applied them to our apps. The app design concepts  are usually a foundation of the whole software development process. 
 ### Coupling and Cohesion
@@ -53,20 +66,10 @@ let isHooked = false;
 Therefore, by applying this rule, we reduced many keys 
 ### Over Engineering
 Over engineering or early optimization is the mistake I made in this project. At the beginning of the project, we aim too much on designing the folder structure without the real requirement support. The general security standard is too high to ignore the real functionality design. Both resulted the development efficiency is low. 
-# Process
 
-## Solved Issues 
-## Remain Unsolved Issues
-
-
-# Issues
-## Express Server Stall
-During the setting up of express server, there is some probability that the express server cannot receive the messages, but all other functions remain in the hook do not have any issue. 
-
-
-# Project Management
 At the beginning of the process, I was attempting to 
 - 添加 Debug (live debug)
+## 
 - 添加 Issues during coding: → Clarity and maintenance; ESLint and Prettier ?(只有上帝和我知道代码)
 - 添加 测试结果
 
