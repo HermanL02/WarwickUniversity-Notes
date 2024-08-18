@@ -44,7 +44,9 @@ To avoid this issue, we follow the module design principle. During the developme
 Regarding comments, it is really controversy. Many code examples encourage writing clear comments and docs. However, during the development process and the advice of my colleagues, I realized that the code readability is not really achieved by massive comments. It is based on clear and simple naming. When a software is designed in a good structure, the name of the function and the name of the variable could be meaningful and express their utilities. The comments will be redundant and unnecessary. For example, 
 ```
 // The following variable indicates whether the code is forked
+let k = false;
 ```
+the 
 
 
 - 总体思路: 过去的Electron开发经验
