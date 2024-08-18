@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/论文结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/论文结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/论文结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202406/Interim Report.md"
+                "file": "202408/论文结构.md"
               }
             }
           },
@@ -172,16 +172,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
+  "floating": {
+    "id": "32cc66801315b9b1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "33cd7c7c5841cedd",
+        "type": "window",
+        "children": [
+          {
+            "id": "933558d95fd00055",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "266465008eb21611",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "202406/Interim Report.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 27,
+        "y": 114,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "ba4c2ec83771b87d",
   "lastOpenFiles": [
-    "202404/CS918 Revision.md",
     "202406/Interim Report.md",
     "202408/论文结构.md",
     "202408/Revision.md",
+    "202406/PDF Ref1.pdf",
+    "202404/CS918 Revision.md",
     "Pasted image 20240815215416.png",
     "CS915 Revision.md",
     "202309/Lab 6.md",
-    "202406/PDF Ref1.pdf",
     "Pasted image 20240812224721.png",
     "Pasted image 20240812215646.png",
     "Pasted image 20240812214746.png",
