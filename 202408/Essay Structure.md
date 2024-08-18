@@ -52,7 +52,7 @@ let isHooked = false;
 ```
 Therefore, by applying this rule, we reduced many keys 
 ### Over Engineering
-Over Enge
+Over engineering or early optimization 
 
 - 总体思路: 过去的Electron开发经验
 - 添加 高耦合低内聚
