@@ -71,7 +71,7 @@ At the beginning of the process, I was attempting to
 - 添加 Debug (live debug)
 ## Tools Utilization
 ## Live Debug
-Developing an Electron app is similar to developing the web apps. Usually the web apps could apply the 
+Developing an Electron app is similar to developing the web apps. Usually the web apps could apply the changes of the feature instantly and directly reflect 
 ### Code Formatting
 
 - 添加 Issues during coding: → Clarity and maintenance; ESLint and Prettier ?(只有上帝和我知道代码)
