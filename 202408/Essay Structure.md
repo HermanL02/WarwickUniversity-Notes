@@ -35,6 +35,8 @@ For this application, we give it a name, Libre Chat.
 ## Design Concepts
 ## Overall Concepts
 For the last several months, I have learned many essentail software development skills and applied them to our apps. The app design concepts  are usually a foundation of the whole software development process. 
+### Coupling
+The coupling
 
 - 总体思路: 过去的Electron开发经验
 - 添加 高耦合低内聚
