@@ -41,7 +41,7 @@ This issue is extremely difficult in Electron, because both frontend and backend
 To avoid this issue, we follow the module design principle. During the development in Electron development. In the software, we separate the frontend logic and the backend logic. The basic principle is everything related to data will be strictly limited to only be processed on the backend, and everything regarding the interface will be strictly limited to the frontend. Therefore, even if the frontend and the backend changes, they will not influence each other, to afford a low coupling and high cohesion application. 
 
 ## Comments Reducing
-Regarding comments, it is really controversy. Many code examples encourage writing clear comments and docs. However, during the development process and the advice of my colleagues, I realized that the code readability is not really achieved by massive comments. It is based on clear and simple naming. When a software is designed in a good structure, the name of the function and the name of the variable 
+Regarding comments, it is really controversy. Many code examples encourage writing clear comments and docs. However, during the development process and the advice of my colleagues, I realized that the code readability is not really achieved by massive comments. It is based on clear and simple naming. When a software is designed in a good structure, the name of the function and the name of the variable could be meaningful and express their utilities. The comments will be 
 
 
 - 总体思路: 过去的Electron开发经验
