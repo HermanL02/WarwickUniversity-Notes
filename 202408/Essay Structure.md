@@ -70,6 +70,8 @@ Over engineering or early optimization is the mistake I made in this project. At
 At the beginning of the process, I was attempting to 
 - 添加 Debug (live debug)
 ## Tools Utilization
+## Live Debug
+Developing an Electron app is similar to 
 ### Code Formatting
 
 - 添加 Issues during coding: → Clarity and maintenance; ESLint and Prettier ?(只有上帝和我知道代码)
