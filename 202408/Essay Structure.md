@@ -33,7 +33,12 @@ For this application, we give it a name, Libre Chat.
 ### Structure
 
 ## Design Concepts
-B
+## Overall Concepts
+
+
+- 总体思路: 过去的Electron开发经验
+- 添加 高耦合低内聚
+- 添加 软件开发理念 例如学到的减少注释 名字简洁则是最好的注释
 # Process
 
 ## Solved Issues 
