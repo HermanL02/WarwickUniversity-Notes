@@ -46,8 +46,8 @@ The basic function page affords the basic features.
 First, it provides key related operations, such as key generation, key update and key copy and paste.  It also affords key import function. 
 Second, it provides the storage of other people's key, it can import the other people's public key. 
 Third, it provides instant encrypt and decrypt using others public key and our private key. 
-## Basic Function Page
-- 添加 安装微信
+## WeChat Direct Message Page
+The WeChat direct message page contains the compulsory steps to hook WeChat. 
 - 添加 反制微信更新
 
 # Develop Structure 
@@ -58,6 +58,7 @@ Third, it provides instant encrypt and decrypt using others public key and our p
 - 添加 Process to use ICA to find vulnerabilities; SQL integration
 - 
 ### General Structure
+install wechat/anti updaste
 - NeDB
 - 添加 Electron Builder How to include assets into installer
 - 添加 Package Management NPM vs. YARN
