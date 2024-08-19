@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3790e632785e9b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202408/Essay Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
       }
     ]
   },
-  "active": "6cb85e67b940f0b3",
+  "active": "e3790e632785e9b3",
   "lastOpenFiles": [
     "202408/ISSUES.md",
     "202408/Revision.md",
