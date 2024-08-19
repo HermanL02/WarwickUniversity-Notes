@@ -7,6 +7,7 @@ Therefore, we are here to introduce an E2EE solution for WeChat with main focus 
 
 For this application, we give it a name, Libre Chat. 
 # Background and Research
+
 # 功能展示 图片 
 - 添加 安装微信
 - 添加 反制微信更新
