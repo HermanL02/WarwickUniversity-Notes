@@ -85,9 +85,12 @@ The project WXhelper is maintained by community members. Although the community 
 It means every time they update their API, we might need to manually update it. That requires a continues distribution which this process can be interrupted by the third party.  
 
 ## WeChat Anti-Measures
-It is possible for WeChat to block E2EE communications on WeChat. It depends whether this worth them to do that. 
+It is possible for WeChat to block E2EE communications on WeChat. It depends on whether this worth them to do that. 
+### Entropy
 For example, the message contains encrypted messages usually have a high entropy and looks like random bit stream. WeChat could monitor the messages and identify the high entropy messages and mark them as a strong encrypted messages and may block these high entropy messages as well if they want. 
-Also, since the RSA data length is fixed after the encryption and does not follow the plaintext's length to change. WeChat could also identify if the users have sen
+### Length
+Also, since the RSA data length is fixed after the encryption and does not follow the plaintext's length to change. WeChat could also identify if the users have sent the messages of the same length. 
+### 
 
 # Unachieved Features
 - 添加 多语言的实现方法, 以及为何最终未能实现，即使是公司的软件也没能实现
