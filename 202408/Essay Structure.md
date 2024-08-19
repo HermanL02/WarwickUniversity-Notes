@@ -102,7 +102,7 @@ Also, during the development of the public apps, even the companies' app cannot 
 ## Multi-Platform
 ### Attempts
 #### Unified Format
-Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues when facing some special characters, such as `\`
+Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues when facing some special characters, such as the line change character, `\n`.
 
 By adopting a unified JSON format, we were able to streamline communication between various devices, ensuring consistency in the data structure and reducing potential errors caused by language differences. This format also allowed for easier integration with other systems and tools, as JSON is a widely supported and flexible data format. The move towards JSON was a key step in ensuring that our encryption and messaging system could scale and adapt to different environments without sacrificing security or functionality.
 
