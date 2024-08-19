@@ -41,7 +41,7 @@ In the past, there are some open source solutions attempt to use web version of 
 
 The whole video demonstration could be found here. [TODO YOUTUBE] 
 ## Basic Function Page
-The basic function page affords the basic features. It provides the key generation, key update and key copy paste.  [TODO PHOTO1]
+The basic function page affords the basic features. It provides the key generation, key update and key copy and paste.  [TODO PHOTO1]
 - 添加 安装微信
 - 添加 反制微信更新
 
