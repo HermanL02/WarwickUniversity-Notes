@@ -81,7 +81,7 @@ To maintain the clarity and maintenance of the code, it's essential to address c
 
 # Potential Threats
 ## WXhelper Update
-The project WXhelper is maintained by community members. Although the community members are keep contributing the new versions to follow up the WeChat versions, th The API usually update very frequently and does not have a fixed pattern. For example, the type of the API calls route changes from the numeric numbers like `/api?type = 1` to meaning based routes like `/api/hookMessages`. 
+The project WXhelper is maintained by community members. Although the community members are keep contributing the new versions to follow up the WeChat versions, there are some minor changes are every updates to make it not fully production reliable and hard to keep consistent update. For example, the API usually update very frequently and does not have a fixed pattern. For example, the type of the API calls route changes from the numeric numbers like `/api?type = 1` to meaning based routes like `/api/hookMessages`. 
 It means every time they update their API, we might need to manually update it. That requires a continues distribution which this process can be interrupted by the third party.  
 
 ## WeChat Anti-Measures
