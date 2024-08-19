@@ -114,9 +114,8 @@ This feature was particularly important for maintaining a seamless user experien
 ## Jest Testing
 ### Data Type
 Within the project, the project content gives the Jest testing some challenges. To test with Jest, we need to simulate the real world conditions and give the expected return values to the functions. For example, if we want to test the decryption, we need to give the type of messages will receive on WeChat. However, since there are a various type of the message structures are used in the WeChat, and we cannot get the structures before we were trying in advance. It is impossible to apply a comprehensive and meaningful Jest testing. 
-
 ### Code Structure
-
+Currently, within the code, there are a lot of async operations and the APIs of the WXHelper. To configure Jest with WeChat and WXhelper, it requires a lot of additional configurations of the tests 
 
 - Jest 未能实现 为什么? 为什么他很重要? 
 
