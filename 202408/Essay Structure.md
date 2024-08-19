@@ -52,7 +52,7 @@ It provides the essential hook WeChat function. Then, it allows the user to ente
 ### WeChat Communication Channel Build Page
 The WeChat communication channel build page contains the steps to hook WeChat, listen for a temporary encrypt chat, and start a temporary encrypt WeChat. 
 The correct sequence is the first user hook the WeChat, and click on Listen for a temporary encrypt chat. 
-The second user hook the WeChat, and click on start
+The second user hook the WeChat, and click on start a temporary encrypt chat, then the first us
 # Develop Structure 
 
 ## Windows
