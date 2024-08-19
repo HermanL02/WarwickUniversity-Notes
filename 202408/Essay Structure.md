@@ -56,7 +56,7 @@ The second user hook the WeChat, and click on start a temporary encrypt chat, th
 The first user click on send my key, then the second user will also be in the secret chat page. 
 
 ### Secret Chat Page
-Based on each others public key and their private key, the chat page can automatically handle the send and receive message 
+Based on each others public key and their private key, the chat page can automatically handle the send and receive message functions. 
 # Develop Structure 
 
 ## Windows
