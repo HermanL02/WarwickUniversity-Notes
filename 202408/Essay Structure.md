@@ -85,7 +85,8 @@ The project WXhelper is maintained by community members. Although the community 
 It means every time they update their API, we might need to manually update it. That requires a continues distribution which this process can be interrupted by the third party.  
 
 ## WeChat Anti-Measures
-
+It is possible for WeChat to block E2EE communications on WeChat. It depends whether this worth them to do that. 
+For example, the mes
 
 # Unachieved Features
 - 添加 多语言的实现方法, 以及为何最终未能实现，即使是公司的软件也没能实现
