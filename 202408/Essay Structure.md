@@ -109,11 +109,10 @@ By adopting a unified JSON format, we were able to streamline communication betw
 #### Key Type and Import
 We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times. The import works for the desktop version, but still doesn't work for the phone version.
 
-This feature was particularly important for maintaining a seamless user experience. By allowing RSA keys to be shared and imported across devices, users could avoid the hassle of managing multiple keys for different platforms. The successful implementation on the desktop version demonstrated the feasibility and benefits of this approach. However, the challenges encountered in implementing this feature on the mobile version highlighted some of the limitations and complexities involved, such as differences in operating system capabilities, file handling, and security restrictions on mobile platforms. Despite these challenges, the effort to create a unified key management system remains a critical goal, as it significantly improves the overall usability and security of our encrypted communication system.
+This feature was particularly important for maintaining a seamless user experience and is a essential factor for evaluating my project. By allowing RSA keys to be shared and imported across devices, users could avoid the hassle of managing multiple keys for different platforms. The successful implementation on the desktop version demonstrated the feasibility and benefits of this approach. However, the challenges encountered in implementing this feature on the mobile version highlighted some of the limitations and complexities involved, such as differences in operating system capabilities, file handling, and security restrictions on mobile platforms. 
 
 
 
-- 多端同步 为什么没能实现 以及我们所作的努力和尝试 例如导入钥匙等
 - Jest 未能实现 为什么? 为什么他很重要? 
 
 # Acknowledgement
