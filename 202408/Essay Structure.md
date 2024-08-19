@@ -100,7 +100,8 @@ The core thing to support multi-language is to use language files, such as JSON 
 However, the development requires some changes on the UI. The UI design will be broke and need to be adjusted after the multi-language is deployed, which is a heavy work for an individual developer to implement. 
 Also, during the development of the public apps, even the companies' app cannot achieve the multi-language support. 
 ## Multi-Platform
-### Attempts We Made
+### Attempts
+#### Unified Format
 Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues between different languages. 
 We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times.
 
