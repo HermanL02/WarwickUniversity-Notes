@@ -8,9 +8,9 @@ Therefore, we are here to introduce an E2EE solution for WeChat with main focus 
 For this application, we give it a name, Libre Chat. 
 # # Background and Research
 ## E2EE Measures from a Global Perspective
-There are four properties are used to ensure the messaging is secure, which are confidentiality, integrity, authentication and non-repudiation. [PDF Ref1] There are many encryption protocols are designed to fulfil the these properties, such as Signal protocol and the RSA protocol. 
+There are four properties are used to ensure the messaging is secure, which are confidentiality, integrity, authentication and non-repudiation. [TODO PDF Ref1] There are many encryption protocols are designed to fulfil the these properties, such as Signal protocol and the RSA protocol. 
 
-iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. iMessage uses PQ3 protocol, WhatsApp and Signal uses Signal protocol. Telegram uses MTProto Protocol. Proton Mail uses RSA protocol. [PDF Ref1]
+iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. iMessage uses PQ3 protocol, WhatsApp and Signal uses Signal protocol. Telegram uses MTProto Protocol. Proton Mail uses RSA protocol. [TODO PDF Ref1]
 
 We can generally consider that E2EE is widely used outside internet restricted area. 
 ## Current WeChat Encryption Measures
