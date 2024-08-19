@@ -84,16 +84,18 @@ To maintain the clarity and maintenance of the code, it's essential to address c
 The project WXhelper is maintained by community members. Although the community members are keep contributing the new versions to follow up the WeChat versions, there are some minor changes are every update to make it not fully production reliable and hard to keep consistent update. For example, the API usually update very frequently and does not have a fixed pattern. For example, the type of the API calls route changes from the numeric numbers like `/api?type = 1` to meaning based routes like `/api/hookMessages`. 
 It means every time they update their API, we might need to manually update it. That requires a continues distribution which this process can be interrupted by the third party.  
 
-## WeChat Anti-Measures
+## Potential WeChat Anti-Measures
 It is possible for WeChat to block E2EE communications on WeChat. It depends on whether this worth them to do that. 
 ### Entropy
 For example, the message contains encrypted messages usually have a high entropy and looks like random bit stream. WeChat could monitor the messages and identify the high entropy messages and mark them as a strong encrypted messages and may block these high entropy messages as well if they want. 
 ### Length
 Also, since the RSA data length is fixed after the encryption and does not follow the plaintext's length to change. WeChat could also identify if the users have sent the messages of the same length. 
 ### Deep Packet Inspection
-Deep Package inspection could be used to check the transmission of the data packages. Althou
+Deep Package inspection could be used to check the transmission of the data packages. It could identify the encryption protocols 
 
 # Unachieved Features
+## Multi-language
+During the development process, 
 - 添加 多语言的实现方法, 以及为何最终未能实现，即使是公司的软件也没能实现
 - 多端同步 为什么没能实现 以及我们所作的努力和尝试 例如导入钥匙等
 - Jest 未能实现 为什么? 为什么他很重要? 
