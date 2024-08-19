@@ -37,7 +37,9 @@ Third, the use of VPN is not convenient. If we are always connected to VPN, some
 ### E2EE Deprecated Solutions for WeChat
 In the past, there are some open source solutions attempt to use web version of WeChat to intercept the messages. It avoids the complexity of reverse engineering. However, as WeChat aware of the potential use of WeChat Web version, they are forcing users to switch to WeChat Desktop version. Therefore, the web version's use becomes very limited. 
 
-# User Manual and Desmons
+# User Manual and Desmonstration
+
+The whole video demonstration could be found here. [TODO YOUTUBE] 
 
 - 添加 安装微信
 - 添加 反制微信更新
