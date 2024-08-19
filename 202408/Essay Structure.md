@@ -113,7 +113,7 @@ This feature was particularly important for maintaining a seamless user experien
 
 ## Jest Testing
 ### Data Type
-First, within the project, the current code structure gives the Jest testing some challenges. To test with Jest, we need to assume the 
+Within the project, the current code structure gives the Jest testing some challenges. To test with Jest, we need to simulate the real world conditions. For example, the type of messages will receive on WeChat. However, since there are a various of the code structure 
 
 - Jest 未能实现 为什么? 为什么他很重要? 
 
