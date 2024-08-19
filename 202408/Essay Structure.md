@@ -102,9 +102,15 @@ Also, during the development of the public apps, even the companies' app cannot 
 ## Multi-Platform
 ### Attempts
 #### Unified Format
-Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues between different languages. 
+Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues when facing some special characters, such as `\`
+
+By adopting a unified JSON format, we were able to streamline communication between various devices, ensuring consistency in the data structure and reducing potential errors caused by language differences. This format also allowed for easier integration with other systems and tools, as JSON is a widely supported and flexible data format. The move towards JSON was a key step in ensuring that our encryption and messaging system could scale and adapt to different environments without sacrificing security or functionality.
+
 #### Key Type and Import
-We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times. The import works for the desktop version, but still doesn't work for the phone version. 
+We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times. The import works for the desktop version, but still doesn't work for the phone version.
+
+This feature was particularly important for maintaining a seamless user experience. By allowing RSA keys to be shared and imported across devices, users could avoid the hassle of managing multiple keys for different platforms. The successful implementation on the desktop version demonstrated the feasibility and benefits of this approach. However, the challenges encountered in implementing this feature on the mobile version highlighted some of the limitations and complexities involved, such as differences in operating system capabilities, file handling, and security restrictions on mobile platforms. Despite these challenges, the effort to create a unified key management system remains a critical goal, as it significantly improves the overall usability and security of our encrypted communication system.
+
 
 
 - 多端同步 为什么没能实现 以及我们所作的努力和尝试 例如导入钥匙等
