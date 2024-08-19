@@ -40,7 +40,8 @@ In the past, there are some open source solutions attempt to use web version of 
 # User Manual and Demonstration
 
 The whole video demonstration could be found here. [TODO YOUTUBE] 
-## Basic Function Scre
+## Basic Function Page
+The basic function page affords the 
 - 添加 安装微信
 - 添加 反制微信更新
 
