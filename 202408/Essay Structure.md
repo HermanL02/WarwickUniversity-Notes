@@ -97,9 +97,8 @@ Deep Package inspection could be used to check the transmission of the data pack
 ## Multi-language
 The multi-language support is the essential requirement for an application that face both Chinese and English users. However, this proposal was considered but finally not achieved. 
 The core thing to support multi-language is to use language files, such as JSON or YAML. This contains all the strings that are translatable in the application and will be put in the separate folder to use them. 
-First, the development requires some changes on the UI. The UI design will be broke and need to be adjusted after the multi language is deployed. 
-Second, the development requires extra development and testing work. 
-The internationalization, i18n, is the way to provide support to each language required. It depends on JSON type formats to provide each string a different language translation. The 
+However, the development requires some changes on the UI. The UI design will be broke and need to be adjusted after the multi-language is deployed, which is a heavy work for an individual developer to implement. 
+Also, during the development of the public apps, even the 
 - 添加 多语言的实现方法, 以及为何最终未能实现，即使是公司的软件也没能实现
 - 多端同步 为什么没能实现 以及我们所作的努力和尝试 例如导入钥匙等
 - Jest 未能实现 为什么? 为什么他很重要? 
