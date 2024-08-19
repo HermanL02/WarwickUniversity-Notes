@@ -40,7 +40,7 @@ In the past, there are some open source solutions attempt to use web version of 
 # User Manual and Demonstration
 
 The whole video demonstration could be found here. [TODO YOUTUBE] 
-## Basic Function Page
+## Basic Function Page [TODO PHOTO] 
 
 The Basic Function Page provides users with a foundational set of cryptographic operations, allowing them to experiment with essential features. This page includes several key-related functionalities:
 
@@ -48,14 +48,14 @@ The Basic Function Page provides users with a foundational set of cryptographic 
 2. **Key Storage**: Users can store and manage other users' public keys by importing them into the system.
 3. **Instant Encryption/Decryption**: The page enables real-time encryption and decryption operations, utilizing others' public keys in conjunction with the user's private key.
 
-## WeChat Direct Message Page
+## WeChat Direct Message Page [TODO PHOTO]
 
 The WeChat Direct Message Page outlines the mandatory steps required to integrate and utilize WeChat for secure communications. Users must complete the following steps:
 
 1. **WeChat Setup**: Install WeChat and add the WeChat Anti-Update Plugin.
 2. **Hook WeChat**: The page offers a crucial function to hook WeChat, enabling secure interactions. Upon completing these steps, users can proceed to the subsequent subpages.
 
-### WeChat Communication Channel Build Page
+### WeChat Communication Channel Build Page [TODO PHOTO]
 
 The WeChat Communication Channel Build Page guides users through establishing a secure communication channel within WeChat. The process involves the following steps:
 
@@ -109,12 +109,12 @@ During the setting up of express server, there is some probability that the expr
 # Project Management
 ## Concepts Application
 For the last several months, I have learned many essentail software development skills and applied them to our apps. The app design concepts  are usually a foundation of the whole software development process. 
-### Coupling and Cohesion
+### Coupling and Cohesion [TODO REF]
 The high coupling refers to a situation where modules are highly dependent on each other. It means changing one module might require changes in several other modules as well. The low cohesion means that the functions within a module are not closely related and the module might be responsible for too many unrelated tasks or a module contains too many unrelated functions. The combination of these two issues might lead to code that is difficult to maintain and hard to extend.    
 This issue is extremely difficult in Electron, because both frontend and backend code are in JavaScript. It means some functions can be done on the frontend, and they can be done on the backend as well. If the modules are not designed properly, the coupling will be very high. 
 To avoid this issue, we follow the module design principle. During the development in Electron development. In the software, we separate the frontend logic and the backend logic. The basic principle is everything related to data will be strictly limited to only be processed on the backend, and everything regarding the interface will be strictly limited to the frontend. Therefore, even if the frontend and the backend changes, they will not influence each other, to afford a low coupling and high cohesion application. 
 
-### Comments Reducing
+### Comments Reducing [TODO REF]
 Regarding comments, it is really controversy. Many code examples encourage writing clear comments and docs. However, during the development process and the advice of my colleagues, I realized that the code readability is not really achieved by massive comments. It is based on clear and simple naming. When a software is designed in a good structure, the name of the function and the name of the variable could be meaningful and express their utilities. The comments will be redundant and unnecessary. For example, 
 ```
 // The following variable indicates whether WeChat is hooked
@@ -125,11 +125,10 @@ the above block is not as clear as the below one.
 let isHooked = false;
 ```
 Therefore, by applying this rule, we reduced many keys 
-### Over Engineering
+### Over Engineering [TODO REF]
 Over engineering or early optimization is the mistake I made in this project. At the beginning of the project, we aim too much on designing the folder structure without the real requirement support. The general security standard is too high to ignore the real functionality design. Both resulted the development efficiency is low. 
 
-At the beginning of the process, I was attempting to 
-- 添加 Debug (live debug)
+
 ## Tools Utilization
 ## Live Debug
 Developing an Electron app is similar to developing the web apps. Usually the web apps could apply the changes of the feature instantly and directly reflect instantly on the webpage. Electron framework inherits the benefits of web development while supporting the desktop app functions with multi-platform support. 
