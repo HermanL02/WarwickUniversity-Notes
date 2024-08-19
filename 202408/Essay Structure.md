@@ -42,12 +42,12 @@ In the past, there are some open source solutions attempt to use web version of 
 The whole video demonstration could be found here. [TODO YOUTUBE] 
 ## Basic Function Page
 [TODO PHOTO1]
-The basic function page affords the basic features. 
+The basic function page affords the basic features for users to try it out. 
 First, it provides key related operations, such as key generation, key update and key copy and paste.  It also affords key import function. 
 Second, it provides the storage of other people's key, it can import the other people's public key. 
 Third, it provides instant encrypt and decrypt using others public key and our private key. 
 ## WeChat Direct Message Page
-The WeChat direct message page contains the compulsory steps to hook WeChat. 
+The WeChat direct message page contains the compulsory steps to hook WeChat. Users can 
 - 添加 反制微信更新
 
 # Develop Structure 
