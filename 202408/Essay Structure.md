@@ -112,13 +112,11 @@ We adopted the same RSA encryption method and settings to ensure that the genera
 This feature was particularly important for maintaining a seamless user experience and is an essential factor for evaluating my project. By allowing RSA keys to be shared and imported across devices, users could avoid the hassle of managing multiple keys for different platforms. The successful implementation on the desktop version demonstrated the feasibility and benefits of this approach. However, the challenges encountered in implementing this feature on the mobile version highlighted some of the limitations and complexities involved, such as differences in operating system capabilities, file handling, and security restrictions on mobile platforms. 
 
 ## Jest Testing
+As we already discussed that testing is an essential part in the project, and Jest is a powerful testing tool for our project, but we finalunfortunately cannot integrate it further to our project. 
 ### Data Type
 Within the project, the project content gives the Jest testing some challenges. To test with Jest, we need to simulate the real world conditions and give the expected return values to the functions. For example, if we want to test the decryption, we need to give the type of messages will receive on WeChat. However, since there are a various type of the message structures are used in the WeChat, and we cannot get the structures before we were trying in advance. It is impossible to apply a comprehensive and meaningful Jest testing. 
 ### Code Structure
 Currently, within the code, there are a lot of async operations and the APIs of the WXhelper. To configure Jest with WeChat and WXhelper, it requires a lot of additional configurations and the customizations, causing an increase in the test writing and maintenance complexity. 
-
-
-- Jest 未能实现 为什么? 为什么他很重要? 
 
 # Acknowledgement
 
