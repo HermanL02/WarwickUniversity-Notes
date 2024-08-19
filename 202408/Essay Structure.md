@@ -48,7 +48,8 @@ Second, it provides the storage of other people's key, it can import the other p
 Third, it provides instant encrypt and decrypt using others public key and our private key. 
 ## WeChat Direct Message Page
 The WeChat direct message page contains the compulsory steps to hook WeChat. Users can follow the one time compulsory steps to install WeChat, Add WeChat Anti Update Plugin. 
-It provides the essential hook WeChat function. Then, it allows the user to enter
+It provides the essential hook WeChat function. Then, it allows the user to enter the subpage. 
+### 
 
 # Develop Structure 
 
