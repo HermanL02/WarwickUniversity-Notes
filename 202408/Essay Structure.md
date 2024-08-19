@@ -95,7 +95,7 @@ Deep Package inspection could be used to check the transmission of the data pack
 
 # Unachieved Features
 ## Multi-language
-The multi-language support is the essential requirement
+The multi-language support is the essential requirement for an application that face both Chinese and English users. However, this proposal was considered but finally not achieved
 The internationalization, i18n, is the way to provide support to each language required. It depends on JSON type formats to provide each string a different language translation. The 
 - 添加 多语言的实现方法, 以及为何最终未能实现，即使是公司的软件也没能实现
 - 多端同步 为什么没能实现 以及我们所作的努力和尝试 例如导入钥匙等
