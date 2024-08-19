@@ -41,22 +41,34 @@ In the past, there are some open source solutions attempt to use web version of 
 
 The whole video demonstration could be found here. [TODO YOUTUBE] 
 ## Basic Function Page
-[TODO PHOTO1]
-The basic function page affords the basic features for users to try it out. 
-First, it provides key related operations, such as key generation, key update and key copy and paste.  It also affords key import function. 
-Second, it provides the storage of other people's key, it can import the other people's public key. 
-Third, it provides instant encrypt and decrypt using others public key and our private key. 
+
+The Basic Function Page provides users with a foundational set of cryptographic operations, allowing them to experiment with essential features. This page includes several key-related functionalities:
+
+1. **Key Operations**: Users can generate, update, copy, and paste cryptographic keys. Additionally, the page supports key import functionality.
+2. **Key Storage**: Users can store and manage other users' public keys by importing them into the system.
+3. **Instant Encryption/Decryption**: The page enables real-time encryption and decryption operations, utilizing others' public keys in conjunction with the user's private key.
+
 ## WeChat Direct Message Page
-The WeChat direct message page contains the compulsory steps to hook WeChat. Users can follow the one time compulsory steps to install WeChat, Add WeChat Anti Update Plugin. 
-It provides the essential hook WeChat function. Then, it allows the user to enter the subpage. 
+
+The WeChat Direct Message Page outlines the mandatory steps required to integrate and utilize WeChat for secure communications. Users must complete the following steps:
+
+1. **WeChat Setup**: Install WeChat and add the WeChat Anti-Update Plugin.
+2. **Hook WeChat**: The page offers a crucial function to hook WeChat, enabling secure interactions. Upon completing these steps, users can proceed to the subsequent subpages.
+
 ### WeChat Communication Channel Build Page
-The WeChat communication channel build page contains the steps to hook WeChat, listen for a temporary encrypt chat, and start a temporary encrypt WeChat. 
-The correct sequence is the first user hook the WeChat, and click on Listen for a temporary encrypt chat. 
-The second user hook the WeChat, and click on start a temporary encrypt chat, then the first user will be in the secret chat page. 
-The first user click on send my key, then the second user will also be in the secret chat page. 
+
+The WeChat Communication Channel Build Page guides users through establishing a secure communication channel within WeChat. The process involves the following steps:
+
+1. **Hook WeChat**: Both users must hook WeChat to prepare for secure communication.
+2. **Temporary Encrypted Chat**: 
+   - The first user selects "Listen for a Temporary Encrypted Chat" after hooking WeChat.
+   - The second user, after hooking WeChat, chooses "Start a Temporary Encrypted Chat." This action transitions the first user to the Secret Chat Page.
+3. **Key Exchange**: On the Secret Chat Page, the first user sends their key to initiate the secure chat, allowing the second user to enter the same encrypted session.
 
 ### Secret Chat Page
-Based on each others public key and their private key, the chat page can automatically handle the send and receive message functions. 
+
+The Secret Chat Page facilitates secure messaging by leveraging each user's public key alongside their private key. This page automates the process of sending and receiving encrypted messages, ensuring secure communication between users.
+
 # Develop Structure 
 
 ## Windows
