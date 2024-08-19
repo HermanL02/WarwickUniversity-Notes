@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cb85e67b940f0b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202408/Essay Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,12 +222,14 @@
       }
     ]
   },
-  "active": "ba4c2ec83771b87d",
+  "active": "6cb85e67b940f0b3",
   "lastOpenFiles": [
-    "202406/Interim Report.md",
-    "202408/Essay Structure.md",
     "202408/ISSUES.md",
     "202408/Revision.md",
+    "202408/Essay Structure.md",
+    "Pasted image 20240818230749.png",
+    "Pasted image 20240818230741.png",
+    "202406/Interim Report.md",
     "202406/PDF Ref1.pdf",
     "202404/CS918 Revision.md",
     "Pasted image 20240815215416.png",
@@ -255,9 +270,6 @@
     "202401",
     "202309/Sry.md",
     "202309/Lab 1.md",
-    "202309/CS917_A2.md",
-    "Pasted image 20231204192015.png",
-    "Pasted image 20231204144745.png",
     "visa",
     "程柏淳"
   ]
