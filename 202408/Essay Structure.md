@@ -100,7 +100,7 @@ The core thing to support multi-language is to use language files, such as JSON 
 However, the development requires some changes on the UI. The UI design will be broke and need to be adjusted after the multi-language is deployed, which is a heavy work for an individual developer to implement. 
 Also, during the development of the public apps, even the companies' app cannot achieve the multi-language support. 
 ## Multi-Platform
-Now, as you can see, on 
+Now, as you can see, on different platforms, the app I intended to design is worked smoothly. However, the attempt we made to sync the 
 - 多端同步 为什么没能实现 以及我们所作的努力和尝试 例如导入钥匙等
 - Jest 未能实现 为什么? 为什么他很重要? 
 
