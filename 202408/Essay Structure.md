@@ -48,7 +48,7 @@ The basic function page affords the basic features. It provides the key generati
 # Develop Structure 
 
 ## Windows
-[Windows Dev Chart Here]
+[TODO Windows Dev Chart Here]
 ### Underlying Technology
 - 添加 Process to use ICA to find vulnerabilities; SQL integration
 - 
@@ -65,6 +65,7 @@ The basic function page affords the basic features. It provides the key generati
 ### Front End
 
 ## Android
+[TODO Android Dev Chart Here]
 ### Structure
 
 ## Design Concepts
