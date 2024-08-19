@@ -90,7 +90,8 @@ It is possible for WeChat to block E2EE communications on WeChat. It depends on 
 For example, the message contains encrypted messages usually have a high entropy and looks like random bit stream. WeChat could monitor the messages and identify the high entropy messages and mark them as a strong encrypted messages and may block these high entropy messages as well if they want. 
 ### Length
 Also, since the RSA data length is fixed after the encryption and does not follow the plaintext's length to change. WeChat could also identify if the users have sent the messages of the same length. 
-### 
+### Deep Packet Inspection
+Deep Package inspection could be used to check the transmission of the data packages. Althou
 
 # Unachieved Features
 - 添加 多语言的实现方法, 以及为何最终未能实现，即使是公司的软件也没能实现
