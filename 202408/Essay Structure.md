@@ -103,7 +103,8 @@ Also, during the development of the public apps, even the companies' app cannot 
 ### Attempts
 #### Unified Format
 Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues between different languages. 
-We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times.
+#### Key Type and Import
+We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times. The import works for the desktop version, but still doesn't work for the phone version. 
 
 
 - 多端同步 为什么没能实现 以及我们所作的努力和尝试 例如导入钥匙等
