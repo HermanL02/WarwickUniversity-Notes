@@ -60,4 +60,5 @@ Triple DES: More Secure than double, because meet in the middle
 ![[Pasted image 20240815215416.png]]
 
 # Bitcoin
-## El
+## Elliptic Curve Cryptography
+
