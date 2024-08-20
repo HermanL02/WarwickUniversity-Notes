@@ -102,8 +102,9 @@ SubBytes（S表字节替换）、ShiftRows（行移位）、MixColumns（列混�
 - Cipher Block Chaining mode (CBC) -> 随机IV, 连续Block都会被影响，整block丢了可以被恢复，Encryption是线性的，会加padding，如果无padding会加一整块; 
 Padding Oracle 攻击: 修改密文的最后padding发送给服务器来判断填充是否无效
 - Cipher feedback mode (CFB) -> Change Block Cipher to Stream Cipher
-- Output feedback mode (OFB) -> 加解密操作相同
-- Counter mode (CRT) -> 
+- Output feedback mode (OFB) -> Stream Cipher, 加解密操作相同，可以平行解密
+- Counter mode (CRT) -> Stream Cipher, 加解密相同流程，可以平行加解密
+## Hash
 
 # Bitcoin
 ## Elliptic Curve Cryptography
