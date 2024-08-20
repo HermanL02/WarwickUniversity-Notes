@@ -3,7 +3,7 @@
 Vulnerability: Weakness in the system that could be exploited to cause harm
 Threat: A set of circumstances that has the potential to cause harm
 CIA: Confidentiality, Integrity and Availability
-
+Other: Authentication: Password/Token/Biometrics; Non-repudiation: 
 # Crypto
 ## Classical
 ### Four General Types of Attack
