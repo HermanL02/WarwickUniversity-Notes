@@ -121,7 +121,7 @@ Attack: Dictionary Attack
 - V(k,m,t) outputs “Yes” or “No”
 用例: 用户电脑中毒，电脑自动判断文件完整性来恢复
 - 构建方法: Block MAC-> CBC MAC或者Hash MAC, HMAC
-- 
+- CBC: FIXED IV; 
 # Bitcoin
 ## Elliptic Curve Cryptography
 
