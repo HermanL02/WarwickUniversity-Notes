@@ -117,6 +117,9 @@ Attack: Dictionary Attack
  **-  MAC I = (S, V) defined over (K,M,T)**
  S: Generate Tag; V: Verify Tag
  K: Key; M: Message; T: Tag
+-  S(k,m) outputs t in T
+- V(k,m,t) outputs “Yes” or “No”
+用例: 用户电脑中毒，电脑自动判断wen
 # Bitcoin
 ## Elliptic Curve Cryptography
 
