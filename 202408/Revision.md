@@ -34,7 +34,9 @@ To store all 256-bit Keys 2264 bits
 原因: 以单词作为key
 破解: 查找重复词来判断位移量 -> Index of Coincidence
 
-## Stream
+## Stream Ciphers
+
+
 ### One Time Pad
 Unbreakable
 ### Base: Probability
@@ -44,6 +46,8 @@ Conditional Probability
 ![[Pasted image 20240819215716.png]]
 Bayes Theorem
 ![[Pasted image 20240812214746.png]]
+Perfect Accuracy
+![[Pasted image 20240819215927.png]]
 ### Synchronous Cipher
 ![[Pasted image 20240812215646.png]]
 例如k5 = (k1+k2) mod 2
