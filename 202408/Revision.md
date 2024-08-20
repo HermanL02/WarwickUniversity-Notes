@@ -1,3 +1,6 @@
+# Intro
+## Terms
+Vulnerbility: Weak
 # Crypto
 ## Classical
 ### Four General Types of Attack
