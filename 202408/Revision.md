@@ -81,8 +81,9 @@ S表:
 P表: 
 一堆数字 代表 n->n
 
-Triple DES: More Secure than double, because meet in the middle
+Triple DES: 即使两个key相同，也可以产生更高security
 ### AES
+Substitution Permutation Network
 ![[Pasted image 20240815215416.png]]
 
 # Bitcoin
