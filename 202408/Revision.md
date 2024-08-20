@@ -97,6 +97,13 @@ SubBytes（S表字节替换）、ShiftRows（行移位）、MixColumns（列混�
 - S-box非硬编码
 - It allows very compact software implementation (say on smartcards)
 - Flexible trade-off between the code size and the performance
+
+- Electronic code book mode (ECB)
+- Cipher Block Chaining mode (CBC)
+- Cipher feedback mode (CFB)
+- Output feedback mode (OFB)
+- Counter mode (CRT)
+
 # Bitcoin
 ## Elliptic Curve Cryptography
 
