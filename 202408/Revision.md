@@ -119,7 +119,9 @@ Attack: Dictionary Attack
  K: Key; M: Message; T: Tag
 -  S(k,m) outputs t in T
 - V(k,m,t) outputs “Yes” or “No”
-用例: 用户电脑中毒，电脑自动判断wen
+用例: 用户电脑中毒，电脑自动判断文件完整性来恢复
+- 构建方法: Block MAC-> CBC MAC或者Hash MAC, HMAC
+- 
 # Bitcoin
 ## Elliptic Curve Cryptography
 
