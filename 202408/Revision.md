@@ -94,16 +94,9 @@ SubBytes（S表字节替换）、ShiftRows（行移位）、MixColumns（列混�
 ### AES和DES区别
 - Unlike DES, the S-Box is not random
 - It is defined in a finite field
-    
-
 - Unlike DES, the S-Box doesn’t have to be hard-coded
-    
-
 - It allows very compact software implementation (say on smartcards)
-    
-
 - Flexible trade-off between the code size and the performance
-    
 # Bitcoin
 ## Elliptic Curve Cryptography
 
