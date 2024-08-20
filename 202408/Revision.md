@@ -53,6 +53,7 @@ Perfect Accuracy
 ![[Pasted image 20240812215646.png]]
 例如k5 = (k1+k2) mod 2
 ### LFSR 硬件Recurrance
+比如异或1，2得到4，同时向左移位
 ![[Pasted image 20240819221327.png]]
 ### Attack
 - Two Time Pad
