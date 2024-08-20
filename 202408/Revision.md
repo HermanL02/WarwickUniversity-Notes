@@ -1,6 +1,8 @@
 # Intro
 ## Terms
-Vulnerbility: Weak
+Vulnerability: Weakness in the system that could be exploited to cause harm
+Threat: A set of circumstances that has the potential to cause harm
+
 # Crypto
 ## Classical
 ### Four General Types of Attack
