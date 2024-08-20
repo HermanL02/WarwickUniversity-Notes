@@ -66,6 +66,8 @@ Perfect Accuracy
 ### DES 
 正常是2的168位加密程度，但是实际man in the middle只需要2的112位加密
 ### Feistel Network
+- 每一轮（第 ii 轮），使用一个密钥 KiK_iKi​ 和右半部分 RiR_iRi​ 作为输入，进入一个函数 F(Ki,Ri)F(K_i, R_i)F(Ki​,Ri​)，该函数的输出与左半部分 LiL_iLi​ 进行异或运算。
+- 计算得出新的右半部分 Ri+1R_{i+1}Ri+1​，而原来的右半部分 RiR_iRi​ 则直接作为新的左半部分 Li+1L_{i+1}Li+1​。
 
 |![[Pasted image 20240812224721.png]]
 
