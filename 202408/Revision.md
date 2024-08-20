@@ -122,6 +122,8 @@ Attack: Dictionary Attack
 用例: 用户电脑中毒，电脑自动判断文件完整性来恢复
 - 构建方法: Block MAC-> CBC MAC或者Hash MAC, HMAC
 - CBC: FIXED IV; 
+- Hash: 长度扩展攻击，为他多添加一段东西，生成新MAC，会篡改原本的MAC吗， **H(k1, H(k2, m)) where k1 and k2 are two different keys**
+- 
 # Bitcoin
 ## Elliptic Curve Cryptography
 
