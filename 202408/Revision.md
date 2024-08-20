@@ -126,7 +126,7 @@ Attack: Dictionary Attack
 - **H(k1, H(k2, m)) where k1 and k2 are two different keys**
 - **HMAC(k,m) = H( k⊕opad  ll  H( k⊕ipad ll m ) )**
 - Hash攻击2: 时间比较攻击: 
-  Byte by Byte Comparison, 在第一位不正确sh
+  Byte by Byte Comparison, 在第一位不正确时返回, 
 # Bitcoin
 ## Elliptic Curve Cryptography
 
