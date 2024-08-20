@@ -35,7 +35,7 @@ To store all 256-bit Keys 2264 bits
 破解: 查找重复词来判断位移量 -> Index of Coincidence
 
 ## Stream Ciphers
-
+目的: 为了让One Time Pad Practical，用短Key生成长的Key Stream
 
 ### One Time Pad
 Unbreakable
