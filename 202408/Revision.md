@@ -38,7 +38,11 @@ To store all 256-bit Keys 2264 bits
 ### One Time Pad
 Unbreakable
 ### Base: Probability
-![[Pasted image 20240812214722.png]]
+Joint Probability
+![[Pasted image 20240819215751.png]]
+Conditional Probability
+![[Pasted image 20240819215716.png]]
+Bayes Theo
 ![[Pasted image 20240812214746.png]]
 ### Synchronous Cipher
 ![[Pasted image 20240812215646.png]]
