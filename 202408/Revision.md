@@ -88,7 +88,8 @@ Substitution Permutation Network
 Input->Key->Sub->Permu->Key->Sub->Permu->...
 SubBytes（S表字节替换）、ShiftRows（行移位）、MixColumns（列混淆）和AddRoundKey（轮密钥加）
 
-Finite Field
+概念: 有限域Finite Field
+**逆元计算**：有限域的一个重要性质是，每个非零元素都有一个唯一的乘法逆元，这在密码学中至关重要。例如，S盒的构造就是通过对有限域GF(2^8)中每个元素求逆来实现的。
 # Bitcoin
 ## Elliptic Curve Cryptography
 
