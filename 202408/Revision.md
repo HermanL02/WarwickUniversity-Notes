@@ -99,7 +99,8 @@ SubBytes（S表字节替换）、ShiftRows（行移位）、MixColumns（列混�
 - Flexible trade-off between the code size and the performance
 
 - Electronic code book mode (ECB) -> Same input same output -> Pattern
-- Cipher Block Chaining mode (CBC) -> 随机IV, 连续Block都会被影响，整block丢了可以被恢复，Encryption是线性的，会加padding，如果无padding会加一整块
+- Cipher Block Chaining mode (CBC) -> 随机IV, 连续Block都会被影响，整block丢了可以被恢复，Encryption是线性的，会加padding，如果无padding会加一整块; 
+Padding Oracle 攻击: 当
 - Cipher feedback mode (CFB)
 - Output feedback mode (OFB)
 - Counter mode (CRT)
