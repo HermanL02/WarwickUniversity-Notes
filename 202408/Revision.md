@@ -36,6 +36,7 @@ To store all 256-bit Keys 2264 bits
 
 ## Stream Ciphers
 目的: 为了让One Time Pad Practical，用短Key生成长的Key Stream
+种类: ### Vigenère **cipher**
 
 ### One Time Pad
 Unbreakable
