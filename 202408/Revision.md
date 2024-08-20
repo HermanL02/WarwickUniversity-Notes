@@ -94,7 +94,7 @@ SubBytes（S表字节替换）、ShiftRows（行移位）、MixColumns（列混�
 ### AES和DES区别
 - S-box非随机
 - 固定域
-- Unlike DES, the S-Box doesn’t have to be hard-coded
+- S-box非硬编码
 - It allows very compact software implementation (say on smartcards)
 - Flexible trade-off between the code size and the performance
 # Bitcoin
