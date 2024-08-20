@@ -85,7 +85,7 @@ Triple DES: 即使两个key相同，也可以产生更高security
 ### AES
 Substitution Permutation Network
 ![[Pasted image 20240815215416.png]]
-
+Input->Key->Sub->Permu->Key->Sub->Permu -0
 # Bitcoin
 ## Elliptic Curve Cryptography
 
