@@ -49,7 +49,7 @@ Bayes Theorem
 ![[Pasted image 20240812214746.png]]
 Perfect Accuracy
 ![[Pasted image 20240819215927.png]]
-### Synchronous Cipher
+### 除了Vaigenere Cipher以外的另外一种Recurrence Cipher
 ![[Pasted image 20240812215646.png]]
 例如k5 = (k1+k2) mod 2
 
@@ -59,7 +59,7 @@ Perfect Accuracy
 - Integrity: 修改密文
 - CSS光盘: 两侧同时开始解密加密
 
-### LFSR
+### LFSR 硬件补充
 ## Block Cipher
 ### DES 
 正常是2的168位加密程度，但是实际man in the middle只需要2的112位加密
