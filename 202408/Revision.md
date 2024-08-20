@@ -110,6 +110,11 @@ Padding Oracle 攻击: 修改密文的最后padding发送给服务器来判断�
 ### Merkle
 - Merkle-Damgård构造是一种迭代的哈希函数构造方法，通过将消息分块处理并结合初始向量（IV）生成最终的哈希值。
 - 这种构造方法的关键在于使用一个压缩函数`h`，将消息块与前一个中间哈希值组合起来，生成新的中间哈希值，直到处理完所有的消息块，最后生成最终的哈希值`H(m)`。
+应用: Sha-256，签名，密码
+Attack: Dictionary Attack
+## MAC - Integrity
+
+
 # Bitcoin
 ## Elliptic Curve Cryptography
 
