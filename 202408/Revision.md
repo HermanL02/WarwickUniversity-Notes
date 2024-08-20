@@ -52,14 +52,14 @@ Perfect Accuracy
 ### 除了Vaigenere Cipher以外的另外一种Recurrence Cipher
 ![[Pasted image 20240812215646.png]]
 例如k5 = (k1+k2) mod 2
-LFSR 硬件补充
+### LFSR 硬件Recurrance
+![[Pasted image 20240819221327.png]]
 ### Attack
 - Two Time Pad
 	C1 异或 C2 = M1 异或 M2 => {m1, m2}
 - Integrity: 修改密文
 - CSS光盘: 两侧同时开始解密加密
 
-### 
 ## Block Cipher
 ### DES 
 正常是2的168位加密程度，但是实际man in the middle只需要2的112位加密
