@@ -105,6 +105,7 @@ Padding Oracle 攻击: 修改密文的最后padding发送给服务器来判断�
 - Output feedback mode (OFB) -> Stream Cipher, 加解密操作相同，可以平行解密
 - Counter mode (CRT) -> Stream Cipher, 加解密相同流程，可以平行加解密
 ## Hash
+### 生日悖论
 
 # Bitcoin
 ## Elliptic Curve Cryptography
