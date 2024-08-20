@@ -90,6 +90,20 @@ SubBytes（S表字节替换）、ShiftRows（行移位）、MixColumns（列混�
 
 概念: 有限域Finite Field
 **逆元计算**：有限域的一个重要性质是，每个非零元素都有一个唯一的乘法逆元，这在密码学中至关重要。例如，S盒的构造就是通过对有限域GF(2^8)中每个元素求逆来实现的。
+
+### AES和DES区别
+- Unlike DES, the S-Box is not random
+- It is defined in a finite field
+    
+
+- Unlike DES, the S-Box doesn’t have to be hard-coded
+    
+
+- It allows very compact software implementation (say on smartcards)
+    
+
+- Flexible trade-off between the code size and the performance
+    
 # Bitcoin
 ## Elliptic Curve Cryptography
 
