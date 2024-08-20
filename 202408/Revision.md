@@ -114,7 +114,9 @@ Padding Oracle 攻击: 修改密文的最后padding发送给服务器来判断�
 Attack: Dictionary Attack
 ## MAC - Integrity
 
-
+ **-  MAC I = (S, V) defined over (K,M,T)**
+ S: Generate Tag; V: Verify Tag
+ K: Key; M: Message; T: Tag
 # Bitcoin
 ## Elliptic Curve Cryptography
 
