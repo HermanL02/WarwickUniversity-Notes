@@ -58,3 +58,6 @@ P表:
 Triple DES: More Secure than double, because meet in the middle
 ### AES
 ![[Pasted image 20240815215416.png]]
+
+# Bitcoin
+## El
