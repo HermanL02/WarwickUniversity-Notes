@@ -101,7 +101,7 @@ SubBytes（S表字节替换）、ShiftRows（行移位）、MixColumns（列混�
 - Electronic code book mode (ECB) -> Same input same output -> Pattern
 - Cipher Block Chaining mode (CBC) -> 随机IV, 连续Block都会被影响，整block丢了可以被恢复，Encryption是线性的，会加padding，如果无padding会加一整块; 
 Padding Oracle 攻击: 修改密文的最后padding发送给服务器来判断填充是否无效
-- Cipher feedback mode (CFB)
+- Cipher feedback mode (CFB) -> Change Block Cipher to Stream 
 - Output feedback mode (OFB)
 - Counter mode (CRT)
 
