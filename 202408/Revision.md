@@ -87,6 +87,8 @@ Substitution Permutation Network
 ![[Pasted image 20240815215416.png]]
 Input->Key->Sub->Permu->Key->Sub->Permu->...
 SubBytes（S表字节替换）、ShiftRows（行移位）、MixColumns（列混淆）和AddRoundKey（轮密钥加）
+
+Finite Field
 # Bitcoin
 ## Elliptic Curve Cryptography
 
