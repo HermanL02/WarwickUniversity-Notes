@@ -58,7 +58,8 @@ Perfect Accuracy
 - Two Time Pad
 	C1 异或 C2 = M1 异或 M2 => {m1, m2}
 - Integrity: 修改密文
-- CSS光盘: 两侧同时开始解密加密
+- CSS光盘: 
+17bit LFSR 和 25bit LFS两侧同时开始解密加密
 
 ## Block Cipher
 ### DES 
