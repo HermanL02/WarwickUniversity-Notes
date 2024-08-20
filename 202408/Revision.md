@@ -98,7 +98,7 @@ SubBytes（S表字节替换）、ShiftRows（行移位）、MixColumns（列混�
 - It allows very compact software implementation (say on smartcards)
 - Flexible trade-off between the code size and the performance
 
-- Electronic code book mode (ECB)
+- Electronic code book mode (ECB) -> Same input same output -> Pattern
 - Cipher Block Chaining mode (CBC)
 - Cipher feedback mode (CFB)
 - Output feedback mode (OFB)
