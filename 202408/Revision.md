@@ -143,9 +143,11 @@ Tampor Attack
     - 由于这个消息本质上是Bob预期发送给端口80的数据，但现在被发送到端口25，攻击者k可以通过监听端口25来截获这个解密后的数据。
     - 这样，攻击者就获取到了Bob发送的“data”内容。
 ## Key 交换
-## Merkle交换
+### Merkle交换
 A生成n puzzle, B收到n puzzle选1个解决并返回, Quadratic Gap: 对于中间监听者来说
-
+### Diffie-Hellman
+指数级但无integrity
+怎么办? 1. Public Key 2. Password
 # Bitcoin
 ## Elliptic Curve Cryptography
 
