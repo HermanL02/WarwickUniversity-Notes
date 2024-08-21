@@ -144,7 +144,7 @@ Tampor Attack
     - 这样，攻击者就获取到了Bob发送的“data”内容。
 ## Key 交换
 ### Merkle交换
-A生成2^32 puzzle, B收到2^32 puzzle从中选1个解决并返回, 监听者需要花费2^32次方时间才可以evedrop
+A生成2^32 puzzle 每个puzzle都包含两个部分：128位的 xi 和 128位的 mi。, B收到2^32 puzzle从中选1个解决拿到ki并返回, 监听者需要花费2^32次方时间才可以evedrop 
 
 ### Diffie-Hellman
 指数级但无integrity
