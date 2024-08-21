@@ -144,7 +144,7 @@ Tampor Attack
     - 这样，攻击者就获取到了Bob发送的“data”内容。
 ## Key 交换
 ### Merkle交换
-A生成n puzzle, B收到n puzzle选1个解决并返回, Quadratic Gap: 对于中间监听者来说
+A生成 puzzle, B收到n puzzle选1个解决并返回, Quadratic Gap: 对于中间监听者来说
 ### Diffie-Hellman
 指数级但无integrity
 怎么办? 1. Public Key...SSL, TLS... 2. Password, **J-PAKE** **SPEKE** 
