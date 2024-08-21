@@ -167,7 +167,7 @@ c = me (mod N)
 解密:
 m = cd (mod N)
 1. Meet in the middle attack会损坏RSA Textbook
-2. 我可以通过对他
+2. 我可以通过对他与其他数换底，
 # Bitcoin
 ## Elliptic Curve Cryptography
 
