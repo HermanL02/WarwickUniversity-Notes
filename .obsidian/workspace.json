@@ -225,9 +225,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 26,
-        "y": 114,
-        "width": 1028,
+        "x": 40,
+        "y": 171,
+        "width": 1027,
         "height": 672,
         "maximize": false,
         "zoom": 0
