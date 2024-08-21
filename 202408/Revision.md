@@ -164,6 +164,10 @@ G, E, D, 随机化, 加密, 解密
 3. d = e和 φ(N) 最大公约数
 加密: 
 c = me (mod N)
+解密:
+m = cd (mod N)
+1. Meet in the middle attack会损坏RSA Textbook
+2. 我可以通过对他
 # Bitcoin
 ## Elliptic Curve Cryptography
 
