@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202408/Essay Structure.md",
+                "file": "202408/Revision.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202408/Essay Structure.md",
+                "file": "202406/Interim Report.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202408/Essay Structure.md",
+                "file": "202406/Interim Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202408/Essay Structure.md"
+                "file": "202406/Interim Report.md"
               }
             }
           },
@@ -225,21 +225,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 40,
-        "y": 171,
-        "width": 1027,
-        "height": 672,
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e3790e632785e9b3",
+  "active": "266465008eb21611",
   "lastOpenFiles": [
-    "202406/Interim Report.md",
-    "202408/Essay Structure.md",
-    "202408/ISSUES.md",
     "202408/Revision.md",
+    "202408/Essay Structure.md",
+    "202406/Interim Report.md",
+    "202408/ISSUES.md",
     "Pasted image 20240818230749.png",
     "Pasted image 20240818230741.png",
     "202406/PDF Ref1.pdf",
