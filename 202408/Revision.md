@@ -147,6 +147,9 @@ Tampor Attack
 A生成2^32 puzzle 每个puzzle都包含两个部分：128位的 xi 和 128位的 mi。, B收到2^32 puzzle从中选1个解决拿到ki并返回, 监听者需要花费2^32次方时间才可以evedrop 
 
 ### Diffie-Hellman
+A=g^a mod p
+B=g^b mod p
+
 指数级但无integrity, 容易遭受Man in the Middle Attack
 怎么办? 1. Public Key...SSL, TLS... 2. Password, **J-PAKE** **SPEKE** 
 
