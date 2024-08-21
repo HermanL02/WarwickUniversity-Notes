@@ -162,13 +162,8 @@ G, E, D, 随机化, 加密, 解密
 1. 生成p, q质数, 生成 common =pq, φ(N) = (p-1) ∙ (q-1)
 2. 随机数e -> GCD (e, φ(N)) = 1
 3. d = e和 φ(N) 最大公约数
-
-Compute   N = p ∙ q and    φ(N) = (p-1) ∙ (q-1)
-
-Choose a random integer e, gcd(e, φ(N)) = 1
-
-Compute e’s inverse d: d ∙ e = 1 (mod φ(N))
-
+加密: 
+c = me (mod N)
 # Bitcoin
 ## Elliptic Curve Cryptography
 
