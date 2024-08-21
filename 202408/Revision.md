@@ -149,7 +149,9 @@ A生成2^32 puzzle 每个puzzle都包含两个部分：128位的 xi 和 128位�
 ### Diffie-Hellman
 A=g^a mod p
 B=g^b mod p
-
+交换 A B
+A的公钥 s = B^a mod p
+B的公钥 s = A^b mod p,
 指数级但无integrity, 容易遭受Man in the Middle Attack
 怎么办? 1. Public Key...SSL, TLS... 2. Password, **J-PAKE** **SPEKE** 
 
