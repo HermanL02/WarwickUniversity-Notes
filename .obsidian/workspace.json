@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/Revision.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202406/Interim Report.md",
+                "file": "202408/Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202406/Interim Report.md"
+                "file": "202408/Revision.md"
               }
             }
           },
@@ -197,48 +197,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "floating": {
-    "id": "32cc66801315b9b1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "33cd7c7c5841cedd",
-        "type": "window",
-        "children": [
-          {
-            "id": "933558d95fd00055",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "266465008eb21611",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "202406/Interim Report.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "266465008eb21611",
+  "active": "e3790e632785e9b3",
   "lastOpenFiles": [
+    "202406/Interim Report.md",
     "202408/Revision.md",
     "202408/Essay Structure.md",
-    "202406/Interim Report.md",
     "202408/ISSUES.md",
     "Pasted image 20240818230749.png",
     "Pasted image 20240818230741.png",
