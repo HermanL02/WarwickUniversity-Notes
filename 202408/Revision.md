@@ -158,6 +158,7 @@ B的公钥 s = A^b mod p
 交换的基础是内容是random的，但是内容不是random导致问题
 ## 公钥加密
 G, E, D, 随机化, 加密, 解密
+如果p是一个质数，且a是一个与p互质的整数，则有a^(p-1) = 1 mod p
 
 # Bitcoin
 ## Elliptic Curve Cryptography
