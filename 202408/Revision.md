@@ -168,6 +168,11 @@ c = me (mod N)
 m = cd (mod N)
 1. Meet in the middle attack会损坏RSA Textbook
 2. 我可以通过对他与其他数相乘, 来改变原数值
+## 数字签名
+与RSA加密类似, 私钥签名, 公钥验证
+安全吗？
+1. No Message Attack
+2. 
 # Bitcoin
 ## Elliptic Curve Cryptography
 
