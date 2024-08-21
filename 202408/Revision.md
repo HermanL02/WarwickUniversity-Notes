@@ -172,7 +172,8 @@ m = cd (mod N)
 与RSA加密类似, 私钥签名, 公钥验证
 安全吗？
 1. No Message Attack
-2. 
+2. Selected Message Attack
+
 # Bitcoin
 ## Elliptic Curve Cryptography
 
