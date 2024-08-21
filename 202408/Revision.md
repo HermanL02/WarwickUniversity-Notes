@@ -161,7 +161,7 @@ G, E, D, 随机化, 加密, 解密
 如果p是一个质数，且a是一个与p互质的整数，则有a^(p-1) = 1 mod p
 1. 生成p, q质数, 生成 common =pq, φ(N) = (p-1) ∙ (q-1)
 2. 随机数e -> GCD (e, φ(N)) = 1
-3. d = e和 φ(N) 最大gong'yue's
+3. d = e和 φ(N) 最大公约数
 
 Compute   N = p ∙ q and    φ(N) = (p-1) ∙ (q-1)
 
