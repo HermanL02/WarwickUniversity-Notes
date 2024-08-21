@@ -173,6 +173,8 @@ m = cd (mod N)
 安全吗？
 1. No Message Attack
 2. Selected Message Attack
+Schnorr signature 与 零知识证明
+
 
 # Bitcoin
 ## Elliptic Curve Cryptography
