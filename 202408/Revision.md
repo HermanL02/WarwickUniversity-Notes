@@ -200,7 +200,10 @@ Time-Of-Check To Time-Of-Use TOCTTOU
 - Cashier checks the amount and turns back to fetch the product
 - While the cashier is turning back, the customer retrieves £100.
 - The cashier gives the customer the product and accepts the money.
-
+Higher Privilege -> Higher Damage
+- Allow user to run a program with the program owner's privilege
+- Example: passwd Program! 
+- 
 # Bitcoin
 ## Elliptic Curve Cryptography
 
