@@ -219,7 +219,7 @@ Counter measure:
 - Principles of Least Privilege:  To prevent the damages after the race is won by the attacker
 ## Web Security - Cross Site 
 例子: 访问一个网站, 该网站自动发送request转账
-Referer header  (browser’s help)
+Referer header  (browser’s help) 
 Same-site cookie (browser’s help)
 Secret token (the server helps itself to defend against CSRF)
 
