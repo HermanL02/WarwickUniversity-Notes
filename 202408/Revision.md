@@ -210,8 +210,7 @@ Higher Privilege -> Higher Damage
 Race Condition和提升权限的关系
 1. 创建regular file, userA可循环运行尝试access()检查, 之后为用户open()
 2. 在循环过程中symbolic link到/etc/passwd
-3. 
-4. 打开password file
+3. 如果够巧就会access OK了, 然后刚好还没open, 就open的是新的passwd文件
 # Bitcoin
 ## Elliptic Curve Cryptography
 
