@@ -202,8 +202,11 @@ Time-Of-Check To Time-Of-Use TOCTTOU
 - The cashier gives the customer the product and accepts the money.
 Higher Privilege -> Higher Damage
 - Allow user to run a program with the program owner's privilege
-- Example: passwd Program! 
-- 
+- Example: passwd program
+
+- Real UID (RUID): Identifies real owner of process
+- Effective UID (EUID): Identifies privilege of a process
+- Set-UID give other user RUID's priviledge
 # Bitcoin
 ## Elliptic Curve Cryptography
 
