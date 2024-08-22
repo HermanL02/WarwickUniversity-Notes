@@ -217,7 +217,12 @@ Counter measure:
 3. Principles of Least Privilege: 减少后果
 - Sticky Symlink Protection: To prevent creating symbolic links.
 - Principles of Least Privilege:  To prevent the damages after the race is won by the attacker
-## Web Security
+## Web Security - Cross Site 
+例子: 访问yi
+
+Referer header  (browser’s help)
+Same-site cookie (browser’s help)
+Secret token (the server helps itself to defend against CSRF)
 
 # Bitcoin
 ## Elliptic Curve Cryptography
