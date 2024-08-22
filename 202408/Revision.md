@@ -214,7 +214,7 @@ Race Condition和提升权限的关系
 Counter measure: 
 1. 缩短check use windows
 2. symlink禁用
-3. Principles of Least Privilege: j
+3. Principles of Least Privilege: 减少后果
 - Sticky Symlink Protection: To prevent creating symbolic links.
 - Principles of Least Privilege:  To prevent the damages after the race is won by the attacker
 
