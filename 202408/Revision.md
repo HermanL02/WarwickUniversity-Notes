@@ -206,7 +206,8 @@ Higher Privilege -> Higher Damage
 
 - Real UID (RUID): Identifies real owner of process
 - Effective UID (EUID): Identifies privilege of a process
-- Set-UID give other user RUID's priviledge
+- Set-UID give other user RUID's privilege
+
 # Bitcoin
 ## Elliptic Curve Cryptography
 
