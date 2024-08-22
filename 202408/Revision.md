@@ -194,7 +194,12 @@ OS: ASLR
 Compiler: Stack Guard
 Hardware: Non-Executable
 ## Race Condition
-
+Time-Of-Check To Time-Of-Use TOCTTOU
+- Between access check and use, data may have been changed. 
+- A customer puts £500 on the counter to buy a product
+- Cashier checks the amount and turns back to fetch the product
+- While the cashier is turning back, the customer retrieves £100.
+- The cashier gives the customer the product and accepts the money.
 
 # Bitcoin
 ## Elliptic Curve Cryptography
