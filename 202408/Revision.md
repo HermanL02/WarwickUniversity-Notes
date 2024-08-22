@@ -209,7 +209,9 @@ Higher Privilege -> Higher Damage
 - Set-UID give other user RUID's privilege
 Race Condition和提升权限的关系
 1. 创建regular file, userA可运行
-2. symbolic lin
+2. symbolic link到/etc/passwd
+3. open()检查EID是否是root
+4. 打开password file
 # Bitcoin
 ## Elliptic Curve Cryptography
 
