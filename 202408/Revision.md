@@ -188,6 +188,11 @@ Heap: Dynamic Memory Allocation
 Stack: Local vars inside functions, data related to function calls, return addr, arguments 
 1. 通过填充空buffer nop来让新的address取代return address, 来指向Malicious Code; Find the offset distance between the base of the buffer and return address.
 2. 已知缓冲区地址: 覆盖返回地址
+Counter Measures: 
+Dev: use strncpy() to check length before copy
+OS: ASLR
+Compiler: Stack Guard
+
 
 # Bitcoin
 ## Elliptic Curve Cryptography
