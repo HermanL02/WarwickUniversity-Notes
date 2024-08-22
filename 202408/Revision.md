@@ -230,7 +230,7 @@ Persistant:
 自我复制的Samy Attack
 1. 过滤 Delete Script
 2. 编码 Change Coding to make script not work
-3. 禁止inline script
+3. Content Security Policy: 禁止inline script, 只允许自源Script
 4. 
 
 # Bitcoin
