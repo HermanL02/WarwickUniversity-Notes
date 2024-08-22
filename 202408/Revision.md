@@ -228,6 +228,10 @@ Non-Persistant:
 网址里含 www.baidu.com/<script> </script> 
 Persistant: 
 自我复制的Samy Attack
+1. Filter Approach, Delete Script
+2. Encoding, Change Coding to make script not work
+3. 
+
 # Bitcoin
 ## Elliptic Curve Cryptography
 
