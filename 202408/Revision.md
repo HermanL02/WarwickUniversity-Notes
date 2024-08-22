@@ -211,6 +211,12 @@ Race Condition和提升权限的关系
 1. 创建regular file, userA可循环运行尝试access()检查, 之后为用户open()
 2. 在循环过程中symbolic link到/etc/passwd
 3. 如果够巧就会access OK了, 然后刚好还没open, 就open的是新的passwd文件
+- Atomic Operations: To eliminate the window between check and use
+    
+- Sticky Symlink Protection: To prevent creating symbolic links.
+    
+- Principles of Least Privilege:  To prevent the damages after the race is won by the attacker
+
 # Bitcoin
 ## Elliptic Curve Cryptography
 
