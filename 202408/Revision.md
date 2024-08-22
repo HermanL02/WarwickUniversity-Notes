@@ -227,7 +227,7 @@ Secret token (the server helps itself to defend against CSRF)
 Non-Persistant:
 网址里含 www.baidu.com/<script> </script> 
 Persistant: 
-自我复制
+自我复制的Samy Attack
 # Bitcoin
 ## Elliptic Curve Cryptography
 
