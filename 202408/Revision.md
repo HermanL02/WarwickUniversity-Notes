@@ -208,9 +208,9 @@ Higher Privilege -> Higher Damage
 - Effective UID (EUID): Identifies privilege of a process
 - Set-UID give other user RUID's privilege
 Race Condition和提升权限的关系
-1. 创建regular file, userA可运行
-2. symbolic link到/etc/passwd
-3. open()检查EID是否是root
+1. 创建regular file, userA可循环运行尝试access()检查, 之后为用户open()
+2. 在循环过程中symbolic link到/etc/passwd
+3. 
 4. 打开password file
 # Bitcoin
 ## Elliptic Curve Cryptography
