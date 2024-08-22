@@ -192,6 +192,8 @@ Counter Measures:
 Dev: use strncpy() to check length before copy
 OS: ASLR
 Compiler: Stack Guard
+Hardware: Non-Executable
+## Race Condition
 
 
 # Bitcoin
