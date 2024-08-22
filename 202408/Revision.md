@@ -186,7 +186,7 @@ Data Segment: Global Variables
 BSS: Uninitialized static/global vars
 Heap: Dynamic Memory Allocation
 Stack: Local vars inside functions, data related to function calls, return addr, arguments 
-
+通过填充空buffer来让新的address取代return address, la
 # Bitcoin
 ## Elliptic Curve Cryptography
 
