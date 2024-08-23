@@ -254,7 +254,7 @@ Endian:
 - ![Screen Clipping](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfdCzgnAnd9_-PoMItuuocEoY_OeQVorYYpqBnd-_fqBEKW1l2F4LGy7YQc7XuhLFy-ERPy-1XogOtVd8kdWZQLzDYf7AZyPAP2UFwpz1Ch94GmSiy0pTDw2t6HD2EPnfWS7H-_UoM5uGPUVuw_IhITKMymjA=s2048?key=56yGK37EVPhBuWO29XiTJA)
 - SYN Flooding Attack 导致服务器有很多open connection等待回复，占用telnet资源; **random source IP addresses**
 - Counter: SYN Cookie: 每次直接返回一个Hash包含连接server的cookie, 这样就可以不存half-open connections了, If the client is an attacker, H will not reach the attacker. If the client is not an attacker, it sends H+1 in the acknowledgement field.
-- 
+- **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcjc0LqzFoVGtjAnrL0FyswDe8oJ0urUxFclIL1AdsCLsJg-IDtHI9zo7Q5PTMdL4PxFhFTmaa7yH9SJemjFBtMujxpiaYRmt6kaLC--x_bFS3jbXfWrg1kncVXpOnNse6veZHapAG9RMnzO8AnPacZgtgm1PI=s2048?key=56yGK37EVPhBuWO29XiTJA)**
 # Bitcoin
 ## Elliptic Curve Cryptography
 
