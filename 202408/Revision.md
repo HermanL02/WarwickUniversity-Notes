@@ -253,7 +253,7 @@ Endian:
 - UDP: lightweight protocol with lower overhead and can be used for applications that do not require reliability or communication order.
 - ![Screen Clipping](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfdCzgnAnd9_-PoMItuuocEoY_OeQVorYYpqBnd-_fqBEKW1l2F4LGy7YQc7XuhLFy-ERPy-1XogOtVd8kdWZQLzDYf7AZyPAP2UFwpz1Ch94GmSiy0pTDw2t6HD2EPnfWS7H-_UoM5uGPUVuw_IhITKMymjA=s2048?key=56yGK37EVPhBuWO29XiTJA)
 - SYN Flooding Attack 导致服务器有很多open connection等待回复，占用telnet资源; **random source IP addresses**
-- 
+- Counter: SYN Cookie: 每次直接返回一个Hash包含连接se'r
 # Bitcoin
 ## Elliptic Curve Cryptography
 
