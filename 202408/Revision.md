@@ -237,7 +237,8 @@ Sniffer:
 NIC 网卡过滤保留TCP/DNS -> 效率高 
 Spoof: 
 Raw Socket来建立整个packet, 包括header
-
+整个流程: 
+PCAP API 来捕获; copy; Replace UDP data fiel
 # Bitcoin
 ## Elliptic Curve Cryptography
 
