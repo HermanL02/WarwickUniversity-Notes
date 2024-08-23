@@ -262,7 +262,10 @@ TCP Hijacking Attack:
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUe2jOf891FeLrJokg6JuJekLw_RBCZfToztjd5we4bRKRgDzr5Thf8JkAkb8nJmlnqNk3gFFLNHHvTv3hV3n67WqjjrADA6vpPkQ3YaoXpPBsXBTTVHycZ4EifFeDp9Nb5W9AO-pHdeWCO_KjEAND6XEHlM_2c=s2048?key=56yGK37EVPhBuWO29XiTJA)**
 Creating Reverse Shell
 COUNTER: 随机source port, 随机initial sequence, Encrypting payload
-## 
+## Firewall
+1. User Control/ Service Control/ Direction Control
+2. Accepted/Denied/Rejected(tell sender decision)
+3. Packet Filter/St
 # Bitcoin
 ## Elliptic Curve Cryptography
 
