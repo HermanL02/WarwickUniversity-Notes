@@ -250,7 +250,8 @@ Endian:
 小Endian: 小的在前; Big Endian: 大的在前
 ## TCP
 - TCP: provides a reliable and ordered communication channel between applications.
-- UDP: lightweight protocol with lower overhead and can be used for applications that do not require reliability or communication order.**
+- UDP: lightweight protocol with lower overhead and can be used for applications that do not require reliability or communication order.
+- **![Screen Clipping](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfdCzgnAnd9_-PoMItuuocEoY_OeQVorYYpqBnd-_fqBEKW1l2F4LGy7YQc7XuhLFy-ERPy-1XogOtVd8kdWZQLzDYf7AZyPAP2UFwpz1Ch94GmSiy0pTDw2t6HD2EPnfWS7H-_UoM5uGPUVuw_IhITKMymjA=s2048?key=56yGK37EVPhBuWO29XiTJA)TCP
 # Bitcoin
 ## Elliptic Curve Cryptography
 
