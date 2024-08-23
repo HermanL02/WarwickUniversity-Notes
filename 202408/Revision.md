@@ -238,7 +238,25 @@ NIC 网卡过滤保留TCP/DNS -> 效率高
 Spoof: 
 Raw Socket来建立整个packet, 包括header
 整个流程: 
-PCAP API 来捕获; copy; Replace UDP data fiel
+PCAP API 来捕获; copy; 替换UDP数据; 源和目标调换; 发送返回; 
+**
+
+- Python + Scapy
+    
+
+- Pros: constructing packets is very simple
+    
+- Cons: much slower than C code
+
+- C Program (using raw socket)
+- Pros: much faster
+    
+- Cons: constructing packets is complicated
+    
+
+
+
+**
 # Bitcoin
 ## Elliptic Curve Cryptography
 
