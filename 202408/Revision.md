@@ -232,6 +232,7 @@ Persistant:
 2. 编码 Change Coding to make script not work
 3. Content Security Policy: 禁止inline script, 只允许自源Script
 ## SQL Injection
+## Sniffing/Spoofing
 
 
 # Bitcoin
