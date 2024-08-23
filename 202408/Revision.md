@@ -233,7 +233,8 @@ Persistant:
 3. Content Security Policy: 禁止inline script, 只允许自源Script
 ## SQL Injection
 ## Sniffing/Spoofing
-NIC 网卡gu
+NIC 网卡过滤
+
 
 # Bitcoin
 ## Elliptic Curve Cryptography
