@@ -283,7 +283,8 @@ SSH will send the TCP data over the tunnel to the machine “home” which will 
 
 ## DNS
 **Denial-of-Service Attacks (DoS):** 把本地DNS服务器给DOS
-Spoofing: 
+Spoofing: 目的是让用户访问与他们想访问的不同的服务器
+
 # Bitcoin
 ## Elliptic Curve Cryptography
 
