@@ -255,6 +255,7 @@ Endian:
 - SYN Flooding Attack 导致服务器有很多open connection等待回复，占用telnet资源; **random source IP addresses**
 - Counter: SYN Cookie: 每次直接返回一个Hash包含连接server的cookie, 这样就可以不存half-open connections了, If the client is an attacker, H will not reach the attacker. If the client is not an attacker, it sends H+1 in the acknowledgement field.
 - ![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcjc0LqzFoVGtjAnrL0FyswDe8oJ0urUxFclIL1AdsCLsJg-IDtHI9zo7Q5PTMdL4PxFhFTmaa7yH9SJemjFBtMujxpiaYRmt6kaLC--x_bFS3jbXfWrg1kncVXpOnNse6veZHapAG9RMnzO8AnPacZgtgm1PI=s2048?key=56yGK37EVPhBuWO29XiTJA)
+TCP Reset: 
 - Retrieve the destination port (23), Source port number and sequence number.
 - The next sequence number is calculated by Wireshark based on data length (choose absolute sequence number not relative one in Wireshark Preference)
 
