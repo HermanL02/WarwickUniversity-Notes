@@ -289,7 +289,8 @@ Spoofing: 目的是让用户访问与他们想访问的不同的服务器
 Kaminsky:  
 **![Screen Clipping](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcQ0rFi3xgZV03YaXOTu-BCdC7n-_CjZD54NgKyzAzYEwx6H_O2WMgf7ImPfv2blPpGmdZE0QIsDduq-MfnWqC2WM7IFrF0RyjlVdXyGnlk4QCjNfGhfHyJ2uQAdGhQcUQeVtg1DGqej9krANszOPL5qn1vu6I=s2048?key=2jp8XJK_EmXCYn2zsyRTwA)**
 趁着用户Query的时候提前向DNS Server注入假的IP
-
+3. 虚假DNS: 在回复问题的时候添加别的网站对应的IP
+4. 
 # Bitcoin
 ## Elliptic Curve Cryptography
 
