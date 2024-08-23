@@ -292,7 +292,9 @@ Kaminsky:
 3. 虚假DNS: 在回复问题的时候添加别的网站对应的IP
 反向验证DNS: IP查询域名, 但是我们不能用做依据
 DNS Rebinding Attack
-
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcgM0vCL3ue4fRY43WVAJGrK6m77sQIRXI6OeIHwxTJfGR-qcuUB2B7APQ2-bHcHRXm9tvAVfBRISnyl5FF47eF-sPviZgtFneQjUloo2YctJ6Yefm7K6kJiXFUsOUSZe7AejYU58EU9H6V_QGhtwsQRoDnpg=s2048?key=2jp8XJK_EmXCYn2zsyRTwA)
+Counter mesaure: 
+DNSSEC 
 # Bitcoin
 ## Elliptic Curve Cryptography
 
