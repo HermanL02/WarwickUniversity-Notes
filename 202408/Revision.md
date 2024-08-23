@@ -266,7 +266,9 @@ COUNTER: 随机source port, 随机initial sequence, Encrypting payload
 1. User Control/ Service Control/ Direction Control
 2. Accepted/Denied/Rejected(tell sender decision)
 3. Three Types: Packet Filter Fire Wall, Stateful and Application/Proxy Firewall
-4. Packate F
+4. Packet Filter: 注重新的连接，看header
+5. Stateful: 可以只允许当前连接继续链接
+6. Proxy: 中间商防火墙，例如CloudFlare
 # Bitcoin
 ## Elliptic Curve Cryptography
 
