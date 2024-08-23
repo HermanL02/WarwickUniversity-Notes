@@ -273,8 +273,11 @@ COUNTER: 随机source port, 随机initial sequence, Encrypting payload
 1.
 - SSH Tunneling![Screen Clipping](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUf_G0p_56Wv8cyZe-EIDAJ6qPLCzN5E5dsZlFXynrBHvrus-KkZ-qDY-pLV3xYlICA7gUDvFp4PG8Y21BzwgzGR-4HnEsmTXriFWgBuo7otXtnrvDJLcwN3MRumTn1CC2atvbkTH8hgH2JwZ46F7k1Ut6cJEw=s2048?key=HM0AHIIEIP3wyRuBMVJtUQ)
 - Dynamic Port Forwarding
+ **SOCKS proxy on our local host.** 
+SSH will send the TCP data over the tunnel to the machine “home” which will communicate with the blocked site.
 
 - Reverse SSH Tunneling
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfEEml6Xu2YebDMA1_YI7nKhDJgVeWNBTryBxnLJbCu49TNUg86PeoF08GkT5gEBXinuN9Ht7oCAC60xJqwB61qFE2TzLCWX78gnVGI_QyA3UW4-Sr84cyJfFbPn_xiF4gopjwgyB1G3B737gp4mkUhKbMwbw=s2048?key=HM0AHIIEIP3wyRuBMVJtUQ)**
 - Virtual Private Network
 
 # Bitcoin
