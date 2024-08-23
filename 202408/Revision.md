@@ -239,24 +239,15 @@ Spoof:
 Raw Socket来建立整个packet, 包括header
 整个流程: 
 PCAP API 来捕获; copy; 替换UDP数据; 源和目标调换; 发送返回; 
-**
 
-- Python + Scapy
-    
-
+1. Python + Scapy
 - Pros: constructing packets is very simple
-    
 - Cons: much slower than C code
-
-- C Program (using raw socket)
+2. C Program (using raw socket)
 - Pros: much faster
-    
 - Cons: constructing packets is complicated
-    
-
-
-
-**
+Endian: 
+小Endian: 小的在前; Big Endian: 大的在前
 # Bitcoin
 ## Elliptic Curve Cryptography
 
