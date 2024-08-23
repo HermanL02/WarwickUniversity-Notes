@@ -248,6 +248,8 @@ PCAP API 来捕获; copy; 替换UDP数据; 源和目标调换; 发送返回;
 - Cons: constructing packets is complicated
 Endian: 
 小Endian: 小的在前; Big Endian: 大的在前
+## TCP
+
 # Bitcoin
 ## Elliptic Curve Cryptography
 
