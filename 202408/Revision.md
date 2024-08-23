@@ -285,7 +285,9 @@ SSH will send the TCP data over the tunnel to the machine “home” which will 
 **Denial-of-Service Attacks (DoS):** 把本地DNS服务器给DOS
 Spoofing: 目的是让用户访问与他们想访问的不同的服务器
 1. Local DNS poisoning: 用户发出请求后，我假装DNS服务器发送返回包
-2. 
+2. Remote DNS Attack: 难度大: 需要已知Source port number (16-bit random number), Transaction ID (16-bit random number); 
+Kaminsky:  
+
 # Bitcoin
 ## Elliptic Curve Cryptography
 
