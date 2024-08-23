@@ -266,7 +266,7 @@ COUNTER: 随机source port, 随机initial sequence, Encrypting payload
 1. User Control/ Service Control/ Direction Control
 2. Accepted/Denied/Rejected(tell sender decision)
 3. Three Types: Packet Filter Fire Wall, Stateful and Application/Proxy Firewall
-4. 
+4. Packate F
 # Bitcoin
 ## Elliptic Curve Cryptography
 
