@@ -295,6 +295,9 @@ DNS Rebinding Attack
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcgM0vCL3ue4fRY43WVAJGrK6m77sQIRXI6OeIHwxTJfGR-qcuUB2B7APQ2-bHcHRXm9tvAVfBRISnyl5FF47eF-sPviZgtFneQjUloo2YctJ6Yefm7K6kJiXFUsOUSZe7AejYU58EU9H6V_QGhtwsQRoDnpg=s2048?key=2jp8XJK_EmXCYn2zsyRTwA)
 Counter mesaure: 
 DNSSEC 
+**![Screen Clipping](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfUbfQSd-3_EAX3E-aZsmGFAsjZ6cDmSfPUo1tYtACxC7vkpDqAlKEfUXd2Pxd2LGH9dPyatNi_W5FjotgQ_spn5a5S2q7JnQuXCYv4xjtBdQnmXbTzDdJC3hybUkvLnvRuIx4z71i5qF-7IP1QPf4S37Bbng=s2048?key=2jp8XJK_EmXCYn2zsyRTwA)**
+DDOS  国家域名
+
 # Bitcoin
 ## Elliptic Curve Cryptography
 
