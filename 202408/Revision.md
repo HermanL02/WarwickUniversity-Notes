@@ -258,7 +258,9 @@ Endian:
 TCP Reset: 
 - Retrieve the destination port (23), Source port number and sequence number.
 - The next sequence number is calculated by Wireshark based on data length (choose absolute sequence number not relative one in Wireshark Preference)
-
+TCP Hijacking Attack: 
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUe2jOf891FeLrJokg6JuJekLw_RBCZfToztjd5we4bRKRgDzr5Thf8JkAkb8nJmlnqNk3gFFLNHHvTv3hV3n67WqjjrADA6vpPkQ3YaoXpPBsXBTTVHycZ4EifFeDp9Nb5W9AO-pHdeWCO_KjEAND6XEHlM_2c=s2048?key=56yGK37EVPhBuWO29XiTJA)**
+Creating Reverse Shell
 
 # Bitcoin
 ## Elliptic Curve Cryptography
