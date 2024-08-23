@@ -280,6 +280,10 @@ SSH will send the TCP data over the tunnel to the machine “home” which will 
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfEEml6Xu2YebDMA1_YI7nKhDJgVeWNBTryBxnLJbCu49TNUg86PeoF08GkT5gEBXinuN9Ht7oCAC60xJqwB61qFE2TzLCWX78gnVGI_QyA3UW4-Sr84cyJfFbPn_xiF4gopjwgyB1G3B737gp4mkUhKbMwbw=s2048?key=HM0AHIIEIP3wyRuBMVJtUQ)**
 - Virtual Private Network
 **- IPSec Tunneling:* / TLS SSL Tunneling
+
+## DNS
+**Denial-of-Service Attacks (DoS):** 把本地DNS服务器给DOS
+Spoofing: 
 # Bitcoin
 ## Elliptic Curve Cryptography
 
