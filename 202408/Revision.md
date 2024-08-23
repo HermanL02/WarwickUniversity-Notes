@@ -249,7 +249,8 @@ PCAP API 来捕获; copy; 替换UDP数据; 源和目标调换; 发送返回;
 Endian: 
 小Endian: 小的在前; Big Endian: 大的在前
 ## TCP
-
+- TCP: provides a reliable and ordered communication channel between applications.
+- UDP: lightweight protocol with lower overhead and can be used for applications that do not require reliability or communication order.**
 # Bitcoin
 ## Elliptic Curve Cryptography
 
