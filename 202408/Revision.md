@@ -269,6 +269,13 @@ COUNTER: 随机source port, 随机initial sequence, Encrypting payload
 4. Packet Filter: 注重新的连接，看header
 5. Stateful: 可以只允许当前连接继续链接
 6. Proxy: 中间商防火墙，例如CloudFlare
+- 如何攻击防火墙
+1.
+- SSH Tunneling
+- Dynamic Port Forwarding
+- Reverse SSH Tunneling
+- Virtual Private Network
+
 # Bitcoin
 ## Elliptic Curve Cryptography
 
