@@ -233,8 +233,10 @@ Persistant:
 3. Content Security Policy: 禁止inline script, 只允许自源Script
 ## SQL Injection
 ## Sniffing/Spoofing
+Sniffer: 
 NIC 网卡过滤保留TCP/DNS -> 效率高 
-
+Spoof: 
+Raw Socket来建立整个packet, 包括header
 
 # Bitcoin
 ## Elliptic Curve Cryptography
