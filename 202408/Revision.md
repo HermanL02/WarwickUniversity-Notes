@@ -106,7 +106,7 @@ Padding Oracle 攻击: 修改密文的最后padding发送给服务器来判断�
 - Counter mode (CRT) -> Stream Cipher, 加解密相同流程，可以平行加解密
 ## Hash
 ## Basics
-1. 
+1. Operation Mode: 
 ### 生日悖论
 意识到Hash的实际效果可能未必达到直观感受
 ### Merkle
