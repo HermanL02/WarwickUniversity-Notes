@@ -302,7 +302,7 @@ Tamper Evident: 就是防止篡改，篡改后能看出来，例如彩票
 Tamper Resistant: 防止篡改，例如保险箱
 Hack HSM: 
 1. 主key由多方参与构成安全性，但是可能被忽视这个协议，因为工程师可能会访问他们本应不处理的密钥
-2. 
+2. 打开外壳就会获取数据，检测外壳完整性数据自动抹除，但维护人员可以获取数据 -- 组件分离, 环氧树脂密封
 
 # Bitcoin
 ## Elliptic Curve Cryptography
