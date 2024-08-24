@@ -306,7 +306,7 @@ Hack HSM:
 3. 环氧树脂并不安全: 防篡改感应
 4. 内存残留
 5. 内存冰冻
-6. 
+6. RF射频攻击，时间攻击, 能耗攻击
 
 # Bitcoin
 ## Elliptic Curve Cryptography
