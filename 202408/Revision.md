@@ -308,13 +308,14 @@ Hack HSM:
 5. 内存冰冻
 6. RF射频攻击，时间攻击, 能耗攻击
 ## API攻击
-
+一: 已知攻击
 Host -> HSM: attacker_PAN, victim_PAN, attacker_offset
 HSM -> Host: new_offset
 attacker_PIN = new_offset + decimalised_PIN
 Hence: victim_PIN =  decimalised_PIN + offset
-= attacker_PIN – new_offset + offset
-
+			   = attacker_PIN – new_offset + offset
+二. 十进制转换表攻击
+0123456789ABC
 
 # Bitcoin
 ## Elliptic Curve Cryptography
