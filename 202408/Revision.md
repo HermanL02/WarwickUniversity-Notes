@@ -324,6 +324,7 @@ Hence: victim_PIN =  decimalised_PIN + offset
 这样我们就可以知道密码中是否含有1; 
 
 三: 多个银行如何共享ATM? Visa Shared Control! 
+![[Pasted image 20240824130931.png]]
 
 
 # Bitcoin
