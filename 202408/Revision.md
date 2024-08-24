@@ -108,7 +108,7 @@ Padding Oracle 攻击: 修改密文的最后padding发送给服务器来判断�
 ## Basics
 1. Operation Mode: 数据如何被分块处理
 2. Compression: 压缩函数, 例如Feistel
-3. 混淆-扩散操作: 混淆: 输入输出关系复杂; Diffusion: kuos
+3. 混淆-扩散操作: 混淆: 输入输出关系复杂; Diffusion: 每一位输入都对每一位输出有影响
 ### 生日悖论
 意识到Hash的实际效果可能未必达到直观感受
 ### Merkle
