@@ -315,7 +315,13 @@ attacker_PIN = new_offset + decimalised_PIN
 Hence: victim_PIN =  decimalised_PIN + offset
 			   = attacker_PIN – new_offset + offset
 二. 十进制转换表攻击
-0123456789ABC
+0123456789ABCDEF
+0123456789012345 这是正常的转换表
+但是我们可以修改它
+比如: 
+0123456789ABCDEF
+0100000000000000
+这样我们就可以知道密码中是否含有1; 
 
 # Bitcoin
 ## Elliptic Curve Cryptography
