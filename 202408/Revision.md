@@ -311,15 +311,10 @@ Hack HSM:
 
 Host -> HSM: attacker_PAN, victim_PAN, attacker_offset
 HSM -> Host: new_offset
-**
-
 attacker_PIN = new_offset + decimalised_PIN
-
 Hence: victim_PIN =  decimalised_PIN + offset
+= attacker_PIN – new_offset + offset
 
-    = attacker_PIN – new_offset + offset
-
-**
 
 # Bitcoin
 ## Elliptic Curve Cryptography
