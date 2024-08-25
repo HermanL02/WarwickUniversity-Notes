@@ -89,7 +89,7 @@ In our application, the whole application is designed following the usual MERN (
 Similar to MERN stack, we choose NeDB as our local database. Compare to MongoDB, it is a light-weighted database without the requirement of individual database server and more common for a DB that only serves a single process. It keeps the NoSQL DB feature and uses the query commands that are similar to MongoDB. 
 
 #### Inter-Process Communication
-In our security-based application, we have implemented a robust architecture that isolates the backend Node.js environment from the frontend by utilizing secure IPC calls. The app
+In our security-based application, we have implemented a robust architecture that isolates the backend Node.js environment from the frontend by utilizing secure IPC calls. The aim of this feature is to enhance the security by ensuring that communication between the frontend and backend is tightly controlled and monitored. 
 
 
 install wechat/anti updaste
