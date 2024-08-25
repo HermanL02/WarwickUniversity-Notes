@@ -140,7 +140,7 @@ When we study the automatic update mechanism of wechat client, we find that its 
 
 Specifically, WeChat's `NeedUpdateType` item under the registry path `HKEY_CURRENT_USER\Software\Tencent\WeChat` determines whether the client needs to be updated. When the value of this item is set to 0, wechat will not trigger the update request. In addition, WeChat saves the update.data file in the local directory `%USERPROFILE%\AppData\Roaming\Tencent\WeChat\All Users\config`, which is used to record update status information. By deleting the file and recreating an empty file, while limiting write permissions to the file, you can effectively prevent wechat from updating itself during subsequent startup processes.
 
-Similarly, WeChat saves the update patch file in the directory %USERPROFILE%\AppData\Roaming\Tencent\WeChat\patch. By deleting the directory and recreating an empty directory with restricted access, wechat can be prevented from downloading and applying new patches from the server.
+Similarly, WeChat saves the update patch file in the directory `%USERPROFILE%\AppData\Roaming\Tencent\WeChat\patch`. By deleting the directory and recreating an empty directory with restricted access, wechat can be prevented from downloading and applying new patches from the server.
 
 To sum up, the update behavior of the wechat client can be effectively controlled through the operation of registry entries and local update files. This is the f
 
