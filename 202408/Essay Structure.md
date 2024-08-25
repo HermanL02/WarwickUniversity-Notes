@@ -107,7 +107,8 @@ install wechat/anti updaste
 - 
 ### Back End
 
-####
+#### Assets Management
+
 Key Formatting -> JSON.stringlify() 为什么普通格式不行? 为什么一定要JSON
 - 添加Java/C以及其他的bat反制微信更新作为backend
 ### Front End
