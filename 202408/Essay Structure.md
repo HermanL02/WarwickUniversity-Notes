@@ -1,5 +1,6 @@
 # Introduction
-In today's digital era, instant messaging platforms have become integral to daily communication. To ensure the communication security, many users prefer to explore any secure communication software as their chat preferences. The popular choices are WhatsApp, Facebook Messenger and iMessage, which provides end-to-end encryption features supported by a variety of protocols. [https://security.apple.com/blog/imessage-pq3/]  [https://about.fb.com/news/2024/03/end-to-end-encryption-on-messenger-explained/]
+In today's digital era, instant messaging platforms have become integral to daily communication. To ensure the communication security, many users prefer to explore any secure communication software as their chat preferences. The popular choices are WhatsApp, Facebook Messenger and iMessage, which provides end-to-end encryption features supported by a variety of protocols. [https://security.apple.com/blog/imessage-pq3/] 
+[https://about.fb.com/news/2024/03/end-to-end-encryption-on-messenger-explained/]
 
 Meanwhile, in People's Republic of China(PRC), people cannot find a secure way to communicate. The secure apps we mentioned are not accessible due to the government applied internet restrictions. Instead, in the Chinese market, among all the communication applications and platforms, WeChat stands out with over 1 billion daily active users, making it a dominant force in the messaging area.  However, compare to their competitors on the global market, we found none of the Chinese apps provides an End-to-End Encryption(E2EE) feature, and none of them seen security and communication safety as their priority. This reveals a serious fact, which is over a billion users daily conversation is not protected and fully exposed to the company or the government. 
 
@@ -14,7 +15,7 @@ iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. i
 
 We can generally consider that E2EE is widely used outside internet restricted area. 
 ## Current WeChat Encryption Measures
-According to the official website of WeChat help center, WeChat uses TLS encryption to secure your data as it moves to and from the servers. For the static data, it uses 256 digits AES encryption. However, during this process, the encryption key is controlled by service provider, Tencent, which means it has a potential threat that Tencent has access to your information and conversation. [TODO https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&plat=1&lang=en&id=1208117b2mai1410243yyQFZ&Channel=helpcenter]
+According to the official website of WeChat help centre, WeChat uses TLS encryption to secure your data as it moves to and from the servers. For the static data, it uses 256 digits AES encryption. However, during this process, the encryption key is controlled by service provider, Tencent, which means it has a potential threat that Tencent has access to your information and conversation. [TODO https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&plat=1&lang=en&id=1208117b2mai1410243yyQFZ&Channel=helpcenter]
 
 ## WeChat Scandal
 Above, we talked about the potential technical possibility of WeChat technology. In fact, there are already reports regarding the block and filter of messages of WeChat. It also applies the account ban on sensitive politic messages. 
