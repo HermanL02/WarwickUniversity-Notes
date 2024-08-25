@@ -94,6 +94,9 @@ To avoid this security issue in our security-based application, we have utilized
 IPC calls provide a secure channel for data exchanges, minimizing the attack surface by preventing direct access to the backend processes. The isolation helps us to protect sensitive backend operations, such as the key operations from potential threats from the frontend user interface. Besides, the IPC calls allows us to enforce strict access controls and validation mechanisms, which ensures that only our frontend could access our backend. 
 Therefore, although this feature might increase our development complexity, we still utilized this feature to ensure the best practice. 
 
+##### Others
+During the development process, we 
+
 
 install wechat/anti updaste
 - NeDB
