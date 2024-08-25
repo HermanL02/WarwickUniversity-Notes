@@ -234,8 +234,9 @@ The first part would be the functionality and combability testing. It will help 
 
 The second part would be UI testing. The purpose is to test if the UI breaks on different screen sizes. 
 
+The expected testing result would be satisfying all the requirements we mentioned. 
 #### Testing Result
-The 
+There are 6 users finally attend the testing. The testing of the Android devices is great. None of them hav
 
 
 
