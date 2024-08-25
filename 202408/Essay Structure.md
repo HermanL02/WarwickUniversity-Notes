@@ -103,16 +103,13 @@ This approach significantly reduces the overall size of the installer, which can
 The alternative approach involves hosting the assets on servers located within China, which would ensure faster and more reliable access for users in this region. While this solution effectively addresses the accessibility issues encountered in the first approach, it introduces the risk of the server being targeted or blocked by Chinese authorities, particularly if the content or the hosting platform is deemed sensitive or non-compliant with local regulations. Moreover, managing a separate server infrastructure adds operational complexity and potential security vulnerabilities, as the server must be maintained, monitored, and protected from attacks or misuse. 
 ##### Embed to Installer
 Given these considerations, I ultimately decided to embed the necessary assets directly into the installer by modifying the Electron Builder configuration. This approach, while increasing the size of the installer, guarantees that all users, regardless of their geographical location, have consistent and reliable access to the required assets. By including the assets in the installer package, I mitigate the risks associated with external dependencies and ensure that the installation process remains seamless and efficient across all user environments. 
-However, this would still be a challenge for us to 
+However, this would still be a challenge for us to manage the installer size. 
 #### Others
 During the development process, we finally choose `npm` as our package management software, because of its reliability compared to yarn. 
 
 
 
-install wechat/anti updaste
-- 
-- 
-- 添加 inject Tool的选择分析
+
 -
 - 
 ### Back End
@@ -121,6 +118,10 @@ install wechat/anti updaste
 
 Key Formatting -> JSON.stringlify() 为什么普通格式不行? 为什么一定要JSON
 - 添加Java/C以及其他的bat反制微信更新作为backend
+- install wechat/anti updaste
+- 
+- 
+- 添加 inject Tool的选择分析
 ### Front End
  添加 ReactContext
 ## Android
