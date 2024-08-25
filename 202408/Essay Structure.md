@@ -119,10 +119,13 @@ During the development process, we finally choose `npm` as our package managemen
 
 ### Back End
 The backend maintains the communication between DB and utility tools including the WeChat installer (for people to easily install WeChat) and the Injection Tools (to make use of the WeChat hook to inject WeChat). It also provides the encryption, decryption and generate keypair function to the front end. 
-#### Key Formatting
+#### Key Exchange
+##### Security
 Security is the core requirement of key exchange. During the key exchange process, potential Man-in-the-Middle attacks need to be prevented to ensure that only the communicating parties can obtain the shared key. Common encryption protocols, such as Diffie-Hellman and RSA, provide some degree of resistance to man-in-the-middle attacks. 
-
+##### Key Formatting
 In practice, key formatting is an aspect that needs special attention in the process of key exchange. Keys often need to be transferred and stored between different systems, so they must be in a format that is common and easy to parse. Common key formats include PEM and DER, which are standard key encoding formats to ensure that the key can be recognized and used by different applications.
+
+In our project, RSA algorithm is used for key exchange, and 2048 bit length key is selected, and OAEP (Optimal Asymmetric Encryption Padding) is used. The choice was not random, but was made after careful consideration. RSA-2048 provides enough security to protect against currently known computing attacks. The key length of 2048 bits still has high security under modern computing power, and can effectively prevent brute-force attacks. In addition, OAEP filling mode is one of the widely accepted filling schemes at present, which provides the randomization of ciphertext, thus enhancing the security of ciphertext and further improving the anti-attack capability.
 
 Key Formatting -> JSON.stringlify() 为什么普通格式不行? 为什么一定要JSON
 - 添加Java/C以及其他的bat反制微信更新作为backend
