@@ -99,7 +99,7 @@ Therefore, although this feature might increase our development complexity, we s
 [https://node-security.com/posts/secure-electron-ipc/]
 [https://blog.logrocket.com/electron-ipc-response-request-architecture-with-typescript/]
 [https://blog.logrocket.com/handling-interprocess-communications-in-electron-applications-like-a-pro/]
-
+[https://blog.core.ai/blogs/secureelectron/]
 
 #### Assets Management
 During the development process, since there are many additional plug-ins, including the WeChat installer, the Injection Tool, the dll and bat files, it is hard to determine where we should store these hundreds of MBs data. When considering the inclusion of additional assets into the Electron Builder installer, two primary approaches are considered and, each with distinct advantages and challenges.
