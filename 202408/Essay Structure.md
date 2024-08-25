@@ -120,7 +120,7 @@ During the development process, we finally choose `npm` as our package managemen
 ### Back End
 The backend maintains the communication between DB and utility tools including the WeChat installer (for people to easily install WeChat) and the Injection Tools (to make use of the WeChat hook to inject WeChat). It also provides the encryption, decryption and generate keypair function to the front end. 
 #### Key Formatting
-When we mention about the key exchange, 
+When we mention about the key exchange, we 
 
 Key Formatting -> JSON.stringlify() 为什么普通格式不行? 为什么一定要JSON
 - 添加Java/C以及其他的bat反制微信更新作为backend
