@@ -232,7 +232,7 @@ We want to invite 10 users to verify the functionality, usability, and security 
 
 The first part would be the functionality testing. It will help us to determine whether the functionality would work the same on different kinds of Android devices. 
 
-The second part would be UI testing. The purpose is to test if the UI breaks on different devices. 
+The second part would be UI testing. The purpose is to test if the UI breaks on different screen sizes. 
 
 
 
