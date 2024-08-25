@@ -72,9 +72,14 @@ The Secret Chat Page facilitates secure messaging by leveraging each user's publ
 # Develop Structure 
 
 ## Windows
-Our app targets to make use of the open source WeChat hook to intercept the incoming WeChat messages, and send encrypted outgoing messages. During this process, RSA will be used as the main protocol to ensure the E2EE communication. 
+Our app targets to make use of the open source WeChat hook to intercept the incoming WeChat messages, and send encrypted outgoing messages. During this process, RSA will be used as the main protocol to ensure the E2EE communication. Below is a summarization of the development chart. 
 [TODO Windows Dev Chart Here]
 ### Underlying Technology
+The underlying technology behind the WeChat injector is a sophisticated application of reverse engineering. The original author developed this tool from a publicly available GitHub repository. The process begins by using Cheat Engine to monitor the WeChat process, specifically targeting the sending of messages and setting breakpoints. This allows for the identification of the corresponding assembly code responsible for these actions. Subsequently, APIs are established to leverage this assembly code for sending and receiving messages.
+
+Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used to maintain compatibility, with its API designed for downward compatibility. The approach involves using the `sqlite3_close` function as an anchor to locate other functions, based on the assumption that their offsets will remain consistent. This method allows for the systematic identification and utilization of various SQLite3 functions by referencing their fixed offsets.
+
+
 - 添加 Process to use ICA to find vulnerabilities; SQL integration
 - 
 ### General Structure
