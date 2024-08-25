@@ -79,7 +79,7 @@ Our app targets to make use of the open source WeChat hook to intercept the inco
 The underlying technology behind the WeChat injector is a sophisticated application of reverse engineering. The original author developed this tool from a publicly available GitHub repository. The process uses Cheat Engine to find the offset of the certain functions, such as send message and receive message functions, then they can accept the inputs from the users, and forward the received messages to the corresponding port. It monitors the WeChat process, specifically targeting the sending of messages and setting breakpoints. This allows for the identification of the corresponding assembly code responsible for these actions. Subsequently, APIs are established to leverage this assembly code for sending and receiving messages.
 
 Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used to maintain compatibility, with its API designed for downward compatibility. The approach involves using the `sqlite3_close` function as an anchor to locate other functions, based on the assumption that their offsets will remain consistent. This method allows for the systematic identification and utilization of various SQLite3 functions by referencing their fixed offsets.
-
+[https://github.com/ttttupup/wxhelper]
 
 - 添加 Process to use ICA to find vulnerabilities; SQL integration
 - 
