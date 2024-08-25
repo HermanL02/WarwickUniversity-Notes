@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202408/期末卷子复习.md",
+                "file": "202408/Essay Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 200
   },
   "right": {
     "id": "42106831849cd0f0",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202408/期末卷子复习.md",
+                "file": "202408/Essay Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202408/期末卷子复习.md",
+                "file": "202408/Essay Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202408/期末卷子复习.md"
+                "file": "202408/Essay Structure.md"
               }
             }
           },
@@ -234,10 +234,10 @@
       }
     ]
   },
-  "active": "e3790e632785e9b3",
+  "active": "cf8aadadb8b82695",
   "lastOpenFiles": [
-    "202406/Interim Report.md",
     "202408/期末卷子复习.md",
+    "202406/Interim Report.md",
     "202408/Revision.md",
     "202408/Essay Structure.md",
     "202408/ISSUES.md",
