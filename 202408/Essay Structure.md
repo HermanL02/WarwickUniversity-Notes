@@ -228,10 +228,9 @@ To maintain the clarity and maintenance of the code, it's essential to address c
 ## Beta Test
 ### Android
 #### Testing Plan
-We want to invite 10 users to verify the functionality, usability, and security of the Libre Chat Android application, ensuring that it meets the requirements for secure communication via the custom keyboard app. This testing plan covers the key features of the Libre Chat Android app, including key generation, key storage, encryption/decryption of messages, and overall app performance on various Android devices.
+We want to invite 10 users to verify the functionality, usability, and security of the Libre Chat Android application, ensuring that it meets the requirements for secure communication via the custom keyboard app. This testing plan covers the key features of the Libre Chat Android app, including key generation, key storage, encryption/decryption of messages, and overall app performance on various Android devices. 
 
-
-### Android
+The first part would be the functionality testing. would be UI testing. The purpose is to test if the UI breaks on different devices. 
 
 
 
