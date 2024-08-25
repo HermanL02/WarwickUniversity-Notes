@@ -164,7 +164,7 @@ G, E, D, 随机化, 加密, 解密
 如果p是一个质数，且a是一个与p互质的整数，则有a^(p-1) = 1 mod p
 1. p, q质数, n =pq ;   φ(N) = (p-1) ∙ (q-1)
 2. 找到随机数  e 满足 GCD (e, φ(N)) = 1
-3. e * d≡1(mod φ(N))
+3. e * d≡1(mod φ(N)) 
 4. Extended Euclidean Algorithm: e * d + φ(N) * y = 1, 求d
 加密: 
 c = me (mod N)
