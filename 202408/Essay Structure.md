@@ -75,10 +75,10 @@ The Secret Chat Page facilitates secure messaging by leveraging each user's publ
 Our app targets to make use of the open source WeChat hook to intercept the incoming WeChat messages, and send encrypted outgoing messages. During this process, RSA will be used as the main protocol to ensure the E2EE communication. Below is a summarization of the development chart. 
 [TODO Windows Dev Chart Here]
 ### Underlying Technology
-### 
-The underlying technology behind the WeChat injector is a sophisticated application of reverse engineering. The original author developed this tool from a publicly available GitHub repository. 
-
-The process begins by using Cheat Engine to find the offset of the certain functions, such as send message and receive message functions, then forward it to the corresponding port. It monitors the WeChat process, specifically targeting the sending of messages and setting breakpoints. This allows for the identification of the corresponding assembly code responsible for these actions. Subsequently, APIs are established to leverage this assembly code for sending and receiving messages.
+#### Introduction
+The underlying technology behind the WeChat injector is a sophisticated application of reverse engineering. The original author developed this tool from a publicly available GitHub repository. The process uses Cheat Engine to find the offset of the certain functions, such as send message and receive message functions, then forward it to the corresponding port. 
+#### Process
+corresponding port. It monitors the WeChat process, specifically targeting the sending of messages and setting breakpoints. This allows for the identification of the corresponding assembly code responsible for these actions. Subsequently, APIs are established to leverage this assembly code for sending and receiving messages.
 
 Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used to maintain compatibility, with its API designed for downward compatibility. The approach involves using the `sqlite3_close` function as an anchor to locate other functions, based on the assumption that their offsets will remain consistent. This method allows for the systematic identification and utilization of various SQLite3 functions by referencing their fixed offsets.
 
