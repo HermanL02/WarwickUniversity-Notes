@@ -228,7 +228,7 @@ To maintain the clarity and maintenance of the code, it's essential to address c
 ## Beta Test
 ### Android
 #### Testing Plan
-We want to invite 10 users to verify the functionality of our Android product. 
+We want to invite 10 users to verify the functionality of our Android product. The target users are the international students, the 
 
 
 ### Android
