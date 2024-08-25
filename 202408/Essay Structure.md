@@ -75,10 +75,7 @@ The Secret Chat Page facilitates secure messaging by leveraging each user's publ
 Our app targets to make use of the open source WeChat hook to intercept the incoming WeChat messages, and send encrypted outgoing messages. During this process, RSA will be used as the main protocol to ensure the E2EE communication. Below is a summarization of the development chart. 
 [TODO Windows Dev Chart Here]
 ### Underlying Technology
-#### Introduction
 The underlying technology behind the WeChat injector is a sophisticated application of reverse engineering. The original author developed this tool from a publicly available GitHub repository. The process uses Cheat Engine to find the offset of the certain functions, such as send message and receive message functions, then they can accept the inputs from the users, and forward the received messages to the corresponding port. It monitors the WeChat process, specifically targeting the sending of messages and setting breakpoints. This allows for the identification of the corresponding assembly code responsible for these actions. Subsequently, APIs are established to leverage this assembly code for sending and receiving messages.
-#### Process
-The first step would be find the calls. We send a customized string 
 
 Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used to maintain compatibility, with its API designed for downward compatibility. The approach involves using the `sqlite3_close` function as an anchor to locate other functions, based on the assumption that their offsets will remain consistent. This method allows for the systematic identification and utilization of various SQLite3 functions by referencing their fixed offsets.
 
@@ -86,6 +83,10 @@ Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used 
 - 添加 Process to use ICA to find vulnerabilities; SQL integration
 - 
 ### General Structure
+In our application, the whole application is designed following the usual MERN (MongoDB, Express, React and Node) based structure. We applied this structure with an Electron based app. The similarity between MERN stack and Electron means it is possible for a single full stack developer to create, design and build the whole application without the need of knowing much abou. Both of them use Node.js as the backend and React.js as the frontend. Besides, it maintains key features as the desktop node, which means it could interact with the files to inject WeChat, create local database to save keypairs and make use of the WeChat hook, while keeping connection with the local APIs. Since our app is a security based app, it isolates the backend node.js and uses secure IPC(inter-process communication) calls to communicate between frontend and backend code to maintain the best security practice. 
+
+Similar to MERN stack, we choose NeDB as our local database, because compare to MongoDB, it is more light weighted while keeping the NoSQL DB feature and similar command as MongoDB. 
+
 install wechat/anti updaste
 - NeDB
 - 添加 Electron Builder How to include assets into installer
