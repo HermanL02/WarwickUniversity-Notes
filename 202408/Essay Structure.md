@@ -94,7 +94,7 @@ To avoid this security issue in our security-based application, we have utilized
 IPC calls provide a secure channel for data exchanges, minimizing the attack surface by preventing direct access to the backend processes. The isolation helps us to protect sensitive backend operations, such as the key operations from potential threats from the frontend user interface. Besides, the IPC calls allows us to enforce strict access controls and validation mechanisms, which ensures that only our frontend could access our backend. 
 Therefore, although this feature might increase our development complexity, we still utilized this feature to ensure the best practice. 
 #### Assets Management
-During the development process, since there are many additional plug-ins, including the WeChat installer, the Injection Tool, the dll and bat fWhen considering the inclusion of additional assets into the Electron Builder installer, two primary approaches are considered and, each with distinct advantages and challenges.
+During the development process, since there are many additional plug-ins, including the WeChat installer, the Injection Tool, the dll and bat files, it is hard to determine where we should store these hundreds of MBs data. When considering the inclusion of additional assets into the Electron Builder installer, two primary approaches are considered and, each with distinct advantages and challenges.
 ##### GitHub Contents
 The first method involves hosting the assets on GitHub Contents or a similar global content delivery network (CDN), from which the installer fetches the required files during the installation process. This is widely used by multiple start up companies, and I initially learned this from Solana's metadata program. 
 
