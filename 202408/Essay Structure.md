@@ -226,10 +226,9 @@ Developing an Electron app is similar to developing the web apps. Usually the we
 To maintain the clarity and maintenance of the code, it's essential to address common issues during coding. Therefore, in our project, I used ESLint and Prettier. ESLint helps in identifying and fixing code quality issues, while Prettier ensures consistent code formatting. By incorporating these tools into our development process, we not only make our code more readable to others but also to ourselves. As the saying goes, "Only God and I know what this code does... and sometimes even I'm not sure!" Proper formatting and linting help ensure that our code remains understandable, even as it evolves over time.
 
 ## Beta Test
-### Testing Plan
-#### Goals
-- Verify Functionality: 
-- Performance Testing
+### Android
+#### Testing Plan
+
 
 ### Android
 
