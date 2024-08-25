@@ -132,8 +132,11 @@ RSA algorithm is widely introduced in our security course. It is an asymmetric e
 
 OAEP was chosen as the fill mode for a number of reasons. First, OAEP mode combines plaintext with random numbers to generate a pseudo-random ciphertext, thus preventing attackers from inferring the original data by analyzing the ciphertext pattern. Second, the OAEP pattern also has semantic security, even in the absence of a key, the attacker cannot infer anything about the plaintext from the ciphertext. Compared with the traditional PKCS#1 v1.5 padding scheme, the OAEP padding scheme has significant security advantages, especially in the face of ciphertext analytic-based attacks.
 
+##### JSON Formatting
+JSON formatting helps improve the portability and compatibility of the key exchange process. By encapsulating the key and its associated metadata in a JSON object, you can ensure that the key remains consistent during transmission and storage between different systems. It provides a standardized way to represent and transmit data. Common string format is often difficult to deal with complex data structures, which easily leads to parsing errors or data loss. The structured nature of JSON format effectively avoids these problems and ensures the accuracy and reliability of key exchange.
 
-Key Formatting -> JSON.stringlify() 为什么普通格式不行? 为什么一定要JSON
+#### Anti-Update Bat
+
 - 添加Java/C以及其他的bat反制微信更新作为backend
 - install wechat/anti updaste
 - 
