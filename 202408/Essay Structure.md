@@ -150,6 +150,16 @@ The front end consists of the nickname input, and a top bar consists utilizing t
 # Process
 
 ## Solved Issues 
+## Limited Senior Develop Resources
+During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
+
+## New Language, Junior Developer
+
+Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better to learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Programming Tutorial and ChatGPT. 
+
+## Photo Receive and Send
+
+A further complication involves handling photos. Currently, WeChat does not download photos directly to the local computer but keeps them on an intermediary server. Consequently, the received photo may not be the original one sent by the user, complicating the encryption and decryption processes. This solution is we can turn the photos to files, and WeChat usually cannot compress and modify the photo files. https://citizenlab.ca/2019/07/cant-picture-this-2-an-analysis-of-wechats-realtime-image-filtering-in-chats/ In this article, it reviews that if you use original photo, it sometimes reformats the photo, and if we choose the whole photo, generally it does not reformat the photo itself. 
 ## Remain Unsolved Issues
 
 
@@ -180,6 +190,8 @@ Therefore, by applying this rule, we reduced many keys
 ### Over Engineering [TODO REF]
 Over engineering or early optimization is the mistake I made in this project. At the beginning of the project, we aim too much on designing the folder structure without the real requirement support. The general security standard is too high to ignore the real functionality design. Both resulted the development efficiency is low. 
 However, the process finally does provide a relatively clear structure to allow me to extend the code structures. 
+
+
 
 ## Tools Utilization
 ## Live Debug
