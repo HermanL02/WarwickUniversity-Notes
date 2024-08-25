@@ -99,7 +99,6 @@ install wechat/anti updaste
 - NeDB
 - 添加 Electron Builder How to include assets into installer
 - 添加 Package Management NPM vs. YARN
-- 添加 双向IPC通信 与 普通REST CALL的不同 为什么采用?
 - 添加 inject Tool的选择分析
 - 添加 ReactContext
 - Key Formatting -> JSON.stringlify() 为什么普通格式不行? 为什么一定要JSON
