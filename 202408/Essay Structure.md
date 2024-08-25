@@ -95,7 +95,8 @@ IPC calls provide a secure channel for data exchanges, minimizing the attack sur
 Therefore, although this feature might increase our development complexity, we still utilized this feature to ensure the best practice. 
 
 ##### Others
-During the development process, we 
+During the development process, we finally choose `npm` as our package management software, because of its reliability compared to yarn. 
+
 
 
 install wechat/anti updaste
