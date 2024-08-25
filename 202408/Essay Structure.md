@@ -94,7 +94,8 @@ To avoid this security issue in our security-based application, we have utilized
 IPC calls provide a secure channel for data exchanges, minimizing the attack surface by preventing direct access to the backend processes. The isolation helps us to protect sensitive backend operations, such as the key operations from potential threats from the frontend user interface. Besides, the IPC calls allows us to enforce strict access controls and validation mechanisms, which ensures that only our frontend could access our backend. 
 Therefore, although this feature might increase our development complexity, we still utilized this feature to ensure the best practice. 
 #### Assets Management
-
+When considering the inclusion of additional assets into the Electron Builder installer, two primary approaches are considered and, each with distinct advantages and challenges.
+The first method involves hosting the assets on GitHub Contents or a similar global content delivery network (CDN), from which the installer fetches the required files during the installation process. This approach significantly reduces the overall size of the installer, which can be particularly advantageous for applications with a broad international user base, where minimizing download times and storage requirements is essential. However, this method poses significant accessibility issues, particularly for users in regions like China, where access to GitHub and other foreign CDNs is often restricted or slow due to the Great Firewall and other government-imposed limitations. As a result, the user experience in these regions can be severely degraded, leading to potential dissatisfaction and higher abandonment rates during installation.
 #### Others
 During the development process, we finally choose `npm` as our package management software, because of its reliability compared to yarn. 
 
