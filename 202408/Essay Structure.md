@@ -3,10 +3,10 @@ In today's digital era, instant messaging platforms have become integral to dail
 
 Meanwhile, in People's Republic of China(PRC), people cannot find a secure way to communicate. The secure apps we mentioned are not accessible due to the government applied internet restrictions. Instead, in the Chinese market, among all the communication applications and platforms, WeChat stands out with over 1 billion daily active users, making it a dominant force in the messaging area.  However, compare to their competitors on the global market, we found none of the Chinese apps provides an End-to-End Encryption(E2EE) feature, and none of them seen security and communication safety as their priority. This reveals a serious fact, which is over a billion users daily conversation is not protected and fully exposed to the company or the government. 
 
-Therefore, we are here to introduce an E2EE solution for WeChat with main focus on Windows and Android platforms. The whole design has a tested workflow. Although it might not be a production level product to last decades, it potentially benefits people who can only access to the mainland chat applications and the people who need to keep contact with mainland friends. The whole idea also incentivize many more similar applications and urge WeChat and the government policies to change. 
+Therefore, we are here to introduce an E2EE solution for WeChat with main focus on Windows and Android platforms. The whole design has a tested workflow. Although it might not be a production level product to last decades, it potentially benefits people who can only access to the mainland chat applications and the people who need to keep contact with mainland friends. The whole idea also incentivizes many more similar applications and urge WeChat and the government policies to change. 
 
 For this application, we give it a name, Libre Chat. 
-# # Background and Research
+# Background and Research
 ## E2EE Measures from a Global Perspective
 There are four properties are used to ensure the messaging is secure, which are confidentiality, integrity, authentication and non-repudiation. [TODO PDF Ref1] There are many encryption protocols are designed to fulfil the these properties, such as Signal protocol and the RSA protocol. 
 
@@ -142,7 +142,7 @@ Specifically, WeChat's `NeedUpdateType` item under the registry path `HKEY_CURRE
 
 Similarly, WeChat saves the update patch file in the directory `%USERPROFILE%\AppData\Roaming\Tencent\WeChat\patch`. By deleting the directory and recreating an empty directory with restricted access, wechat can be prevented from downloading and applying new patches from the server.
 
-To sum up, the update behavior of the wechat client can be effectively controlled through the operation of registry entries and local update files. This is the foundamental to keep our software to b
+To sum up, the update behavior of the wechat client can be effectively controlled through the operation of registry entries and local update files. This is the foundamental to keep our software to support a long term use without influenced by the WeChat update. 
 
 - 添加Java/C以及其他的bat反制微信更新作为backend
 - install wechat/anti updaste
