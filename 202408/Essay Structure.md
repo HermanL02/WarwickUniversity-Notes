@@ -102,7 +102,7 @@ During the development process, we finally choose `npm` as our package managemen
 install wechat/anti updaste
 - NeDB
 - 添加 Electron Builder How to include assets into installer
-- 添加 Package Management NPM vs. YARN
+- 
 - 添加 inject Tool的选择分析
 - 添加 ReactContext
 - Key Formatting -> JSON.stringlify() 为什么普通格式不行? 为什么一定要JSON
