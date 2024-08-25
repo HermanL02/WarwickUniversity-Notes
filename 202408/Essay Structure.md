@@ -93,6 +93,7 @@ Although the Electron application is easy to develop, it does not force the appl
 To avoid this security issue in our security-based application, we have utilized a architecture that isolates the backend Node.js environment from the frontend by utilizing secure IPC calls. The aim of this feature is to enhance the security by ensuring that communication between the frontend and backend is tightly controlled and monitored. 
 IPC calls provide a secure channel for data exchanges, minimizing the attack surface by preventing direct access to the backend processes. The isolation helps us to protect sensitive backend operations, such as the key operations from potential threats from the frontend user interface. Besides, the IPC calls allows us to enforce strict access controls and validation mechanisms, which ensures that only our frontend could access our backend. 
 Therefore, although this feature might increase our development complexity, we still utilized this feature to ensure the best practice. 
+#### Assets Management
 
 #### Others
 During the development process, we finally choose `npm` as our package management software, because of its reliability compared to yarn. 
@@ -107,7 +108,7 @@ install wechat/anti updaste
 - 
 ### Back End
 
-#### Assets Management
+#### 
 
 Key Formatting -> JSON.stringlify() 为什么普通格式不行? 为什么一定要JSON
 - 添加Java/C以及其他的bat反制微信更新作为backend
