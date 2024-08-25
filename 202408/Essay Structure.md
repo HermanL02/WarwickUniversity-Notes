@@ -113,7 +113,7 @@ During the development process, we finally choose `npm` as our package managemen
 -
 - 
 ### Back End
-
+The backend maintains the communication between DB and utility tools including the WeChat installer (for people to easily install WeChat) and the Injection Tools (to make use of the WeChat hook to inject WeChat). It also provides the encryption, decryption and generate keypair function to the front end. 
 #### 
 
 Key Formatting -> JSON.stringlify() 为什么普通格式不行? 为什么一定要JSON
@@ -123,11 +123,28 @@ Key Formatting -> JSON.stringlify() 为什么普通格式不行? 为什么一定
 - 
 - 添加 inject Tool的选择分析
 ### Front End
+On the front end, tailwind CSS is used to design the scope and to perform simple animations. React is used to make the front end componentized. 
+We applied React Context to continuously read the content and share the chat messages history among all React front end pages. It is also used to keep the front end state. It provides the injection page, encryption decryption page, and the chat page to the users. 
+
  添加 ReactContext
 ## Android
-[TODO Android Dev Chart Here]
-### Structure
 
+[TODO Android Dev Chart Here]
+On Android side, our original plan is to integrate and inject WeChat injection tools again to our Android devices, but usually the Android devices have a more strict control over the apps. Therefore, to inject WeChat, a rooted device is required for users to use the app. However, our previous main goal is to provide a general solution for the non-tech people, but rooting devices requires the users to have a deeper understanding in Android. Therefore, we decided to make a supplementary solution for the mobile device. This solution is more likely to be a support tool to the main Windows software. 
+
+The key idea of this app is to design a keyboard app, which allows users to save multiple keypairs, and create their own keypair. They can encrypt and decrypt the messages while sending and receiving text messages without rooting their devices. 
+
+During the Master's degree period, it is almost impossible for a student to design an easy-to-use input method to be competitive as the main Chinese competitors like Sogou and Baidu. But recently in April 2024, the citizen lab published another article regarding the Chinese input methods, in this report, almost all the keyboards app have potential vulnerabilities.  Therefore, we had to search on the GitHub and finally chose Fcitix5 for Android as our choice. It is open source, offline, and has a wide range of users, and relatively easy to modify. 
+
+The project is a Kotlin based software and can support java integration. 
+### Structure
+The main code structure follows the original keyboard pattern, as we want to keep its keyboard functionality as much as possible. 
+
+We created a new set of data in shared preferences to store user private key and user public key, as well as friend public keys, so we can store the information without the information being read by third party apps. We also used the Room Database to monitor the clipboard. 
+
+The controllers can generate keypairs, add contact public keys, and decrypt/encrypt the messages. It also communicates with the Java encryption modules. 
+
+The front end consists of the nickname input, and a top bar consists utilizing these features. 
 ## Design Concepts
 
 # Process
@@ -143,7 +160,7 @@ During the setting up of express server, there is some probability that the expr
 
 # Project Management
 ## Concepts Application
-For the last several months, I have learned many essentail software development skills and applied them to our apps. The app design concepts  are usually a foundation of the whole software development process. 
+For the last several months, I have learned many essential software development skills and applied them to our apps. The app design concepts  are usually a foundation of the whole software development process. 
 ### Coupling and Cohesion [TODO REF]
 The high coupling refers to a situation where modules are highly dependent on each other. It means changing one module might require changes in several other modules as well. The low cohesion means that the functions within a module are not closely related and the module might be responsible for too many unrelated tasks or a module contains too many unrelated functions. The combination of these two issues might lead to code that is difficult to maintain and hard to extend.    
 This issue is extremely difficult in Electron, because both frontend and backend code are in JavaScript. It means some functions can be done on the frontend, and they can be done on the backend as well. If the modules are not designed properly, the coupling will be very high. 
