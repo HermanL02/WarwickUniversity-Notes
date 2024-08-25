@@ -72,6 +72,7 @@ The Secret Chat Page facilitates secure messaging by leveraging each user's publ
 # Develop Structure 
 
 ## Windows
+Our app targets to make use of the open source WeChat hook to intercept the incoming WeChat messages, and send encrypted outgoing messages. During this process, RSA will be used as the main protocol to ensure the E2EE communication. 
 [TODO Windows Dev Chart Here]
 ### Underlying Technology
 - 添加 Process to use ICA to find vulnerabilities; SQL integration
