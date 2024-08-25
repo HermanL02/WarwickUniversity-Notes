@@ -136,7 +136,13 @@ OAEP was chosen as the fill mode for a number of reasons. First, OAEP mode combi
 JSON formatting helps improve the portability and compatibility of the key exchange process. By encapsulating the key and its associated metadata in a JSON object, you can ensure that the key remains consistent during transmission and storage between different systems. It provides a standardized way to represent and transmit data. Common string format is often difficult to deal with complex data structures, which easily leads to parsing errors or data loss. The structured nature of JSON format effectively avoids these problems and ensures the accuracy and reliability of key exchange.
 
 #### Anti-Update Bat
+When we study the automatic update mechanism of wechat client, we find that its update process mainly depends on the configuration of system registry and local files. Wechat determines whether updates are needed through specific items in the registry, and saves relevant update data and patch files locally. Therefore, by manipulating these configuration items and files, you can effectively prevent the automatic update behavior of the wechat client.
 
+Specifically, WeChat's `NeedUpdateType` item under the registry path `HKEY_CURRENT_USER\Software\Tencent\WeChat` determines whether the client needs to be updated. When the value of this item is set to 0, wechat will not trigger the update request. In addition, WeChat saves the update.data file in the local directory `%USERPROFILE%\AppData\Roaming\Tencent\WeChat\All Users\config`, which is used to record update status information. By deleting the file and recreating an empty file, while limiting write permissions to the file, you can effectively prevent wechat from updating itself during subsequent startup processes.
+
+Similarly, WeChat saves the update patch file in the directory %USERPROFILE%\AppData\Roaming\Tencent\WeChat\patch. By deleting the directory and recreating an empty directory with restricted access, wechat can be prevented from downloading and applying new patches from the server.
+
+To sum up, the update behavior of the wechat client can be effectively controlled through the operation of registry entries and local update files. This is the f
 
 - 添加Java/C以及其他的bat反制微信更新作为backend
 - install wechat/anti updaste
