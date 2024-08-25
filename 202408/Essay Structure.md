@@ -13,7 +13,7 @@ There are four properties are used to ensure the messaging is secure, which are 
 
 iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. iMessage uses PQ3 protocol, WhatsApp and Signal uses Signal protocol. Telegram uses MTProto Protocol. Proton Mail uses RSA protocol. [TODO PDF Ref1]
 
-We can generally consider that E2EE is widely used outside internet restricted area. 
+Thus that, we can generally consider that E2EE is widely used outside internet restricted area. 
 ## Current WeChat Encryption Measures
 According to the official website of WeChat help centre, WeChat uses TLS encryption to secure your data as it moves to and from the servers. For the static data, it uses 256 digits AES encryption. However, during this process, the encryption key is controlled by service provider, Tencent, which means it has a potential threat that Tencent has access to your information and conversation. [TODO https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&plat=1&lang=en&id=1208117b2mai1410243yyQFZ&Channel=helpcenter]
 
