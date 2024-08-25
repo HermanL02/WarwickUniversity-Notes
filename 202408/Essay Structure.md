@@ -85,7 +85,9 @@ Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used 
 - 
 ### General Structure
 #### MERN Stack
-In our application, the whole application is designed following the usual MERN (MongoDB, Express, React and Node) based structure. We applied this structure with an Electron based app. The similarity between MERN stack and Electron means it is possible for a single full stack developer to create, design and build the whole application without the need of knowing much about traditional Windows development tools. Both of them use Node.js as the backend and React.js as the frontend. Besides, it maintains key features as the desktop node, which means it could interact with the files to inject WeChat, create local database to save keypairs and make use of the WeChat hook, while keeping connection with the local APIs. 
+In our application, the whole application is designed following the usual MERN (MongoDB, Express, React and Node) based structure. We applied this structure with an Electron based app. The similarity between MERN stack and Electron means it is possible for a single full stack developer to create, design and build the whole application without the need of knowing much about traditional Windows development tools. Both of them use Node.js as the backend and React.js as the frontend. Besides, it maintains key features as the desktop node, which means it could interact with the files to inject WeChat, create local database to save keypairs and make use of the WeChat hook, while keeping connection with the local APIs. [https://blog.logrocket.com/mern-stack-tutorial/]   [https://scientyficworld.org/mern-stack-app-with-mongodb-express-react-node/]
+[https://www.bezkoder.com/react-node-express-mongodb-mern-stack/]
+
 #### NeDB
 Similar to MERN stack, we choose NeDB as our local database. Compare to MongoDB, it is a light-weighted database without the requirement of individual database server and more common for a DB that only serves a single process. It keeps the NoSQL DB feature and uses the query commands that are similar to MongoDB. 
 
