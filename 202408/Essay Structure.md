@@ -90,8 +90,8 @@ Similar to MERN stack, we choose NeDB as our local database. Compare to MongoDB,
 
 #### Inter-Process Communication
 Although the Electron application is easy to develop, it does not force the application to use their best practices. It includes many unsafe features that might harm the user benefits. It allows direct calls between the frontend and backend process, which means that the developers might unintentionally create vulnerability between the frontend process and the main process. 
-To avoid this security issue in our security-based application, we have implemented a architecture that isolates the backend Node.js environment from the frontend by utilizing secure IPC calls. The aim of this feature is to enhance the security by ensuring that communication between the frontend and backend is tightly controlled and monitored. 
-IPC calls provide
+To avoid this security issue in our security-based application, we have utilized a architecture that isolates the backend Node.js environment from the frontend by utilizing secure IPC calls. The aim of this feature is to enhance the security by ensuring that communication between the frontend and backend is tightly controlled and monitored. 
+IPC calls provide a secure channel for data exchanges, minimizing the attack surface by preventing direct access to the backend processes. The isolation helps us to protect sensitive backend operations, such as the key operations from potentia
 
 
 install wechat/anti updaste
