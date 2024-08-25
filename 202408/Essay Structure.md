@@ -5,7 +5,7 @@ Meanwhile, in People's Republic of China(PRC), people cannot find a secure way t
 
 Therefore, we are here to introduce an E2EE solution for WeChat with main focus on Windows and Android platforms. The whole design has a tested workflow. Although it might not be a production level product to last decades, it potentially benefits people who can only access to the mainland chat applications and the people who need to keep contact with mainland friends, and this idea may incentivizes more similar applications and urge WeChat and the government policies to change. 
 
-For this application, we give it a name, Libre Chat. 
+We have named this application "Libre Chat" to reflect the freedom and privacy it aims to provide to users who are currently deprived of secure communication options.
 # Background and Research
 ## E2EE Measures from a Global Perspective
 There are four properties are used to ensure the messaging is secure, which are confidentiality, integrity, authentication and non-repudiation. [TODO PDF Ref1] There are many encryption protocols are designed to fulfil the these properties, such as Signal protocol and the RSA protocol. 
