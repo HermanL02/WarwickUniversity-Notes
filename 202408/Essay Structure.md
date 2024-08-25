@@ -191,6 +191,27 @@ Therefore, by applying this rule, we reduced many keys
 Over engineering or early optimization is the mistake I made in this project. At the beginning of the project, we aim too much on designing the folder structure without the real requirement support. The general security standard is too high to ignore the real functionality design. Both resulted the development efficiency is low. 
 However, the process finally does provide a relatively clear structure to allow me to extend the code structures. 
 
+## Version Control
+
+During this project, we extensively utilized Git as our version control tool. Git's robust branching and merging capabilities allowed for self progress checking, ensuring that code changes could be tracked, reviewed, and integrated efficiently.
+
+## Issue Tracking
+
+To manage and track the progress of tasks and issues, we employed GitHub Issues and Jira. These tools enabled us to create, assign, and monitor issues, facilitating a self-sprint period where tasks were planned, executed, and reviewed systematically. This approach helped in maintaining a clear overview of the project's status and ensured timely resolution of issues.
+
+## Continuous Integration and Continuous Distribution (CI/CD)
+
+To streamline our development process and ensure that our application was always in a deployable state, we implemented a CI/CD pipeline using GitHub Actions. This pipeline was configured to run Electron Builder, a comprehensive tool for packaging and distributing Electron applications, whenever code was pushed to the repository. This automated process ensured that our builds were consistent, reducing the likelihood of human error and speeding up the release cycle.
+
+## Feedback and open-source
+
+Once the reports are submitted and the project has been evaluated, I believe the best path forward is to involve the community. Maintaining this software on my own would be an insurmountable task. Without ongoing maintenance and updates, the software would eventually become obsolete and cease to function effectively.
+
+To address this, I propose open-sourcing the project. By making the code available to the public, we can invite contributions from a diverse group of developers and enthusiasts. This collaborative approach will ensure the software remains up-to-date and continues to improve over time.  
+
+The only concern would be the developer user base, but as we can observe from wxhelper project, I believe some of the developers would like to take part in the project.wa
+
+Open-sourcing the project will not only facilitate its longevity but also foster innovation. I am eager to see how the community can enhance the project with their feedback, ideas, and contributions. By working together, we can create a more robust and versatile tool that benefits everyone.
 
 
 ## Tools Utilization
