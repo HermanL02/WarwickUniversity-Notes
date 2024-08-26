@@ -145,7 +145,7 @@ Specifically, WeChat's `NeedUpdateType` item under the registry path `HKEY_CURRE
 Similarly, WeChat saves the update patch file in the directory `%USERPROFILE%\AppData\Roaming\Tencent\WeChat\patch`. By deleting the directory and recreating an empty directory with restricted access, wechat can be prevented from downloading and applying new patches from the server.
 
 To sum up, the update behavior of the wechat client can be effectively controlled through the operation of registry entries and local update files. This is the foundamental to keep our software to support a long term use without influenced by the WeChat update. 
-
+	
 - 添加Java/C以及其他的bat反制微信更新作为backend
 - install wechat/anti updaste
 - 
