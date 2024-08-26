@@ -149,7 +149,8 @@ To sum up, the update behavior of the wechat client can be effectively controlle
 #### APIs/Different Languages
 Since we are using multiple plugins including the wxhelper inject code, its Java API code and so on, so it requires the communication between different modules through APIs and JSON responses.
 
-##### =
+##### Install WeChat
+
 - install wechat/anti updaste
 - 
 - 
