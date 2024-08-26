@@ -221,6 +221,8 @@ Therefore, by applying this rule, we reduced many keys
 Over engineering or early optimization is the mistake I made in this project. At the beginning of the project, we aim too much on designing the folder structure without the real requirement support. The general security standard is too high to ignore the real functionality design. Both resulted the development efficiency is low. 
 However, the process finally does provide a relatively clear structure to allow me to extend the code structures. 
 
+
+![[Pasted image 20240825210453.png]]
 ## Version Control
 
 During this project, we extensively utilized Git as our version control tool. Git's robust branching and merging capabilities allowed for self progress checking, ensuring that code changes could be tracked, reviewed, and integrated efficiently.
