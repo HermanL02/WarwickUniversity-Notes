@@ -220,6 +220,22 @@ Therefore, by applying this rule, we reduced many keys
 ### Over Engineering [TODO REF]
 Over engineering or early optimization is the mistake I made in this project. At the beginning of the project, we aim too much on designing the folder structure without the real requirement support. The general security standard is too high to ignore the real functionality design. Both resulted the development efficiency is low. 
 However, the process finally does provide a relatively clear structure to allow me to extend the code structures. 
+## Timeline
+Starting from **February 1st**, the primary focus was on the initial phase of **Electron Development** for the dissertation project. This phase involved setting up the foundation for the software, including essential features and core functionalities. Alongside this, I balanced part-time internship responsibilities and class, ensuring progress in both areas.
+
+Moving into **March**, the **Electron Development** continued while maintaining part-time work. The internship provided valuable insights that contributed to the development process, ensuring that the codebase was well-structured and adhered to best practices.
+
+From **April 1st**, the focus shifted to **Android Development**. This phase involved integrating the core features into the Android platform while ensuring seamless performance across devices. The transition from Electron to Android required careful consideration of platform-specific optimizations and user experience design.
+
+As **May** began, the Android development phase continued, overlapping with crucial exam preparations and reviews. Balancing academic responsibilities with the ongoing project work ensured that both aspects were handled effectively.
+
+By **June**, with the exams completed and review sessions behind, the focus returned to the software's final phases of development. **Electron/Injector Development** began in earnest, incorporating the remaining features and preparing the software for rigorous testing.
+
+From **July 10th**, the emphasis was on stabilizing the software, focusing on **Test/Improve** efforts. This phase involved rigorous debugging, refining, and optimizing the code to ensure peak performance and reliability. Extensive internal testing was conducted, including unit tests, integration tests, and system tests, to catch any remaining issues and performance bottlenecks.
+
+As **August** progressed, the software entered its final stages of testing. The external testing phase involved a select group of testers using the software in real-world scenarios. Their feedback was crucial in making any last-minute adjustments or improvements.
+
+Throughout this period, I was on standby to address any issues or feedback swiftly, ensuring the software met all user expectations and performed flawlessly. By the end of **August**, the project was completed, resulting in a robust and reliable product ready for launch.
 
 
 ![[Pasted image 20240825210453.png]]
