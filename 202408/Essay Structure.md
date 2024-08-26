@@ -147,7 +147,7 @@ Similarly, WeChat saves the update patch file in the directory `%USERPROFILE%\Ap
 To sum up, the update behavior of the wechat client can be effectively controlled through the operation of registry entries and local update files. This is the foundamental to keep our software to support a long term use without influenced by the WeChat update. 
 
 #### APIs/Different Languages
-
+Since we are using multip
 - install wechat/anti updaste
 - 
 - 
