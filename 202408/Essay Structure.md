@@ -76,6 +76,7 @@ The Secret Chat Page facilitates secure messaging by leveraging each user's publ
 ## Windows
 Our app targets to make use of the open source WeChat hook to intercept the incoming WeChat messages, and send encrypted outgoing messages. During this process, RSA will be used as the main protocol to ensure the E2EE communication. Below is a summarization of the development chart. 
 [TODO Windows Dev Chart Here]
+![[Pasted image 20240825210233.png]]
 ### Underlying Technology
 The underlying technology behind the WeChat injector is a sophisticated application of reverse engineering. The original author developed this tool from a publicly available GitHub repository. The process uses Cheat Engine to find the offset of the certain functions, such as send message and receive message functions, then they can accept the inputs from the users, and forward the received messages to the corresponding port. It monitors the WeChat process, specifically targeting the sending of messages and setting breakpoints. This allows for the identification of the corresponding assembly code responsible for these actions. Subsequently, APIs are established to leverage this assembly code for sending and receiving messages.
 
@@ -158,6 +159,7 @@ We applied React Context to continuously read the content and share the chat mes
 ## Android
 
 [TODO Android Dev Chart Here]
+![[Pasted image 20240825210317.png]]
 On Android side, our original plan is to integrate and inject WeChat injection tools again to our Android devices, but usually the Android devices have a more strict control over the apps. Therefore, to inject WeChat, a rooted device is required for users to use the app. However, our previous main goal is to provide a general solution for the non-tech people, but rooting devices requires the users to have a deeper understanding in Android. Therefore, we decided to make a supplementary solution for the mobile device. This solution is more likely to be a support tool to the main Windows software. 
 
 The key idea of this app is to design a keyboard app, which allows users to save multiple keypairs, and create their own keypair. They can encrypt and decrypt the messages while sending and receiving text messages without rooting their devices. 
