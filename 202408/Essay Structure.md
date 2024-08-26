@@ -158,7 +158,7 @@ We applied React Context to continuously read the content and share the chat mes
 
 #### React Context
 In our application, we use **React Context** to efficiently manage and share the received WeChat messages across all pages. React Context provides a powerful and flexible way to propagate data through the component tree without having to pass props manually at every level. This is particularly useful for global data like WeChat messages, which need to be accessible in various components of the application. 
-There are a few components. The first part is the context. It can create a context to provide the message status and management functions. The second part is the provider, which could have useState or useReducer to man
+There are a few components. The first part is the context. It can create a context to provide the message status and management functions. The second part is the provider, which could have useState or useReducer to manage the message status. 
 ## Android
 
 [TODO Android Dev Chart Here]
