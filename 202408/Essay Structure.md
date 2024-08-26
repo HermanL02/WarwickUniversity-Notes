@@ -156,7 +156,9 @@ To avoid manual processes, we implemented multiple scripts to streamline the use
 On the front end, tailwind CSS is used to design the scope and to perform simple animations. React is used to make the front end componentized. 
 We applied React Context to continuously read the content and share the chat messages history among all React front end pages. It is also used to keep the front end state. It provides the injection page, encryption decryption page, and the chat page to the users. 
 
- 添加 ReactContext
+#### React Context
+In our application, we use **React Context** to efficiently manage and share the received WeChat messages across all pages. React Context provides a powerful and flexible way to propagate data through the component tree without having to pass props manually at every level. This is particularly useful for global data like WeChat messages, which need to be accessible in various components of the application. 
+
 ## Android
 
 [TODO Android Dev Chart Here]
