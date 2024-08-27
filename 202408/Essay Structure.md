@@ -74,7 +74,8 @@ The Secret Chat Page facilitates secure messaging by leveraging each user's publ
 
 ## Android
 The video demonstration can be accessed here. 
-
+### Create User
+The create user function initiates
 # Develop Structure 
 
 ## Windows
