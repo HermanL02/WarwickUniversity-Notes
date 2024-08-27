@@ -125,7 +125,7 @@ During the development process, we finally choose `npm` as our package managemen
 
 ### Back End
 The backend maintains the communication between DB and utility tools including the WeChat installer (for people to easily install WeChat) and the Injection Tools (to make use of the WeChat hook to inject WeChat). It also provides the encryption, decryption and generate keypair function to the front end. 
-#### Keys and 
+#### Keys and its exchange
 ##### Security
 Security is the core requirement of key exchange. During the key exchange process, potential Man-in-the-Middle attacks need to be prevented to ensure that only the communicating parties can obtain the shared key. Common encryption protocols, such as Diffie-Hellman and RSA, provide some degree of resistance to man-in-the-middle attacks. 
 ##### Key Formatting
@@ -156,6 +156,9 @@ Since we are using multiple plugins including the wxhelper inject code, its Java
 #### Install WeChat
 
 To avoid manual processes, we implemented multiple scripts to streamline the user experience. These scripts are executed using Node.js's `child_process` module, allowing for seamless automation of tasks. By leveraging `child_process`, we can run shell commands directly from the Node.js environment, which helps in automating the installation of WeChat.
+
+#### Injection Tools
+
 ### Front End
 On the front end, tailwind CSS is used to design the scope and to perform simple animations. React is used to make the front end componentized. 
 We applied React Context to continuously read the content and share the chat messages history among all React front end pages. It is also used to keep the front end state. It provides the injection page, encryption decryption page, and the chat page to the users. 
