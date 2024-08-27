@@ -158,7 +158,7 @@ Since we are using multiple plugins including the wxhelper inject code, its Java
 To avoid manual processes, we implemented multiple scripts to streamline the user experience. These scripts are executed using Node.js's `child_process` module, allowing for seamless automation of tasks. By leveraging `child_process`, we can run shell commands directly from the Node.js environment, which helps in automating the installation of WeChat.
 
 #### Injection Tools
-Injection tools are initially t
+Injection tools are initially the first step to determine if the project could succeed. 
 ### Front End
 On the front end, tailwind CSS is used to design the scope and to perform simple animations. React is used to make the front end componentized. 
 We applied React Context to continuously read the content and share the chat messages history among all React front end pages. It is also used to keep the front end state. It provides the injection page, encryption decryption page, and the chat page to the users. 
