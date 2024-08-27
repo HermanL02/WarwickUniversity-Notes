@@ -285,7 +285,7 @@ We want to invite 10 users to verify the functionality, usability, and security 
 The expected testing result would be satisfying all the requirements we mentioned. 
 #### Testing Result
 During a long term testing, it does meet all the requirements we mentioned above regarding the UIs and the features. 
-The good part is that all the functions are performed perfectly and they are connected to each other. 
+The good part is that all the functions are performed perfectly and the onboarding process is smooth and clear. The software is generally stable. It does not crash even once during the testing process. 
 
 However, there are several crucial drawbacks and I will list them from the most crucial one. 
 
