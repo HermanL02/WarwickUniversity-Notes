@@ -279,11 +279,12 @@ To maintain the clarity and maintenance of the code, it's essential to address c
 We want to invite 10 users to verify the functionality, usability, and security of the Libre Chat Android application, ensuring that it meets the requirements for secure communication via the custom keyboard app. This testing plan covers the key features of the Libre Chat Android app, including key generation, key storage, encryption/decryption of messages, and overall app performance on various Android devices. 
 
 **First Part: Functionality and Compatibility Testing** The first stage of our testing process will focus on functionality and compatibility across a wide range of Android devices. This testing phase is to ensure that the app's core features perform consistently and reliably, regardless of the device's make, model, or Android version. We will conduct thorough tests on various Android versions, from the latest updates to older, more commonly used versions, to confirm that our app maintains its functionality across all platforms. Additionally, we will test on devices with different hardware configurations, screen resolutions, and performance capabilities to identify any potential issues or incompatibilities that could affect user experience. The goal is to guarantee that every user, irrespective of their device or Android version, can fully utilize the app's features without encountering bugs or performance issues.
-The second part would be UI testing. The purpose is to test if the UI breaks on different screen sizes. 
+
+**Second Part: UI Testing** The second phase will focus on User Interface (UI) testing, where we will evaluate how the app's design and layout adapt to different screen sizes and resolutions. This stage is essential to ensure that the visual elements of the app are responsive and maintain their integrity on a variety of devices, from smaller smartphones to larger tablets. We will examine whether all UI components, including buttons, images, and text, are displayed correctly and are easy to interact with, regardless of the screen size.
 
 The expected testing result would be satisfying all the requirements we mentioned. 
 #### Testing Result
-I used the Android secret chat app to do a long time conversation especially with one of the users. The aim is to test the feeling to use this app in a long term 
+During a long term testing, it does meet all the requirements we mentioned above regarding the UIs and the features. However, there are several crucial drawbacks and I will list them from the top 
 
 The encryption and decryption process is surprisingly stable and clear. 
 
