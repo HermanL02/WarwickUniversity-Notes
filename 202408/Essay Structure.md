@@ -288,7 +288,7 @@ During a long term testing, it does meet all the requirements we mentioned above
 
 The first one is about the memory. When we send message, there are some probability that sometimes people forgot where the punctuation is. For example, when we write a long sentence "Do you remember last time when we go to the cinema we met a person called Joe? ", we might need to cut down the sentence in the middle to quickly respond to the other user. Usually, during this time, we might forgot where is the punctuation. It would make the sentence is not connected. 
 
-The second one is about the reverse. When we send some important messages, for example the date and the ev
+The second one is about the reverse. When we send some important messages, for example the date and the events, we may need to look them back further. The reason might be related to the 
 
 The encryption and decryption process is surprisingly stable and clear. 
 
