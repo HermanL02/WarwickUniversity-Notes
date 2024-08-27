@@ -285,7 +285,8 @@ We want to invite 10 users to verify the functionality, usability, and security 
 The expected testing result would be satisfying all the requirements we mentioned. 
 #### Testing Result
 During a long term testing, it does meet all the requirements we mentioned above regarding the UIs and the features. 
-The good part is that all the functions are performed perfectly and the onboarding process is smooth and clear. The software is generally stable. It does not crash even once during the testing process. 
+
+The good part is there are 6 users finally attend the testing. The testing of the Android devices is great. None of them have any major issues during the Android testing. One of the users report their plaintext is still there after click on the button. We want to improve that in the future if it is possible. that all the functions are performed perfectly and the onboarding process is smooth and clear. The software is generally stable. It does not crash even once during the testing process. 
 
 However, there are several crucial drawbacks and I will list them from the most crucial one. 
 
@@ -294,11 +295,6 @@ The first one is about the memory. When we send message, there are some probabil
 The second one is about the history. When we send some important messages, for example the date and the events, we may need to look them back further. However, it is impossible to look back to all the hash functions and decrypt them all. 
 
 
-
-The encryption and decryption process is surprisingly stable and clear. 
-
-We discussed the 
-There are 6 users finally attend the testing. The testing of the Android devices is great. None of them have any major issues during the Android testing. One of the users report their plaintext is still there after click on the button. We want to improve that in the future if it is possible. 
 
 
 
