@@ -167,8 +167,14 @@ To avoid manual processes, we implemented multiple scripts to streamline the use
 
 #### Injection Tools
 Injection tools are initially the first step to determine if the project could succeed. Due to different devices have different hardware structures, here we could only use a generic injector that could perform the injection on different devices without letting the WeChat crash. [https://github.com/nefarius/Injector] 
+
+#### Express Server vs. netcat
 ### Front End
-On the front end, tailwind CSS is used to design the scope and to perform simple animations. React is used to make the front end componentized. 
+On the front end, tailwind CSS is used to design the scope and to perform simple animations. 
+#### UI Design
+
+#### Functionality
+React is used to make the front end componentized. 
 We applied React Context to continuously read the content and share the chat messages history among all React front end pages. It is also used to keep the front end state. It provides the injection page, encryption decryption page, and the chat page to the users. 
 
 #### React Context
