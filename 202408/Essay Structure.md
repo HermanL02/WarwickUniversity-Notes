@@ -80,8 +80,8 @@ The create user function initiates when the app starts. It will generate a secre
 ### Select Other User 
 
 ### Encryption [TODO PHOTO BEFORE Encryption]      
-[TODO PHOTO AFTER Encryption]
-###
+After click on the encyprtion message, the user could see their encrypte[TODO PHOTO AFTER Encryption]
+### Decryption [TODO PHOTO FOR DECRYPTION]
 # Develop Structure 
 
 ## Windows
