@@ -184,7 +184,8 @@ The controllers can generate keypairs, add contact public keys, and decrypt/encr
 The front end consists of the nickname input, and a top bar consists utilizing these features. 
 ## Design Concepts
 
-# Process
+# Result
+The overall result demonstrate how the secret channel between two users are build, but unfortunately with only me as the developer, it is hard to 
 
 ## Solved Issues 
 ### Major Issue: Photo Hook
