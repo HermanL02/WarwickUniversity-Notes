@@ -284,7 +284,9 @@ We want to invite 10 users to verify the functionality, usability, and security 
 
 The expected testing result would be satisfying all the requirements we mentioned. 
 #### Testing Result
-During a long term testing, it does meet all the requirements we mentioned above regarding the UIs and the features. However, there are several crucial drawbacks and I will list them from the top 
+During a long term testing, it does meet all the requirements we mentioned above regarding the UIs and the features. However, there are several crucial drawbacks and I will list them from the most crucial one. 
+
+The first one is about the memory. When we send message, sometimes I forgot where the punctuation is. For example, when 
 
 The encryption and decryption process is surprisingly stable and clear. 
 
