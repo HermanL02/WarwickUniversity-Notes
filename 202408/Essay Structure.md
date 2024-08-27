@@ -343,7 +343,9 @@ Within the project, the project content gives the Jest testing some challenges. 
 Currently, within the code, there are a lot of async operations and the APIs of the WXhelper. To configure Jest with WeChat and WXhelper, it requires a lot of additional configurations and the customizations, causing an increase in the test writing and maintenance complexity. 
 
 # Conclusion
+In this Dissertation Project, we may not have really in-depth academic research, nor did we try to explore some undiscovered areas. Rather, it's an integration of resources, and by integrating different resources from multiple sources, we've been able to create a new product that no one else has yet created, which hopefully offers a better possibility to allow users of WeChat to have more control over their chat privacy.
 
+Finally, out of selfishness, I prefer to let my thesis and work lose its due role. I hope that wechat can provide users with native end-to-end encryption in the near future, and the government can introduce corresponding measures to support these moves, which will not only protect the privacy of all users, but also allow people to monitor all aspects of speech to a new height.
 
 # Acknowledgement
 
