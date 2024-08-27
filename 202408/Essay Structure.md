@@ -189,7 +189,11 @@ The overall result demonstrate how the secret channel between two users are buil
 
 ## Solved Issues 
 ### Major Issue: Photo Hook
+In this development, what bothers me the most is the hook of the picture. I tried many ways to hook encrypted images, i.e., files, but ultimately failed.
+The first thing I checked was that there was an internal problem with the API. I looked at the wxhelper code to try to determine if there was an internal problem with the Java file, but I didn't find any problems afterwards. The API provided by the Java file returns the correct response, but there is no way to download the correct file with the MsgID. After that, I tried to use other tools, such as verifying that the result of finding call in C language is correct, but I didn't find any problems. In the end, I can only judge that there are some problems in Wechat, which lead to the MsgId cannot correspond to the files in the database, so I cannot get this picture. 
+]
 
+With this in mind, I consulted other members of the Telegram Community and they gave me some advice. They told me that wechat can automatically download a certain volume of files, and this file can automatically receive files sent by others. I took his advice, but I found it unstable. Receiving files under 200MB causes me to be unsure when I will get the file, all I can do is keep using the interval function to try to get the file, and it may cause the infinite loop to exist.
 
 ### Limited Senior Develop Resources
 During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
