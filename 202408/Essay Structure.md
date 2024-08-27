@@ -40,9 +40,10 @@ Third, the use of VPN is not convenient. If we are always connected to VPN, some
 In the past, there are some open source solutions attempt to use web version of WeChat to intercept the messages. It avoids the complexity of reverse engineering. However, as WeChat aware of the potential use of WeChat Web version, they are forcing users to switch to WeChat Desktop version. Therefore, the web version's use becomes very limited. [https://github.com/ygcaicn/wx_e2e]
 
 # User Manual and Demonstration
+## Windows
 
 The whole video demonstration could be found here. [TODO YOUTUBE] 
-## Basic Function Page [TODO PHOTO] 
+### Basic Function Page [TODO PHOTO] 
 
 The Basic Function Page provides users with a foundational set of cryptographic operations, allowing them to experiment with essential features. This page includes several key-related functionalities:
 
@@ -50,7 +51,7 @@ The Basic Function Page provides users with a foundational set of cryptographic 
 2. **Key Storage**: Users can store and manage other users' public keys by importing them into the system.
 3. **Instant Encryption/Decryption**: The page enables real-time encryption and decryption operations, utilizing others' public keys in conjunction with the user's private key.
 
-## WeChat Direct Message Page [TODO PHOTO]
+### WeChat Direct Message Page [TODO PHOTO]
 
 The WeChat Direct Message Page outlines the mandatory steps required to integrate and utilize WeChat for secure communications. Users must complete the following steps:
 
@@ -70,6 +71,8 @@ The WeChat Communication Channel Build Page guides users through establishing a 
 ### Secret Chat Page
 
 The Secret Chat Page facilitates secure messaging by leveraging each user's public key alongside their private key. This page automates the process of sending and receiving encrypted messages, ensuring secure communication between users.
+
+## Android
 
 # Develop Structure 
 
