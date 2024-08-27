@@ -284,7 +284,10 @@ We want to invite 10 users to verify the functionality, usability, and security 
 
 The expected testing result would be satisfying all the requirements we mentioned. 
 #### Testing Result
-During a long term testing, it does meet all the requirements we mentioned above regarding the UIs and the features. However, there are several crucial drawbacks and I will list them from the most crucial one. 
+During a long term testing, it does meet all the requirements we mentioned above regarding the UIs and the features. 
+The good part is that all the functions are performed perfectly and they are connected to each other. 
+
+However, there are several crucial drawbacks and I will list them from the most crucial one. 
 
 The first one is about the memory. When we send message, there are some probability that sometimes people forgot where the punctuation is. For example, when we write a long sentence "Do you remember last time when we go to the cinema we met a person called Joe? ", we might need to cut down the sentence in the middle to quickly respond to the other user. Usually, during this time, we might forgot where is the punctuation. It would make the sentence is not connected. 
 
