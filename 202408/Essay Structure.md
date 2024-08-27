@@ -331,7 +331,10 @@ Currently, within the code, there are a lot of async operations and the APIs of 
 
 # Acknowledgement
 
-感谢 导师 女朋友 
-感谢 Syed，作为Koii Network的Chief of Engineering 给的建议
-Pablo, Senior Developer 
-Telegram陌生老哥
+First of all, I would like to thank Professor Hao for giving me a lot of support through such an unrealistic dissertation project that does not look like a very formal research.
+
+Secondly, I am very grateful to my fellow leaders at Koii Network, Syed Ghazanfer Anwar and Pablo Poggio, who have taught me Electron and self-motivated problem-solving methods in their work.
+
+Then, I'm very grateful to the wxhelper Telegram community. When I had a problem with files that couldn't be hooked and downloaded, one of them gave me an alternative idea, and the other shared a solution to a known issue.
+
+Finally, I would like to thank my girlfriend for her support during this process. Many times, I stayed up late to write code after having ideas, which affected his sleep. I also appreciate her tolerance.
