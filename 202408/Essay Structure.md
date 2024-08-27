@@ -284,7 +284,8 @@ The second part would be UI testing. The purpose is to test if the UI breaks on 
 
 The expected testing result would be satisfying all the requirements we mentioned. 
 #### Testing Result
-We used the Android secret chat app to do a long time conversation. The encryption and decryption process is suprisingly stable 
+We used the Android secret chat app to do a long time conversation. The encryption and decryption process is surprisingly stable and clear. 
+We discussed the 
 There are 6 users finally attend the testing. The testing of the Android devices is great. None of them have any major issues during the Android testing. One of the users report their plaintext is still there after click on the button. We want to improve that in the future if it is possible. 
 
 
