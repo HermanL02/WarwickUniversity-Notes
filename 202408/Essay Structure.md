@@ -189,10 +189,6 @@ During the development process, several issues can cause progress to stall. As a
 ## New Language, Junior Developer
 
 Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better to learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Programming Tutorial and ChatGPT. 
-
-## Photo Receive and Send
-
-A further complication involves handling photos. Currently, WeChat does not download photos directly to the local computer but keeps them on an intermediary server. Consequently, the received photo may not be the original one sent by the user, complicating the encryption and decryption processes. This solution is we can turn the photos to files, and WeChat usually cannot compress and modify the photo files. https://citizenlab.ca/2019/07/cant-picture-this-2-an-analysis-of-wechats-realtime-image-filtering-in-chats/ In this article, it reviews that if you use original photo, it sometimes reformats the photo, and if we choose the whole photo, generally it does not reformat the photo itself. 
 ## Remain Unsolved Issues
 
 
