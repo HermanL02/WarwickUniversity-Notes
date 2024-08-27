@@ -75,7 +75,8 @@ The Secret Chat Page facilitates secure messaging by leveraging each user's publ
 ## Android
 The video demonstration can be accessed here. 
 ### Create User
-The create user function initiates
+The create user function initiates when the app starts. It will generate a secret key for both the sender and the receiver. 
+
 # Develop Structure 
 
 ## Windows
@@ -332,4 +333,4 @@ Currently, within the code, there are a lot of async operations and the APIs of 
 感谢 导师 女朋友 
 感谢 Syed，作为Koii Network的Chief of Engineering 给的建议
 Pablo, Senior Developer 
-
+Telegram陌生老哥
