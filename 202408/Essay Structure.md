@@ -68,15 +68,16 @@ The WeChat Communication Channel Build Page guides users through establishing a 
    - The second user, after hooking WeChat, chooses "Start a Temporary Encrypted Chat." This action transitions the first user to the Secret Chat Page.
 3. **Key Exchange**: On the Secret Chat Page, the first user sends their key to initiate the secure chat, allowing the second user to enter the same encrypted session.
 
-### Secret Chat Page
+### Secret Chat Page[TODO PHOTO]
 
 The Secret Chat Page facilitates secure messaging by leveraging each user's public key alongside their private key. This page automates the process of sending and receiving encrypted messages, ensuring secure communication between users.
 
 ## Android
 The video demonstration can be accessed here. 
-### Create User
+### Create User [TODO PHOTO]
 The create user function initiates when the app starts. It will generate a secret key for both the sender and the receiver. 
-
+### Send Public Key [TODO PHOTO]
+### Encryption [TODO PHOTO BEFORE Encrypti]
 # Develop Structure 
 
 ## Windows
