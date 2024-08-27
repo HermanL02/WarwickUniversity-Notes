@@ -77,7 +77,11 @@ The video demonstration can be accessed here.
 ### Create User [TODO PHOTO]
 The create user function initiates when the app starts. It will generate a secret key for both the sender and the receiver. 
 ### Send Public Key [TODO PHOTO]
-### Encryption [TODO PHOTO BEFORE Encrypti]
+### Select Other User 
+
+### Encryption [TODO PHOTO BEFORE Encryption]      
+[TODO PHOTO AFTER Encryption]
+###
 # Develop Structure 
 
 ## Windows
