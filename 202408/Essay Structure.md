@@ -294,7 +294,7 @@ The first one is about the memory. When we send message, there are some probabil
 
 The second one is about the history. When we send some important messages, for example the date and the events, we may need to look them back further. However, it is impossible to look back to all the hash functions and decrypt them all. 
 
-The third one is a bug related to the plaintext. We need to put the marker before the encrypted text to make sure that 
+The third one is a bug related to the plaintext. We need to put the marker before the plaintext, before we encrypt the message to make sure that the plaintext  will be d
 
 
 
