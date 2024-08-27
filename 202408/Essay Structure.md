@@ -365,7 +365,7 @@ Finally, out of selfishness, I prefer to let my project work lose its due role. 
 
 First of all, I would like to thank Professor Hao for giving me a lot of support through such an unrealistic dissertation project that does not look like a very formal research.
 
-Secondly, I am very grateful to the wxhelper's author. The author does not only provide a public access to WeChat injection, but also  my fellow leaders at Koii Network, Syed Ghazanfer Anwar and Pablo Poggio, who have taught me Electron and self-motivated problem-solving methods in their work.
+Secondly, I am very grateful to the wxhelper's author. The author does not only provide a public method to make a WeChat hook, but also gave me a selfless tutoring to revise the   my fellow leaders at Koii Network, Syed Ghazanfer Anwar and Pablo Poggio, who have taught me Electron and self-motivated problem-solving methods in their work.
 
 Then, I'm very grateful to the wxhelper Telegram community. When I had a problem with files that couldn't be hooked and downloaded, one of them gave me an alternative idea, and the other shared a solution to a known issue.
 
