@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "074242d8843a0a7d",
+        "id": "461913863e08c374",
         "type": "tabs",
         "children": [
           {
-            "id": "ba4c2ec83771b87d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202408/Essay Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cb85e67b940f0b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202408/Essay Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3790e632785e9b3",
+            "id": "55a151eb8ec965a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,12 +171,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e3790e632785e9b3",
+  "active": "55a151eb8ec965a6",
   "lastOpenFiles": [
+    "202408/Essay Structure.md",
     "Pasted image 20240827023802.png",
     "202408/Revision.md",
     "202408/ISSUES.md",
-    "202408/Essay Structure.md",
     "202408/期末卷子复习.md",
     "202406/Interim Report.md",
     "Pasted image 20240825210453.png",
@@ -217,7 +192,6 @@
     "202309/Lab 6.md",
     "Pasted image 20240812224721.png",
     "Pasted image 20240812215646.png",
-    "Pasted image 20240812214746.png",
     "202409",
     "202404/CS932 2023 Exam Review.md",
     "202408",

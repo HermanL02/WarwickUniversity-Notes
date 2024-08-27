@@ -210,6 +210,12 @@ The first thing I checked was that there was an internal problem with the API. I
 #### Alternative Solution 
 With this in mind, I consulted other members of the Telegram Community and they gave me some advice. They told me that wechat can automatically download a certain volume of files, and this file can automatically receive files sent by others. I took his advice, but I found it unstable. Receiving files under 200MB function itself is good, but it is not as good as a assured function or API. Even though I know from the message that it is downloading a file, it is not possible for me to treat it like an async function or API, that means it is impossible for me to know when will the file be finally received. I can add some error handling in the code, and create a loop and set a interval to keep checking if the local folder receives the code, but ll I can do is keep using the interval function to try to get the file, and it may cause the infinite loop to exist.
 #### Final Solution
+Finally, after many attempts, I still couldn't find out why MsgID couldn't be used to get files. After many attempts, I posted the question again to the Telegram Community group, and this time luckily, the wxhelper writer replied and provided me with a link to his previous answer to someone else for free. His basic idea is to provide an error on Big Int Conversion, and he thinks that I may have a problem with type conversion due to Big Int.
+
+##### Verify and try
+In order to verify his claim, I tried to build a Python flask server and another Electron express server. I watched both servers react by sending them the same Jsonformatted string containing a long int, and the result was that Node.js couldn't handle the Big Int conversion. At the same time, I used different wechat messages again to check their status, and I found that Python could handle MsgID correctly, and the obtained MsgID could be used as wechat files, while the Node.js server could not.
+
+After that, I modified my backend logic to try to receive a BigInt so that the Express server could handle the Message ID request correctly as well.
 
 
 ### Limited Senior Develop Resources
