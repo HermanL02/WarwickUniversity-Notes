@@ -193,7 +193,7 @@ We created a new set of data in shared preferences to store user private key and
 The controllers can generate keypairs, add contact public keys, and decrypt/encrypt the messages. It also communicates with the Java encryption modules. 
 
 The front end consists of the nickname input, and a top bar consists utilizing these features. 
-## Design Concepts
+
 
 # Solutions and Issues
 The overall result demonstrate how the secret channel between two users are build, but unfortunately with only me as the developer, it is hard to 
