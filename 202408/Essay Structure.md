@@ -278,8 +278,7 @@ To maintain the clarity and maintenance of the code, it's essential to address c
 #### Testing Plan
 We want to invite 10 users to verify the functionality, usability, and security of the Libre Chat Android application, ensuring that it meets the requirements for secure communication via the custom keyboard app. This testing plan covers the key features of the Libre Chat Android app, including key generation, key storage, encryption/decryption of messages, and overall app performance on various Android devices. 
 
-The first part would be the functionality and combability testing. It will help us to determine whether the functionality would work the same on different kinds of Android devices with different Android versions. 
-
+**First Part: Functionality and Compatibility Testing** The first stage of our testing process will focus on functionality and compatibility across a wide range of Android devices. This testing phase is crucial to ensure that the app's core features perform consistently and reliably, regardless of the device's make, model, or Android version. We will conduct thorough tests on various Android versions, from the latest updates to older, more commonly used versions, to confirm that our app maintains its functionality across all platforms. Additionally, we will test on devices with different hardware configurations, screen resolutions, and performance capabilities to identify any potential issues or incompatibilities that could affect user experience. The goal is to guarantee that every user, irrespective of their device or Android version, can fully utilize the app's features without encountering bugs or performance issues.
 The second part would be UI testing. The purpose is to test if the UI breaks on different screen sizes. 
 
 The expected testing result would be satisfying all the requirements we mentioned. 
