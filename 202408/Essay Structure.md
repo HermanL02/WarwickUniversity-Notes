@@ -73,6 +73,7 @@ The WeChat Communication Channel Build Page guides users through establishing a 
 The Secret Chat Page facilitates secure messaging by leveraging each user's public key alongside their private key. This page automates the process of sending and receiving encrypted messages, ensuring secure communication between users.
 
 ## Android
+The video demonstration can be accessed here. 
 
 # Develop Structure 
 
@@ -86,8 +87,6 @@ The underlying technology behind the WeChat injector is a sophisticated applicat
 Additionally, the injector exploits a vulnerability in SQLite3. SQLite3 is used to maintain compatibility, with its API designed for downward compatibility. The approach involves using the `sqlite3_close` function as an anchor to locate other functions, based on the assumption that their offsets will remain consistent. This method allows for the systematic identification and utilization of various SQLite3 functions by referencing their fixed offsets.
 [https://github.com/ttttupup/wxhelper]
 
-- 添加 Process to use ICA to find vulnerabilities; SQL integration
-- 
 ### General Structure
 #### MERN Stack
 In our application, the whole application is designed following the usual MERN (MongoDB, Express, React and Node) based structure. We applied this structure with an Electron based app. The similarity between MERN stack and Electron means it is possible for a single full stack developer to create, design and build the whole application without the need of knowing much about traditional Windows development tools. Both of them use Node.js as the backend and React.js as the frontend. Besides, it maintains key features as the desktop node, which means it could interact with the files to inject WeChat, create local database to save keypairs and make use of the WeChat hook, while keeping connection with the local APIs. [https://blog.logrocket.com/mern-stack-tutorial/]   [https://scientyficworld.org/mern-stack-app-with-mongodb-express-react-node/]
