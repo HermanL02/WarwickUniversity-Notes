@@ -79,9 +79,12 @@ The create user function initiates when the app starts. It will generate a secre
 ### Send Public Key [TODO PHOTO]
 ### Select Other User 
 
-### Encryption [TODO PHOTO BEFORE Encryption]      
-After click on the encyprtion message, the user could see their encrypte[TODO PHOTO AFTER Encryption]
-### Decryption [TODO PHOTO FOR DECRYPTION]
+### Encryption 
+After the user click on the encryption message, the user could see their encrypted message. 
+[TODO PHOTO BEFORE Encryption]      
+[TODO PHOTO AFTER Encryption]
+### Decryption 
+After the user click on the decryption message button, the user could see their decrypted message. [TODO PHOTO FOR DECRYPTION]
 # Develop Structure 
 
 ## Windows
