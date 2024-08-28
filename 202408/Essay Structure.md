@@ -299,7 +299,7 @@ The third one is a bug related to the plaintext. We need to put the marker befor
 ### Windows
 
 #### Testing Plan
-We want to do a complete thorough testing with another friend with no coding environment and WeChat installed. 
+We want to do a complete test for the Windows application to make sure the functionality would perform the same on different devices
 
 # Challenges and Solutions
 ##  Resolved Issues
