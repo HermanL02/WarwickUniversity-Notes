@@ -169,7 +169,7 @@ To avoid manual processes, we implemented multiple scripts to streamline the use
 #### Injection Tools
 Injection tools are initially the first step to determine if the project could succeed. Due to different devices have different hardware structures, here we could only use a generic injector that could perform the injection on different devices without letting the WeChat crash. [https://github.com/nefarius/Injector] 
 
-#### HTTP vs. TCP
+
 
 ### Front End
 On the front end, tailwind CSS is used to design the scope and to perform simple animations. 
@@ -229,7 +229,7 @@ During the development process, several issues can cause progress to stall. As a
 Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better to learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Programming Tutorial and ChatGPT. 
 
 
-## Unsolved Issues
+## Occational Issues
 ### Express Server Stall
 During the setting up of express server, there is some probability that the express server cannot receive the messages, but all other functions remain in the hook do not have any issue. 
 
