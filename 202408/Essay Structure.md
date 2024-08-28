@@ -215,7 +215,7 @@ Finally, after many attempts, I still couldn't find out why MsgID couldn't be us
 ##### Verify and try
 In order to verify his claim, I tried to build a Python flask server and another Electron express server. I watched both servers react by sending them the same JSON formatted string containing a long int, and the result was that Node.js couldn't handle the Big Integer conversion. At the same time, I used different WeChat messages again to check their status, and I found that Python could handle MsgID correctly, and the obtained MsgID could be used as WeChat files, while the Node.js server could not. 
 
-The deep reason is that JSON parse function in node.js is never designed to decode any BigInt values, the community has made a separate JSON parse designated for the large integers, which is called json-bigint. After I fully switched to this version, the issue got resolved. 
+The deep reason is that JSON parse function in node.js is never designed to decode any BigInt values, the community has made a separate JSON parse designated for the large integers, which is called json-bigint. After I fully switched to this new version of parsing algorithm, the issue got resolved. 
 
 
 ### Limited Senior Develop Resources
