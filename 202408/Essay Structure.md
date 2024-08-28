@@ -73,7 +73,7 @@ The WeChat Communication Channel Build Page guides users through establishing a 
 The Secret Chat Page facilitates secure messaging by leveraging each user's public key alongside their private key. This page automates the process of sending and receiving encrypted messages, ensuring secure communication between users.
 
 ## Android
-The video demonstration can be accessed here. 
+The video demonstration can be accessed here. [TODO Video]
 ### Create User [TODO PHOTO]
 The create user function initiates when the app starts. It will generate a secret key for both the sender and the receiver. 
 ### Send Public Key [TODO PHOTO]
