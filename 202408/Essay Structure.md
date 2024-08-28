@@ -149,7 +149,7 @@ JSON formatting helps improve the portability and compatibility of the key excha
 
 
 ##### Man in the Middle Attack
-
+The JSON file need to be 
 
 #### Anti-Update Bat
 When we study the automatic update mechanism of Wechat client, we find that its update process mainly depends on the configuration of system registry and local files. Wechat determines whether updates are needed through specific items in the registry, and saves relevant update data and patch files locally. Therefore, by manipulating these configuration items and files, you can effectively prevent the automatic update behavior of the wechat client.
