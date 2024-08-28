@@ -230,7 +230,7 @@ Another challenge is working with an unfamiliar programming language. Although I
 
 
 ## Occational Issues
-### Express Server Stall
+### Express Server and HTTP Issue
 During the setting up of express server, there is some probability that the express server cannot receive the messages, but all other functions remain in the hook do not have any issue. 
 
 
