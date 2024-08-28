@@ -335,6 +335,11 @@ The first one is about the memory. When we send message, there are some probabil
 The second one is about the history. When we send some important messages, for example the date and the events, we may need to look them back further. However, it is impossible to look back to all the hash functions and decrypt them all. 
 
 The third one is a bug related to the plaintext. We need to put the marker before the plaintext, before we encrypt the message to make sure that the plaintext  will be deleted after the encryption. This might be an extra step for the users and might be a little bit confusing. 
+
+### Windows
+
+#### Testing Plan
+We in
 # Potential Threats
 ## WXhelper Update
 The project WXhelper is maintained by community members. Although the community members are keep contributing the new versions to follow up the WeChat versions, there are some minor changes are every update to make it not fully production reliable and hard to keep consistent update. For example, the API usually update very frequently and does not have a fixed pattern. For example, the type of the API calls route changes from the numeric numbers like `/api?type = 1` to meaning based routes like `/api/hookMessages`. 
