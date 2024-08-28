@@ -147,6 +147,10 @@ OAEP was chosen as the fill mode for a number of reasons. First, OAEP mode combi
 ##### JSON Formatting
 JSON formatting helps improve the portability and compatibility of the key exchange process. By encapsulating the key and its associated metadata in a JSON object, you can ensure that the key remains consistent during transmission and storage between different systems. It provides a standardized way to represent and transmit data. Common string format is often difficult to deal with complex data structures, which easily leads to parsing errors or data loss. The structured nature of JSON format effectively avoids these problems and ensures the accuracy and reliability of key exchange.
 
+
+##### Man in the Middle Attack
+
+
 #### Anti-Update Bat
 When we study the automatic update mechanism of Wechat client, we find that its update process mainly depends on the configuration of system registry and local files. Wechat determines whether updates are needed through specific items in the registry, and saves relevant update data and patch files locally. Therefore, by manipulating these configuration items and files, you can effectively prevent the automatic update behavior of the wechat client.
 
