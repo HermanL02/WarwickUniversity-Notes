@@ -323,12 +323,12 @@ The deep reason is that JSON parse function in node.js is never designed to deco
 ### Limited Senior Develop Resources
 During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
 
-### New Language, Junior Developer
+### Programming Language Adaptation
 
 Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better to learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Programming Tutorial and ChatGPT. 
 
 
-## Occational Issues
+## Occasional Issues
 ### Express Server and HTTP Issue
 In our actual use, we found many flaws in the integration of Java programs and Express servers.
 
@@ -356,22 +356,7 @@ Also, since the RSA data length is fixed after the encryption and does not follo
 ### Deep Packet Inspection
 Deep Package inspection could be used to check the transmission of the data packages. It could identify the encryption protocols 
 
-## Multi-language
-The multi-language support is the essential requirement for an application that face both Chinese and English users. However, this proposal was considered but finally not achieved. 
-The core thing to support multi-language is to use language files, such as JSON or YAML. This contains all the strings that are translatable in the application and will be put in the separate folder to use them. 
-However, the development requires some changes on the UI. The UI design will be broke and need to be adjusted after the multi-language is deployed, which is a heavy work for an individual developer to implement. 
-Also, during the development of the public apps, even the companies' app cannot achieve the multi-language support. 
-## Multi-Platform
-### Attempts
-#### Unified Format
-Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues when facing some special characters, such as the line change character, `\n`.
 
-By adopting a unified JSON format, we were able to streamline communication between various devices, ensuring consistency in the data structure and reducing potential errors caused by language differences. This format also allowed for easier integration with other systems and tools, as JSON is a widely supported and flexible data format. The move towards JSON was a key step in ensuring that our encryption and messaging system could scale and adapt to different environments without sacrificing security or functionality.
-
-#### Key Type and Import
-We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times. The import works for the desktop version, but still doesn't work for the phone version.
-
-This feature was particularly important for maintaining a seamless user experience and is an essential factor for evaluating my project. By allowing RSA keys to be shared and imported across devices, users could avoid the hassle of managing multiple keys for different platforms. The successful implementation on the desktop version demonstrated the feasibility and benefits of this approach. However, the challenges encountered in implementing this feature on the mobile version highlighted some of the limitations and complexities involved, such as differences in operating system capabilities, file handling, and security restrictions on mobile platforms. 
 
 ## Jest Testing
 As we already discussed that testing is an essential part in the project, and Jest is a powerful testing tool for our project, but we finally only provide some simple examples and unfortunately cannot integrate it further to our project. The reasons are listed below. 
