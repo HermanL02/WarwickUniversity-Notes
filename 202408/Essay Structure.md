@@ -340,6 +340,8 @@ The third one is a bug related to the plaintext. We need to put the marker befor
 
 #### Testing Plan
 We want to do a complete thorough testing with another friend with no coding environment and WeChat installed. 
+# Unachieved Features
+
 # Potential Threats
 ## WXhelper Update
 The project WXhelper is maintained by community members. Although the community members are keep contributing the new versions to follow up the WeChat versions, there are some minor changes are every update to make it not fully production reliable and hard to keep consistent update. For example, the API usually update very frequently and does not have a fixed pattern. For example, the type of the API calls route changes from the numeric numbers like `/api?type = 1` to meaning based routes like `/api/hookMessages`. 
@@ -354,7 +356,6 @@ Also, since the RSA data length is fixed after the encryption and does not follo
 ### Deep Packet Inspection
 Deep Package inspection could be used to check the transmission of the data packages. It could identify the encryption protocols 
 
-# Unachieved Features
 ## Multi-language
 The multi-language support is the essential requirement for an application that face both Chinese and English users. However, this proposal was considered but finally not achieved. 
 The core thing to support multi-language is to use language files, such as JSON or YAML. This contains all the strings that are translatable in the application and will be put in the separate folder to use them. 
