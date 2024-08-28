@@ -304,7 +304,7 @@ We want to do a complete test for the Windows application to make sure the funct
 
 
 # Challenges and Solutions
-##  Resolved Issues
+## Resolved Issues
 ### Photo Hook
 #### Core Issue
 In this development, what bothers me the most is the hook of the picture. I tried many ways to hook encrypted images, i.e., files, but ultimately failed.
@@ -328,7 +328,7 @@ During the development process, several issues can cause progress to stall. As a
 Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better to learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Programming Tutorial and ChatGPT. 
 
 
-## Occasional Issues
+## Occasional Unresolved Issues
 ### Express Server and HTTP Issue
 In our actual use, we found many flaws in the integration of Java programs and Express servers.
 
@@ -341,6 +341,9 @@ At the same time, according to what we have learned, HTTP is an application laye
 Therefore, in the last debugging, we tried to convert the Express server into a TCP-based Netcat server as the local way to interact with wechat hook.
 
 Both the server stall situation and the Big Int issue have been observed to have improved, and although it still occasionally occurs, the likelihood has been greatly reduced.
+
+## Unachieved Features
+
 
 # Potential Threats
 ## WXhelper Update
