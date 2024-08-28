@@ -301,11 +301,10 @@ The third one is a bug related to the plaintext. We need to put the marker befor
 #### Testing Plan
 We want to do a complete thorough testing with another friend with no coding environment and WeChat installed. 
 
-# Solutions and Issues
-The overall result demonstrate how the secret channel between two users are build, but unfortunately with only me as the developer, it is hard to 
-
-## Solved Issues 
+# Challenges and Solutions
+##  Resolved Issues
 ### Photo Hook
+#### Core Issue
 In this development, what bothers me the most is the hook of the picture. I tried many ways to hook encrypted images, i.e., files, but ultimately failed.
 The first thing I checked was that there was an internal problem with the API. I looked at the wxhelper code to try to determine if there was an internal problem with the Java file, but I didn't find any problems afterwards. The API provided by the Java file returns the correct response, but there is no way to download the correct file with the MsgID. After that, I tried to use other tools, such as verifying that the result of finding call in C language is correct, but I didn't find any problems. In the end, I can only judge that there are some problems in Wechat, which lead to the MsgId cannot correspond to the files in the database, so I cannot get this picture. 
 #### Alternative Solution 
