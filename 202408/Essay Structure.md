@@ -361,7 +361,7 @@ We adopted the same RSA encryption method and settings to ensure that the genera
 This feature was particularly important for maintaining a seamless user experience and is an essential factor for evaluating my project. By allowing RSA keys to be shared and imported across devices, users could avoid the hassle of managing multiple keys for different platforms. The successful implementation on the desktop version demonstrated the feasibility and benefits of this approach. However, the challenges encountered in implementing this feature on the mobile version highlighted some of the limitations and complexities involved, such as differences in operating system capabilities, file handling, and security restrictions on mobile platforms. 
 
 ## Multiple Protocol
-
+Although I had a lot of meaningful discussions with the professor earlier, including various possible key exchange methods, including symmetric key DES, J-Pake, and the very well-known Signal key, I still did not complete the multi-key switching function in the end.
 ## Group Chat
 
 
