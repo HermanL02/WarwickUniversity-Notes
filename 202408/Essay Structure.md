@@ -231,8 +231,17 @@ Another challenge is working with an unfamiliar programming language. Although I
 
 ## Occational Issues
 ### Express Server and HTTP Issue
-During the setting up of express server, there is some probability that the express server cannot receive the messages, but all other functions remain in the hook do not have any issue. 
+In our actual use, we found many flaws in the integration of Java programs and Express servers.
 
+First, I found that the Express Server often stalls. This means that if you do not receive messages for a long time, the Express Server cannot receive the latest messages. As a result, the stability of the software is greatly affected.
+
+Second, I found that Express might filter Big Int files when receiving post requests, a conclusion I raised in the previous issue.
+
+At the same time, according to what we have learned, HTTP is an application layer protocol, and TCP is a lower-level transport layer protocol, which means that TCP is relatively more stable.
+
+Therefore, in the last debugging, we tried to convert the Express server into a TCP-based Netcat server as the local way to interact with wechat hook.
+
+Both the server stall situation and the Big Int issue have been observed to have improved, and although it still occasionally occurs, the likelihood has been greatly reduced.
 
 # Project Management
 ## Concepts Application
