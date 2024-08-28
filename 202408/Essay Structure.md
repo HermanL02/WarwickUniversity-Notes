@@ -212,11 +212,10 @@ With this in mind, I consulted other members of the Telegram Community and they 
 #### Final Solution
 Finally, after many attempts, I still couldn't find out why MsgID couldn't be used to get files. After many attempts, I posted the question again to the Telegram Community group, and this time luckily, the wxhelper writer replied and provided me with a link to his previous answer to someone else for free. His basic idea is to provide an error on Big Int Conversion, and he thinks that I may have a problem with type conversion due to Big Int. 
 
-
 ##### Verify and try
-In order to verify his claim, I tried to build a Python flask server and another Electron express server. I watched both servers react by sending them the same Jsonformatted string containing a long int, and the result was that Node.js couldn't handle the Big Int conversion. At the same time, I used different wechat messages again to check their status, and I found that Python could handle MsgID correctly, and the obtained MsgID could be used as wechat files, while the Node.js server could not.
+In order to verify his claim, I tried to build a Python flask server and another Electron express server. I watched both servers react by sending them the same JSON formatted string containing a long int, and the result was that Node.js couldn't handle the Big Int conversion. At the same time, I used different WeChat messages again to check their status, and I found that Python could handle MsgID correctly, and the obtained MsgID could be used as WeChat files, while the Node.js server could not. 
 
-After that, I modified my backend logic to try to receive a BigInt so that the Express server could handle the Message ID request correctly as well.
+The deep reason is that JSON parse function in node.js is never designed to be mathematical c
 
 
 ### Limited Senior Develop Resources
