@@ -203,46 +203,6 @@ The controllers can generate keypairs, add contact public keys, and decrypt/encr
 The front end consists of the nickname input, and a top bar consists utilizing these features. 
 
 
-# Solutions and Issues
-The overall result demonstrate how the secret channel between two users are build, but unfortunately with only me as the developer, it is hard to 
-
-## Solved Issues 
-### Photo Hook
-In this development, what bothers me the most is the hook of the picture. I tried many ways to hook encrypted images, i.e., files, but ultimately failed.
-The first thing I checked was that there was an internal problem with the API. I looked at the wxhelper code to try to determine if there was an internal problem with the Java file, but I didn't find any problems afterwards. The API provided by the Java file returns the correct response, but there is no way to download the correct file with the MsgID. After that, I tried to use other tools, such as verifying that the result of finding call in C language is correct, but I didn't find any problems. In the end, I can only judge that there are some problems in Wechat, which lead to the MsgId cannot correspond to the files in the database, so I cannot get this picture. 
-#### Alternative Solution 
-With this in mind, I consulted other members of the Telegram Community and they gave me some advice. They told me that wechat can automatically download a certain volume of files, and this file can automatically receive files sent by others. I took his advice, but I found it unstable. Receiving files under 200MB function itself is good, but it is not as good as a assured function or API. Even though I know from the message that it is downloading a file, it is not possible for me to treat it like an async function or API, that means it is impossible for me to know when will the file be finally received. I can add some error handling in the code, and create a loop and set a interval to keep checking if the local folder receives the code, but ll I can do is keep using the interval function to try to get the file, and it may cause the infinite loop to exist.
-#### Final Solution
-Finally, after many attempts, I still couldn't find out why MsgID couldn't be used to get files. After many attempts, I posted the question again to the Telegram Community group, and this time luckily, the wxhelper writer replied and provided me with a link to his previous answer to someone else for free. His basic idea is to provide an error on Big Int Conversion, and he thinks that I may have a problem with type conversion due to Big Int. 
-
-##### Verify and try
-In order to verify his claim, I tried to build a Python flask server and another Electron express server. I watched both servers react by sending them the same JSON formatted string containing a long int, and the result was that Node.js couldn't handle the Big Integer conversion. At the same time, I used different WeChat messages again to check their status, and I found that Python could handle MsgID correctly, and the obtained MsgID could be used as WeChat files, while the Node.js server could not. 
-
-The deep reason is that JSON parse function in node.js is never designed to decode any BigInt values, the community has made a separate JSON parse designated for the large integers, which is called json-bigint. After I fully switched to this new version of parsing algorithm, the issue got resolved. 
-
-
-### Limited Senior Develop Resources
-During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
-
-### New Language, Junior Developer
-
-Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better to learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Programming Tutorial and ChatGPT. 
-
-
-## Occational Issues
-### Express Server and HTTP Issue
-In our actual use, we found many flaws in the integration of Java programs and Express servers.
-
-First, I found that the Express Server often stalls. This means that if you do not receive messages for a long time, the Express Server cannot receive the latest messages. As a result, the stability of the software is greatly affected.
-
-Second, I found that Express might filter Big Int files when receiving post requests, a conclusion I raised in the previous issue.
-
-At the same time, according to what we have learned, HTTP is an application layer protocol, and TCP is a lower-level transport layer protocol, which means that TCP is relatively more stable.
-
-Therefore, in the last debugging, we tried to convert the Express server into a TCP-based Netcat server as the local way to interact with wechat hook.
-
-Both the server stall situation and the Big Int issue have been observed to have improved, and although it still occasionally occurs, the likelihood has been greatly reduced.
-
 # Project Management
 ## Concepts Application
 For the last several months, I have learned many essential software development skills and applied them to our apps. The app design concepts  are usually a foundation of the whole software development process. 
@@ -340,7 +300,46 @@ The third one is a bug related to the plaintext. We need to put the marker befor
 
 #### Testing Plan
 We want to do a complete thorough testing with another friend with no coding environment and WeChat installed. 
-# Unachieved Features
+
+# Solutions and Issues
+The overall result demonstrate how the secret channel between two users are build, but unfortunately with only me as the developer, it is hard to 
+
+## Solved Issues 
+### Photo Hook
+In this development, what bothers me the most is the hook of the picture. I tried many ways to hook encrypted images, i.e., files, but ultimately failed.
+The first thing I checked was that there was an internal problem with the API. I looked at the wxhelper code to try to determine if there was an internal problem with the Java file, but I didn't find any problems afterwards. The API provided by the Java file returns the correct response, but there is no way to download the correct file with the MsgID. After that, I tried to use other tools, such as verifying that the result of finding call in C language is correct, but I didn't find any problems. In the end, I can only judge that there are some problems in Wechat, which lead to the MsgId cannot correspond to the files in the database, so I cannot get this picture. 
+#### Alternative Solution 
+With this in mind, I consulted other members of the Telegram Community and they gave me some advice. They told me that wechat can automatically download a certain volume of files, and this file can automatically receive files sent by others. I took his advice, but I found it unstable. Receiving files under 200MB function itself is good, but it is not as good as a assured function or API. Even though I know from the message that it is downloading a file, it is not possible for me to treat it like an async function or API, that means it is impossible for me to know when will the file be finally received. I can add some error handling in the code, and create a loop and set a interval to keep checking if the local folder receives the code, but ll I can do is keep using the interval function to try to get the file, and it may cause the infinite loop to exist.
+#### Final Solution
+Finally, after many attempts, I still couldn't find out why MsgID couldn't be used to get files. After many attempts, I posted the question again to the Telegram Community group, and this time luckily, the wxhelper writer replied and provided me with a link to his previous answer to someone else for free. His basic idea is to provide an error on Big Int Conversion, and he thinks that I may have a problem with type conversion due to Big Int. 
+
+##### Verify and try
+In order to verify his claim, I tried to build a Python flask server and another Electron express server. I watched both servers react by sending them the same JSON formatted string containing a long int, and the result was that Node.js couldn't handle the Big Integer conversion. At the same time, I used different WeChat messages again to check their status, and I found that Python could handle MsgID correctly, and the obtained MsgID could be used as WeChat files, while the Node.js server could not. 
+
+The deep reason is that JSON parse function in node.js is never designed to decode any BigInt values, the community has made a separate JSON parse designated for the large integers, which is called json-bigint. After I fully switched to this new version of parsing algorithm, the issue got resolved. 
+
+
+### Limited Senior Develop Resources
+During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
+
+### New Language, Junior Developer
+
+Another challenge is working with an unfamiliar programming language. Although I am proficient in web application development using Electron, I opted to develop a keyboard app, which necessitates the use of Java-Kotlin with Android Studio due to the inadequacy of React Native for this purpose. My limited experience with Java-Kotlin adds to the difficulty. The solution would be better to learn Java and Kotlin skills from all the resources, including Stack overflow, Cainiao Programming Tutorial and ChatGPT. 
+
+
+## Occational Issues
+### Express Server and HTTP Issue
+In our actual use, we found many flaws in the integration of Java programs and Express servers.
+
+First, I found that the Express Server often stalls. This means that if you do not receive messages for a long time, the Express Server cannot receive the latest messages. As a result, the stability of the software is greatly affected.
+
+Second, I found that Express might filter Big Int files when receiving post requests, a conclusion I raised in the previous issue.
+
+At the same time, according to what we have learned, HTTP is an application layer protocol, and TCP is a lower-level transport layer protocol, which means that TCP is relatively more stable.
+
+Therefore, in the last debugging, we tried to convert the Express server into a TCP-based Netcat server as the local way to interact with wechat hook.
+
+Both the server stall situation and the Big Int issue have been observed to have improved, and although it still occasionally occurs, the likelihood has been greatly reduced.
 
 # Potential Threats
 ## WXhelper Update
