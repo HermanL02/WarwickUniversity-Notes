@@ -299,7 +299,9 @@ The third one is a bug related to the plaintext. We need to put the marker befor
 ### Windows
 
 #### Testing Plan
-We want to do a complete test for the Windows application to make sure the functionality would perform the same on different devices
+We want to do a complete test for the Windows application to make sure the functionality would perform the same on different devices. This testing plan covers the key features of the Libre Chat Windows, including two major parts. The first part is the general funct ionkey generation, key storage, encryption/decryption of messages. 
+
+
 
 # Challenges and Solutions
 ##  Resolved Issues
