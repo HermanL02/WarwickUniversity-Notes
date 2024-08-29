@@ -274,13 +274,13 @@ Developing an Electron app is similar to developing the web apps. Usually the we
 To maintain the clarity and maintenance of the code, it's essential to address common issues during coding. Therefore, in our project, I used ESLint and Prettier. ESLint helps in identifying and fixing code quality issues, while Prettier ensures consistent code formatting. By incorporating these tools into our development process, we not only make our code more readable to others but also to ourselves. As the saying goes, "Only God and I know what this code does... and sometimes even I'm not sure!" Proper formatting and linting help ensure that our code remains understandable, even as it evolves over time.
 
 ## Beta Test
-### Android
-#### Testing Plan
-We want to invite 10 users to verify the functionality, usability, and security of the Libre Chat Android application, ensuring that it meets the requirements for secure communication via the custom keyboard app. This testing plan covers the key features of the Libre Chat Android app, including key generation, key storage, encryption/decryption of messages, and overall app performance on various Android devices. 
 
 **First Part: Functionality and Compatibility Testing** The first stage of our testing process will focus on functionality and compatibility across a wide range of Android devices. This testing phase is to ensure that the app's core features perform consistently and reliably, regardless of the device's make, model, or Android version. We will conduct thorough tests on various Android versions, from the latest updates to older, more commonly used versions, to confirm that our app maintains its functionality across all platforms. Additionally, we will test on devices with different hardware configurations, screen resolutions, and performance capabilities to identify any potential issues or incompatibilities that could affect user experience. The goal is to guarantee that every user, irrespective of their device or Android version, can fully utilize the app's features without encountering bugs or performance issues.
 
 **Second Part: UI Testing** The second phase will focus on User Interface (UI) testing, where we will evaluate how the app's design and layout adapt to different screen sizes and resolutions. This stage is essential to ensure that the visual elements of the app are responsive and maintain their integrity on a variety of devices, from smaller smartphones to larger tablets. We will examine whether all UI components, including buttons, images, and text, are displayed correctly and are easy to interact with, regardless of the screen size.
+### Android
+#### Testing Plan
+We want to invite 10 users to verify the functionality, usability, and security of the Libre Chat Android application, ensuring that it meets the requirements for secure communication via the custom keyboard app. This testing plan covers the key features of the Libre Chat Android app, including key generation, key storage, encryption/decryption of messages, and overall app performance on various Android devices. 
 
 The expected testing result would be satisfying all the requirements we mentioned. 
 #### Testing Result
