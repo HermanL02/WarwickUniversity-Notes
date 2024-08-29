@@ -139,7 +139,6 @@ In practice, key formatting is an aspect that needs special attention in the pro
 
 In our project, RSA algorithm is used for key exchange, and 2048 bit length key is selected, and OAEP (Optimal Asymmetric Encryption Padding) is used. The choice was not random, but was made after careful consideration. RSA-2048 provides enough security to protect against currently known computing attacks. The key length of 2048 bits still has high security under modern computing power, and can effectively prevent brute-force attacks. In addition, OAEP filling mode is one of the widely accepted filling schemes at present, which provides the randomization of ciphertext, thus enhancing the security of ciphertext and further improving the anti-attack capability.
 ##### Algorithm and Padding
-
 RSA algorithm is widely introduced in our security course. It is an asymmetric encryption algorithm, which realizes secure communication through public key encryption and private key decryption. In RSA algorithm, the key length is a key parameter, which directly affects the security and efficiency of encryption. The RSA key length of 2048 bits has been generally accepted in modern applications to provide sufficient security while being computatively acceptable to most devices.
 
 OAEP was chosen as the fill mode for a number of reasons. First, OAEP mode combines plaintext with random numbers to generate a pseudo-random ciphertext, thus preventing attackers from inferring the original data by analyzing the ciphertext pattern. Second, the OAEP pattern also has semantic security, even in the absence of a key, the attacker cannot infer anything about the plaintext from the ciphertext. Compared with the traditional PKCS#1 v1.5 padding scheme, the OAEP padding scheme has significant security advantages, especially in the face of ciphertext analytic-based attacks.
@@ -149,7 +148,7 @@ JSON formatting helps improve the portability and compatibility of the key excha
 
 
 ##### Man in the Middle Attack
-Due to WeChat is a risky third party in our 
+Due to WeChat is a risky third party in our assumption, and we are building the channel through this WeChat middle man
 If an attacker is able to intercept and replace the RSA public key at the early stage of the public exchange. They can send their own public key to both parties communicating. This way, when Alice encrypts the key using the attacker's public key and sends it to Bob, the attacker can decrypt the message, read or modify the contents, and then encrypt it again using Bob's public key and forward it to Bob. Neither Bob nor Alice knows that there is an attacker in the middle, so this is a typical MITM attack. 
 To prevent the man in the middle attack, we decided to use a hash to encrypt the public key, so each of the user could verify their hash by using a secure channel. 
 
