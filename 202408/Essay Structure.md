@@ -370,28 +370,24 @@ We adopted the same RSA encryption method and settings to ensure that the genera
 
 This feature was particularly important for maintaining a seamless user experience and is an essential factor for evaluating my project. By allowing RSA keys to be shared and imported across devices, users could avoid the hassle of managing multiple keys for different platforms. The successful implementation on the desktop version demonstrated the feasibility and benefits of this approach. However, the challenges encountered in implementing this feature on the mobile version highlighted some of the limitations and complexities involved, such as differences in operating system capabilities, file handling, and security restrictions on mobile platforms. 
 
-## Multiple Protocol
+### Multiple Key Protocol
 Although I had a lot of meaningful discussions with the professor earlier, including various possible key exchange methods, including symmetric key DES, J-Pake, and the very well-known Signal key, I still did not complete the multi-key switching function in the end.
-## Group Chat
+### Group Chat
+## Potential Threats
 
-
-# Potential Threats
-## WXhelper Update
+### WXhelper Update
 The project WXhelper is maintained by community members. Although the community members are keep contributing the new versions to follow up the WeChat versions, there are some minor changes are every update to make it not fully production reliable and hard to keep consistent update. For example, the API usually update very frequently and does not have a fixed pattern. For example, the type of the API calls route changes from the numeric numbers like `/api?type = 1` to meaning based routes like `/api/hookMessages`. 
 It means every time they update their API, we might need to manually update it. That requires a continues distribution which this process can be interrupted by the third party.  
 
-## WeChat Major Update
-## Potential WeChat Anti-Measures
+### WeChat Major Update
+### Potential WeChat Anti-Measures
 It is possible for WeChat to block E2EE communications on WeChat. It depends on whether this worth them to do that. 
-### Entropy
+#### Entropy
 For example, the message contains encrypted messages usually have a high entropy and looks like random bit stream. WeChat could monitor the messages and identify the high entropy messages and mark them as a strong encrypted messages and may block these high entropy messages as well if they want. 
-### Length
+#### Length
 Also, since the RSA data length is fixed after the encryption and does not follow the plaintext's length to change. WeChat could also identify if the users have sent the messages of the same length. 
-### Deep Packet Inspection
+#### Deep Packet Inspection
 Deep Package inspection could be used to check the transmission of the data packages. It could identify the encryption protocols 
-
-
-
 
 
 ## Jest Testing
