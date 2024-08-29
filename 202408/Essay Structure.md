@@ -350,9 +350,7 @@ Both the server stall situation and the Big Int issue have been observed to have
 
 ### Android Encrypt Message
 
-There is a known issue that when the user is sending a message, they need to put the pointer before the plain text before click on the encryption button. The reason is because of the keyboard mechanism. It does not clean the automation after that. 
-
-
+There is a known issue that when the user is sending a message, they need to put the pointer before the plain text before click on the encryption button. The reason is because of the keyboard mechanism. It does not clean the typed characters, which means they only clean the text after the pointer. 
 
 ## Unachieved Features
 ## Multi-language
