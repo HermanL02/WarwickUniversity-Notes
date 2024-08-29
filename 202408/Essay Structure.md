@@ -281,8 +281,6 @@ To maintain the clarity and maintenance of the code, it's essential to address c
 ### Android
 #### Testing Plan
 We want to invite 10 users to verify the functionality, usability, and security of the Libre Chat Android application, ensuring that it meets the requirements for secure communication via the custom keyboard app. This testing plan covers the key features of the Libre Chat Android app, including key generation, key storage, encryption/decryption of messages, and overall app performance on various Android devices. 
-
-The expected testing result would be satisfying all the requirements we mentioned. 
 #### Testing Result
 During a long term testing, it does meet all the requirements we mentioned above regarding the UIs and the features. 
 
@@ -301,7 +299,8 @@ The third one is a bug related to the plaintext. We need to put the marker befor
 #### Testing Plan
 We want to do a complete test for the Windows application to make sure the functionality would perform the same on different devices. This testing plan covers the key features of the Libre Chat Windows, including two major parts. The first part is the general functionalities. The key generation, key storage, encryption/decryption of messages functions. The second part is the hook related functionalities, including the WeChat Injection, Server Connection, WeChat Messages Hook, WeChat Public Key Sensitivity, and Conversation Encryption and Decryption status. 
 
-#### 
+#### Testing Result
+
 
 
 ## Legal Status
