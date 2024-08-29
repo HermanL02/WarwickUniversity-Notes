@@ -148,7 +148,7 @@ JSON formatting helps improve the portability and compatibility of the key excha
 
 
 ##### Man in the Middle Attack
-Due to WeChat is a risky third party in our assumption, and we are building the channel through this WeChat middle man
+Due to WeChat is a risky third party in our assumption, and we are building the channel through this WeChat middle man we need to consider the man in the middle attack. 
 If an attacker is able to intercept and replace the RSA public key at the early stage of the public exchange. They can send their own public key to both parties communicating. This way, when Alice encrypts the key using the attacker's public key and sends it to Bob, the attacker can decrypt the message, read or modify the contents, and then encrypt it again using Bob's public key and forward it to Bob. Neither Bob nor Alice knows that there is an attacker in the middle, so this is a typical MITM attack. 
 To prevent the man in the middle attack, we decided to use a hash to encrypt the public key, so each of the user could verify their hash by using a secure channel. 
 
