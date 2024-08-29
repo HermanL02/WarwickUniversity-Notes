@@ -407,7 +407,7 @@ Finally, out of selfishness, I prefer to let my project work lose its due role. 
 
 # Acknowledgement
 
-First of all, I would like to thank Professor Hao for giving me a lot of support through such an unrealistic dissertation project that does not look like a very formal research.
+First of all, I would like to thank Dr. Hao for his support. I thought this was an informal Dissertation Project at first, but Dr. Hao gave me a lot of support to turn my very immature proposal into a very mature Dissertation Project.
 
 Secondly, I am very grateful to the wxhelper's author and its community. The author does not only provide a public method to make a WeChat hook, but also gave me a selfless tutoring to resolve the big int issue. 
 
