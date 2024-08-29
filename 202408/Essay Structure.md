@@ -373,6 +373,14 @@ This feature was particularly important for maintaining a seamless user experien
 ### Multiple Key Protocol
 Although I had a lot of meaningful discussions with the professor earlier, including various possible key exchange methods, including symmetric key DES, J-Pake, and the very well-known Signal key, I still did not complete the multi-key switching function in the end.
 ### Group Chat
+
+### Stability and Jest Testing
+As we already discussed that testing is an essential part in the project, and Jest is a powerful testing tool for our project, but we finally only provide some simple examples and unfortunately cannot integrate it further to our project. The reasons are listed below. 
+#### Data Type
+Within the project, the project content gives the Jest testing some challenges. To test with Jest, we need to simulate the real world conditions and give the expected return values to the functions. For example, if we want to test the decryption, we need to give the type of messages will receive on WeChat. However, since there are a various type of the message structures are used in the WeChat, and we cannot get the structures before we were trying in advance. It is impossible to apply a comprehensive and meaningful Jest testing. 
+#### Code Structure
+Currently, within the code, there are a lot of async operations and the APIs of the WXhelper. To configure Jest with WeChat and WXhelper, it requires a lot of additional configurations and the customizations, causing an increase in the test writing and maintenance complexity. 
+
 ## Potential Threats
 
 ### WXhelper Update
@@ -389,13 +397,6 @@ Also, since the RSA data length is fixed after the encryption and does not follo
 #### Deep Packet Inspection
 Deep Package inspection could be used to check the transmission of the data packages. It could identify the encryption protocols 
 
-
-## Jest Testing
-As we already discussed that testing is an essential part in the project, and Jest is a powerful testing tool for our project, but we finally only provide some simple examples and unfortunately cannot integrate it further to our project. The reasons are listed below. 
-### Data Type
-Within the project, the project content gives the Jest testing some challenges. To test with Jest, we need to simulate the real world conditions and give the expected return values to the functions. For example, if we want to test the decryption, we need to give the type of messages will receive on WeChat. However, since there are a various type of the message structures are used in the WeChat, and we cannot get the structures before we were trying in advance. It is impossible to apply a comprehensive and meaningful Jest testing. 
-### Code Structure
-Currently, within the code, there are a lot of async operations and the APIs of the WXhelper. To configure Jest with WeChat and WXhelper, it requires a lot of additional configurations and the customizations, causing an increase in the test writing and maintenance complexity. 
 
 # Conclusion
 In this Dissertation Project, we may not have really in-depth academic research, nor did we try to explore some undiscovered areas. Rather, it's an integration of resources, and by integrating different resources from multiple sources, we've been able to create a new product that no one else has yet created, which hopefully offers a better possibility to allow users of WeChat to have more control over their chat privacy.
