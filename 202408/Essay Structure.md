@@ -348,6 +348,10 @@ Therefore, in the last debugging, we tried to convert the Express server into a 
 
 Both the server stall situation and the Big Int issue have been observed to have improved, and although it still occasionally occurs, the likelihood has been greatly reduced.
 
+### Android Encrypt Message
+
+There is a known issue that wh
+
 ## Unachieved Features
 ## Multi-language
 The multi-language support is the essential requirement for an application that face both Chinese and English users. However, this proposal was considered but finally not achieved. 
