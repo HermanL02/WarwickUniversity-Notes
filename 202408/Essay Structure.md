@@ -353,19 +353,19 @@ Both the server stall situation and the Big Int issue have been observed to have
 There is a known issue that when the user is sending a message, they need to put the pointer before the plain text before click on the encryption button. The reason is because of the keyboard mechanism. It does not clean the typed characters, which means they only clean the text after the pointer. 
 
 ## Unachieved Features
-## Multi-language
+### Multi-language
 The multi-language support is the essential requirement for an application that face both Chinese and English users. However, this proposal was considered but finally not achieved. 
 The core thing to support multi-language is to use language files, such as JSON or YAML. This contains all the strings that are translatable in the application and will be put in the separate folder to use them. 
 However, the development requires some changes on the UI. The UI design will be broke and need to be adjusted after the multi-language is deployed, which is a heavy work for an individual developer to implement. 
 Also, during the development of the public apps, even the companies' app cannot achieve the multi-language support. 
-## Multi-Platform
-### Attempts
-#### Unified Format
+### Multi-Platform
+#### Attempts
+##### Unified Format
 Initially, we used a conventional method to read file information and messages. This approach involved extracting the corresponding RSA key by checking for keywords in the file. However, we later switched to a unified JSON message format. JSON messages facilitate the transmission of the same information across multiple devices and languages more conveniently, avoiding compatibility issues when facing some special characters, such as the line change character, `\n`.
 
 By adopting a unified JSON format, we were able to streamline communication between various devices, ensuring consistency in the data structure and reducing potential errors caused by language differences. This format also allowed for easier integration with other systems and tools, as JSON is a widely supported and flexible data format. The move towards JSON was a key step in ensuring that our encryption and messaging system could scale and adapt to different environments without sacrificing security or functionality.
 
-#### Key Type and Import
+##### Key Type and Import
 We adopted the same RSA encryption method and settings to ensure that the generated RSA keys are identical. Additionally, I designed a feature that allows the RSA key generated on the mobile device to be imported into the computer. This enhances the synchronization of keys across multiple devices, ensuring that other contacts do not need to store different public keys for different platforms multiple times. The import works for the desktop version, but still doesn't work for the phone version.
 
 This feature was particularly important for maintaining a seamless user experience and is an essential factor for evaluating my project. By allowing RSA keys to be shared and imported across devices, users could avoid the hassle of managing multiple keys for different platforms. The successful implementation on the desktop version demonstrated the feasibility and benefits of this approach. However, the challenges encountered in implementing this feature on the mobile version highlighted some of the limitations and complexities involved, such as differences in operating system capabilities, file handling, and security restrictions on mobile platforms. 
