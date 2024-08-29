@@ -149,7 +149,7 @@ JSON formatting helps improve the portability and compatibility of the key excha
 
 
 ##### Man in the Middle Attack
-The JSON file need to be 
+If an attacker is able to intercept and replace the RSA public key at the early stage of the public exchange. They can send their own public key to both parties communicating. This way, when Alice encrypts the key using the attacker's public key and sends it to Bob, the attacker can decrypt the message, read or modify the contents, and then encrypt it again using Bob's public key and forward it to Bob. Neither Bob nor Alice knows that there is an attacker in the middle, so this is a typical MITM attack.
 
 #### Anti-Update Bat
 When we study the automatic update mechanism of Wechat client, we find that its update process mainly depends on the configuration of system registry and local files. Wechat determines whether updates are needed through specific items in the registry, and saves relevant update data and patch files locally. Therefore, by manipulating these configuration items and files, you can effectively prevent the automatic update behavior of the wechat client.
