@@ -302,7 +302,12 @@ The third one is a bug related to the plaintext. We need to put the marker befor
 We want to do a complete test for the Windows application to make sure the functionality would perform the same on different devices. This testing plan covers the key features of the Libre Chat Windows, including two major parts. The first part is the general functionalities. The key generation, key storage, encryption/decryption of messages functions. The second part is the hook related functionalities, including the WeChat Injection, Server Connection, WeChat Messages Hook, WeChat Public Key Sensitivity, and 
 
 
+## Legal Status
+In China, developing end-to-end encryption software may be subject to relevant legal and regulatory restrictions. According to the regulations, if the public security authorities discover during their internet security supervision that internet service providers or connected units fail to implement measures to record and retain user registration information and internet log information, they will be subject to administrative penalties in accordance with Article 59, Paragraph 1 of the Cybersecurity Law of the People's Republic of China. This regulation is quite vague, which may be unfriendly to providers of end-to-end encryption software services.
 
+Currently, my Windows plugin does not require an internet connection; rather, it serves as a plugin for WeChat, providing corresponding services without any profit-making. Although there may still be potential legal violations, there are currently no explicit provisions prohibiting the use and distribution of such software.
+
+My Android plugin, on the other hand, needs to be distributed as an app. Although it appears to comply with relevant laws and regulations, it is still difficult to pass the review process.
 # Challenges and Solutions
 ## Resolved Issues
 ### Photo Hook
