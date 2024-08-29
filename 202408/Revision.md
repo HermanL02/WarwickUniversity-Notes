@@ -330,6 +330,5 @@ Hence: victim_PIN =  decimalised_PIN + offset
 ![[Pasted image 20240824130931.png]]
 
 
-# Bitcoin
-## Elliptic Curve Cryptography
+
 
