@@ -374,6 +374,11 @@ Both the server stall situation and the Big Int issue have been observed to have
 
 There is a known issue that when the user is sending a message, they need to put the pointer before the plain text before click on the encryption button. The reason is because of the keyboard mechanism. It does not clean the typed characters, which means they only clean the text after the pointer. 
 
+## Unresolved Major Issue
+### Build Issue
+Unfortunately, the Windows application has a major drawback, which is the build problem. 
+
+Usually, in React app, people can use React router to navigate and to do the routing. However, for 
 ## Unachieved Features
 ### Multi-language
 The multi-language support is the essential requirement for an application that face both Chinese and English users. However, this proposal was considered but finally not achieved. 
