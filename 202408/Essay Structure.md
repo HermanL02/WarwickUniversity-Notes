@@ -193,7 +193,7 @@ Injection tools are initially the first step to determine if the project could s
 ### Front End
 On the front end, tailwind CSS is used to design the scope and to perform simple animations. 
 #### UI Design
-
+The UI of the software mainly uses blue, purple, and black to provide the users a homogenius de
 #### Functionality
 React is used to make the front end componentized. 
 We applied React Context to continuously read the content and share the chat messages history among all React front end pages. It is also used to keep the front end state. It provides the injection page, encryption decryption page, and the chat page to the users. 
