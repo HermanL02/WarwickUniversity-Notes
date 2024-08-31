@@ -437,7 +437,6 @@ Finally, I would like to thank my girlfriend for her support during this process
 
 # 附录
 videosAndImages: The folder contains the screenshots and video demonstration. 
-sourceCode: The folder contains the source and the builds of the application code
-电脑端
-手机端
+sourceCode: The folder contains the source and the builds of the application. 
+server_testing.py
 Python测试
