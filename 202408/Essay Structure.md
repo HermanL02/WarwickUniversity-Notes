@@ -73,9 +73,10 @@ The WeChat Communication Channel Build Page guides users through establishing a 
 
 1. **Hook Message**: Both users must hook WeChat to prepare for secure communication. [TODO PHOTO10]
 2. **Temporary Encrypted Chat**: 
-   - The first user selects "Listen for a Temporary Encrypted Chat" after hooking WeChat. [TOD]
-   - The second user, after hooking WeChat, chooses "Start a Temporary Encrypted Chat." This action transitions the first user to the Secret Chat Page.
-3. **Key Exchange**: On the Secret Chat Page, the first user sends their key to initiate the secure chat, allowing the second user to enter the same encrypted session.
+   - The first user selects "Listen for a Temporary Encrypted Chat" after hooking WeChat. [TODO PHOTO11]
+   - The second user, after hooking WeChat, chooses "Start a Temporary Encrypted Chat." This action transitions the first user to the Secret Chat Page. [TODO PHOTO12]
+   - The first user would receive the invitation. [TODO PHOTO]
+1. **Key Exchange**: On the Secret Chat Page, the first user sends their key to initiate the secure chat, allowing the second user to enter the same encrypted session.
 
 ### Secret Chat Page[TODO PHOTO]
 
