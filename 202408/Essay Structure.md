@@ -86,7 +86,8 @@ The Secret Chat Page facilitates secure messaging by leveraging each user's publ
 - Send Image [TODO PHOTO 16]
 - Send Key WeChat view [TODO PHOTO17]
 - Send Message WeChat view [TODO PHOTO18] 
-- Send Image V
+- Send Image view [TODO PHOTO19]
+- Retrieve Image view (attached WeChat view for demonstration) [TODO PHOTO 20]
 
 ## Android
 The video demonstration can be accessed here. [TODO Video]
