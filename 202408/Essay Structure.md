@@ -436,7 +436,8 @@ Then, I would like to thank the fellow leaders at Koii Network, Syed Ghazanfer A
 Finally, I would like to thank my girlfriend for her support during this process. Many times, I stayed up late to write code after having ideas, which affected his sleep. I also appreciate her tolerance.
 
 # 附录
-videosAndImages/iles
+videosAndImages: The folder contains the screenshots and video demonstration. 
+sourceCode: The folder contains the source and the builds of the application code
 电脑端
 手机端
 Python测试
