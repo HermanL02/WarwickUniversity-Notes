@@ -199,7 +199,9 @@ React is used to make the front end componentized.
 #### React Context
 In our application, we use **React Context** to efficiently manage and share the received WeChat messages across all pages. It continuously read the content and share the chat messages history among the injection page, encryption decryption page, and the chat page to the users.  React Context provides a powerful and flexible way to propagate data through the component tree without having to pass props manually at every level. This is particularly useful for global data like WeChat messages, which need to be accessible in various components of the application. 
 
-To fulfill the requirements of this feature, we need to deploy the context. The context can create a context to provide the message status and management functions. The second part is the provider, which could have useState or useReducer to manage the message status. When the hook receives a new WeChat message, the provider will refresh the status in the context, and all the components 
+To fulfill the requirements of this feature, we need to deploy the context. The context can create a shared information to provide the message status and management functions. 
+
+We also need to set up the provider, which could provide the sub components functions, such as useState or useReducer to manage the message status. When the hook receives a new WeChat message, the provider will refresh the status in the context, and as well as pass it to all the components 
 ## Android
 
 [TODO Android Dev Chart Here]
