@@ -15,10 +15,11 @@ iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. i
 
 Thus that, we can generally consider that E2EE is widely used outside internet restricted area. 
 ## Current WeChat Encryption Measures
-According to the official website of WeChat help centre, WeChat uses TLS encryption to secure your data as it moves to and from the servers. For the static data, it uses 256 digits AES encryption. However, during this process, the encryption key is controlled by service provider, Tencent, which means it has a potential threat that Tencent has access to your information and conversation. [TODO https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&plat=1&lang=en&id=1208117b2mai1410243yyQFZ&Channel=helpcenter]
+According to the official website of WeChat help centre, WeChat uses TLS encryption to secure your data as it moves to and from the servers. For the static data, it uses 256 digits AES encryption. However, during this process, the encryption key is controlled by service provider, Tencent, which means it has a potential threat that Tencent has access to the users information and conversation. [TODO https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&plat=1&lang=en&id=1208117b2mai1410243yyQFZ&Channel=helpcenter]
 
 ## WeChat Scandal
 Above, we talked about the potential technical possibility of WeChat technology. In fact, there are already reports regarding the block and filter of messages of WeChat. It also applies the account ban on sensitive politic messages. 
+
 According to Citizen Lab of the University of Toronto, [TODO https://citizenlab.ca/2020/05/wechat-surveillance-explained/] if a message is censored, it will not notify either the sender and the recipient. For example, in this context example, a user tries to send a sensitive word Dharma Wheel, it will be shown as 'sent' on sender's side and will not be shown on recipient side. 
 For text, they use keywords to find sensitive words. For picture, they compare the whole picture with the MD5 hash value with the ones they identified as politics sensitive. In recent years, WeChat also apply the filtering with Optical character recognition(OCR). 
 
