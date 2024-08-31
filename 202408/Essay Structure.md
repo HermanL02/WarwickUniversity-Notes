@@ -39,7 +39,7 @@ Second, VPN services are essentially in violation of relevant Chinese laws and r
 
 Third, the use of VPN is not convenient. If we are always connected to VPN, some software cannot be used. For example, the access speed of government affairs software, enterprise information query software and all kinds of WeChat mini programs will become very slow. 
 
-And last, as 
+And last, as we discussed in the previous section, there are a lot of users are not capable to learn new technologies. 
 [https://nordvpn.com/blog/vpn-for-china/]     [https://www.privacyaffairs.com/are-vpns-legal-china/]     [https://www.t3.com/features/do-vpns-work-in-china-and-are-they-illegal] 
 [https://www.vpnmentor.com/blog/expressvpn-works-in-china-but-only-if-you-do-this/]
 \
