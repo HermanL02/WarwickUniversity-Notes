@@ -321,7 +321,7 @@ We want to do a complete test for the Windows application to make sure the funct
 
 #### Testing Result
 
-
+We have received a couple of feedbacks about the Express server issue and the page loading issue. These will be fixed in the future updates. 
 
 ## Legal Status
 In China, developing end-to-end encryption software may be subject to relevant legal and regulatory restrictions. According to the regulations, if the public security authorities discover during their internet security supervision that internet service providers or connected units fail to implement measures to record and retain user registration information and internet log information, they will be subject to administrative penalties in accordance with Article 59, Paragraph 1 of the Cybersecurity Law of the People's Republic of China. This regulation is quite vague, which may be unfriendly to providers of end-to-end encryption software services.
