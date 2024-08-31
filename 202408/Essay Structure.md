@@ -63,25 +63,26 @@ The Basic Function Page provides users with a foundational set of cryptographic 
 
 The WeChat Direct Message Page outlines the mandatory steps required to integrate and utilize WeChat for secure communications. Users must complete the following steps:[TODO PHOTO6]
 
-1. **WeChat Setup**: Install WeChat and add the WeChat Anti-Update Plugin.  [TODO PHOTO7]
-2. **Hook WeChat**: The page offers a crucial function to hook WeChat, enabling secure interactions. Upon completing these steps, users can proceed to the subsequent subpages. [TODO PHOTO8] 
+- **WeChat Setup**: Install WeChat and add the WeChat Anti-Update Plugin.  [TODO PHOTO7]
+- **Hook WeChat**: The page offers a crucial function to hook WeChat, enabling secure interactions. Upon completing these steps, users can proceed to the subsequent subpages. [TODO PHOTO8] 
 [TODO PHOTO9]
 
 ### WeChat Communication Channel Build Page 
 
 The WeChat Communication Channel Build Page guides users through establishing a secure communication channel within WeChat. The process involves the following steps:
 
-1. **Hook Message**: Both users must hook WeChat to prepare for secure communication. [TODO PHOTO10]
-2. **Temporary Encrypted Chat**: 
+- **Hook Message**: Both users must hook WeChat to prepare for secure communication. [TODO PHOTO10]
+- **Temporary Encrypted Chat**: 
    - The first user selects "Listen for a Temporary Encrypted Chat" after hooking WeChat. [TODO PHOTO11]
    - The second user, after hooking WeChat, chooses "Start a Temporary Encrypted Chat." This action transitions the first user to the Secret Chat Page. [TODO PHOTO12]
-1. **Key Exchange**: On the Secret Chat Page, the first user sends their key to initiate the secure chat, allowing the second user to enter the same encrypted session.[TODO PHOTO13]
+- **Key Exchange**: On the Secret Chat Page, the first user sends their key to initiate the secure chat, allowing the second user to enter the same encrypted session.[TODO PHOTO13]
 
 ### Secret Chat Page[TODO PHOTO]
 
 The Secret Chat Page facilitates secure messaging by leveraging each user's public key alongside their private key. This page automates the process of sending and receiving encrypted messages, ensuring secure communication between users. 
 
-- Display Hash Functions 
+- Display Hash Functions for the users to verify through a secure channel [TODO PHOTO 14]
+- 
 
 ## Android
 The video demonstration can be accessed here. [TODO Video]
