@@ -55,14 +55,15 @@ The whole video demonstration could be found here. [TODO YOUTUBE]
 The Basic Function Page provides users with a foundational set of cryptographic operations, allowing them to experiment with essential features. This page includes several key-related functionalities:
 
 1. **Key Operations**: Users can generate, update, copy, and paste cryptographic keys. Additionally, the page supports key import functionality. [TODO PHOTO2]
-2. **Key Storage**: Users can store and manage other users' public keys by importing them into the system.[TODO PHOTO3]
-3. **Instant Encryption/Decryption**: The page enables real-time encryption and decryption operations, utilizing others' public keys in conjunction with the user's private key.
+2. **Key Storage**: Users can store and manage other users' public keys by importing them into the system.[TODO PHOTO3] 
+[TODO PHOTO4]
+4. **Instant Encryption/Decryption**: The page enables real-time encryption and decryption operations, utilizing others' public keys in conjunction with the user's private key. [TODO PHOTO5]
 
 ### WeChat Direct Message Page [TODO PHOTO]
 
-The WeChat Direct Message Page outlines the mandatory steps required to integrate and utilize WeChat for secure communications. Users must complete the following steps:
+The WeChat Direct Message Page outlines the mandatory steps required to integrate and utilize WeChat for secure communications. Users must complete the following steps:[TODO PHOTO6]
 
-1. **WeChat Setup**: Install WeChat and add the WeChat Anti-Update Plugin.
+1. **WeChat Setup**: Install WeChat and add the WeChat Anti-Update Plugin.  [TODO PHOTO7]
 2. **Hook WeChat**: The page offers a crucial function to hook WeChat, enabling secure interactions. Upon completing these steps, users can proceed to the subsequent subpages.
 
 ### WeChat Communication Channel Build Page [TODO PHOTO]
