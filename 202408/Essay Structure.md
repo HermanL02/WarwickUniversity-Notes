@@ -54,10 +54,10 @@ The whole video demonstration could be found here. [TODO YOUTUBE]
 
 The Basic Function Page provides users with a foundational set of cryptographic operations, allowing them to experiment with essential features. This page includes several key-related functionalities:
 
-1. **Key Operations**: Users can generate, update, copy, and paste cryptographic keys. Additionally, the page supports key import functionality. [TODO PHOTO2]
-2. **Key Storage**: Users can store and manage other users' public keys by importing them into the system.[TODO PHOTO3] 
+- **Key Operations**: Users can generate, update, copy, and paste cryptographic keys. Additionally, the page supports key import functionality. [TODO PHOTO2]
+- **Key Storage**: Users can store and manage other users' public keys by importing them into the system.[TODO PHOTO3] 
 [TODO PHOTO4]
-4. **Instant Encryption/Decryption**: The page enables real-time encryption and decryption operations, utilizing others' public keys in conjunction with the user's private key. [TODO PHOTO5]
+- **Instant Encryption/Decryption**: The page enables real-time encryption and decryption operations, utilizing others' public keys in conjunction with the user's private key. [TODO PHOTO5]
 
 ### WeChat Direct Message Page [TODO PHOTO]
 
@@ -75,12 +75,13 @@ The WeChat Communication Channel Build Page guides users through establishing a 
 2. **Temporary Encrypted Chat**: 
    - The first user selects "Listen for a Temporary Encrypted Chat" after hooking WeChat. [TODO PHOTO11]
    - The second user, after hooking WeChat, chooses "Start a Temporary Encrypted Chat." This action transitions the first user to the Secret Chat Page. [TODO PHOTO12]
-   - The first user would receive the invitation. [TODO PHOTO]
-1. **Key Exchange**: On the Secret Chat Page, the first user sends their key to initiate the secure chat, allowing the second user to enter the same encrypted session.
+1. **Key Exchange**: On the Secret Chat Page, the first user sends their key to initiate the secure chat, allowing the second user to enter the same encrypted session.[TODO PHOTO13]
 
 ### Secret Chat Page[TODO PHOTO]
 
-The Secret Chat Page facilitates secure messaging by leveraging each user's public key alongside their private key. This page automates the process of sending and receiving encrypted messages, ensuring secure communication between users.
+The Secret Chat Page facilitates secure messaging by leveraging each user's public key alongside their private key. This page automates the process of sending and receiving encrypted messages, ensuring secure communication between users. 
+
+- Display Hash Functions 
 
 ## Android
 The video demonstration can be accessed here. [TODO Video]
