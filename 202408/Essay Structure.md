@@ -33,11 +33,14 @@ However, although this is a way that can temporarily avoid the filtering, with a
 ### Virtual Private Network (VPN)
 One popular practice is to use a VPN to access software outside the country to obtain end-to-end encryption. But this approach has many drawbacks.
 
-First, the security of communication between users and VPN service providers is not necessarily guaranteed. Currently, the larger VPN providers, such as NordVPN, Express VPN, are blocked by the government, and their connection speeds are slow and very unstable. Some users choose smaller VPN providers, they usually have a smoother experience, but many providers do not have relevant service qualifications, and do not have formal business registration in any country, so the risk may be greater.
+First, the security of communication between users and VPN service providers is not necessarily guaranteed. Currently, the larger VPN providers, such as NordVPN, Express VPN, are blocked by the government, and their connection speeds are slow and very unstable. Some users choose smaller VPN providers, they usually have a smoother experience, but many providers do not have relevant service qualifications, and do not have formal business registration in any country, so the risk may be greater. 
 
-Second, VPN services are essentially in violation of relevant Chinese laws and regulations. Chinese laws and regulations stipulate that only enterprises can apply for the use of international communication channels, and individuals generally have limited requirements for application and are unlikely to be approved.
+Second, VPN services are essentially in violation of relevant Chinese laws and regulations. Chinese laws and regulations stipulate that only enterprises can apply for the use of international communication channels, and individuals generally have limited requirements for application and are unlikely to be approved. 
 
-Third, the use of VPN is not convenient. If we are always connected to VPN, some software cannot be used. For example, the access speed of government affairs software, enterprise information query software and all kinds of WeChat mini programs will become very slow. [https://nordvpn.com/blog/vpn-for-china/]     [https://www.privacyaffairs.com/are-vpns-legal-china/]     [https://www.t3.com/features/do-vpns-work-in-china-and-are-they-illegal] 
+Third, the use of VPN is not convenient. If we are always connected to VPN, some software cannot be used. For example, the access speed of government affairs software, enterprise information query software and all kinds of WeChat mini programs will become very slow. 
+
+And last, as 
+[https://nordvpn.com/blog/vpn-for-china/]     [https://www.privacyaffairs.com/are-vpns-legal-china/]     [https://www.t3.com/features/do-vpns-work-in-china-and-are-they-illegal] 
 [https://www.vpnmentor.com/blog/expressvpn-works-in-china-but-only-if-you-do-this/]
 \
 ### E2EE Deprecated Solutions for WeChat
