@@ -50,12 +50,12 @@ In the past, there are some open source solutions attempt to use web version of 
 ## Windows
 
 The whole video demonstration could be found here. [TODO YOUTUBE] 
-### Basic Function Page [TODO PHOTO] 
+### Basic Function Page [TODO PHOTO 1] 
 
 The Basic Function Page provides users with a foundational set of cryptographic operations, allowing them to experiment with essential features. This page includes several key-related functionalities:
 
-1. **Key Operations**: Users can generate, update, copy, and paste cryptographic keys. Additionally, the page supports key import functionality.
-2. **Key Storage**: Users can store and manage other users' public keys by importing them into the system.
+1. **Key Operations**: Users can generate, update, copy, and paste cryptographic keys. Additionally, the page supports key import functionality. [TODO PHOTO2]
+2. **Key Storage**: Users can store and manage other users' public keys by importing them into the system.[TODO PHOTO3]
 3. **Instant Encryption/Decryption**: The page enables real-time encryption and decryption operations, utilizing others' public keys in conjunction with the user's private key.
 
 ### WeChat Direct Message Page [TODO PHOTO]
