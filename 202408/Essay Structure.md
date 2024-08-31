@@ -378,7 +378,7 @@ There is a known issue that when the user is sending a message, they need to put
 ### Build Issue
 Unfortunately, the Windows application has a major drawback, which is the build problem. 
 
-Usually, in React app, people can use React router to navigate and to do the routing. However, for 
+Usually, in React app, people can use React router to navigate and to do the routing. However, for Electron app, the React-route is usable in the development environment, but when the package is build in the production environment
 ## Unachieved Features
 ### Multi-language
 The multi-language support is the essential requirement for an application that face both Chinese and English users. However, this proposal was considered but finally not achieved. 
