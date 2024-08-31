@@ -196,10 +196,8 @@ Injection tools are initially the first step to determine if the project could s
 The UI of the software mainly uses blue, purple, and black to provide the users a homogenous design. The animations are based on simple slide animations, and we choose to use round corner rectangles as the button shape. All of the design the scope and the animations depends on the tailwind CSS and framer motion modules. 
 #### Functionality
 React is used to make the front end componentized. 
-We applied React Context to continuously read the content and share the chat messages history among all React front end pages. It is also used to keep the front end state. It provides the injection page, encryption decryption page, and the chat page to the users. 
-
 #### React Context
-In our application, we use **React Context** to efficiently manage and share the received WeChat messages across all pages. React Context provides a powerful and flexible way to propagate data through the component tree without having to pass props manually at every level. This is particularly useful for global data like WeChat messages, which need to be accessible in various components of the application. 
+In our application, we use **React Context** to efficiently manage and share the received WeChat messages across all pages. It continuously read the content and share the chat messages history among all React front end pages. It is also used to keep the front end state. It provides the injection page, encryption decryption page, and the chat page to the users.  React Context provides a powerful and flexible way to propagate data through the component tree without having to pass props manually at every level. This is particularly useful for global data like WeChat messages, which need to be accessible in various components of the application. 
 There are a few components. The first part is the context. It can create a context to provide the message status and management functions. The second part is the provider, which could have useState or useReducer to manage the message status. When the hook receives a new WeChat message, the provider will refresh the status in the context, and all the components 
 ## Android
 
