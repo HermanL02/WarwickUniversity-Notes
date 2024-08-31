@@ -193,7 +193,7 @@ Injection tools are initially the first step to determine if the project could s
 ### Front End
 
 #### UI Design
-The UI of the software mainly uses blue, purple, and black to provide the users a homogenous design. The animations are based on simple move animations, and we choose On the front end, we used tailwind CSS to design the scope and to perform simple animations. 
+The UI of the software mainly uses blue, purple, and black to provide the users a homogenous design. The animations are based on simple slide animations, and we choose to use round corner rectangles as the button shape. All of the design the scope and the animations depends on the tailwind CSS and framer motion modules. 
 #### Functionality
 React is used to make the front end componentized. 
 We applied React Context to continuously read the content and share the chat messages history among all React front end pages. It is also used to keep the front end state. It provides the injection page, encryption decryption page, and the chat page to the users. 
