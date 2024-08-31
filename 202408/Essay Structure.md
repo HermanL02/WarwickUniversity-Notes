@@ -145,7 +145,7 @@ However, this would still be a challenge for us to manage the installer size. [h
 #### Others
 During the development process, we finally choose `npm` as our package management software, because of its reliability compared to yarn. 
 
-file:// disabled for security reason. 
+For the picture and file operations, we decided to use file:// disabled for security reason. 
 
 ### Back End
 The backend maintains the communication between DB and utility tools including the WeChat installer (for people to easily install WeChat) and the Injection Tools (to make use of the WeChat hook to inject WeChat). It also provides the encryption, decryption and generate keypair function to the front end. 
