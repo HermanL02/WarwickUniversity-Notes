@@ -89,6 +89,7 @@ However, as WeChat aware of the potential use of WeChat Web version, they are fo
 
 
 # User Manual and Demonstration
+## How 
 ## Windows
 
 We provided the demo video in the attached zip file under `videosAndImages/Windows/demoVideo.mp4`.  
@@ -143,6 +144,8 @@ After the user click on the encryption message, the user could see their encrypt
 [TODO PHOTO AFTER Encryption]
 ### Decryption 
 After the user click on the decryption message button, the user could see their decrypted message. [TODO PHOTO FOR DECRYPTION]
+
+
 # Develop Structure 
 
 ## Windows
