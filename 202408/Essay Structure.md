@@ -393,10 +393,10 @@ In this development, what bothers me the most is the hook of the picture. I trie
 The first thing I checked was that there was an internal problem with the API. I looked at the wxhelper code to try to determine if there was an internal problem with the Java file, but I didn't find any problems afterwards. The API provided by the Java file returns the correct response, but there is no way to download the correct file with the MsgID. After that, I tried to use other tools, such as verifying that the result of finding call in C language is correct, but I didn't find any problems. In the end, I can only judge that there are some problems in Wechat, which lead to the MsgId cannot correspond to the files in the database, so I cannot get this picture. 
 #### Alternative Solution 
 With this in mind, I consulted other members of the Telegram Community and they gave me some advice. They told me that wechat can automatically download a certain volume of files, and this file can automatically receive files sent by others. I took his advice, but I found it unstable. Receiving files under 200MB function itself is good, but it is not as good as a assured function or API. Even though I know from the message that it is downloading a file, it is not possible for me to treat it like an async function or API, that means it is impossible for me to know when will the file be finally received. I can add some error handling in the code, and create a loop and set a interval to keep checking if the local folder receives the code, but ll I can do is keep using the interval function to try to get the file, and it may cause the infinite loop to exist. 
-#### Final Solution
+#### Solution
 Finally, after many attempts, we still couldn't find out why MsgID couldn't be used to get files. After many attempts, I posted the question again to the Telegram Community group, and this time luckily, the wxhelper writer replied and provided me with a link to his previous answer to someone else for free. His basic idea is to provide an error on Big Int Conversion, and he thinks that we may have a problem with type conversion due to Big Int. 
 
-##### Verify and try
+#### Verification of the Solution
 In order to verify his claim, I tried to build a Python flask server and another Electron express server. I watched both servers react by sending them the same JSON formatted string containing a long int, and the result was that Node.js couldn't handle the Big Integer conversion. At the same time, I used different WeChat messages again to check their status, and I found that Python could handle MsgID correctly, and the obtained MsgID could be used as WeChat files, while the Node.js server could not. 
 
 The deep reason is that JSON parse function in node.js is never designed to decode any BigInt values, the community has made a separate JSON parse designated for the large integers, which is called json-bigint. After I fully switched to this new version of parsing algorithm, the issue got resolved. 
@@ -411,9 +411,9 @@ Second, I found that Express might filter Big Int files when receiving post requ
 #### Solution
 According to what we have learned, HTTP is an application layer protocol, and TCP is a lower-level transport layer protocol. HTTP is generally stable when we deploy a web application on different platforms, but TCP is considered as as stable protocol when we want to deploy the application locally. 
 
-Therefore, in the last debugging, we tried to convert the Express server into a TCP-based Netcat server as the local way to interact with wechat hook.
+Therefore, in the last debugging, we tried to convert the Express server into a TCP-based Netcat server as the local way to interact with Wechat hook.
 
-Both the server stall situation and the Big Int issue have been observed to have improved, and although it still occasionally occurs, the likelihood has been greatly reduced.
+Both the server stall situation and the Big Int issue have been observed to have improved and got resolved. 
 ### Combine RSA and AES
 The working principle of RSA is based on the mathematical puzzle of decomposition of large integers, with the public key used for encryption and the private key for decryption. However, due to the characteristics and working mechanism of RSA algorithm, it is not suitable for directly encrypting large data such as large files or pictures. 
 #### Limit the length of RSA encrypted data
