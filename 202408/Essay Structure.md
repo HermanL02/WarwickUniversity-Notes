@@ -51,7 +51,7 @@ Censors were particularly alert to the possibility that praise for Li Keqiang co
 
 This incident mirrors the broader pattern of censorship observed with other politically sensitive events, where WeChat is used not just to block specific content but also to preemptively control the narrative around key political figures. In this case, the censorship was aimed at preventing any expression of discontent with Xi Jinping's leadership, particularly at a time when China's economy is facing significant challenges.
 
-The mass mourning for Li Keqiang, both on and offline, has been interpreted by some as a lament for the China that might have been—a China where reformist policies could have continued. This sentiment was reflected in coded language and cultural references shared by WeChat users, such as the phrase "the Yangtze and the Yellow River won’t flow backwards" and the song "Too Bad It Wasn’t You," both of which subtly criticized the current political direction under Xi Jinping.
+The mass mourning for Li Keqiang, both on and offline, has been interpreted by some as a lament for the China that might have been—a China where reformist policies could have continued. This sentiment was reflected in coded language and cultural references shared by WeChat users, such as the phrase "the Yangtze and the Yellow River won’t flow backwards" and the song "Too Bad It Wasn’t You," both of which subtly criticized the current political direction under Xi Jinping. [https://www.aljazeera.com/news/2023/10/31/chinas-censors-warn-against-effusive-comments-while-mourning-li-keqiang]
 
 ####
 
