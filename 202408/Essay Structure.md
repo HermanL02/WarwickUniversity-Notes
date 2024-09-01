@@ -249,7 +249,11 @@ Injection tools are initially the first step to determine if the project could s
 ### Front End
 
 #### UI Design
-The UI of the software mainly uses blue, purple, and black to provide the users a homogenous design. The animations are based on simple slide animations, and we choose to use round corner rectangles as the button shape. All of the design the scope and the animations depends on the tailwind CSS and framer motion modules. 
+My software UI design is based on a simple and modern aesthetic, mainly using blue, purple and black as the main colors, which provide the user with a coherent and professional visual experience. UI elements such as buttons and menus are designed with rounded corners to add softness and affinity to the interface, while also making interactive elements visually clearer.
+
+In terms of animation design, I chose simple sliding transitions to keep the interface responsive and smooth without overusing animation and avoiding distractions to the user. These animations are achieved by using the Tailwind CSS framework in conjunction with Framer Motion, ensuring smooth and refined transitions between different UI states.
+
+With the combination of Tailwind CSS and Framer Motion, I ensured that the design was not only visually pleasing, but also maintained a high level of performance. This is especially important in applications that require real-time interaction, such as chat or communication tools.
 #### React Context
 In our application, we use **React Context** to efficiently manage and share the received WeChat messages across all pages. It continuously read the content and share the chat messages history among the injection page, encryption decryption page, and the chat page to the users.  React Context provides a powerful and flexible way to propagate data through the component tree without having to pass props manually at every level. This is particularly useful for global data like WeChat messages, which need to be accessible in various components of the application. 
 
