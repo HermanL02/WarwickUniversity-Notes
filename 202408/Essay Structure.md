@@ -344,7 +344,7 @@ Open-sourcing the project will not only facilitate its longevity but also foster
 
 
 ## Tools Utilization
-## Live Debug
+### Live Debug
 Developing an Electron app is similar to developing the web apps. Usually the web apps could apply the changes of the feature instantly and directly reflect instantly on the webpage. Electron framework inherits the benefits of web development while supporting the desktop app functions with multi-platform support. 
 ### Code Formatting
 To maintain the clarity and maintenance of the code, it's essential to address common issues during coding. Therefore, in our project, I used ESLint and Prettier. ESLint helps in identifying and fixing code quality issues, while Prettier ensures consistent code formatting. By incorporating these tools into our development process, we not only make our code more readable to others but also to ourselves. As the saying goes, "Only God and I know what this code does... and sometimes even I'm not sure!" Proper formatting and linting help ensure that our code remains understandable, even as it evolves over time.
