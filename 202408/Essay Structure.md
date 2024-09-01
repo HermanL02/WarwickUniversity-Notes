@@ -400,7 +400,20 @@ Finally, after many attempts, we still couldn't find out why MsgID couldn't be u
 In order to verify his claim, I tried to build a Python flask server and another Electron express server. I watched both servers react by sending them the same JSON formatted string containing a long int, and the result was that Node.js couldn't handle the Big Integer conversion. At the same time, I used different WeChat messages again to check their status, and I found that Python could handle MsgID correctly, and the obtained MsgID could be used as WeChat files, while the Node.js server could not. 
 
 The deep reason is that JSON parse function in node.js is never designed to decode any BigInt values, the community has made a separate JSON parse designated for the large integers, which is called json-bigint. After I fully switched to this new version of parsing algorithm, the issue got resolved. 
+### Express Server and HTTP Issue
 
+#### Core Issue
+In our actual use, we found many flaws in the integration of Java programs and Express servers.
+
+First, I found that the Express Server often stalls. This means that if the usersdo not receive messages for a long time, the Express Server cannot receive the latest messages. As a result, the stability of the software is greatly affected.
+
+Second, I found that Express might filter Big Int files when receiving post requests, a conclusion I raised in the previous issue.
+
+At the same time, according to what we have learned, HTTP is an application layer protocol, and TCP is a lower-level transport layer protocol, which means that TCP is relatively more stable.
+
+Therefore, in the last debugging, we tried to convert the Express server into a TCP-based Netcat server as the local way to interact with wechat hook.
+
+Both the server stall situation and the Big Int issue have been observed to have improved, and although it still occasionally occurs, the likelihood has been greatly reduced.
 ### Combine RSA and AES
 The working principle of RSA is based on the mathematical puzzle of decomposition of large integers, with the public key used for encryption and the private key for decryption. However, due to the characteristics and working mechanism of RSA algorithm, it is not suitable for directly encrypting large data such as large files or pictures. 
 #### Limit the length of RSA encrypted data
@@ -421,18 +434,7 @@ AES encrypted images can be safely stored or transmitted.
 
 #### Overall Security
 This hybrid encryption method makes full use of the advantages of RSA and AES, not only solves the problem that RSA cannot encrypt large files, but also ensures the security of data during transmission and storage.
-### Express Server and HTTP Issue
-In our actual use, we found many flaws in the integration of Java programs and Express servers.
 
-First, I found that the Express Server often stalls. This means that if the usersdo not receive messages for a long time, the Express Server cannot receive the latest messages. As a result, the stability of the software is greatly affected.
-
-Second, I found that Express might filter Big Int files when receiving post requests, a conclusion I raised in the previous issue.
-
-At the same time, according to what we have learned, HTTP is an application layer protocol, and TCP is a lower-level transport layer protocol, which means that TCP is relatively more stable.
-
-Therefore, in the last debugging, we tried to convert the Express server into a TCP-based Netcat server as the local way to interact with wechat hook.
-
-Both the server stall situation and the Big Int issue have been observed to have improved, and although it still occasionally occurs, the likelihood has been greatly reduced.
 
 ### Limited Senior Develop Resources
 During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
