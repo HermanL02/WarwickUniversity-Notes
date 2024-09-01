@@ -89,7 +89,7 @@ However, as WeChat aware of the potential use of WeChat Web version, they are fo
 
 
 # User Manual and Demonstration
-## Operation method
+To use the app, the users need to install the 
 
 ## Windows
 
