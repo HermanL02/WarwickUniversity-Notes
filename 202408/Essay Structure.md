@@ -382,9 +382,12 @@ We have received a couple of feedbacks about the Express server issue and the pa
 ## Legal Status
 In China, developing end-to-end encryption software may be subject to relevant legal and regulatory restrictions. According to the regulations, if the public security authorities discover during their internet security supervision that internet service providers or connected units fail to implement measures to record and retain user registration information and internet log information, they will be subject to administrative penalties in accordance with Article 59, Paragraph 1 of the Cybersecurity Law of the People's Republic of China. This regulation is quite vague, which may be unfriendly to providers of end-to-end encryption software services.
 ### Windows Legal Concern
-Currently, my Windows plugin does not require an internet connection; rather, it serves as a plugin for WeChat, providing corresponding services without any profit-making. Although there may still be potential legal violations, there are currently no explicit provisions prohibiting the use and distribution of such software.
+At present, my Windows plug-in does not need to connect to the Internet, but provides corresponding services as a wechat plug-in, and does not have any profit nature. While there are still potential legal risks, there is currently no clear legal provision prohibiting the use and distribution of such software. Therefore, from the current situation, I believe that my Windows plug-in is basically in line with the current legal framework in China. 
 ### Android Legal Concern
-My Android plugin, on the other hand, needs to be distributed as an app. Although it appears to comply with relevant laws and regulations, it is still difficult to pass the review process.
+My Android plugin, on the other hand, needs to be distributed as an app. Although it appears to comply with relevant laws and regulations, it is still difficult to pass the review process. 
+
+### Overall
+To sum up, although the design of my plug-in is carried out under the premise of complying with the current laws and regulations in China, my plug-in may still face certain legal risks due to the ambiguity of legal provisions and the complexity of the relevant review mechanism. This uncertainty applies especially to applications and plug-ins that involve end-to-end encryption, especially during distribution and operations. In order to better deal with these potential legal issues, I need to keep an eye on the update of relevant laws and regulations, and adjust the functions and distribution methods of plug-ins accordingly as needed.
 # Challenges and Solutions
 ## Resolved Issues
 ### Photo Hook
