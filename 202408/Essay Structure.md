@@ -37,7 +37,13 @@ The Peng Shuai incident shows that WeChat's censorship is not just about control
 [TODO https://www.wired.com/story/peng-shuai-censorship-china/]
 
 #### Xiaobo Liu
+The censorship surrounding Liu Xiaobo's death is another stark example of how WeChat suppresses politically sensitive content. Liu Xiaobo, a Nobel Peace Prize laureate and prominent Chinese dissident, passed away in 2017 while serving a prison sentence. His death triggered a significant wave of censorship across Chinese social media platforms, including WeChat and Weibo.
 
+Citizen Lab's analysis revealed that WeChat employed extensive measures to block any discussion related to Liu Xiaobo. Messages containing his name or other sensitive terms related to his death were systematically censored. This censorship was not limited to text; images and other media related to Liu were also filtered out using advanced techniques like MD5 hash matching and Optical Character Recognition (OCR).
+
+What makes the Liu Xiaobo case particularly notable is the extent and sophistication of the censorship. WeChat did not merely block keywords but also implemented real-time monitoring and filtering of content, ensuring that any attempt to discuss or commemorate Liu Xiaobo was swiftly suppressed. The platform's censorship mechanisms worked seamlessly to prevent the spread of information, with users often unaware that their messages had been blocked.
+
+This incident underscores the broader theme of WeChat's role in maintaining the Chinese government's control over public discourse. By erasing references to Liu Xiaobo and preventing any form of collective mourning or discussion, WeChat reinforced the state's narrative and silenced dissent. The case illustrates the platform's capacity to not only censor content but also dismantle any potential for social mobilization, further isolating individuals who might challenge the government's authority.
 #### Event 3:
 
 We may observe that the people needs a solution for WeChat anti-censorship. 
