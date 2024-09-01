@@ -190,13 +190,9 @@ The alternative approach involves hosting the assets on servers located within C
 Given these considerations, I ultimately decided to embed the necessary assets directly into the installer by modifying the Electron Builder configuration. This approach, while increasing the size of the installer, guarantees that all users, regardless of their geographical location, have consistent and reliable access to the required assets. By including the assets in the installer package, I mitigate the risks associated with external dependencies and ensure that the installation process remains seamless and efficient across all user environments. 
 However, this would still be a challenge for us to manage the installer size. [https://www.electron.build/configuration/nsis.html]
 #### Package Management
-NPM (Node Package Manager) and Yarn are both package managers for JavaScript. They are used to manage dependencies in the project, which means they help you install, update, and manage the libraries and tools the project relies on. 
+NPM (Node Package Manager) and Yarn are both package managers for JavaScript. They are used to manage dependencies in the project, which means they help the developers install, update, and manage the libraries and tools the project relies on.  
 
-- **NPM** is the default package manager for Node.js. It has a large repository of packages and is widely used in the JavaScript community.
-- **Yarn** was created by Facebook as an alternative to NPM, offering faster package installations and better dependency management with features like deterministic dependency trees (ensuring consistent installs across machines).
-
-Both tools help streamline the development process by automating the handling of libraries and dependencies.
-During the development process, we finally choose `npm` as our package management software, because of its reliability compared to yarn. 
+###
 
 For the picture and file operations, we decided to use backend operations to retrieve the base64 strings instead using file:// to retrieve the photos from the front-end. The file:// retrieve feature is disabled from the React part for security concerns. 
 
