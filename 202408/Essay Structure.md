@@ -53,8 +53,14 @@ This incident mirrors the broader pattern of censorship observed with other poli
 
 The mass mourning for Li Keqiang, both on and offline, has been interpreted by some as a lament for the China that might have been—a China where reformist policies could have continued. This sentiment was reflected in coded language and cultural references shared by WeChat users, such as the phrase "the Yangtze and the Yellow River won’t flow backwards" and the song "Too Bad It Wasn’t You," both of which subtly criticized the current political direction under Xi Jinping. [https://www.aljazeera.com/news/2023/10/31/chinas-censors-warn-against-effusive-comments-while-mourning-li-keqiang]
 
+During the early stages of the COVID-19 outbreak, WeChat played a significant role in the Chinese government's efforts to control the narrative and suppress dissent. Between January 1 and January 31, 2020, WeChat was found to have censored 132 keyword combinations related to the outbreak. As the crisis deepened, the censorship intensified, with 384 new keywords being blocked between February 1 and February 15, 2020. These censored keywords included references to Chinese leaders, especially President Xi Jinping, as well as neutral mentions of government policies and responses to the epidemic in regions like Hong Kong, Taiwan, and Macau.
 
+Specific keyword combinations that were censored on WeChat included phrases like "Local authorities + Epidemic + Central (government) + Cover up" and "Wuhan + Obviously + Virus + Human-to-human transmission." These combinations reflect the government's concern about controlling any narrative that might suggest mishandling of the outbreak or criticism of the central government's response.
 
+Dr. Li Wenliang, the Wuhan doctor who first raised alarms about the virus, also became a focal point for censorship. WeChat blocked 19 keyword combinations related to Dr. Li, whose death from the virus after being reprimanded by the police for "false comments" became a symbol of the government's attempt to suppress early warnings about the outbreak.
+
+The pervasive censorship on WeChat highlights the Chinese government's strategy of maintaining social control by strictly regulating online discourse. WeChat, being an essential tool for daily life in China—used for communication, payments, booking services, and even official government announcements—became a critical platform for enforcing this control. The widespread censorship, including of non-sensitive terms, reveals the extent to which the Chinese government is willing to go to prevent any discussions that deviate from the official narrative, particularly those that could be perceived as critical of Xi Jinping or the government's handling of the pandemic.
+[https://www.bbc.com/news/world-asia-china-51732042]
 
 ####
 
