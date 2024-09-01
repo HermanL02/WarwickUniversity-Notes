@@ -402,7 +402,8 @@ In order to verify his claim, I tried to build a Python flask server and another
 The deep reason is that JSON parse function in node.js is never designed to decode any BigInt values, the community has made a separate JSON parse designated for the large integers, which is called json-bigint. After I fully switched to this new version of parsing algorithm, the issue got resolved. 
 
 ### RSA+AES
-As we know that the RSA algorithm is only used to encrypt the short data.  However, due to 
+The working principle of RSA is based on the mathematical puzzle of decomposition of large integers, with the public key used for encryption and the private key for decryption. However, due to the characteristics and working mechanism of RSA algorithm, it is not suitable for directly encrypting large data such as large files or pictures. 
+#### Limited the length of RSA
 ### Limited Senior Develop Resources
 During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
 We can reference `sourceCode/LibreChat_Windows/STUDY_NOTE.md` regarding the early stage study notes back to March, there are several errors and interesting mistakes I found there, but I don't want to modify that as that is a part of my learning process. 
