@@ -178,6 +178,9 @@ Therefore, although this feature might increase our development complexity, we s
 [https://blog.logrocket.com/handling-interprocess-communications-in-electron-applications-like-a-pro/]
 [https://blog.core.ai/blogs/secureelectron/]
 
+#### 帮我起一个标题
+
+帮我扩充这段For the picture and file operations, we decided to use backend operations to retrieve the base64 strings instead using file:// to retrieve the photos from the front-end. The file:// retrieve feature is disabled from the React part for security concerns. 
 #### Assets Management
 During the development process, since there are many additional plug-ins, including the WeChat installer, the Injection Tool, the dll and bat files, it is hard to determine where we should store these hundreds of MBs data. When considering the inclusion of additional assets into the Electron Builder installer, two primary approaches are considered and, each with distinct advantages and challenges.
 ##### GitHub Contents
@@ -192,9 +195,7 @@ However, this would still be a challenge for us to manage the installer size. [h
 #### Package Management
 NPM (Node Package Manager) and Yarn are both package managers for JavaScript. They are used to manage dependencies in the project, which means they help the developers install, update, and manage the libraries and tools the project relies on.  
 
-###
 
-For the picture and file operations, we decided to use backend operations to retrieve the base64 strings instead using file:// to retrieve the photos from the front-end. The file:// retrieve feature is disabled from the React part for security concerns. 
 
 ### Back End
 The backend maintains the communication between DB and utility tools including the WeChat installer (for people to easily install WeChat) and the Injection Tools (to make use of the WeChat hook to inject WeChat). It also provides the encryption, decryption and generate keypair function to the front end. 
