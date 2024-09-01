@@ -15,7 +15,7 @@ iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. i
 
 Thus that, we can generally consider that E2EE is widely used outside internet restricted area. 
 ## Current WeChat Encryption Measures
-According to the official website of WeChat help centre, WeChat uses TLS encryption to secure your data as it moves to and from the servers. For the static data, it uses 256 digits AES encryption. However, during this process, the encryption key is controlled by service provider, Tencent, which means it has a potential threat that Tencent has access to the users information and conversation. [TODO https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&plat=1&lang=en&id=1208117b2mai1410243yyQFZ&Channel=helpcenter]
+According to the official website of WeChat help centre, WeChat uses TLS encryption to secure the users' personal data as it moves to and from the servers. For the static data, it uses 256 digits AES encryption. However, during this process, the encryption key is controlled by service provider, Tencent, which means it has a potential threat that Tencent has access to the users information and conversation. [TODO https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&plat=1&lang=en&id=1208117b2mai1410243yyQFZ&Channel=helpcenter]
 
 ## WeChat Scandal
 Above, we talked about the potential technical exploits of WeChat encryption. In fact, there are already reports regarding the block and filter of messages of WeChat. It also applies the account ban on sensitive politic messages. 
@@ -190,7 +190,7 @@ The alternative approach involves hosting the assets on servers located within C
 Given these considerations, I ultimately decided to embed the necessary assets directly into the installer by modifying the Electron Builder configuration. This approach, while increasing the size of the installer, guarantees that all users, regardless of their geographical location, have consistent and reliable access to the required assets. By including the assets in the installer package, I mitigate the risks associated with external dependencies and ensure that the installation process remains seamless and efficient across all user environments. 
 However, this would still be a challenge for us to manage the installer size. [https://www.electron.build/configuration/nsis.html]
 #### Package Management
-NPM (Node Package Manager) and Yarn are both package managers for JavaScript. They are used to manage dependencies in your projects, which means they help you install, update, and manage the libraries and tools the project relies on. 
+NPM (Node Package Manager) and Yarn are both package managers for JavaScript. They are used to manage dependencies in the project, which means they help you install, update, and manage the libraries and tools the project relies on. 
 
 - **NPM** is the default package manager for Node.js. It has a large repository of packages and is widely used in the JavaScript community.
 - **Yarn** was created by Facebook as an alternative to NPM, offering faster package installations and better dependency management with features like deterministic dependency trees (ensuring consistent installs across machines).
@@ -413,7 +413,7 @@ Another challenge is working with an unfamiliar programming language. Although I
 ### Express Server and HTTP Issue
 In our actual use, we found many flaws in the integration of Java programs and Express servers.
 
-First, I found that the Express Server often stalls. This means that if you do not receive messages for a long time, the Express Server cannot receive the latest messages. As a result, the stability of the software is greatly affected.
+First, I found that the Express Server often stalls. This means that if the usersdo not receive messages for a long time, the Express Server cannot receive the latest messages. As a result, the stability of the software is greatly affected.
 
 Second, I found that Express might filter Big Int files when receiving post requests, a conclusion I raised in the previous issue.
 
