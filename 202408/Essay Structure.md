@@ -407,9 +407,9 @@ In our actual use, we found many flaws in the integration of Java programs and E
 
 First, I found that the Express Server often stalls. This means that if the usersdo not receive messages for a long time, the Express Server cannot receive the latest messages. As a result, the stability of the software is greatly affected.
 
-Second, I found that Express might filter Big Int files when receiving post requests, a conclusion I raised in the previous issue.
-
-At the same time, according to what we have learned, HTTP is an application layer protocol, and TCP is a lower-level transport layer protocol, which means that TCP is relatively more stable.
+Second, I found that Express might filter Big Int files when receiving post requests. 
+#### Solution
+According to what we have learned, HTTP is an application layer protocol, and TCP is a lower-level transport layer protocol. HTTP could generally be stable, but on a local machine
 
 Therefore, in the last debugging, we tried to convert the Express server into a TCP-based Netcat server as the local way to interact with wechat hook.
 
