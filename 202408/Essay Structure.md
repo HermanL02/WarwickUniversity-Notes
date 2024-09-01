@@ -29,7 +29,11 @@ In this article here, it also investigates the picture live detection is based o
 There are several cases of WeChat censorship. 
 ### Events
 #### Peng Shuai
+The Peng Shuai case is a significant example of how WeChat censorship operates, particularly in suppressing politically sensitive information. Peng Shuai, a Chinese tennis star, made a shocking accusation on social media against a former high-ranking Chinese official, Zhang Gaoli, claiming he forced her into a sexual relationship. Her post was swiftly removed from Weibo within 30 minutes, and her name was rendered unsearchable on Chinese platforms, including WeChat.
 
+This incident highlights how WeChat, under Chinese government influence, goes beyond just censoring keywords or phrases. The platform actively erases content that could damage the reputations of powerful figures and dismantles any online communities that form around such sensitive issues. In Peng Shuai’s case, discussions and hashtags supporting her were systematically removed, and even neutral terms like "tennis" were temporarily banned. This reflects the broader strategy of censorship on WeChat, where the platform not only blocks specific content but also destroys the social resources and communities that might support dissenting voices.
+
+The Peng Shuai incident shows that WeChat's censorship is not just about controlling information but also about isolating and silencing individuals who challenge the political status quo. By suppressing conversations and community support around sensitive issues, WeChat ensures that those who speak out are left without a platform, reinforcing the Chinese government's ability to maintain control over public discourse.
 [TODO https://www.wired.com/story/peng-shuai-censorship-china/]
 
 #### Event 2:
