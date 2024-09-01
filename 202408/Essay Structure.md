@@ -53,6 +53,9 @@ This incident mirrors the broader pattern of censorship observed with other poli
 
 The mass mourning for Li Keqiang, both on and offline, has been interpreted by some as a lament for the China that might have been—a China where reformist policies could have continued. This sentiment was reflected in coded language and cultural references shared by WeChat users, such as the phrase "the Yangtze and the Yellow River won’t flow backwards" and the song "Too Bad It Wasn’t You," both of which subtly criticized the current political direction under Xi Jinping. [https://www.aljazeera.com/news/2023/10/31/chinas-censors-warn-against-effusive-comments-while-mourning-li-keqiang]
 
+
+
+
 ####
 
 We may observe that the people needs a solution for WeChat anti-censorship. 
