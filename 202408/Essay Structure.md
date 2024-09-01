@@ -87,7 +87,8 @@ The project "wx_e2e" is a lightweight, web-based WeChat end-to-end encryption co
 However, as WeChat aware of the potential use of WeChat Web version, they are forcing users to switch to WeChat Desktop version. Therefore, the web version's use becomes very limited. [https://github.com/ygcaicn/wx_e2e]
 
 ### Summary
-
+Although we can see that the above approaches have helped users achieve End-to-End encryption of Wechat software to a certain extent, there are certain defects in terms of convenience and stability to prevent wechat shielding. 
+​​
 
 # User Guide
 To use the app, the users need to install the app through the executables in the build folder. 
