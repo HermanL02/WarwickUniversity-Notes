@@ -409,7 +409,7 @@ First, I found that the Express Server often stalls. This means that if the user
 
 Second, I found that Express might filter Big Int files when receiving post requests. 
 #### Solution
-According to what we have learned, HTTP is an application layer protocol, and TCP is a lower-level transport layer protocol. HTTP could generally be stable, but on a local machine
+According to what we have learned, HTTP is an application layer protocol, and TCP is a lower-level transport layer protocol. HTTP is generally stable when we deploy a web application on different platforms, but TCP is considered as as stable protocol when we want to deploy the application locally. 
 
 Therefore, in the last debugging, we tried to convert the Express server into a TCP-based Netcat server as the local way to interact with wechat hook.
 
