@@ -412,9 +412,14 @@ In order to overcome the limitation of RSA encryption length, a hybrid encryptio
 ##### RSA Encrypts the AES key
 AES is a symmetric encryption algorithm, and its key length is usually 128 bits, 192 bits, or 256 bits. In contrast, RSA encrypts the short AES key without any problems. The specific process is as follows:
 
-First, a random AES key is generated.
-The AES key is encrypted using the RSA public key. Because AES keys are short (128-bit or 256-bit), RSA encryption can be easily used without running into length limitations.
-##### AES key encrypts images
+First, we generate a random AES key is generated. Then, the AES key is encrypted using the RSA public key. Because AES keys are short (128-bit or 256-bit), RSA encryption can be easily used without running into length limitations.
+##### AES Key Encrypts Images
+Once the AES key is securely encrypted and transmitted via RSA, you can use this AES key to encrypt the image:
+
+Using the generated AES key, the entire image is symmetrically encrypted. AES is characterized by its very fast encryption speed for large files, and there is no length limit, and it can process images of any size.
+AES encrypted images can be safely stored or transmitted. 
+
+#### Overal
 ### Limited Senior Develop Resources
 During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
 We can reference `sourceCode/LibreChat_Windows/STUDY_NOTE.md` regarding the early stage study notes back to March, there are several errors and interesting mistakes I found there, but I don't want to modify that as that is a part of my learning process. 
