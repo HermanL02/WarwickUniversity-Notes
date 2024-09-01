@@ -435,7 +435,7 @@ AES encrypted images can be safely stored or transmitted.
 #### Overall Security
 This hybrid encryption method makes full use of the advantages of RSA and AES, not only solves the problem that RSA cannot encrypt large files, but also ensures the security of data during transmission and storage.
 
-### Build Issue
+### Package and Routing Issue
 Unfortunately, the Windows application has a major drawback, which is the build problem. 
 
 Usually, in React app, people can use React router to navigate and to do the routing. However, for Electron app, the React-route is usable in the development environment, but when the package is build in the production environment
