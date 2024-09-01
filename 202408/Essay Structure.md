@@ -43,7 +43,7 @@ Citizen Lab's analysis revealed that WeChat employed extensive measures to block
 
 What makes the Liu Xiaobo case particularly notable is the extent and sophistication of the censorship. WeChat did not merely block keywords but also implemented real-time monitoring and filtering of content, ensuring that any attempt to discuss or commemorate Liu Xiaobo was swiftly suppressed. The platform's censorship mechanisms worked seamlessly to prevent the spread of information, with users often unaware that their messages had been blocked.
 
-This incident underscores the broader theme of WeChat's role in maintaining the Chinese government's control over public discourse. By erasing references to Liu Xiaobo and preventing any form of collective mourning or discussion, WeChat reinforced the state's narrative and silenced dissent. The case illustrates the platform's capacity to not only censor content but also dismantle any potential for social mobilization, further isolating individuals who might challenge the government's authority.
+This incident underscores the broader theme of WeChat's role in maintaining the Chinese government's control over public discourse. By erasing references to Liu Xiaobo and preventing any form of collective mourning or discussion, WeChat reinforced the state's narrative and silenced dissent. The case illustrates the platform's capacity to not only censor content but also dismantle any potential for social mobilization, further isolating individuals who might challenge the government's authority. [https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/]
 #### Event 3:
 
 We may observe that the people needs a solution for WeChat anti-censorship. 
