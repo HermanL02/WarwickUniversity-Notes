@@ -57,7 +57,7 @@ During the early stages of the COVID-19 outbreak, WeChat played a significant ro
 Dr. Li Wenliang, the Wuhan doctor who raised early alarms about the virus, also became a focal point for censorship. WeChat blocked keyword combinations related to Dr. Li, whose death became a symbol of the government's suppression of early warnings about the outbreak.
 
 The pervasive censorship on WeChat highlights the government's strategy of maintaining social control by strictly regulating online discourse, especially regarding criticism of Xi Jinping or the government's handling of the pandemic. [[https://www.bbc.com/news/world-asia-china-51732042](https://www.bbc.com/news/world-asia-china-51732042)]
-####
+#### Summary 
 
 We may observe that the people needs a solution for WeChat anti-censorship. 
 
