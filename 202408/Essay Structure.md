@@ -37,7 +37,7 @@ This incident highlights how WeChat, under government influence, not only censor
 
 The Peng Shuai incident shows that WeChat's censorship is about isolating and silencing individuals who challenge the political status quo, reinforcing the Chinese government's control over public discourse. [TODO [https://www.wired.com/story/peng-shuai-censorship-china/](https://www.wired.com/story/peng-shuai-censorship-china/)]
 
-#### Xiaobo Liu
+##### Xiaobo Liu
 
 The censorship surrounding Liu Xiaobo's death is another stark example of how WeChat suppresses politically sensitive content. Liu Xiaobo, a Nobel Peace Prize laureate and prominent Chinese dissident, passed away in 2017 while serving a prison sentence. His death triggered a wave of censorship across Chinese social media platforms, including WeChat.
 
@@ -45,7 +45,7 @@ Citizen Lab's analysis revealed that WeChat employed extensive measures to block
 
 This incident underscores WeChat's role in maintaining the government's control over public discourse by erasing references to Liu Xiaobo and preventing any form of collective mourning or discussion, further isolating dissenting voices. [[https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/](https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/)]
 
-#### Premier and Presidents
+##### Premier and Presidents
 
 The response to the death of former Premier Li Keqiang provides another insight into WeChat's role in managing politically sensitive narratives. Following his death, the government issued strict censorship orders to monitor and suppress "overly effusive" comments that could be seen as veiled criticism of President Xi Jinping.
 
@@ -62,7 +62,7 @@ The pervasive censorship on WeChat highlights the government's strategy of maint
 
 We may observe that the people needs a solution for WeChat anti-censorship. 
 
-## Current Solutions
+## User Oriented Solutions
 ### Substitution Words
 For most of the users, they realize that there is a filtering system within WeChat, but utilizing VPN proxies is not a viable option for them. Generally, it is not ideal to cite individual cases, but I feel compelled to mention my father. He is unfamiliar with using VPNs but is acutely aware of the restrictions on free speech. He knows that these restrictions can lead to the suspension of crucial social account, WeChat. In response, he continuously avoids using sensitive words, often substituting them with alternative letters. There are many people that are similar to my father, who are struggle to learn how to use other tools, and they are struggling to choose more advanced ways to secure their communication, but the only thing they can do is to try to chat with caution. 
 
@@ -86,7 +86,7 @@ The project "wx_e2e" is a lightweight, web-based WeChat end-to-end encryption co
 
 However, as WeChat aware of the potential use of WeChat Web version, they are forcing users to switch to WeChat Desktop version. Therefore, the web version's use becomes very limited. [https://github.com/ygcaicn/wx_e2e]
 
-## Summary
+### Summary
 
 
 # User Guide
