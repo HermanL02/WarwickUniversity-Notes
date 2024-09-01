@@ -184,7 +184,9 @@ Similar to the Inter-Process Communication, we also applied the restrictions for
 
 Direct access to the file system by the file:// protocol may allow malicious code to access sensitive data or perform unauthorized operations on the system through specially crafted paths. For example, as Electron is indeed a chrome browser, the attackers may construct malicious urls to read system critical files or even, in some cases, execute arbitrary code. 
 
-To avoid this risk, we decided to disable file:// retrieval in the React section and instead get the base64 string of a file through the back end. The benefit of the back-end operation is that it allows for data processing in a more controlled environment and strict checksum filtering of user input paths. In this way, we are able to ensure that the file read operation is secure and does not accidentally expose system files or cause other potential security issues.
+To avoid this risk, we decided to disable file:// retrieval in the React section and instead get the base64 string of a file through the back end. The benefit of the back-end operation is that it allows for data processing in a more controlled environment and strict checksum filtering of user input paths. In this way, we are able to ensure that the file read operation is secure and does not accidentally expose system files or cause other potential security issues. 
+
+With this architecture, we effectively reduce security vulnerabilities in front-end code and are better protected against common Web attacks such as cross-site scripting (XSS) and path injection attacks.
 #### Assets Management
 During the development process, since there are many additional plug-ins, including the WeChat installer, the Injection Tool, the dll and bat files, it is hard to determine where we should store these hundreds of MBs data. When considering the inclusion of additional assets into the Electron Builder installer, two primary approaches are considered and, each with distinct advantages and challenges.
 ##### GitHub Contents
