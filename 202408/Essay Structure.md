@@ -250,8 +250,6 @@ Injection tools are initially the first step to determine if the project could s
 
 #### UI Design
 The UI of the software mainly uses blue, purple, and black to provide the users a homogenous design. The animations are based on simple slide animations, and we choose to use round corner rectangles as the button shape. All of the design the scope and the animations depends on the tailwind CSS and framer motion modules. 
-#### Functionality
-React is used to make the front end componentized. 
 #### React Context
 In our application, we use **React Context** to efficiently manage and share the received WeChat messages across all pages. It continuously read the content and share the chat messages history among the injection page, encryption decryption page, and the chat page to the users.  React Context provides a powerful and flexible way to propagate data through the component tree without having to pass props manually at every level. This is particularly useful for global data like WeChat messages, which need to be accessible in various components of the application. 
 
