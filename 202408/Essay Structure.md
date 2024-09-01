@@ -44,7 +44,16 @@ Citizen Lab's analysis revealed that WeChat employed extensive measures to block
 What makes the Liu Xiaobo case particularly notable is the extent and sophistication of the censorship. WeChat did not merely block keywords but also implemented real-time monitoring and filtering of content, ensuring that any attempt to discuss or commemorate Liu Xiaobo was swiftly suppressed. The platform's censorship mechanisms worked seamlessly to prevent the spread of information, with users often unaware that their messages had been blocked.
 
 This incident underscores the broader theme of WeChat's role in maintaining the Chinese government's control over public discourse. By erasing references to Liu Xiaobo and preventing any form of collective mourning or discussion, WeChat reinforced the state's narrative and silenced dissent. The case illustrates the platform's capacity to not only censor content but also dismantle any potential for social mobilization, further isolating individuals who might challenge the government's authority. [https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/]
-#### Event 3:
+#### Premier and Presidents
+The response to the death of Li Keqiang, a former Chinese Premier, provides another insight into how WeChat is used to manage politically sensitive narratives. Following his sudden death, the Chinese government issued strict censorship orders to media and government WeChat accounts, emphasizing the need to monitor and suppress "overly effusive" comments that could be seen as veiled criticism of President Xi Jinping.
+
+Censors were particularly alert to the possibility that praise for Li Keqiang could be a subtle way to criticize Xi, especially given Li's reputation as a pro-reform leader. Instructions were given to report on Li's death only through state-run media outlets like Xinhua, CCTV, and the People's Daily, and to carefully monitor comment sections for any content that might undermine the official narrative.
+
+This incident mirrors the broader pattern of censorship observed with other politically sensitive events, where WeChat is used not just to block specific content but also to preemptively control the narrative around key political figures. In this case, the censorship was aimed at preventing any expression of discontent with Xi Jinping's leadership, particularly at a time when China's economy is facing significant challenges.
+
+The mass mourning for Li Keqiang, both on and offline, has been interpreted by some as a lament for the China that might have been—a China where reformist policies could have continued. This sentiment was reflected in coded language and cultural references shared by WeChat users, such as the phrase "the Yangtze and the Yellow River won’t flow backwards" and the song "Too Bad It Wasn’t You," both of which subtly criticized the current political direction under Xi Jinping.
+
+####
 
 We may observe that the people needs a solution for WeChat anti-censorship. 
 
