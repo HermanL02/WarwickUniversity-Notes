@@ -91,7 +91,7 @@ However, as WeChat aware of the potential use of WeChat Web version, they are fo
 # User Manual and Demonstration
 ## Windows
 
-We provide. [TODO YOUTUBE] 
+We provided the demo video in the attached zip file under videosAndImages/Windows/. [TODO YOUTUBE] 
 ### Basic Function Page [TODO PHOTO 1] 
 
 The Basic Function Page provides users with a foundational set of cryptographic operations, allowing them to experiment with essential features. This page includes several key-related functionalities:
