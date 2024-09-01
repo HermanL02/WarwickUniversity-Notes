@@ -83,7 +83,7 @@ And last, as we discussed in the previous section, there are a lot of users are 
 ### E2EE Deprecated Solutions for WeChat
 The project "wx_e2e" is a lightweight, web-based WeChat end-to-end encryption communication tool designed to enhance user privacy. It encrypts messages sent through WeChat's web version, ensuring that only the intended recipients can read them. The tool can be implemented either by installing a browser extension (via Tampermonkey) or by directly running the provided JavaScript code in the browser's console. 
 
-In the past, there are some open source solutions attempt to use web version of WeChat to intercept the messages. It avoids the complexity of reverse engineering. However, as WeChat aware of the potential use of WeChat Web version, they are forcing users to switch to WeChat Desktop version. Therefore, the web version's use becomes very limited. [https://github.com/ygcaicn/wx_e2e]
+However, as WeChat aware of the potential use of WeChat Web version, they are forcing users to switch to WeChat Desktop version. Therefore, the web version's use becomes very limited. [https://github.com/ygcaicn/wx_e2e]
 
 ## Summary
 
