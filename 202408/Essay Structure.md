@@ -443,9 +443,9 @@ When packaging a React project within an Electron application, we encounter the 
 ##### Investigation
 In a standard web environment, React's `BrowserRouter` manages dynamic routes by interacting directly with the browser's history API. However, after packaging a React application into an Electron app, the browser-like environment changes. Electron does not inherently support the dynamic path management provided by `BrowserRouter`, leading to routes that might work during development but fail post-packaging. 
 ##### Hash Router
-To resolve this issue, it's recommended to replace `BrowserRouter` with `HashRouter` in the React application. Unlike `BrowserRouter`, `HashRouter` uses the URL's hash portion (the part after `#`) to simulate different routes. This approach is more compatible with Electron's file-based navigation system, ensuring that routes like `/WeChatOperation` function correctly even after the app is packaged.
+To resolve this issue, we replace `BrowserRouter` with `HashRouter` in the React application. Unlike `BrowserRouter`, `HashRouter` uses the URL's hash portion (the part after `#`) to simulate different routes. This approach is more compatible with Electron's file-based navigation system, ensuring that routes like `/WeChatOperation` function correctly even after the app is packaged.
 
-Usually, in React app, people can use React router to navigate and to do the routing. However, for Electron app, the React-route is usable in the development environment, but when the package is build in the production environment. 
+Usually, in React app, we can use React router to navigate and to do the routing. However, for Electron app, the React-route is usable in the development environment, but when the package is build in the production environment. 
 
 Switching from `BrowserRouter` to `HashRouter` is a straightforward yet effective solution for addressing routing issues in Electron applications. This adjustment ensures that React routes are handled correctly within the unique context of Electron, providing a seamless user experience across all environments.
 ### Personal Challenges
