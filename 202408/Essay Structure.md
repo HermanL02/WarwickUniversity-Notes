@@ -89,7 +89,8 @@ However, as WeChat aware of the potential use of WeChat Web version, they are fo
 
 
 # User Guide
-To use the app, the users need to install the app through the executables in the build folder. In the case if the Windows version is not working as expected, the user can also use `yarn&&yarn start` in a node.js environment. 
+To use the app, the users need to install the app through the executables in the build folder. 
+In the case if the Windows version is not working as expected, the user can also use `yarn&&yarn start` in a node.js environment. 
 
 ## Windows
 
