@@ -178,9 +178,9 @@ Therefore, although this feature might increase our development complexity, we s
 [https://blog.logrocket.com/handling-interprocess-communications-in-electron-applications-like-a-pro/]
 [https://blog.core.ai/blogs/secureelectron/]
 
-#### 帮我起一个标题
+#### File:// Protocol Restriction
 
-帮我扩充这段For the picture and file operations, we decided to use backend operations to retrieve the base64 strings instead using file:// to retrieve the photos from the front-end. The file:// retrieve feature is disabled from the React part for security concerns. 
+Similar to the Inter-Process Communication, For the picture and file operations, we decided to use backend operations to retrieve the base64 strings instead using file:// to retrieve the photos from the front-end. The file:// retrieve feature is disabled from the React part for security concerns. 
 #### Assets Management
 During the development process, since there are many additional plug-ins, including the WeChat installer, the Injection Tool, the dll and bat files, it is hard to determine where we should store these hundreds of MBs data. When considering the inclusion of additional assets into the Electron Builder installer, two primary approaches are considered and, each with distinct advantages and challenges.
 ##### GitHub Contents
