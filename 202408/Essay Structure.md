@@ -435,7 +435,10 @@ AES encrypted images can be safely stored or transmitted.
 #### Overall Security
 This hybrid encryption method makes full use of the advantages of RSA and AES, not only solves the problem that RSA cannot encrypt large files, but also ensures the security of data during transmission and storage.
 
+### Build Issue
+Unfortunately, the Windows application has a major drawback, which is the build problem. 
 
+Usually, in React app, people can use React router to navigate and to do the routing. However, for Electron app, the React-route is usable in the development environment, but when the package is build in the production environment
 ### Limited Senior Develop Resources
 During the development process, several issues can cause progress to stall. As a junior developer, encountering specific problems often leads to confusion and difficulty in finding solutions. While resources such as Stack Overflow and ChatGPT provide some assistance, they cannot fully replace the guidance of senior developers. This project’s complexity, involving the integration of front-end, back-end, and an injector, poses significant challenges. The solution of this would be better to improve myself, during the past 4-month work at Koii Network, I have learned a lot of Electron development skills . 
 We can reference `sourceCode/LibreChat_Windows/STUDY_NOTE.md` regarding the early stage study notes back to March, there are several errors and interesting mistakes I found there, but I don't want to modify that as that is a part of my learning process. 
@@ -451,11 +454,8 @@ Another challenge is working with an unfamiliar programming language. Although I
 
 There is a known issue that when the user is sending a message, they need to put the pointer before the plain text before click on the encryption button. The reason is because of the keyboard mechanism. It does not clean the typed characters, which means they only clean the text after the pointer. 
 
-## Unresolved Major Issue
-### Build Issue
-Unfortunately, the Windows application has a major drawback, which is the build problem. 
 
-Usually, in React app, people can use React router to navigate and to do the routing. However, for Electron app, the React-route is usable in the development environment, but when the package is build in the production environment
+
 ## Unachieved Features
 ### Multi-language
 The multi-language support is the essential requirement for an application that face both Chinese and English users. However, this proposal was considered but finally not achieved. 
