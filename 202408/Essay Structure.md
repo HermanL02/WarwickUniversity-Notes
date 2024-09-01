@@ -20,12 +20,13 @@ According to the official website of WeChat help centre, WeChat uses TLS encrypt
 ## WeChat Scandal
 Above, we talked about the potential technical possibility of WeChat technology. In fact, there are already reports regarding the block and filter of messages of WeChat. It also applies the account ban on sensitive politic messages. 
 
-According to Citizen Lab of the University of Toronto, [TODO https://citizenlab.ca/2020/05/wechat-surveillance-explained/] if a message is censored, it will not notify either the sender and the recipient. For example, in this context example, a user tries to send a sensitive word Dharma Wheel, it will be shown as 'sent' on sender's side and will not be shown on recipient side. 
+According to Citizen Lab of the University of Toronto, if a message is censored, it will not notify either the sender and the recipient. For example, in this context example, a user tries to send a sensitive word Dharma Wheel, it will be shown as 'sent' on sender's side and will not be shown on recipient side. [TODO https://citizenlab.ca/2020/05/wechat-surveillance-explained/]
 For text, they use keywords to find sensitive words. For picture, they compare the whole picture with the MD5 hash value with the ones they identified as politics sensitive. In recent years, WeChat also apply the filtering with Optical character recognition(OCR). 
 
-There are several cases of WeChat cenco
+There are several cases of WeChat censorship. 
 ### Peng Shuai
 
+[TODO https://www.wired.com/story/peng-shuai-censorship-china/]
 
 ### Event 2:
 
