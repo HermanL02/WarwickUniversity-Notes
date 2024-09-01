@@ -180,7 +180,7 @@ Therefore, although this feature might increase our development complexity, we s
 
 #### File:// Protocol Restriction
 
-Similar to the Inter-Process Communication, we also applied the restrictions for the React front end. Usually, Electron applications are allowed to use file:// protocol to load the resources directly from the file system, for example the files and the photos. How
+Similar to the Inter-Process Communication, we also applied the restrictions for the React front end. Usually, Electron applications are allowed to use file:// protocol to load the resources directly from the file system, for example the files and the photos. However, this operation could have potential safety issues, especially when it operates the user provided paths, it could exploits the sensitive files in the system and could suffer from the path injection attacks. 
 #### Assets Management
 During the development process, since there are many additional plug-ins, including the WeChat installer, the Injection Tool, the dll and bat files, it is hard to determine where we should store these hundreds of MBs data. When considering the inclusion of additional assets into the Electron Builder installer, two primary approaches are considered and, each with distinct advantages and challenges.
 ##### GitHub Contents
