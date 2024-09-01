@@ -14,7 +14,7 @@ There are four properties are used to ensure the messaging is secure, which are 
 iMessage, WhatsApp and Zoom provides a default E2EE or provides a E2EE option. iMessage uses PQ3 protocol, WhatsApp and Signal uses Signal protocol. Telegram uses MTProto Protocol. Proton Mail uses RSA protocol. [TODO PDF Ref1]
 
 Thus that, we can generally consider that E2EE is widely used outside internet restricted area. 
-## WeChat Measures on Chat
+## WeChat Chat Security Measures
 ### WeChat Encryption Solution
 According to the official website of WeChat help centre, WeChat uses TLS encryption to secure the users' personal data as it moves to and from the servers. For the static data, it uses 256 digits AES encryption. However, during this process, the encryption key is controlled by service provider, Tencent, which means it has a potential threat that Tencent has access to the users information and conversation. [TODO https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&plat=1&lang=en&id=1208117b2mai1410243yyQFZ&Channel=helpcenter]
 
@@ -87,7 +87,9 @@ The project "wx_e2e" is a lightweight, web-based WeChat end-to-end encryption co
 However, as WeChat aware of the potential use of WeChat Web version, they are forcing users to switch to WeChat Desktop version. Therefore, the web version's use becomes very limited. [https://github.com/ygcaicn/wx_e2e]
 
 ### Summary
-Although we can see that the above approaches have helped users achieve End-to-End encryption of Wechat software to a certain extent, there are certain defects in terms of convenience and stability to prevent wechat shielding. 
+Many WeChat users, including those like my father who are not tech-savvy, often resort to substituting sensitive words to avoid censorship. However, with the advancements in AI and keyword filtering, even these substitutions are becoming less effective. While using VPNs is another option, it has significant drawbacks, including security risks, legal issues, and inconvenience, making it an impractical solution for many users. Additionally, previous attempts at implementing end-to-end encryption (E2EE) on WeChat, such as the "wx_e2e" tool, have been largely rendered ineffective due to WeChat's limitations on the web version.
+
+These challenges highlight the necessity of designing a new, more robust E2EE solution for WeChat that addresses the current limitations in user accessibility, stability, and convenience.
 ​​
 
 # User Guide
