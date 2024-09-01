@@ -89,7 +89,8 @@ However, as WeChat aware of the potential use of WeChat Web version, they are fo
 
 
 # User Manual and Demonstration
-## How 
+## Operation method
+
 ## Windows
 
 We provided the demo video in the attached zip file under `videosAndImages/Windows/demoVideo.mp4`.  
