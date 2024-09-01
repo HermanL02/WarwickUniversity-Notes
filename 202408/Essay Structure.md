@@ -436,7 +436,9 @@ AES encrypted images can be safely stored or transmitted.
 This hybrid encryption method makes full use of the advantages of RSA and AES, not only solves the problem that RSA cannot encrypt large files, but also ensures the security of data during transmission and storage.
 
 ### Package and Routing Issue
-#### Core
+#### Core Issue
+When packaging a React project within an Electron application, we encounter the issues that certain routes, such as `<Route path="/WeChatOperation" element={<WeChatOperation />} />`, fail to function as expected. 
+
 
 Usually, in React app, people can use React router to navigate and to do the routing. However, for Electron app, the React-route is usable in the development environment, but when the package is build in the production environment
 ### Personal Challenges
