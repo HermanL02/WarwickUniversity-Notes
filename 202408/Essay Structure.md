@@ -39,21 +39,9 @@ The censorship surrounding Liu Xiaobo's death is another stark example of how We
 
 Citizen Lab's analysis revealed that WeChat employed extensive measures to block discussions related to Liu Xiaobo, including text, images, and other media. The platform used real-time monitoring and filtering to prevent the spread of information, ensuring that any attempt to discuss or commemorate Liu Xiaobo was swiftly suppressed.
 
-This incident underscores WeChat's role in maintaining the government's control over public discourse by erasing references to Liu Xiaobo and preventing any form of collective mourning or discussion, further isolating dissenting voices. [[https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/](https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/)]
+[[https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/](https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/)]
 
-##### Premier and Presidents
 
-The response to the death of former Premier Li Keqiang provides another insight into WeChat's role in managing politically sensitive narratives. Following his death, the government issued strict censorship orders to monitor and suppress "overly effusive" comments that could be seen as veiled criticism of President Xi Jinping.
-
-Censors were particularly alert to the possibility that praise for Li Keqiang could subtly criticize Xi, especially given Li's reputation as a pro-reform leader. Instructions were given to report on Li's death only through state-run media and to carefully monitor comment sections for content that might undermine the official narrative.
-
-The mass mourning for Li Keqiang has been interpreted by some as a lament for a China where reformist policies could have continued. This sentiment was reflected in coded language and cultural references shared by WeChat users, subtly criticizing the current political direction under Xi Jinping. [[https://www.aljazeera.com/news/2023/10/31/chinas-censors-warn-against-effusive-comments-while-mourning-li-keqiang](https://www.aljazeera.com/news/2023/10/31/chinas-censors-warn-against-effusive-comments-while-mourning-li-keqiang)]
-
-During the early stages of the COVID-19 outbreak, WeChat played a significant role in the government's efforts to control the narrative and suppress dissent. WeChat censored hundreds of keyword combinations related to the outbreak, including references to Chinese leaders and government policies. This censorship reflected the government's concern about controlling narratives that might suggest mishandling of the outbreak or criticism of the central government's response.
-
-Dr. Li Wenliang, the Wuhan doctor who raised early alarms about the virus, also became a focal point for censorship. WeChat blocked keyword combinations related to Dr. Li, whose death became a symbol of the government's suppression of early warnings about the outbreak.
-
-The pervasive censorship on WeChat highlights the government's strategy of maintaining social control by strictly regulating online discourse, especially regarding criticism of Xi Jinping or the government's handling of the pandemic. [[https://www.bbc.com/news/world-asia-china-51732042](https://www.bbc.com/news/world-asia-china-51732042)]
 #### Summary 
 
 WeChat's encryption measures, while providing some level of security, ultimately allow Tencent—and by extension, the Chinese government—access to user data and conversations. Numerous reports and investigations, such as those from Citizen Lab, have exposed WeChat's extensive censorship practices, where messages containing politically sensitive content are blocked or filtered without user knowledge. High-profile cases like those of Peng Shuai, Liu Xiaobo, and the handling of Li Keqiang's death underscore the platform's role in silencing dissent and controlling public discourse.
