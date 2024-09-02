@@ -34,8 +34,7 @@ The Peng Shuai case is a significant example of how WeChat censorship suppresses
 
 This incident highlights how WeChat, under government influence, not only censors keywords but also erases content that could damage the reputations of powerful figures. In Peng Shuai’s case, discussions and hashtags supporting her were systematically removed, and even neutral terms like "tennis" were temporarily banned. This reflects a broader strategy where WeChat blocks content and dismantles online communities that could support dissenting voices.
 
-The Peng Shuai incident shows that WeChat's censorship is about isolating and silencing individuals who challenge the political status quo, reinforcing the Chinese government's control over public discourse. [TODO [https://www.wired.com/story/peng-shuai-censorship-china/](https://www.wired.com/story/peng-shuai-censorship-china/)]
-
+The Peng Shuai incident shows that WeChat's censorship is about isolating and silencing individuals who challenge the political status quo, reinforcing the Chinese government's control over public discourse. 
 ##### Xiaobo Liu
 
 The censorship surrounding Liu Xiaobo's death is another stark example of how WeChat suppresses politically sensitive content. Liu Xiaobo, a Nobel Peace Prize laureate and prominent Chinese dissident, passed away in 2017 while serving a prison sentence. His death triggered a wave of censorship across Chinese social media platforms, including WeChat.
