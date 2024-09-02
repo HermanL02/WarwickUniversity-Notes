@@ -142,7 +142,7 @@ The video demonstration can be accessed here. [TODO Video]
 ### Create User [TODO PHOTO]
 The create user function initiates when the app starts. It will generate a secret key for both the sender and the receiver. 
 ### Send Public Key [TODO PHOTO]
-### Select Other User [TODO PHOTO]
+### Select User [TODO PHOTO]
 ### Encryption 
 After the user click on the encryption message, the user could see their encrypted message. 
 [TODO PHOTO BEFORE Encryption]      
