@@ -11,9 +11,11 @@
             "id": "55a151eb8ec965a6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240825210453.png"
+                "file": "202408/Essay Structure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240825210453.png",
+                "file": "202408/Essay Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240825210453.png",
+                "file": "202408/Essay Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240825210453.png"
+                "file": "202408/Essay Structure.md"
               }
             }
           },
@@ -170,8 +172,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cf8aadadb8b82695",
+  "active": "55a151eb8ec965a6",
   "lastOpenFiles": [
+    "Pasted image 20240825210453.png",
     "202408/Essay Structure.md",
     "visa/feb.md",
     "visa/Nice_Dec_25_28.md",
@@ -182,7 +185,6 @@
     "202408/期末卷子复习.md",
     "202406/Interim Report.md",
     "Pasted image 20240827023802.png",
-    "Pasted image 20240825210453.png",
     "Pasted image 20240825210317.png",
     "Pasted image 20240824130931.png",
     "Pasted image 20240818230749.png",
@@ -218,7 +220,6 @@
     "Excalidraw/Drawing 2024-01-20 22.26.38.excalidraw.md",
     "Dissertation Structure.md",
     "202401",
-    "202309/Sry.md",
     "visa",
     "程柏淳"
   ]
