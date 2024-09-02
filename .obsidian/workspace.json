@@ -11,9 +11,11 @@
             "id": "55a151eb8ec965a6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240825210233.png"
+                "file": "202408/Essay Structure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240825210233.png",
+                "file": "202408/Essay Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240825210233.png",
+                "file": "202408/Essay Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240825210233.png"
+                "file": "202408/Essay Structure.md"
               }
             }
           },
@@ -169,8 +171,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cf8aadadb8b82695",
+  "active": "55a151eb8ec965a6",
   "lastOpenFiles": [
+    "visa/feb.md",
+    "visa/Nice_Dec_25_28.md",
+    "Pasted image 20240825210233.png",
     "202408/Essay Structure.md",
     "202406/PDF Ref1.pdf",
     "202408/ISSUES.md",
@@ -180,7 +185,6 @@
     "Pasted image 20240827023802.png",
     "Pasted image 20240825210453.png",
     "Pasted image 20240825210317.png",
-    "Pasted image 20240825210233.png",
     "Pasted image 20240824130931.png",
     "Pasted image 20240818230749.png",
     "Pasted image 20240818230741.png",
@@ -201,7 +205,6 @@
     "Excalidraw/Drawing 2024-05-08 00.20.06.excalidraw.md",
     "202404",
     "Koii/Task whitelisted.md",
-    "visa/feb.md",
     "202402/Research Proposal.md",
     "Koii",
     "未命名.canvas",
