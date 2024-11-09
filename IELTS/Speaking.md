@@ -3,7 +3,7 @@
 快乐活动/远距离步行/愉悦的公共交通之旅
 - **形容自然景色**：breathtaking scenery, crystal-clear lake
 - **野生动植物**：wildlife, birdwatching, deer, squirrels
-- **感受**：rejuvenated, relaxed, in awe of nature, a sense of tranquility
+- **感受**：relaxed,  a sense of tranquility
 - **活动**：hiking, trekking, birdwatching, taking photographs, having a picnic
 
 
