@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202408/Essay Structure.md",
+                "file": "IELTS/Speaking.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202408/Essay Structure.md",
+                "file": "IELTS/Speaking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202408/Essay Structure.md",
+                "file": "IELTS/Speaking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202408/Essay Structure.md"
+                "file": "IELTS/Speaking.md"
               }
             }
           },
@@ -174,8 +174,14 @@
   },
   "active": "55a151eb8ec965a6",
   "lastOpenFiles": [
-    "Pasted image 20240825210453.png",
+    "Pasted image 20231116102320.png",
+    "IELTS/Speaking.md",
+    "IELTS",
+    "未命名 1.md",
+    "未命名 2.canvas",
     "202408/Essay Structure.md",
+    "未命名.md",
+    "Pasted image 20240825210453.png",
     "visa/feb.md",
     "visa/Nice_Dec_25_28.md",
     "Pasted image 20240825210233.png",
@@ -194,7 +200,6 @@
     "CS915 Revision.md",
     "202309/Lab 6.md",
     "Pasted image 20240812224721.png",
-    "Pasted image 20240812215646.png",
     "202409",
     "202404/CS932 2023 Exam Review.md",
     "202408",
@@ -209,18 +214,13 @@
     "202402/Research Proposal.md",
     "Koii",
     "未命名.canvas",
-    "未命名 2.canvas",
     "未命名 1.canvas",
     "202309/Essay.md",
-    "未命名 1.md",
     "202402",
     "202401/Script_Eng.md",
     "202401/PPT.md",
     "202401/Script.md",
-    "Excalidraw/Drawing 2024-01-20 22.26.38.excalidraw.md",
-    "Dissertation Structure.md",
     "202401",
-    "visa",
-    "程柏淳"
+    "visa"
   ]
 }
