@@ -2,7 +2,7 @@
 去过的乡村/安静的地方/有趣的城市/一个去过的新地方/河湖/公园花园/喜欢和亲友去的地方/看到野生动物的地方/宜居之城/和朋友去的有趣地方/自然之地/少人去的景点/经常拍照的地方
 快乐活动/远距离步行/愉悦的公共交通之旅
 - **形容自然景色**：breathtaking scenery, crystal-clear lake
-- **野生动植物**：wildlife, birdwatching, deer, squirrels
+- **野生动植物**：wildlife, deer, squirrels
 - **感受**：relaxed,  a sense of tranquility
 - **活动**：hiking, trekking, birdwatching, taking photographs, having a picnic
 
